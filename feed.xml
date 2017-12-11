@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2017-12-10T12:10:00+00:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Hypothesis driven design</title>
+    <link rel="alternate" href="http://blog.url.com/2017/12/10/hypothesis-driven-design.html"/>
+    <id>http://blog.url.com/2017/12/10/hypothesis-driven-design.html</id>
+    <published>2017-12-10T12:10:00+00:00</published>
+    <updated>2017-12-11T06:42:28+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;It's important as a designer to be able to explain everything about your design. The intent, constraints, trade-offs and how a design should be evaluated.&lt;/p&gt;
+&lt;p&gt;In a product team, it is also vital everyone understands the design.&lt;/p&gt;
+&lt;p&gt;Your colleagues should be able to explain the thinking behind your product's design. Not in minute detail, but in broad strokes.&lt;/p&gt;
+&lt;p&gt;Hypothesis driven design is a method to achieve this.&lt;/p&gt;
+&lt;p&gt;Hypothesis driven design is a process where you state what outcomes you expect from a design. You write short statements that state your position and the outcome you expect from a change.&lt;/p&gt;
+&lt;p&gt;Hypotheses can be big or small. They are statements that can cover small changes or additions like using breadcrumbs. Or a wider user need or story.&lt;/p&gt;
+&lt;h2&gt;Hypothesis as the articulation of intent&lt;/h2&gt;
+&lt;p&gt;A hypothesis is a statement. A statement of your current understanding and what change you expect to see. A hypothesis is an articulation of your intent.&lt;/p&gt;
+&lt;p&gt;A sentence or two where you describe what will happen if you add breadcrumbs.&lt;/p&gt;
+&lt;p&gt;Your hypotheses exist to communicate your thinking. As well as letting you and others test it. To verify it.&lt;/p&gt;
+&lt;p&gt;If we expect a certain user outcome if we add breadcrumbs, is this the best way to do that? If we expect a certain outcome, did that happen when we tested it?&lt;/p&gt;
+&lt;p&gt;A good hypothesis is testable and verifiable. It can be true or false.&lt;/p&gt;
+&lt;p&gt;In the team I work in at NHS Digital, we write our hypotheses using a formal language. We use:&lt;/p&gt;
+&lt;ul class='list-unstyled'&gt;
+&lt;li&gt;[Context]&lt;/li&gt;
+&lt;li&gt;If [some action]&lt;/li&gt;
+&lt;li&gt;Then [outcome for users]&lt;/li&gt;
+&lt;li&gt;Because [reason for outcome]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The context let's us frame why we are trying to solve a particular problem. We found this made writing easier. It also made them easier to understand when we returned to them.&lt;/p&gt;
+&lt;p&gt;Your context could come from data. A hunch. A user lab. Other people. Or a mixture.&lt;/p&gt;
+&lt;p&gt;An example could be:&lt;/p&gt;
+&lt;p&gt;'In lab 6 users struggled to navigate between pages. No user used the native browser back button. The researcher had to intervene to return to the homepage".&lt;/p&gt;
+&lt;p&gt;The rest of the statement frames what we are going to do, what impact that'll have on the user and why.&lt;/p&gt;
+&lt;p&gt;One line suffices for each.&lt;/p&gt;
+&lt;p&gt;Writing these statements surfaces your reasoning behind your design decisions. It makes you a better designer. It acts as documentation. It helps you communicate the intent behind your design.&lt;/p&gt;
+&lt;h2&gt;Where our statements live&lt;/h2&gt;
+&lt;p&gt;We use a Kanban board to track our design work. We write our hypotheses as our design work matures.&lt;/p&gt;
+&lt;p&gt;We then attach the hypothesis statements as comments to our cards in Jira.&lt;/p&gt;
+&lt;p&gt;Before any design artefact is given to a developer or tested, it must have a hypothesis attached to it.&lt;/p&gt;
+&lt;p&gt;When we review our design work, we review the hypothesis.&lt;/p&gt;
+&lt;p&gt;The prototypes we build are a collection of hypotheses. Some proven, some not. When we test our prototype with users, we see if our expectations are true or not.&lt;/p&gt;
+&lt;p&gt;In six to twelve months time, we'll know why we added breadcrumbs and the context that led to that decision.&lt;/p&gt;
+&lt;h2&gt;The benefits of using hypothesis driven design&lt;/h2&gt;
+&lt;p&gt;Hypothesis driven design is a simple process where you articulate your intent. The expected outcomes from your design work.&lt;/p&gt;
+&lt;p&gt;Writing design hypotheses isn't always pleasurable. It can be tough to get them exactly right. But they make you a better designer.&lt;/p&gt;
+&lt;p&gt;The act of articulating your design choice further refines your design.&lt;/p&gt;
+&lt;p&gt;By using this process you:&lt;/p&gt;
+&lt;ol id='benefits-of-hypothesis-driven-design'&gt;
+&lt;li&gt;Articulate your thinking&lt;/li&gt;
+&lt;li&gt;Provide others with understanding of your thinking&lt;/li&gt;
+&lt;li&gt;Create a framework to test your designs against&lt;/li&gt;
+&lt;li&gt;Develop a standard way of documenting your work&lt;/li&gt;
+&lt;li&gt;Make better stuff&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
+  <entry>
+    <title>YAWYSCA or Yet Another Why You Should Code Article</title>
+    <link rel="alternate" href="http://blog.url.com/2017/09/04/why_every_one_should_code.html"/>
+    <id>http://blog.url.com/2017/09/04/why_every_one_should_code.html</id>
+    <published>2017-09-04T23:50:00+01:00</published>
+    <updated>2017-12-03T12:32:55+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;
+tl;dr I fall within the “yes you should learn to code” camp. I do so because it has both immediate and related benefits to everyone and computer science itself.
+&lt;/p&gt;
+&lt;h2&gt;
+Reasons to think everyone should learn to code…
+&lt;/h2&gt;
+&lt;h3&gt;
+Great developers can come from everywhere
+&lt;/h3&gt;
+&lt;p&gt;
+There are countless good and great developers and computer scientists who’ve come from a variety of backgrounds, not just a comp-sci background, that it is possible that anyone could pick it up and be good at it. Stepping outside of computer science, think of art as a discipline. Not every great artist was classically trained. Not every classically trained artist was great. Henri Matisse came to painting after getting a job at a bank (I’m sure there are better examples, an accomplished art historian, I am not!).
+&lt;/p&gt;
+&lt;p&gt;
+So, for you all you know, you could be a great developer. Or your friend or relative  or whoever.
+&lt;/p&gt;
+&lt;p&gt;
+And for the good of computer science, it is worth encouraging everyone to get involved. If a great developer etc. can come from anywhere, the more we encourage people to dip their toe, the greater the chance we have on finding that Matisse.
+&lt;/p&gt;
+&lt;h3&gt;
+Learning to code, like other crafts, can teach you something about yourself
+&lt;/h3&gt;
+&lt;p&gt;
+I’m a big fan of the notion that learning/doing things provides the room to improve as a person as well as space to learn about yourself. Coding is hard. Coding brings up problems. Hitting adversity and how to deal with that, teaches you things. I think this has made me a better person and better at creating and sourcing solutions (never mind improving my google-fu).
+&lt;/p&gt;
+&lt;p&gt;
+It has also exposed some things I don’t like about myself. I pride myself on being a problem solver, but sometimes I can be a problem avoider. This is sometimes a virtue (like NOT saying something when someone isn’t ready to hear it) but it can also be a vice (not saying anything at all, even when those thoughts could help the person in the long run). Learning to code exposed this to me. This has/will no doubt make me a better person. More aware.
+&lt;/p&gt;
+&lt;p&gt;
+This isn’t necessarily a benefit of learning to code that is integral to it, but like many crafts it constantly provides roadblocks (and unlike gardening, starting from scratch is just a remove directory command not four days back-breaking work!) and roadblocks have the chance of offering the chance to develop as a person.
+&lt;/p&gt;
+&lt;h3&gt;
+Learning to code is a tangible benefit
+&lt;/h3&gt;
+&lt;p&gt;
+In terms of more direct benefits of learning to code, it can provide you with concrete problem solving skills. A person I used to work with used to say “learning computer science changed how I solved problems”. They meant that since learning to code, they approached issues in a more systematic and structured methodology.
+&lt;/p&gt;
+&lt;p&gt;
+Similarly, if you learn to code and want to create something interesting (like an app that latches onto a moment in time) then you are able to do so. You have the ability to talk and tell a computer how exactly how to do something you want.
+&lt;/p&gt;
+&lt;p&gt;
+But more than the ability to think in more logical ways or to express yourself and your imagination, you can make a damn fine stab at a career with coding. You can earn serious money even without being in the top 1% of your industry.
+&lt;/p&gt;
+&lt;p&gt;
+From prototyping designs, creating scripts for spreadsheets, designing simple plugins for CMSes, to building highly available, distributed systems, coding can give you an extraordinary career. It pays really well, offers a massive range of roles that fit skill and personality types as well as work from home and start-up/entrepreneur possibilities. Coding/programming may have many issues and sins as an industry (which industry doesn’t?), but it does offer amazing opportunities.
+&lt;/p&gt;
+&lt;h2&gt;
+But not EVERYONE is going to be good at it!
+&lt;/h2&gt;
+&lt;p&gt;
+And that is fine. Not everyone is good at gardening, painting or pottery but I doubt we’d discuss whether anyone should give those activities a try.
+&lt;/p&gt;
+&lt;p&gt;
+Everyone should give coding a try. It has many tangible and intangible benefits.  Many people can make a living from it. Some people will be quite good at it. A few may even be great and make great things!
+&lt;/p&gt;
+&lt;p&gt;
+If you fail, try again or try something else.
+&lt;/p&gt;
+</content>
+  </entry>
+</feed>
