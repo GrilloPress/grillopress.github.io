@@ -14,20 +14,21 @@
     <link rel="alternate" href="http://blog.url.com/2017/12/10/hypothesis-driven-design.html"/>
     <id>http://blog.url.com/2017/12/10/hypothesis-driven-design.html</id>
     <published>2017-12-10T12:10:00+00:00</published>
-    <updated>2017-12-17T21:26:51+00:00</updated>
+    <updated>2017-12-29T15:10:56+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;p&gt;In the team I work in, we have adopted a formal way of doing "Hypothesis Driven Design".&lt;/p&gt;
-&lt;p&gt;Hypothesis driven design is a process where you write short statements that state the outcome you expect from a design change.&lt;/p&gt;
-&lt;p&gt;Many designers work in a hypothesis driven way but don't write them down. This implicit way of coming up with an idea and then testing it is less than ideal.&lt;/p&gt;
+&lt;p&gt;Hypothesis driven design is a process where you design solutions and test them with your customers/users. Advancing your understanding and business solution though each design.&lt;/p&gt;
+&lt;p&gt;Hypothesis driven design isn't new. It is essentially, having an idea and testing it.&lt;/p&gt;
+&lt;p&gt;However, many designers work in a hypothesis driven way but don't write their ideas down. This implicit way of coming up with an idea and then testing it is less than ideal.&lt;/p&gt;
 &lt;p&gt;A hunch or a gut feel is a great start. But it isn't a repeatable, sharable method.&lt;/p&gt;
 &lt;h2&gt;Hypothesis as the articulation of intent&lt;/h2&gt;
 &lt;p&gt;Hypotheses can be big or small. They are statements that can cover things like changing the colour of a button. Or a wider user need or story.&lt;/p&gt;
 &lt;p&gt;A hypothesis is a statement. A statement of your current understanding and what change you expect to see. A hypothesis is an articulation of your intent.&lt;/p&gt;
-&lt;p&gt;Your hypotheses exist to communicate your thinking. As well as letting you and others test your thinking. To verify it.&lt;/p&gt;
+&lt;p&gt;A written hypothesis exists to communicate your thinking. As well as letting you and others test your thinking. To verify it.&lt;/p&gt;
 &lt;p&gt;If we expect a certain user outcome if we change our button, is this the best way to do that? If we expect a certain outcome, did that happen when we tested it?&lt;/p&gt;
-&lt;p&gt;A good hypothesis is testable and verifiable. It can be true or false.&lt;/p&gt;
+&lt;p&gt;A good hypothesis is testable and verifiable. It can be true or false. A written hypothesis lets others see, test and verify your thinking.&lt;/p&gt;
 &lt;p&gt;In the team I work in, we write our hypotheses using a formal language. We use:&lt;/p&gt;
 &lt;ul class='list-unstyled list-hypothesis-statement'&gt;
 &lt;li&gt;[Context]&lt;/li&gt;
@@ -38,7 +39,7 @@
 &lt;p&gt;The context let's us frame why we are trying to solve a particular problem. We found this made writing easier. It also made them easier to understand when we returned to them.&lt;/p&gt;
 &lt;p&gt;Your context could come from data. A hunch. A user lab. Other people. Or a mixture.&lt;/p&gt;
 &lt;p&gt;An example could be:&lt;/p&gt;
-&lt;p&gt;'In lab 6 users struggled to navigate between pages. No user used the native browser back button. The researcher had to intervene to return to the homepage".&lt;/p&gt;
+&lt;p&gt;'In lab 5 users struggled to navigate between pages. No user used the native browser back button. The researcher had to intervene to return to the homepage".&lt;/p&gt;
 &lt;p&gt;The rest of the statement frames what we are going to do, what impact that'll have on the user and why.&lt;/p&gt;
 &lt;p&gt;One line suffices for each.&lt;/p&gt;
 &lt;p&gt;Writing these statements surfaces your reasoning behind your design decisions. It makes you a better designer. It acts as documentation. It helps you communicate the intent behind your design.&lt;/p&gt;
@@ -61,7 +62,7 @@
 &lt;li&gt;Develop a standard way of documenting your work&lt;/li&gt;
 &lt;li&gt;Make better stuff&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Other things on hypothesis driven design&lt;/h2&gt;
+&lt;h2&gt;Other people's things on hypothesis driven design&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href='https://medium.com/@melhambo/use-a-hypothesis-backlog-to-capture-and-refine-your-problems-6ed0c4d499a2'&gt;Using a hypothesis backlog (Kanban board)&lt;/a&gt;
