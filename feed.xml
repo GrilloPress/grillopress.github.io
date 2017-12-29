@@ -14,14 +14,14 @@
     <link rel="alternate" href="http://blog.url.com/2017/12/10/hypothesis-driven-design.html"/>
     <id>http://blog.url.com/2017/12/10/hypothesis-driven-design.html</id>
     <published>2017-12-10T12:10:00+00:00</published>
-    <updated>2017-12-29T15:10:56+00:00</updated>
+    <updated>2017-12-29T15:31:10+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;p&gt;In the team I work in, we have adopted a formal way of doing "Hypothesis Driven Design".&lt;/p&gt;
-&lt;p&gt;Hypothesis driven design is a process where you design solutions and test them with your customers/users. Advancing your understanding and business solution though each design.&lt;/p&gt;
-&lt;p&gt;Hypothesis driven design isn't new. It is essentially, having an idea and testing it.&lt;/p&gt;
-&lt;p&gt;However, many designers work in a hypothesis driven way but don't write their ideas down. This implicit way of coming up with an idea and then testing it is less than ideal.&lt;/p&gt;
+&lt;p&gt;Hypothesis driven design is where you design solutions and test them with your users. Advancing your understanding and business solution though each design.&lt;/p&gt;
+&lt;p&gt;Hypothesis driven design isn't new. It is having an idea and testing it.&lt;/p&gt;
+&lt;p&gt;Many designers work in a hypothesis driven way but don't write their ideas down. This implicit way of coming up with an idea and then testing it is less than ideal.&lt;/p&gt;
 &lt;p&gt;A hunch or a gut feel is a great start. But it isn't a repeatable, sharable method.&lt;/p&gt;
 &lt;h2&gt;Hypothesis as the articulation of intent&lt;/h2&gt;
 &lt;p&gt;Hypotheses can be big or small. They are statements that can cover things like changing the colour of a button. Or a wider user need or story.&lt;/p&gt;
