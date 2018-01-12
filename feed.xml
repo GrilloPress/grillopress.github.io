@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2018/01/08/kanban_for_interaction_design.html"/>
     <id>http://blog.url.com/2018/01/08/kanban_for_interaction_design.html</id>
     <published>2018-01-08T21:00:00+00:00</published>
-    <updated>2018-01-08T22:17:34+00:00</updated>
+    <updated>2018-01-12T20:01:38+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -78,7 +78,7 @@ We both knew this was going to be a long journey. There was also a risk of expos
 &lt;h3&gt;First implementation&lt;/h3&gt;
 &lt;p&gt;After going backwards and forwards over the column names, we sketched out our board and added some cards.&lt;/p&gt;
 &lt;img alt='A Kanban board drawn on a whiteboard' src='/images/boards/first_iteration.jpg'&gt;
-&lt;p&gt;The idea behind the columns where:&lt;/p&gt;
+&lt;p&gt;The idea behind the columns were:&lt;/p&gt;
 &lt;ol id='first-implementation'&gt;
 &lt;li&gt;
 &lt;h4&gt;Backlog&lt;/h4&gt;
@@ -342,7 +342,7 @@ we adopted a lean way of articulating our design decisions and what we were aimi
 &lt;p&gt;Because we made it easier to document our design decisions, we got better at documenting as we went.&lt;/p&gt;
 &lt;h2&gt;Benefits of using Kanban&lt;/h2&gt;
 &lt;p&gt;Our journey using the Kanban board has only just begun but we've seen some real value already.&lt;/p&gt;
-&lt;p&gt;With is we're able to:&lt;/p&gt;
+&lt;p&gt;With it we're able to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Track what each other is working on&lt;/li&gt;
 &lt;li&gt;Easily record our design reviews and comments&lt;/li&gt;
