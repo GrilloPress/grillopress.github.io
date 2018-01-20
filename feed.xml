@@ -5,10 +5,86 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-01-08T21:00:00+00:00</updated>
+  <updated>2018-01-20T20:30:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>This week's links</title>
+    <link rel="alternate" href="http://blog.url.com/2018/01/20/weekly-links.html"/>
+    <id>http://blog.url.com/2018/01/20/weekly-links.html</id>
+    <published>2018-01-20T20:30:00+00:00</published>
+    <updated>2018-01-20T23:52:49+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;"This week's links" is a collection of things I found, got told about, re-read and shared elsewhere this week&lt;/blockquote&gt;
+&lt;p&gt;The last week was a pretty intense one at work with a full day in a usability lab and a day working on design principles for the NHS on Thursday. I also helped handle some more junior designer recruitment stuff as well as plan the next iteration of the prototype I am working on.&lt;/p&gt;
+&lt;p&gt;Beyond work, life was not so great. The week ended on a high note finding out that we will be welcoming a daughter to the family.&lt;/p&gt;
+&lt;p&gt;Here is a summary and link to some of the things that I have been reading and thinking about in the last week:&lt;/p&gt;
+&lt;ol class='weekly-link-list'&gt;
+&lt;li&gt;
+&lt;h2&gt;Put field labels above forms and wait before a user submits a form to provide error feedback&lt;/h2&gt;
+&lt;p&gt;
+Not a new one, but I shared
+&lt;a href="https://www.hindawi.com/journals/ahci/2011/202701/" target="_blank"&gt;Working towards Usable Forms on the World Wide Web: Optimizing Date Entry Input Fields &lt;/a&gt;
+to a collegue over Slack.
+&lt;/p&gt;
+&lt;p&gt;Essentially, the range of studies it summarizes indicates that you should put field labels above forms if you want users to complete forms quickly and with less stress.&lt;/p&gt;
+&lt;p&gt;It also reports that users make significantly more errors if you validate your fields inline as your user inputs their data.&lt;/p&gt;
+&lt;p&gt;Not a portfolio-pretty approach, but let a user submit a form then provide them with feedback on whether it is correct. This approach also rewards keeping forms short and taking users through your service one thing at a time.&lt;/p&gt;
+&lt;div class='link-to'&gt;
+Read more:
+&lt;a href="https://www.hindawi.com/journals/ahci/2011/202701/" target="_blank"&gt;Working towards Usable Forms on the World Wide Web: Optimizing Date Entry Input Fields &lt;/a&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2&gt;The NHS belongs to the people&lt;/h2&gt;
+&lt;p&gt;
+The
+&lt;a href="https://www.gov.uk/government/publications/the-nhs-constitution-for-england/the-nhs-constitution-for-england" target="_blank"&gt;NHS Constitution &lt;/a&gt;
+is a ridiculously inspiring document.
+&lt;/p&gt;
+&lt;p&gt;It is the guiding principles of the NHS. The aims and goals of the NHS and what it stands for.&lt;/p&gt;
+&lt;p&gt;It was officailly published in 2013 but built on things like the founding principles of the NHS, the Patient's Charter and similar documents. It has since also been updated, with 2015 being the latest revision.&lt;/p&gt;
+&lt;p&gt;The first line is "The NHS belongs to the people".&lt;/p&gt;
+&lt;p&gt;I have worked for the NHS for a while and whilst I knew parts of it and seen it quoted around and on posters, it wasn't until the last year that I really sat down to read it.&lt;/p&gt;
+&lt;p&gt;If you work for the NHS or have any sort  of love for it, I recommend reading part if not all of it.&lt;/p&gt;
+&lt;p&gt;
+The NHS Constitution was on the forefront of my mind this week as I was at a meeting to help draft up some design principles for the NHS.
+&lt;/p&gt;
+&lt;p&gt;
+At a previous meeting an NHS Digital colleague Nicola, mentioned the NHS Constitution as a guiding light for any principles.
+&lt;/p&gt;
+&lt;p&gt;
+As we worked on reviewing some design principles I brought them up again as I thought Nicola's point was spot on and that the NHS Constitution be something we should take inspiration from and use as a guiding light for any principles.
+&lt;/p&gt;
+&lt;div class='link-to'&gt;
+Read more:
+&lt;a href="https://www.gov.uk/government/publications/the-nhs-constitution-for-england/the-nhs-constitution-for-england" target="_blank"&gt;NHS Constitution &lt;/a&gt;
+&lt;/div&gt;
+&lt;li&gt;
+&lt;h2&gt;Stay focused on the user. It doesn’t matter how much experience you gain as a UX Designer, our main job is to solve user needs&lt;/h2&gt;
+&lt;p&gt;
+Since before Christmas I have been helping our with junior designer recruitment.
+&lt;/p&gt;
+&lt;p&gt;
+I wanted to make sure I was giving constructive career feedback to unsuccessful candidates which lead me to read Cinthya Mohr's
+&lt;a href="https://medium.com/google-design/tips-for-starting-or-growing-your-career-as-a-ux-designer-ad8dbf1eb2d6" target="_blank"&gt;Tips for starting or growing your career as a UX designer. &lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;A key process I use before doing anything is to reach out to people who I know who have done things before.&lt;/p&gt;
+&lt;p&gt;I also like to google things to see what other people learnt and what advice they'd give.&lt;/p&gt;
+&lt;p&gt;One key area where I thought some prospective juniors could do with some pointers is how they explain their design process and in particular the process behind a key portfolio piece.&lt;/p&gt;
+&lt;p&gt;Cinthya's piece did a really good job of layout out how to build a narrative for portfolio peices that really resonated with what I wanted to see from the designers I interviewed.&lt;/p&gt;
+&lt;div class='link-to'&gt;
+Read more:
+&lt;a href="https://medium.com/google-design/tips-for-starting-or-growing-your-career-as-a-ux-designer-ad8dbf1eb2d6" target="_blank"&gt;Tips for starting or growing your career as a UX designer. &lt;/a&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
   <entry>
     <title>Kanban for interaction design</title>
     <link rel="alternate" href="http://blog.url.com/2018/01/08/kanban_for_interaction_design.html"/>
