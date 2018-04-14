@@ -5,10 +5,80 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-02-03T16:45:00+00:00</updated>
+  <updated>2018-04-13T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 01</title>
+    <link rel="alternate" href="http://blog.url.com/2018/04/13/weeknotes-01.html"/>
+    <id>http://blog.url.com/2018/04/13/weeknotes-01.html</id>
+    <published>2018-04-13T01:00:00+01:00</published>
+    <updated>2018-04-14T08:58:11+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I&amp;rsquo;m going to give doing weeknotes a try. Basically a round up of my week in terms of design and whatnot.&lt;/p&gt;
+
+&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Planned out some content changes for our prototype with the content designer. Folded some changes into it. Took a good chunk of the day. Enabled the programme to review content and site structure in preparation for going public.&lt;/p&gt;
+
+&lt;p&gt;Wrote a little more on personas for an interaction design course I am cobbling together. Editing it led me to reading &lt;a href="https://www.cooper.com/journal/2008/05/the_origin_of_personas"&gt;Alan Cooper&amp;rsquo;s The origin of personas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mucked about with a screen recording tools or two in preparation to record the course. In built Mac tools turned out to be the best shout.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Played a &amp;ldquo;silence game&amp;rdquo; imagined up by our delivery manager Sophie to review the product backlog. Worked pretty well. We all agreed she needed to write it up and patent it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../../../images/silence_game/having_fun.jpg" title="Having fun" alt="Thunderbird team having fun playing the silence game" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lent a helping hand later to take a couple of people from GDS on a tour around the Digital Delivery Centre. Talked a little about the way we had evolved our design process on my project to keep it agile and outcome focused.&lt;/p&gt;
+
+&lt;p&gt;They raised some interesting points about ensuring that agile teams don&amp;rsquo;t just provide the business with the ability to make decisions, but also help them make the right ones.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Worked from home.&lt;/p&gt;
+
+&lt;p&gt;Took some time to design how offline forms are going to work on the service. Explored current solutions used by the NHS Choices website and DVLA.&lt;/p&gt;
+
+&lt;p&gt;Reviewed the designs with several other designers. Found out that a colleague is soon to be married in the process (Congratulations Karl! Pizza in the post please).&lt;/p&gt;
+
+&lt;p&gt;Can&amp;rsquo;t underestimate the value and importance of sharing work early and often.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Very intense day started in a usability lab. An interesting remix on the classic lab with a focus on how contact centre staff would be involved in assisted digital journeys.&lt;/p&gt;
+
+&lt;p&gt;Was really impressed with the problem solving from the call centre staff. Guiding users and developing and remixing the call centre scripts.&lt;/p&gt;
+
+&lt;p&gt;Made me think about organisations like Automattic that ensure their developers spend a week a year doing phone support. The idea being to keep them humble and aware of the problems being faced by their users day to day. Feels like a concept that would really help designers and developers building software for the NHS too.&lt;/p&gt;
+
+&lt;p&gt;Caught up briefly with a graduate I have been mentoring. Talked to his assignment manager too, a product manager on the project he was on. Seemed like a really nice team. Got invited to their next show and tell by the product manager. Will make a special effort to attend.&lt;/p&gt;
+
+&lt;p&gt;Asked a question in the design slack and on Twitter about the use of personas. Really interesting debate and discussion. Will write it up soon.&lt;/p&gt;
+
+&lt;p&gt;Hosted the design huddle. Heard from the delightful Dean about the &amp;ldquo;redesign&amp;rdquo; work. They&amp;rsquo;re working on foundational elements for the rest of the organisation. Raised the issue of forms and transactional service design. Talked a little about my forms as well.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Had a few more changes and questions from the programme but got all the content approved and ready for public beta!&lt;/p&gt;
+
+&lt;p&gt;Chased up the status on the service&amp;rsquo;s offline forms and handed over design and content to the NHSUK migration team, in readiness for the site going live in May.&lt;/p&gt;
+
+&lt;p&gt;Inspired a fellow designer to go buy a sausage roll by the mere sight of my stuffing my face with one. The food of champion designers&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Had a coffee and chat about design at NHS Digital with one of my favourite people, the magnificent Tero!&lt;/p&gt;
+
+&lt;p&gt;Had a good catch up.&lt;/p&gt;
+
+&lt;p&gt;Didn&amp;rsquo;t get to talk double diamond enough. Need to make sure we don&amp;rsquo;t leave it to goodbyes to talk our favourite subject.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been writing about the Double Diamond for my interaction design course so really should have started with that.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Start pages</title>
     <link rel="alternate" href="http://blog.url.com/2018/02/03/start-pages.html"/>
