@@ -5,10 +5,96 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-04-13T01:00:00+01:00</updated>
+  <updated>2018-04-20T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 02</title>
+    <link rel="alternate" href="http://blog.url.com/2018/04/20/weeknotes-02.html"/>
+    <id>http://blog.url.com/2018/04/20/weeknotes-02.html</id>
+    <published>2018-04-20T01:00:00+01:00</published>
+    <updated>2018-04-21T23:03:41+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Another busy week. Worked through some issues in implementing the service&amp;rsquo;s site on the NHSUK platform. Spent some time learning how GDS and gov.uk do design in London.&lt;/p&gt;
+
+&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Started the week talking design principles. We have some draft NHS design principles up on the wall in the Digital Delivery Centre. Right now we have nine principles. To kickstart conversation I asked what two principles people would remove. We had a pretty healthy debate.  It was interesting to see slight differences between interaction and service designers.&lt;/p&gt;
+
+&lt;p&gt;Some of the principles may actually be better described as behaviours.  “What makes someone a good designer” rather than “what makes something a good design”. Something to think about.&lt;/p&gt;
+
+&lt;p&gt;I ran into Stephen Corbett who was in his last week. Talked about service design with him and the world of “UX”. Going to miss Stephen. Always good fun and a smart mind.&lt;/p&gt;
+
+&lt;p&gt;Had a sprint retrospective with the Thunderbird tribe. Then walked through some storyboards for a side project.&lt;/p&gt;
+
+&lt;p&gt;Attended the Digital Delivery Centre experience design team meet up. Talked about the progress of the service.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Worked from home. Crafted a sitemap for the service.&lt;/p&gt;
+
+&lt;p&gt;Welcomed new member of the design community via Slack. Always make a point to do this.&lt;/p&gt;
+
+&lt;p&gt;Travelled down to London later in the day. Had a 40 min delay due to a passenger medical emergency.&lt;/p&gt;
+
+&lt;p&gt;Got to my hotel fine. Right next to the tower of London and tower bridge. Missed out on being able to catch my brother before he left work and a friend. Worked out meeting my friend on Thursday though. Next time I have to stay over in London I arrange something with a friend or a colleague before. Felt bored. Had a wonder and took some photos to relieve the boredom.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/images/london/tower_bridge.jpg" alt="Tower Bridge in black and white with heavy shadows"/&gt;&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Had a wonder up to Whitechapel after strolling around St Katharine’s. Beautiful place.&lt;/p&gt;
+
+&lt;p&gt;First day of the GDS course. Talking principles, user stories, service design and journey mapping. Before getting into interaction flows with Tim Paul. Some of the day seemed out of sync. We did journey mapping before research. Seemed in the wrong order.&lt;/p&gt;
+
+&lt;p&gt;Had a great lunch from a local street market. £5 for a massive chicken tikka roll, meat samosa and a drink.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src="/images/london/team_with_tikka.jpg" alt="Four designers eating Chicken tikka wraps in a street market"/&gt;
+  &lt;figcaption class="noir"&gt;Street food on a Yorkshire budget&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Enjoyed spending the day with a group of people doing digital stuff for government. Paired with a graduate from NHS Digital, Sam as well. Enjoyed it.&lt;/p&gt;
+
+&lt;p&gt;Had a night out with the team from NHS Digital. Had a blast. Pizza. Beers and good company.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Next day at the training started with content design. Sam shone here. It’s always great to see people doing what they love. We also heard from Ed “from slack” Horsford about the journey to create the passport service.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed doing an interaction design review with Tim Paul. Piped up a little too much. Particularly here. But interaction design is my jam.&lt;/p&gt;
+
+&lt;p&gt;Later on after work met a friend. Had some beers by the river. Funny how far we’d come from when we first met in a small publishing company in Birmingham.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Last day in London. Started it early by touring around the City of London and enjoying the sights.&lt;/p&gt;
+
+&lt;div class="half"&gt;
+  &lt;figure class="noir"&gt;
+    &lt;img src="/images/london/noir_gerk.jpg" alt="The Gherkin building in London in black and white with heavy shadows"/&gt;
+    &lt;figcaption&gt;The Gherkin. Always swamped and surrounded by other buildings but standing out by its shape.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure class="noir"&gt;
+    &lt;img src="/images/london/lloyds.jpg" alt="The Lloyd's building in London in black and white with heavy shadows"/&gt;
+    &lt;figcaption&gt;The Lloyd&amp;rsquo;s building. Brutally showing its bowels.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Training was about using the gov.uk prototyping kit. A couple of the NHS Digital grads didn&amp;rsquo;t get IT to put the kit on their machines. Tried to use a browser based option. But all the platforms had issues. Either with gulp.js (glitch) or with a need for a credit card (Cloud9, Koding) or some bizarre no access to a terminal on free accounts (codio).&lt;/p&gt;
+
+&lt;p&gt;Bit frustrating.&lt;/p&gt;
+
+&lt;p&gt;I paired up with one of the graduates and let her use my machine. Helping only if needed. It was great to see the GDS designers and frontenders there to help. Being about to cobble together an interactive prototype is a fun and powerful thing.&lt;/p&gt;
+
+&lt;p&gt;The room benefitted from there being plenty of examples in the kit as well. Lots of lessons for NHS Digital.&lt;/p&gt;
+
+&lt;p&gt;Had to catch up and jump into many conversations through the day about my normal work. Found it a touch stressful as the project is gearing up to go live and not being in Leeds.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 01</title>
     <link rel="alternate" href="http://blog.url.com/2018/04/13/weeknotes-01.html"/>
@@ -634,74 +720,6 @@ we adopted a lean way of articulating our design decisions and what we were aimi
 &lt;a href='https://medium.com/leading-service-design/everything-is-hypothesis-driven-design-1986a4638285'&gt;Everything is hypothesis driven design&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>YAWYSCA or Yet Another Why You Should Code Article</title>
-    <link rel="alternate" href="http://blog.url.com/2017/09/04/why_every_one_should_code.html"/>
-    <id>http://blog.url.com/2017/09/04/why_every_one_should_code.html</id>
-    <published>2017-09-04T23:50:00+01:00</published>
-    <updated>2017-12-03T12:32:55+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;
-tl;dr I fall within the “yes you should learn to code” camp. I do so because it has both immediate and related benefits to everyone and computer science itself.
-&lt;/p&gt;
-&lt;h2&gt;
-Reasons to think everyone should learn to code…
-&lt;/h2&gt;
-&lt;h3&gt;
-Great developers can come from everywhere
-&lt;/h3&gt;
-&lt;p&gt;
-There are countless good and great developers and computer scientists who’ve come from a variety of backgrounds, not just a comp-sci background, that it is possible that anyone could pick it up and be good at it. Stepping outside of computer science, think of art as a discipline. Not every great artist was classically trained. Not every classically trained artist was great. Henri Matisse came to painting after getting a job at a bank (I’m sure there are better examples, an accomplished art historian, I am not!).
-&lt;/p&gt;
-&lt;p&gt;
-So, for you all you know, you could be a great developer. Or your friend or relative  or whoever.
-&lt;/p&gt;
-&lt;p&gt;
-And for the good of computer science, it is worth encouraging everyone to get involved. If a great developer etc. can come from anywhere, the more we encourage people to dip their toe, the greater the chance we have on finding that Matisse.
-&lt;/p&gt;
-&lt;h3&gt;
-Learning to code, like other crafts, can teach you something about yourself
-&lt;/h3&gt;
-&lt;p&gt;
-I’m a big fan of the notion that learning/doing things provides the room to improve as a person as well as space to learn about yourself. Coding is hard. Coding brings up problems. Hitting adversity and how to deal with that, teaches you things. I think this has made me a better person and better at creating and sourcing solutions (never mind improving my google-fu).
-&lt;/p&gt;
-&lt;p&gt;
-It has also exposed some things I don’t like about myself. I pride myself on being a problem solver, but sometimes I can be a problem avoider. This is sometimes a virtue (like NOT saying something when someone isn’t ready to hear it) but it can also be a vice (not saying anything at all, even when those thoughts could help the person in the long run). Learning to code exposed this to me. This has/will no doubt make me a better person. More aware.
-&lt;/p&gt;
-&lt;p&gt;
-This isn’t necessarily a benefit of learning to code that is integral to it, but like many crafts it constantly provides roadblocks (and unlike gardening, starting from scratch is just a remove directory command not four days back-breaking work!) and roadblocks have the chance of offering the chance to develop as a person.
-&lt;/p&gt;
-&lt;h3&gt;
-Learning to code is a tangible benefit
-&lt;/h3&gt;
-&lt;p&gt;
-In terms of more direct benefits of learning to code, it can provide you with concrete problem solving skills. A person I used to work with used to say “learning computer science changed how I solved problems”. They meant that since learning to code, they approached issues in a more systematic and structured methodology.
-&lt;/p&gt;
-&lt;p&gt;
-Similarly, if you learn to code and want to create something interesting (like an app that latches onto a moment in time) then you are able to do so. You have the ability to talk and tell a computer how exactly how to do something you want.
-&lt;/p&gt;
-&lt;p&gt;
-But more than the ability to think in more logical ways or to express yourself and your imagination, you can make a damn fine stab at a career with coding. You can earn serious money even without being in the top 1% of your industry.
-&lt;/p&gt;
-&lt;p&gt;
-From prototyping designs, creating scripts for spreadsheets, designing simple plugins for CMSes, to building highly available, distributed systems, coding can give you an extraordinary career. It pays really well, offers a massive range of roles that fit skill and personality types as well as work from home and start-up/entrepreneur possibilities. Coding/programming may have many issues and sins as an industry (which industry doesn’t?), but it does offer amazing opportunities.
-&lt;/p&gt;
-&lt;h2&gt;
-But not EVERYONE is going to be good at it!
-&lt;/h2&gt;
-&lt;p&gt;
-And that is fine. Not everyone is good at gardening, painting or pottery but I doubt we’d discuss whether anyone should give those activities a try.
-&lt;/p&gt;
-&lt;p&gt;
-Everyone should give coding a try. It has many tangible and intangible benefits.  Many people can make a living from it. Some people will be quite good at it. A few may even be great and make great things!
-&lt;/p&gt;
-&lt;p&gt;
-If you fail, try again or try something else.
-&lt;/p&gt;
 </content>
   </entry>
 </feed>
