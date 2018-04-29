@@ -5,10 +5,93 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-04-20T01:00:00+01:00</updated>
+  <updated>2018-04-28T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 03</title>
+    <link rel="alternate" href="http://blog.url.com/2018/04/28/weeknotes-03.html"/>
+    <id>http://blog.url.com/2018/04/28/weeknotes-03.html</id>
+    <published>2018-04-28T01:00:00+01:00</published>
+    <updated>2018-04-29T14:24:16+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Yet another busy week. Something of a pattern for April.&lt;/p&gt;
+
+&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Started the week finishing off.&lt;/p&gt;
+
+&lt;p&gt;Error messages. Form downloads for the offline service. Helping the Thunderbird team update the transactional service with some small tweaks. Bit of career management.&lt;/p&gt;
+
+&lt;p&gt;Helped get a grad I met at the GDS training in touch with Thunderbird&amp;rsquo;s talented delivery manager.&lt;/p&gt;
+
+&lt;p&gt;Spent lunch with a friend from a different team. Ended up in a random Italian place. Talked about the tension of delivery and delivering the right thing.&lt;/p&gt;
+
+&lt;p&gt;Met with the service owner. Thrashed out how we are going to help all the teams on the same page.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Folded in the new HTML email design into the system.&lt;/p&gt;
+
+&lt;p&gt;Got told I had to use a real life photo on a slack instance. So, used the first one in my phone. Got trolled hard. Obviously just too saucy. Too Mills and Boon.&lt;/p&gt;
+
+&lt;div class="half"&gt;
+  &lt;figure class="noir"&gt;
+    &lt;img width="100%" src="/images/mills_and_boon.png" alt="A joke mock-up of a Mills and Boon romance novel called 'Kanban at midnight' feating Andrew Duckworth's face"/&gt;
+    &lt;figcaption&gt;Available in all good bookstores&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Lost count of the amount of people who told me the photo made me look fatter. Thanks. I think.&lt;/p&gt;
+
+&lt;p&gt;Spent some time with the user researchers. Ever since we had to move offices, the team hasn&amp;rsquo;t been able to sit together. Although Slack helps. For some people you need to get together face to face.&lt;/p&gt;
+
+&lt;p&gt;Talked through the private beta findings. We used &lt;a href="https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html"&gt;&amp;ldquo;System Usability Scale&amp;rdquo;&lt;/a&gt; as well as a comprehension survey. Great usability scores. SUS scores place the service in the top 90%.&lt;/p&gt;
+
+&lt;p&gt;Comprehension is a worry. There was a recent phrase change that we can point to as causing a drop in comprehension.&lt;/p&gt;
+
+&lt;p&gt;Enjoyed going through the screen recordings. Will build the findings into a show and tell.&lt;/p&gt;
+
+&lt;p&gt;Met with communications teams from various parts of the organisation. Working out how to help coordinate any old content and how that gets updated.&lt;/p&gt;
+
+&lt;p&gt;Talked to a GDS designer about their prototyping kit. Some of the reasoning behind certain design decisions.&lt;/p&gt;
+
+&lt;p&gt;The prototyping kit is a tool that brings patterns into life. As such, less is often more. If you have too many patterns, or too low a bar for a pattern you increase the potential for teams to put in place things that are going to fail.&lt;/p&gt;
+
+&lt;p&gt;Too few, or too high a bar for a pattern, then people will do what they need to do to get the job done right now. Often at the expense of the bigger picture.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Got asked to produce something for the minister. Asked for clarity on a few things.&lt;/p&gt;
+
+&lt;p&gt;Had a meeting with the service owner and content designer. Went through the transactional service. Talked errors, issues to implementation, emails and planning for planning.&lt;/p&gt;
+
+&lt;p&gt;Met up with a new designer, Alexandra. Working on the buying catalogue. A market place tool for procurement for CCGs. Interesting stuff. Hard challenges. Loads of potential. Was great to meet her. Had many questions about styles, patterns and standards.&lt;/p&gt;
+
+&lt;p&gt;Also talked about measuring usability and comprehension and how to get that in place for alpha.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Large planning meeting with programme, Head of Product and Thunderbird tribe. Pretty productive. No fuss. Bit worried about the level of work I am touching on in the next few weeks. Need to sketch a plan of action. Will pair up with another designer again to get some of the design work into the product for the deadline.&lt;/p&gt;
+
+&lt;p&gt;Alongside planning had to pull in some changes for a prototype for
+the minister. Took a fair chunk of the day.&lt;/p&gt;
+
+&lt;p&gt;Got invited to talk at Agile Manchester. Taking &lt;a href="http://uxinthecity.net/2018/manchester/sessions/index.php?session=311"&gt;&amp;ldquo;Making UX Agile&amp;rdquo;&lt;/a&gt; on tour.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Owned a lot of flexitime. Took some. Alongside a little bit of work on the prototype and the product.&lt;/p&gt;
+
+&lt;p&gt;Spent some time exploring the GDS prototype kit and the inner workings. With the aim to pull in some features into my personal kit.&lt;/p&gt;
+
+&lt;p&gt;Learnt lots from all the prototypes I&amp;rsquo;ve built since early October last year for NHS Digital. Important not to get hung up on all the hacks. Also important to learn from them and make life easier next time.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 02</title>
     <link rel="alternate" href="http://blog.url.com/2018/04/20/weeknotes-02.html"/>
@@ -656,70 +739,6 @@ we adopted a lean way of articulating our design decisions and what we were aimi
 &lt;/ul&gt;
 &lt;p&gt;It has played a core part of integrating our design process into the wider product and team. It has improved us as designers. It has organised and evolved our process. It has made it easier to work together.&lt;/p&gt;
 &lt;p&gt;If you're considering using one, do it!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Hypothesis driven design</title>
-    <link rel="alternate" href="http://blog.url.com/2017/12/10/hypothesis-driven-design.html"/>
-    <id>http://blog.url.com/2017/12/10/hypothesis-driven-design.html</id>
-    <published>2017-12-10T12:10:00+00:00</published>
-    <updated>2017-12-29T16:30:51+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;In the team I work in, we have adopted a formal way of doing "Hypothesis Driven Design".&lt;/p&gt;
-&lt;p&gt;Hypothesis driven design is where you design solutions and test them with your users. Advancing your understanding and business solution though each design.&lt;/p&gt;
-&lt;p&gt;Hypothesis driven design isn't new. It is having an idea and testing it.&lt;/p&gt;
-&lt;p&gt;Many designers work in a hypothesis driven way but don't write their ideas down. This implicit way of coming up with an idea and then testing it is less than ideal.&lt;/p&gt;
-&lt;p&gt;A hunch or a gut feel is a great start. But it isn't a repeatable, sharable method.&lt;/p&gt;
-&lt;h2&gt;Hypothesis as the articulation of intent&lt;/h2&gt;
-&lt;p&gt;Hypotheses can be big or small. They are statements that can cover things like changing the colour of a button. Or a wider user need or story.&lt;/p&gt;
-&lt;p&gt;A hypothesis is a statement. A statement of your current understanding and what change you expect to see. A hypothesis is an articulation of your intent.&lt;/p&gt;
-&lt;p&gt;A written hypothesis exists to communicate your thinking. As well as letting you and others test your thinking. To verify it.&lt;/p&gt;
-&lt;p&gt;If we expect a certain user outcome if we change our button, is this the best way to do that? If we expect a certain outcome, did that happen when we tested it?&lt;/p&gt;
-&lt;p&gt;A good hypothesis is testable and verifiable. It can be true or false. A written hypothesis lets others see, test and verify your thinking.&lt;/p&gt;
-&lt;p&gt;In the team I work in, we write our hypotheses using a formal language. We use:&lt;/p&gt;
-&lt;ul class='list-unstyled list-hypothesis-statement'&gt;
-&lt;li&gt;[Context]&lt;/li&gt;
-&lt;li&gt;If [some action]&lt;/li&gt;
-&lt;li&gt;Then [outcome for users]&lt;/li&gt;
-&lt;li&gt;Because [reason for outcome]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The context let's us frame why we are trying to solve a particular problem. We found this made writing easier. It also made them easier to understand when we returned to them.&lt;/p&gt;
-&lt;p&gt;Your context could come from data. A hunch. A user lab. Other people. Or a mixture.&lt;/p&gt;
-&lt;p&gt;An example could be:&lt;/p&gt;
-&lt;p&gt;'In lab 5 users struggled to navigate between pages. No user used the native browser back button. The researcher had to intervene to return to the homepage".&lt;/p&gt;
-&lt;p&gt;The rest of the statement frames what we are going to do, what impact that'll have on the user and why.&lt;/p&gt;
-&lt;p&gt;One line suffices for each.&lt;/p&gt;
-&lt;p&gt;Writing these statements surfaces your reasoning behind your design decisions. It makes you a better designer. It acts as documentation. It helps you communicate the intent behind your design.&lt;/p&gt;
-&lt;h2&gt;Where our statements live&lt;/h2&gt;
-&lt;p&gt;We use a Kanban board to track our design work. We write our hypotheses as our design work matures.&lt;/p&gt;
-&lt;p&gt;We then attach the hypothesis statements as comments to our cards in Jira.&lt;/p&gt;
-&lt;p&gt;Before any design artefact is given to a developer or tested, it must have a hypothesis attached to it.&lt;/p&gt;
-&lt;p&gt;When we review our design work, we review the hypothesis.&lt;/p&gt;
-&lt;p&gt;The prototypes we build are a collection of hypotheses. Some proven, some not. When we test our prototype with users, we see if our expectations are true or not.&lt;/p&gt;
-&lt;p&gt;Sometimes our hypotheses miss the mark. This can be because our design wasn't clear enough in rendering our intent. Or because our intent doesn't match what our users want or need.&lt;/p&gt;
-&lt;h2&gt;The benefits of using hypothesis driven design&lt;/h2&gt;
-&lt;p&gt;Hypothesis driven design is a process that generates easy to understand documentation. A log of your design thinking and decisions.&lt;/p&gt;
-&lt;p&gt;Writing design hypotheses isn't always pleasurable. It can be tough to get them exactly right. But they make you a better designer.&lt;/p&gt;
-&lt;p&gt;The act of articulating your design choice further refines your design. And your skills as a designer.&lt;/p&gt;
-&lt;p&gt;By using a hypothesis driven design process you:&lt;/p&gt;
-&lt;ol class='list-benefits-of-hypothesis-driven-design'&gt;
-&lt;li&gt;Articulate your thinking&lt;/li&gt;
-&lt;li&gt;Provide others with understanding of your thinking&lt;/li&gt;
-&lt;li&gt;Create a framework to test your designs against&lt;/li&gt;
-&lt;li&gt;Develop a standard way of documenting your work&lt;/li&gt;
-&lt;li&gt;Make better stuff&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Other people's things on hypothesis driven design&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href='https://medium.com/@melhambo/use-a-hypothesis-backlog-to-capture-and-refine-your-problems-6ed0c4d499a2'&gt;Using a hypothesis backlog (Kanban board)&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href='https://medium.com/leading-service-design/everything-is-hypothesis-driven-design-1986a4638285'&gt;Everything is hypothesis driven design&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
