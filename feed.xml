@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2018/04/28/weeknotes-03.html"/>
     <id>http://blog.url.com/2018/04/28/weeknotes-03.html</id>
     <published>2018-04-28T01:00:00+01:00</published>
-    <updated>2018-04-29T14:24:16+01:00</updated>
+    <updated>2018-04-29T14:30:44+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -38,13 +38,10 @@
 
 &lt;p&gt;Got told I had to use a real life photo on a slack instance. So, used the first one in my phone. Got trolled hard. Obviously just too saucy. Too Mills and Boon.&lt;/p&gt;
 
-&lt;div class="half"&gt;
-  &lt;figure class="noir"&gt;
-    &lt;img width="100%" src="/images/mills_and_boon.png" alt="A joke mock-up of a Mills and Boon romance novel called 'Kanban at midnight' feating Andrew Duckworth's face"/&gt;
-    &lt;figcaption&gt;Available in all good bookstores&lt;/figcaption&gt;
-  &lt;/figure&gt;
-  &lt;div&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;figure class="noir right"&gt;
+    &lt;img src="/images/mills_and_boon.png" alt="A joke mock-up of a Mills and Boon romance novel called 'Kanban at midnight' feating Andrew Duckworth's face"/&gt;
+    &lt;figcaption&gt;Available in all good bookstores&amp;hellip;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;Lost count of the amount of people who told me the photo made me look fatter. Thanks. I think.&lt;/p&gt;
 
