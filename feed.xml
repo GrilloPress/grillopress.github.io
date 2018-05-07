@@ -5,10 +5,79 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-04-28T01:00:00+01:00</updated>
+  <updated>2018-05-04T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 04</title>
+    <link rel="alternate" href="http://blog.url.com/2018/05/04/weeknotes-04.html"/>
+    <id>http://blog.url.com/2018/05/04/weeknotes-04.html</id>
+    <published>2018-05-04T01:00:00+01:00</published>
+    <updated>2018-05-07T21:51:02+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Started the week with some urgent medical care. My own.&lt;/p&gt;
+
+&lt;p&gt;After dealing with that, jumped on some frontend tickets for the Thunderbird team. Updated the interruption card in the live service.&lt;/p&gt;
+
+&lt;p&gt;We saw some mixed results using the latest version of the &amp;ldquo;interruption card&amp;rdquo;. It was either not interrupting enough or people were clicking icons. We had hoped that icons would make the card more arresting. But it has not. If anything, it made it more like a graphical element that people skipped.&lt;/p&gt;
+
+&lt;p&gt;Started on updating the error messages for the live service too.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Finished the error messages for pubic beta. Making the service&amp;rsquo;s error messages more actionable.&lt;/p&gt;
+
+&lt;p&gt;Asked in the gov slack for advice. Got &lt;a href="https://docs.google.com/document/d/1mbQPc_YATKR4h7inHMDvE8OLor7crEGP7f7Qd_QszqA/edit?usp=sharing"&gt;some great practical advice about writing error messages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Worked through screen recordings of the service. Digesting the feedback from the private beta.&lt;/p&gt;
+
+&lt;p&gt;Helped a colleague help a graduate prepare for an internal interview. Always enjoy helping others see how great they are. But also pushing them further.&lt;/p&gt;
+
+&lt;p&gt;Wrote and presented at a show and tell. Great to see the researchers work through their findings.&lt;/p&gt;
+
+&lt;p&gt;I updated the wider project on the interruption card and upcoming design work.&lt;/p&gt;
+
+&lt;figure class="noir"&gt;
+  &lt;img src="/images/research_beta.png" alt="Two user researchers standing in front of a television screen"/&gt;
+  &lt;figcaption&gt;Emma and Katharine bossing it at the show and tell.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Worked on some more frontend cards for the Thunderbird team. This time SMS messages and emails. Took a chunk of the day. Had other personal stuff to deal with too.&lt;/p&gt;
+
+&lt;p&gt;Got some good news from some recruitment work I had helped lead on earlier in the year. Passed on that good news.&lt;/p&gt;
+
+&lt;p&gt;Sent an email to the programme setting out my understanding of what to do for Friday. Took a few phonecalls to uncover requirements and pragmatic approaches going forward.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Started the day with another call. Explored final content requirements and pragmatic approaches going forward.&lt;/p&gt;
+
+&lt;p&gt;Halfway through the day got asked my opinion on some ministerial feedback. Dug out some stats from the private beta period to back up my position. Things like scroll depth, user journeys etc.&lt;/p&gt;
+
+&lt;p&gt;Had a few phonecalls to sort a range of issues that sprung out of that. Helped define a few small prototypes that could be of use to explore certain issues.&lt;/p&gt;
+
+&lt;p&gt;Worked on those for first thing Friday.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Finished four prototypes. Three for the minister in the morning.&lt;/p&gt;
+
+&lt;p&gt;Sent a final call on the content and offline forms. Got all the content and packaged it up for a baselined prototype for the NHSUK team. Ready for go live.&lt;/p&gt;
+
+&lt;p&gt;Received some updated terms and conditions for the live service.&lt;/p&gt;
+
+&lt;p&gt;Helped a junior colleague go through the process to make changes to the live service. Folding in a small content correction.&lt;/p&gt;
+
+&lt;p&gt;Exhausting end to a very exhausting week.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 03</title>
     <link rel="alternate" href="http://blog.url.com/2018/04/28/weeknotes-03.html"/>
@@ -393,351 +462,6 @@ Read more:
 &lt;/li&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Kanban for interaction design</title>
-    <link rel="alternate" href="http://blog.url.com/2018/01/08/kanban_for_interaction_design.html"/>
-    <id>http://blog.url.com/2018/01/08/kanban_for_interaction_design.html</id>
-    <published>2018-01-08T21:00:00+00:00</published>
-    <updated>2018-01-12T20:01:38+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;
-Recently at work I have been using a Kanban board with a colleague to manage our design work.
-&lt;/p&gt;
-&lt;p&gt;
-Although early days, we have found it to be a real help and it has garnered some interest beyond the project we are on.
-&lt;/p&gt;
-&lt;p&gt;We started the board with the following goals:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Track what each other is working on&lt;/li&gt;
-&lt;li&gt;Record our design reviews and comments&lt;/li&gt;
-&lt;li&gt;Better develop our design process (using hypotheses)&lt;/li&gt;
-&lt;li&gt;Record design decisions and evidence for them&lt;/li&gt;
-&lt;li&gt;Show our process to the rest of the project&lt;/li&gt;
-&lt;li&gt;Be able to (visually) organise and  priortise design work&lt;/li&gt;
-&lt;li&gt;Involve our Product Owner in priortising what design work was being focused on&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Even if you are the sole designer/UX person, it is valuable to be able to communicate with other people on a project what you are working on and your current priorities.&lt;/p&gt;
-&lt;p&gt;The board has helped us structure our work and track it better, as well as expose that workflow to other members of the team.&lt;/p&gt;
-&lt;p&gt;It has also shown us where our design bottlenecks are, and what things we need to swarm on together to speed up and get done.&lt;/p&gt;
-&lt;p&gt;It takes discipline to maintain but provides real value if you do.&lt;/p&gt;
-&lt;h2 id='so_what_is_kanban'&gt;So, what is Kanban?&lt;/h2&gt;
-&lt;p&gt;
-If you've worked on a software project before, you may have encountered
-&lt;a href='https://www.atlassian.com/agile/kanban'&gt;Kanban boards.&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;On a Kanban board, items (jobs, tasks or anything) are written on cards which sit on a board in a set of columns. Each column has a label indicating the cards status or activity. The cards move across the board as they change status.&lt;/p&gt;
-&lt;p&gt;The simplest Kanban boards are structured in three columns of "todo", "doing", "done". Often this board structure then evolves with a "backlog" or "ideas" column preceeding the todo column for ideas to be stored.&lt;/p&gt;
-&lt;div class='todo-board'&gt;
-&lt;div&gt;
-&lt;h3 class='h4 title'&gt;
-Ideas
-&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div&gt;
-&lt;h3 class='h4 title'&gt;
-Todo
-&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div&gt;
-&lt;h3 class='h4 title'&gt;
-Doing
-&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div&gt;
-&lt;h3 class='h4 title'&gt;
-Done
-&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Like many workflows ours didn't feel like it fit with this simplisitic structure. But we did feel like this technique could help us structure our work.&lt;/p&gt;
-&lt;h2 id='how_we_implemented_kanban'&gt;How we implemented Kanban&lt;/h2&gt;
-&lt;p&gt;The first step we took was to sketch out the phases a bit of design work would go through.&lt;/p&gt;
-&lt;p&gt;To test if it would work we realised we needed to get this on a whiteboard.&lt;/p&gt;
-&lt;p&gt;We found some whiteboard space (a precious commodity) and started to draw our board up.&lt;/p&gt;
-&lt;p&gt;
-We both knew this was going to be a long journey. There was also a risk of exposing our work too early and receiving too much input too soon. It's better to get something up and public. The risk was worth the reward.
-&lt;/p&gt;
-&lt;h3&gt;First implementation&lt;/h3&gt;
-&lt;p&gt;After going backwards and forwards over the column names, we sketched out our board and added some cards.&lt;/p&gt;
-&lt;img alt='A Kanban board drawn on a whiteboard' src='/images/boards/first_iteration.jpg'&gt;
-&lt;p&gt;The idea behind the columns were:&lt;/p&gt;
-&lt;ol id='first-implementation'&gt;
-&lt;li&gt;
-&lt;h4&gt;Backlog&lt;/h4&gt;
-&lt;p&gt;The is where our ideas live. Design hypotheses. Components to look into and explore. Things to optimise. Bugs or "That's not great is its".&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Elaborate&lt;/h4&gt;
-&lt;p&gt;The phase where we are actively working on a problem, but exploring the shape and size of it. Looking at current solutions and the reasons they exist, as well as other people's.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Refine&lt;/h4&gt;
-&lt;p&gt;Here we are refining our ideas into testable chunks of work. Sketching paper prototypes. Thinking how a problem might be solved but an iterative area of work.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Build&lt;/h4&gt;
-&lt;p&gt;The stage where we formally think an idea is worth pursuing. We have a hypothesis, we have refined it and now want to build something formally to test and review&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Review&lt;/h4&gt;
-&lt;p&gt;Formal review time. Either with a fellow designer or a member of the product team (or programme or beyond).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Test/Evaluate&lt;/h4&gt;
-&lt;p&gt;Time to get it in front of people and work out if it has the desired outcomes.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Done&lt;/h4&gt;
-&lt;p&gt;All work finished. Idea explored, built, reviewed, tested with users.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;We got something up. And the second we did we saw what we felt was right, but also what we felt was missing.&lt;/p&gt;
-&lt;p&gt;We didn't know where and by whom something was reviewed. Nor did we get a good sense of what was bouncing around after review.&lt;/p&gt;
-&lt;p&gt;We also wanted to ensure our process was repeatable. Repeating high value things like documenting design decisions. We wanted to have that explicit, rather than implicit.&lt;/p&gt;
-&lt;p&gt;As designers we're part of the board and ceremonies for the development team. Our work feeds into the Scrum/Kanban flow of the development board, but we help with frontend tickets too.&lt;/p&gt;
-&lt;p&gt;It was clear immediately that the development board of the project we were on had informed us.&lt;/p&gt;
-&lt;p&gt;We had copied some of the naming conventions and flow. It felt like it captured some of what we wanted to do, but not enough.&lt;/p&gt;
-&lt;h3&gt;Exposing the workflow&lt;/h3&gt;
-&lt;p&gt;We had started using the board. As we used it and explained it, it felt like there needed to be an iterative pattern or process in the middle.&lt;/p&gt;
-&lt;p&gt;In hindsight, this is where we got a little too complicated early on. We knew we would see real value in exposing the iterative nature of our work. We struggled to find that balance.&lt;/p&gt;
-&lt;p&gt;
-Having looked for other examples of designers using Kanban, I stumbled across
-&lt;a href='/'&gt;this blog post about Kanban&lt;/a&gt;.
-It explained how Conceptboard had used it.
-&lt;/p&gt;
-&lt;p&gt;I thought the Z-shaped pattern quite interesting.  It showed the iterative pattern of a design artefact going through rounds of review and refinement.&lt;/p&gt;
-&lt;p&gt;Inspired by this, we created a less-conventional Kanban design that looked like the below:&lt;/p&gt;
-&lt;div class='z-board'&gt;
-&lt;div class='backlog'&gt;
-&lt;h3 class='h4 title'&gt;
-Backlog
-&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class='research'&gt;
-&lt;h3 class='h4 title'&gt;
-Research
-&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class='design'&gt;
-&lt;h3 class='h4 title'&gt;
-Design
-&lt;/h3&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-Prototype
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-Refine
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class='review'&gt;
-&lt;h3 class='h4 title'&gt;
-Review
-&lt;/h3&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-Design
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-Project
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-External
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class='done'&gt;
-&lt;h3 class='h4 title'&gt;
-Done
-&lt;/h3&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-Documented
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-Shared
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class='inner-row'&gt;
-&lt;h4&gt;
-Deployed
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;The idea behind this structure is that important sub-phases of design are exposed. The flow of a card on this board is still left to right but if a card merited it, it could fall through additional phases.&lt;/p&gt;
-&lt;p&gt;
-A card that goes through review would jump from
-&lt;strong&gt;Design - Prototype&lt;/strong&gt;
-to
-&lt;strong&gt;Review - Design&lt;/strong&gt;
-moving after that again into the
-&lt;strong&gt;Design&lt;/strong&gt;
-column but this time in the
-&lt;strong&gt;Refine&lt;/strong&gt;
-cell.
-&lt;/p&gt;
-&lt;p&gt;Cards would now move through a Z-shape or in a circular fashion. Their iterative journey surfaced.&lt;/p&gt;
-&lt;p&gt;Our second feature was the drawing out of what wanted to make sure we did with each bit of design work. The process of documenting and sharing our work and then getting it in a product (prototype or production).&lt;/p&gt;
-&lt;p&gt;Looking at this now it is easy for us to see the faults.  At the time we were so close to it, it took us time to step back and see what was working and what wasn't.&lt;/p&gt;
-&lt;p&gt;
-We sacrificed the simplicity of our board to expose the iterative flow. We had completely messed up any notion of done by filling things in that column rather.
-&lt;/p&gt;
-&lt;h3&gt;Wider feedback&lt;/h3&gt;
-&lt;p&gt;I now felt ready to ask for some feedback.&lt;/p&gt;
-&lt;p&gt;I grabbed an experienced service designer I knew and walked him through the board.&lt;/p&gt;
-&lt;p&gt;It was great to hear he loved what we were doing. He also poked and prodded the thinking behind everything.&lt;/p&gt;
-&lt;p&gt;
-Taking the time to explain your concept is often the quickest way to expose the holes in your thinking. This is because you have to explain your idea without your hidden assumptions and background knowledge.
-&lt;/p&gt;
-&lt;p&gt;
-The complicated nature of the flow was clear.  Not in the fact that the designer couldn't understand and appreciate the flow, but that he was completely unsure of how it would work by looking at it.
-&lt;/p&gt;
-&lt;p&gt;Another interesting point the service designer made was about our prioritisation of cards.&lt;/p&gt;
-&lt;p&gt;
-I mentioned that we wanted to have a sense of what was more important. Our idea was to rank cards and show that on the board with high priority cards being at the top of the
-&lt;strong&gt;Backlog&lt;/strong&gt;.
-&lt;/p&gt;
-&lt;blockquote&gt;
-As I was talking through the board the head of the user research profession walked by. She asked a couple of questions too. A real reminder of the amazing place that I get to work where I can casually talk to two amazing, talented and experienced individuals about a sub-project I am passionate about.
-&lt;/blockquote&gt;
-&lt;h3&gt;Designing the card&lt;/h3&gt;
-&lt;p&gt;As we had been iterating our board we had been taking real design tasks through them. The design of our cards hadn't received much love or attention at this stage.&lt;/p&gt;
-&lt;p&gt;At first our cards consisted of their title.&lt;/p&gt;
-&lt;p&gt;Then we added a short description.&lt;/p&gt;
-&lt;p&gt;We started to toy with the idea of colour indicating the type of design work. This was something that the developer board of our project did well.&lt;/p&gt;
-&lt;p&gt;I grabbed our Product Owner to walk them through the board.&lt;/p&gt;
-&lt;p&gt;
-They appreciated the clarity into our process and what we were working on. The ability to influence and ensure things he saw down the line would be accommodated.
-&lt;/p&gt;
-&lt;p&gt;They added that it would be valuable for them to be able to see where design issues or tasks came from.&lt;/p&gt;
-&lt;p&gt;This felt like that a great idea. On each card we added a "referral" tag. This one-line tag, indicated where the problem or task came from.&lt;/p&gt;
-&lt;div class='kanban-card'&gt;
-&lt;div class='title'&gt;
-&lt;h4&gt;
-Title of the Kanban card
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class='stickers'&gt;&lt;/div&gt;
-&lt;div class='desc'&gt;
-&lt;p&gt;
-Description of the hypothesis, thing to explore or issue raised
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class='referrer'&gt;
-&lt;p&gt;
-Originator of idea/issue (Project, Lab etc.)
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;We now had a stronger structure for our cards.&lt;/p&gt;
-&lt;p&gt;At this stage, it felt like an optimisation too far to use coloured cards. We knew there was value to that system of categorisation. But it felt like a premature optimisation.&lt;/p&gt;
-&lt;p&gt;We also had plenty of space left on the card to add things like tags, avatars and Jira numbers. And plenty of time to have finer grained categories too, further down the line.&lt;/p&gt;
-&lt;h3&gt;Simplifying it&lt;/h3&gt;
-&lt;p&gt;The board now felt like it was adding value. The cards were now easier to understand and the board was explicit at which stage our work was.&lt;/p&gt;
-&lt;p&gt;The development team we sit in has a very experienced Scrum Master. I felt the board and my ability to explain it was now at a point where I could expose it further and to more rigorous examination.&lt;/p&gt;
-&lt;p&gt;We grabbed some time and took them through the board.&lt;/p&gt;
-&lt;p&gt;The board received more love. But the Scrum Master also noted two things they would change:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The board column structure was too hard to understand at first glance&lt;/li&gt;
-&lt;li&gt;We didn't really have a real done column&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It would have been easy to argue with the Scrum Master and say that an iterative process cannot be displayed in a linear fashion.&lt;/p&gt;
-&lt;p&gt;However, this was the third or fourth time we had heard something similar about the visual structure. Every time we explained it, people understood it. But we wanted this board to expose something about how we worked to our project and the wider organisation.&lt;/p&gt;
-&lt;p&gt;Asking the Scrum Master about other ways of displaying iterations he mentioned the use of sticky dots.&lt;/p&gt;
-&lt;p&gt;This idea seemed like a very neat way of indicating what had been reviewed and by whom.&lt;/p&gt;
-&lt;p&gt;Taking this opportunity we went back to basics. We explained our work flow and design process to the Scrum Master who scribbled on the board as we did.&lt;/p&gt;
-&lt;img src='/images/boards/analysing_the_flow.jpg'&gt;
-&lt;p&gt;We had another iteration&lt;/p&gt;
-&lt;h3&gt;Another iteration&lt;/h3&gt;
-&lt;p&gt;The outcome of the session with the Scrum Master meant we had an alternative way of displaying our iterative process as well as some tweaks to our columns.&lt;/p&gt;
-&lt;p&gt;We drew up our board and made a few tweaks again.&lt;/p&gt;
-&lt;img src='/images/boards/another_iteration.jpg'&gt;
-&lt;p&gt;Our new column structure was:&lt;/p&gt;
-&lt;ol id='another-iteration'&gt;
-&lt;li&gt;
-&lt;h4&gt;Backlog&lt;/h4&gt;
-&lt;p&gt;The is where our ideas live. Design hypotheses. Components to look into and explore. Things to optimise. Bugs or "That's not great is its".&lt;/p&gt;
-&lt;p&gt;With the product team, we routinely rank and evaluate items here. Ensuring everything has been designed and tested before being put into the product.&lt;/p&gt;
-&lt;p&gt;To illustrate something is more important, it sits higher up the board.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Research&lt;/h4&gt;
-&lt;p&gt;The phase where we are actively working on a problem, but exploring the shape and size of it. Looking at current solutions and the reasons they exist, as well as other people's.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Design&lt;/h4&gt;
-&lt;p&gt;Here we are exploring and then refining our ideas into testable chunks of work. From sketching paper prototypes to screens or HTML.&lt;/p&gt;
-&lt;p&gt;If an item has a sticky note, it has been reviewed and an indicator of an item going through some further refinement or exploration.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Design Review&lt;/h4&gt;
-&lt;p&gt;Formal review time. With another designer. The idea here being that we stage a time for each and every piece of design work.&lt;/p&gt;
-&lt;p&gt;Comments and suggestions are made and then saved. A sticky dot with the reviewer's initials are added.&lt;/p&gt;
-&lt;p&gt;If the item is deemed to need some further work, it can go back to the design column. If it is ready for wider review or would benefit from it, it moves forward.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Wider Review&lt;/h4&gt;
-&lt;p&gt;Review with the wider team/s. This ranges from informal to formal reviews with the product team to more formal processes including the wider programme, other organisations and entities.&lt;/p&gt;
-&lt;p&gt;After this stage, as with the design review column, a sticky dot is added. The name or initials of the reviewers are added.&lt;/p&gt;
-&lt;p&gt;The card then can return to design or move forward.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Document&lt;/h4&gt;
-&lt;p&gt;A staging area where we either create or collect our design artefacts together in one place.&lt;/p&gt;
-&lt;p&gt;We also add a design hypothesis (or two) to each ticket to surface our assumptions.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;User test&lt;/h4&gt;
-&lt;p&gt;Time to get it in front of people and work out if it has the desired outcomes.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;Done&lt;/h4&gt;
-&lt;p&gt;All work finished. Idea explored, built, reviewed, tested with users.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Bottlenecks&lt;/h3&gt;
-&lt;p&gt;We found two bottlenecks very quickly with this process. Design review and document.&lt;/p&gt;
-&lt;p&gt;The bottlenecks were faults of our own.&lt;/p&gt;
-&lt;p&gt;Taking time to formally review, rather than quick glances, slowed things down.&lt;/p&gt;
-&lt;p&gt;It is easy to review design work and not question enough with a colleague. To give a quick glance and a supportive remark.&lt;/p&gt;
-&lt;p&gt;As well as make the time to thoroughly review things, it was clear that we needed to pass through things to review quicker as well. There is always the temptation to hold onto things until they are perfect.&lt;/p&gt;
-&lt;p&gt;This makes reviewing harder. It also takes a lot longer and can stall other work you or colleagues have.&lt;/p&gt;
-&lt;p&gt;The board highlighted that we needed to review early and often.&lt;/p&gt;
-&lt;p&gt;Documenting things well can be a tough task. The board revealed to us we weren't documenting as we went enough and this added another bottleneck.&lt;/p&gt;
-&lt;p&gt;The answer is of course "be better at documenting" but also make it easier to do.&lt;/p&gt;
-&lt;p&gt;
-Using a
-&lt;a href="/2017/12/10/hypothesis-driven-design.html" target="_blank"&gt;hypotheses driven design method&lt;/a&gt;
-we adopted a lean way of articulating our design decisions and what we were aiming to test with each change.
-&lt;/p&gt;
-&lt;p&gt;We also used the comments section of a corresponding Jira card to document our review as well as attach any screenshots, PDFs, sketch files or links.&lt;/p&gt;
-&lt;p&gt;Because we made it easier to document our design decisions, we got better at documenting as we went.&lt;/p&gt;
-&lt;h2&gt;Benefits of using Kanban&lt;/h2&gt;
-&lt;p&gt;Our journey using the Kanban board has only just begun but we've seen some real value already.&lt;/p&gt;
-&lt;p&gt;With it we're able to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Track what each other is working on&lt;/li&gt;
-&lt;li&gt;Easily record our design reviews and comments&lt;/li&gt;
-&lt;li&gt;Involve our team in our process&lt;/li&gt;
-&lt;li&gt;Continuously inspect our process and decisions&lt;/li&gt;
-&lt;li&gt;Make better stuff&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It has played a core part of integrating our design process into the wider product and team. It has improved us as designers. It has organised and evolved our process. It has made it easier to work together.&lt;/p&gt;
-&lt;p&gt;If you're considering using one, do it!&lt;/p&gt;
 </content>
   </entry>
 </feed>
