@@ -5,10 +5,138 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-05-04T01:00:00+01:00</updated>
+  <updated>2018-05-11T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 05</title>
+    <link rel="alternate" href="http://blog.url.com/2018/05/11/weeknotes-05.html"/>
+    <id>http://blog.url.com/2018/05/11/weeknotes-05.html</id>
+    <published>2018-05-11T01:00:00+01:00</published>
+    <updated>2018-05-14T23:16:18+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Bank holiday. Spent it in Cheshire. Sadly felt really ill for most of the day :/&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Worked from home.&lt;/p&gt;
+
+&lt;p&gt;Looked into an issue analytics during public beta. We need to be clearer on capturing consent. Right now we don’t capture it. There is an organisation-wide solution but it may not actually be ready for our cutoff.&lt;/p&gt;
+
+&lt;p&gt;Tweaked a couple of things on a prototype.&lt;/p&gt;
+
+&lt;p&gt;Got back to a colleague who had some questions about how we had evolved our site&amp;rsquo;s navigation. Hypothesis driven design to the rescue again. Every change we’ve used a set way of recording changes and the reasons for them. You can find more info on &lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;how we do Hypothesis driven design in this blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Quick sketch and wireframe of a couple of solutions to an issue. We need to solve is how we handle important offline forms for very specialist groups. Mocked a few things up.&lt;/p&gt;
+
+&lt;p&gt;Had a meeting with programme and NHSUK team about progress for go live. After that did a technical review of the pages. Caught a couple of small issues.&lt;/p&gt;
+
+&lt;p&gt;Worked a little on my part on my &amp;ldquo;Making UX Agile&amp;rdquo; talk. Emma Harvey (Head of Product) and I got asked if we could take the show on the road to Agile Manchester. Got told we had extremely positive reviews at UX in the City.&lt;/p&gt;
+
+&lt;p&gt;The potential audience was quite different.  So, although the narrative remained similar, I wanted to nail down the main takeaways. See Thursday for those!&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;In Manchester for &amp;ldquo;Agile Manchester&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Couldn&amp;rsquo;t quite get into the swing of the event due to other work stuff. Was there with my delivery manager and she also had quite a few things to attend to as well.&lt;/p&gt;
+
+&lt;p&gt;Had to duck out of the keynote to make an iteration on a prototype.&lt;/p&gt;
+
+&lt;p&gt;Caught an interesting talk from John Clapham called &amp;ldquo;Kaizen to Karõshi - sustainable pace and performance in teams&amp;rdquo;. Effectively, how and why people burn out. How agile can actually be an excuse for some bad behaviours.&lt;/p&gt;
+
+&lt;p&gt;Made me pause for thought. Look after yourself, and each other.&lt;/p&gt;
+
+&lt;p&gt;Co-presented after lunch with the wonderful Emma. Our talk was called &lt;a href="http://agilemanchester.net/2018/sessions/index.php?session=503"&gt;Making UX truly agile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We talked about our journey. Starting from an agile-ish team but with some massive silos. To a well-connected, lean agile design into dev team. We&amp;rsquo;re facing new challenges everyday. But none that feels insurmountable.&lt;/p&gt;
+
+&lt;p&gt;I was the only designer in the room. We had a mixture of developers, delivery staff and agile coaches. I asked the room how many people had experience of working with designers they felt were &amp;ldquo;agile&amp;rdquo; or &amp;ldquo;lean&amp;rdquo;. I got one half hand-up.&lt;/p&gt;
+
+&lt;p&gt;Room to improve designers!&lt;/p&gt;
+
+&lt;p&gt;My main points in the talk were:&lt;/p&gt;
+
+&lt;h3&gt;1. Focus on the quality of conversations you have, much more than the quantity&lt;/h3&gt;
+
+&lt;p&gt;Make it easy to say things of substance.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go where the conversations are happening&lt;/li&gt;
+&lt;li&gt;don’t do things - like stand ups etc. - because “that’s how we do things here”. Make sure they’re adding value. If they’re not, change it up&lt;/li&gt;
+&lt;li&gt;talk less, say more. Listen twice as much as you speak up and when you do, make sure it is productive&lt;/li&gt;
+&lt;li&gt;if it feels like it would be awkward or difficult to talk about an issue, talk about it twice as much. Get things in the open. Get things cleaned up and sorted&lt;/li&gt;
+&lt;li&gt;if you get a gut feeling like “really need to catch up with X”. Do it. Don’t delay&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do this and have less &amp;ldquo;WTF?&amp;rdquo; and &amp;ldquo;Why wasn&amp;rsquo;t I told&amp;rdquo; moments.&lt;/p&gt;
+
+&lt;h3&gt;2. You&amp;rsquo;ll never make design agile on your own&lt;/h3&gt;
+
+&lt;p&gt;Even if you are the sole designer, you&amp;rsquo;ll need help. Empower your team to think about the user. Everyone impacts on the design. In exploration or implementation. Get everyone involved. Make it everyone&amp;rsquo;s problem with yourself as the lead.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduce user outcomes&lt;/li&gt;
+&lt;li&gt;talk about it a lot and use the same language all the time&lt;/li&gt;
+&lt;li&gt;talk about users beyond the &amp;ldquo;UI&amp;rdquo; stuff. Non-functional things like security and performance are UX issues too!&lt;/li&gt;
+&lt;li&gt;invite everyone to user research and design stuff&lt;/li&gt;
+&lt;li&gt;Proactively engage and elaborate design things with the development team. Be it your BA, product owner, developer or whatever. Co-craft the implementation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do this and you&amp;rsquo;ll be able to not only &amp;ldquo;keep ahead&amp;rdquo; of the development, but see what&amp;rsquo;s coming up. See what hasn&amp;rsquo;t been thought about. And spend less time telling people &amp;ldquo;you didn&amp;rsquo;t implement that right&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Saving you time and energy to reinvest in the service or product you are building. And your own mental wellbeing.&lt;/p&gt;
+
+&lt;h3&gt;3. Treat your design process like a design problem. Create, iterate, test, iterate, test, iterate, test&lt;/h3&gt;
+
+&lt;p&gt;Master your workflow. Be sure how to take a problem and turn it into an outcome for your user. Make your process repeatable so you can keep iterating your design and iterating your service.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;work out a simple stepped flow on how you finish a piece of design work&lt;/li&gt;
+&lt;li&gt;add phases you&amp;rsquo;d like or should have (document, design review etc.)&lt;/li&gt;
+&lt;li&gt;use your process. Iterate. Test. Explore what works&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In terms of building a process, &lt;a href="https://grillopress.github.io/2018/01/08/kanban_for_interaction_design.html"&gt;I wrote up more about how we used a Kanban board to do just that in this blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you have a process ask yourself:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What works?&lt;/li&gt;
+&lt;li&gt;What could you do better?&lt;/li&gt;
+&lt;li&gt;What is too zoomed in? What am I obsessing over?&lt;/li&gt;
+&lt;li&gt;What is too high level? What is important but isn&amp;rsquo;t being captured?&lt;/li&gt;
+&lt;li&gt;Where am I holding things up?&lt;/li&gt;
+&lt;li&gt;Am I finishing things before starting the next lot of work?&lt;/li&gt;
+&lt;li&gt;Where and when do I get design tasks from?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And don&amp;rsquo;t forget to share your process. Talk about it to everyone who will listen. Share it early and often. It&amp;rsquo;s the only way to get better at it.&lt;/p&gt;
+
+&lt;h3&gt;4. There will always be a tension between design and delivery&lt;/h3&gt;
+
+&lt;p&gt;And that is okay. Design tries to get things right. And delivery is about making a thing real. There is always a need to balance making the right thing and making something real.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ll never know for sure if something works until it is used by real people. So get something out in front of a user.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Bit intense.&lt;/p&gt;
+
+&lt;p&gt;Our lead developer announced at standup he would be moving on. Really gutted to hear. He&amp;rsquo;s been great to work with and I will miss him.&lt;/p&gt;
+
+&lt;p&gt;To prepare for go live we had loads of attention and requests flying in. Very hectic day.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll leave it at that :)&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 04</title>
     <link rel="alternate" href="http://blog.url.com/2018/05/04/weeknotes-04.html"/>
@@ -385,81 +513,6 @@ pattern on the Home Office digital pattern library.
 Read more:
 &lt;a href="https://home-office-digital-patterns.herokuapp.com/patterns/interruption-card" target="_blank"&gt;Interruption card pattern&lt;/a&gt;
 &lt;/div&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-  </entry>
-  <entry>
-    <title>This week's links</title>
-    <link rel="alternate" href="http://blog.url.com/2018/01/20/weekly-links.html"/>
-    <id>http://blog.url.com/2018/01/20/weekly-links.html</id>
-    <published>2018-01-20T20:30:00+00:00</published>
-    <updated>2018-01-21T13:01:37+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;The last week was a pretty intense one at work. It included a full day in a usability lab and a day working on design principles for the NHS on Thursday. I also helped handle some more junior designer recruitment stuff as well as plan the next iteration of the prototype I am working on.&lt;/p&gt;
-&lt;p&gt;Beyond work, life was not so great. Though the week ended on a high note finding out that we will be welcoming a daughter to the family.&lt;/p&gt;
-&lt;p&gt;Here is a summary and link to some of the things that I have been reading and thinking about in the last week:&lt;/p&gt;
-&lt;ol class='weekly-link-list'&gt;
-&lt;li&gt;
-&lt;h2&gt;Put field labels above forms and wait before a user submits a form to provide error feedback&lt;/h2&gt;
-&lt;p&gt;
-Not a new one, but I shared
-&lt;a href="https://www.hindawi.com/journals/ahci/2011/202701/" target="_blank"&gt;Working towards Usable Forms on the World Wide Web: Optimizing Date Entry Input Fields &lt;/a&gt;
-to a collegue over Slack.
-&lt;/p&gt;
-&lt;p&gt;It explains that you should put field labels above forms. This lets users complete forms faster and with less stress.&lt;/p&gt;
-&lt;p&gt;It also explains that users make more errors if you validate your fields inline as your user inputs their data.&lt;/p&gt;
-&lt;p&gt;Not a portfolio-pretty approach, but let a user submit a form. Then provide them with feedback on whether it is correct. This approach points towards keeping forms short. And taking users through your service one thing at a time.&lt;/p&gt;
-&lt;div class='link-to'&gt;
-Read more:
-&lt;a href="https://www.hindawi.com/journals/ahci/2011/202701/" target="_blank"&gt;Working towards Usable Forms on the World Wide Web: Optimizing Date Entry Input Fields &lt;/a&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h2&gt;The NHS belongs to the people&lt;/h2&gt;
-&lt;p&gt;
-The
-&lt;a href="https://www.gov.uk/government/publications/the-nhs-constitution-for-england/the-nhs-constitution-for-england" target="_blank"&gt;NHS Constitution &lt;/a&gt;
-is a ridiculously inspiring document.
-&lt;/p&gt;
-&lt;p&gt;It is the guiding principles of the NHS. The aims and goals of the NHS and what it stands for.&lt;/p&gt;
-&lt;p&gt;It was officailly published in 2013 but built on things like the founding principles of the NHS, the Patient's Charter and similar documents. It has since also been updated, with 2015 being the latest revision.&lt;/p&gt;
-&lt;p&gt;The first line is "The NHS belongs to the people".&lt;/p&gt;
-&lt;p&gt;I have worked for the NHS for a while and whilst I knew parts of it and seen it quoted around and on posters, it wasn't until the last year that I really sat down to read it.&lt;/p&gt;
-&lt;p&gt;If you work for the NHS or have any sort  of love for it, I recommend reading part if not all of it.&lt;/p&gt;
-&lt;p&gt;
-The NHS Constitution was on the forefront of my mind this week as I was at a meeting to help draft up some design principles for the NHS.
-&lt;/p&gt;
-&lt;p&gt;
-At a previous meeting an NHS Digital colleague Nicola, mentioned the NHS Constitution as a guiding light for any principles. I thought Nicola's point was spot on.
-&lt;/p&gt;
-&lt;p&gt;
-As we worked on reviewing some design principles I brought them up again.
-&lt;/p&gt;
-&lt;div class='link-to'&gt;
-Read more:
-&lt;a href="https://www.gov.uk/government/publications/the-nhs-constitution-for-england/the-nhs-constitution-for-england" target="_blank"&gt;NHS Constitution &lt;/a&gt;
-&lt;/div&gt;
-&lt;li&gt;
-&lt;h2&gt;Stay focused on the user. It doesn’t matter how much experience you gain as a UX Designer, our main job is to solve user needs&lt;/h2&gt;
-&lt;p&gt;
-Since before Christmas I have been helping our with junior designer recruitment.
-&lt;/p&gt;
-&lt;p&gt;
-I wanted to make sure I was giving constructive career feedback to candidates. This led me to read Cinthya Mohr's
-&lt;a href="https://medium.com/google-design/tips-for-starting-or-growing-your-career-as-a-ux-designer-ad8dbf1eb2d6" target="_blank"&gt;Tips for starting or growing your career as a UX designer. &lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;A key process I use before doing anything is to reach out to people who I know who have done things before.&lt;/p&gt;
-&lt;p&gt;I also like to google things to see what other people learnt and what advice they'd give.&lt;/p&gt;
-&lt;p&gt;One area I thought  juniors could do with some pointers is how they explain their design process. In particular the process behind a key portfolio piece.&lt;/p&gt;
-&lt;p&gt;Cinthya's piece did a good job of laying out how to build a narrative for portfolio pieces.  It resonated with what I wanted to see from the designers I interviewed.&lt;/p&gt;
-&lt;div class='link-to'&gt;
-Read more:
-&lt;a href="https://medium.com/google-design/tips-for-starting-or-growing-your-career-as-a-ux-designer-ad8dbf1eb2d6" target="_blank"&gt;Tips for starting or growing your career as a UX designer&lt;/a&gt;
-&lt;/div&gt;
-&lt;/li&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
