@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2018/05/11/weeknotes-05.html"/>
     <id>http://blog.url.com/2018/05/11/weeknotes-05.html</id>
     <published>2018-05-11T01:00:00+01:00</published>
-    <updated>2018-05-14T23:16:18+01:00</updated>
+    <updated>2018-05-15T21:24:10+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -26,7 +26,7 @@
 
 &lt;p&gt;Worked from home.&lt;/p&gt;
 
-&lt;p&gt;Looked into an issue analytics during public beta. We need to be clearer on capturing consent. Right now we don’t capture it. There is an organisation-wide solution but it may not actually be ready for our cutoff.&lt;/p&gt;
+&lt;p&gt;Looked into an issue with our analytics during public beta. We need to be clearer on capturing consent. Right now we don’t capture it quite to the standard needed (Post May 25th). There is an organisation-wide solution but it may not actually be ready for our cutoff. Asked a question.&lt;/p&gt;
 
 &lt;p&gt;Tweaked a couple of things on a prototype.&lt;/p&gt;
 
@@ -34,11 +34,11 @@
 
 &lt;h2&gt;Wednesday&lt;/h2&gt;
 
-&lt;p&gt;Quick sketch and wireframe of a couple of solutions to an issue. We need to solve is how we handle important offline forms for very specialist groups. Mocked a few things up.&lt;/p&gt;
+&lt;p&gt;Sketched some potential solutions. Issue being wow we handle important offline forms for very specialist groups. Mocked a few things up. Trying to find something that is sustainable. Something that can deal with shifting requirements.&lt;/p&gt;
 
-&lt;p&gt;Had a meeting with programme and NHSUK team about progress for go live. After that did a technical review of the pages. Caught a couple of small issues.&lt;/p&gt;
+&lt;p&gt;Had a meeting with the programme and NHSUK team about progress for go live. After that did a technical review of the pages. Caught a couple of small issues.&lt;/p&gt;
 
-&lt;p&gt;Worked a little on my part on my &amp;ldquo;Making UX Agile&amp;rdquo; talk. Emma Harvey (Head of Product) and I got asked if we could take the show on the road to Agile Manchester. Got told we had extremely positive reviews at UX in the City.&lt;/p&gt;
+&lt;p&gt;Worked a little on my part of the &amp;ldquo;Making UX Agile&amp;rdquo; talk. Emma Harvey (Head of Product) and I got asked if we could take the show on the road to Agile Manchester. Got told we had extremely positive reviews at UX in the City.&lt;/p&gt;
 
 &lt;p&gt;The potential audience was quite different.  So, although the narrative remained similar, I wanted to nail down the main takeaways. See Thursday for those!&lt;/p&gt;
 
@@ -52,13 +52,15 @@
 
 &lt;p&gt;Caught an interesting talk from John Clapham called &amp;ldquo;Kaizen to Karõshi - sustainable pace and performance in teams&amp;rdquo;. Effectively, how and why people burn out. How agile can actually be an excuse for some bad behaviours.&lt;/p&gt;
 
-&lt;p&gt;Made me pause for thought. Look after yourself, and each other.&lt;/p&gt;
+&lt;p&gt;Made me pause for thought.&lt;/p&gt;
 
-&lt;p&gt;Co-presented after lunch with the wonderful Emma. Our talk was called &lt;a href="http://agilemanchester.net/2018/sessions/index.php?session=503"&gt;Making UX truly agile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Look after yourself, and each other.&lt;/p&gt;
 
-&lt;p&gt;We talked about our journey. Starting from an agile-ish team but with some massive silos. To a well-connected, lean agile design into dev team. We&amp;rsquo;re facing new challenges everyday. But none that feels insurmountable.&lt;/p&gt;
+&lt;p&gt;Co-presented after lunch. Our talk was called &lt;a href="http://agilemanchester.net/2018/sessions/index.php?session=503"&gt;Making UX truly agile&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I was the only designer in the room. We had a mixture of developers, delivery staff and agile coaches. I asked the room how many people had experience of working with designers they felt were &amp;ldquo;agile&amp;rdquo; or &amp;ldquo;lean&amp;rdquo;. I got one half hand-up.&lt;/p&gt;
+&lt;p&gt;We talked about our journey. Starting from an agile-ish team but with some massive silos. To a well-connected, lean agile design into dev team. We&amp;rsquo;re facing new challenges everyday. But the team feels able to rise to the challenges.&lt;/p&gt;
+
+&lt;p&gt;I was the only designer in the room. We had a mixture of developers, delivery staff and agile coaches. I asked how many people had experience of working with designers they felt were &amp;ldquo;agile&amp;rdquo; or &amp;ldquo;lean&amp;rdquo;. I got one half hand-up.&lt;/p&gt;
 
 &lt;p&gt;Room to improve designers!&lt;/p&gt;
 
@@ -80,7 +82,7 @@
 
 &lt;h3&gt;2. You&amp;rsquo;ll never make design agile on your own&lt;/h3&gt;
 
-&lt;p&gt;Even if you are the sole designer, you&amp;rsquo;ll need help. Empower your team to think about the user. Everyone impacts on the design. In exploration or implementation. Get everyone involved. Make it everyone&amp;rsquo;s problem with yourself as the lead.&lt;/p&gt;
+&lt;p&gt;Even if you are the sole designer or have one designer in the team, you&amp;rsquo;ll need help. Empower your team to think about the user. Everyone impacts on the design. In exploration or implementation. Get everyone involved. Make it everyone&amp;rsquo;s problem with yourself (or your designer) as the lead.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Introduce user outcomes&lt;/li&gt;
@@ -96,7 +98,7 @@
 
 &lt;h3&gt;3. Treat your design process like a design problem. Create, iterate, test, iterate, test, iterate, test&lt;/h3&gt;
 
-&lt;p&gt;Master your workflow. Be sure how to take a problem and turn it into an outcome for your user. Make your process repeatable so you can keep iterating your design and iterating your service.&lt;/p&gt;
+&lt;p&gt;Master your design workflow. Be sure how to take a problem and turn it into an outcome for your user. Make your process repeatable so you can keep iterating your design and iterating your service.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;work out a simple stepped flow on how you finish a piece of design work&lt;/li&gt;
@@ -125,6 +127,8 @@
 &lt;p&gt;And that is okay. Design tries to get things right. And delivery is about making a thing real. There is always a need to balance making the right thing and making something real.&lt;/p&gt;
 
 &lt;p&gt;You&amp;rsquo;ll never know for sure if something works until it is used by real people. So get something out in front of a user.&lt;/p&gt;
+
+&lt;p&gt;Being agile as a designer, or doing agile design, is about finding that path.&lt;/p&gt;
 
 &lt;h2&gt;Friday&lt;/h2&gt;
 
