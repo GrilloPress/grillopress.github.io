@@ -5,10 +5,106 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-05-11T01:00:00+01:00</updated>
+  <updated>2018-05-18T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 06</title>
+    <link rel="alternate" href="http://blog.url.com/2018/05/18/weeknotes-06.html"/>
+    <id>http://blog.url.com/2018/05/18/weeknotes-06.html</id>
+    <published>2018-05-18T01:00:00+01:00</published>
+    <updated>2018-05-20T00:26:28+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;UX team update. Caught up in a meeting beforehand so turned up a few minutes late. Always enjoy hearing what colleagues are up to.&lt;/p&gt;
+
+&lt;p&gt;Got a very direct design requirement. One that came with the caveat that without it, no live service.&lt;/p&gt;
+
+&lt;p&gt;To me it was a solution we had no idea of the impact of that tried to solve a problem we had little to no evidence for. Pushed back but got told in no uncertain terms it wasn&amp;rsquo;t up for negotiation.&lt;/p&gt;
+
+&lt;p&gt;Knocked me for six.&lt;/p&gt;
+
+&lt;p&gt;Crafted up some HTML for a new privacy notice for the Thunderbird team.&lt;/p&gt;
+
+&lt;p&gt;Had a great discussion with the Thunderbird developers later about an API we use. A small chat with the team.  Thrashing out and balancing user experience and technical possibility. A great team co-design session amongst a sea of uncertainty and confusion.&lt;/p&gt;
+
+&lt;p&gt;One of those moments you feel like as a team you could conquer anything.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Catch up meeting with the user research team first thing. Talking through some things that will be coming our way. Mitigating some issues going forward and planning the future.&lt;/p&gt;
+
+&lt;p&gt;Got an answer back RE: cookies and stuff for the 25th. Plot thickens a little but a clearer choice forward.&lt;/p&gt;
+
+&lt;p&gt;Got asked a question. In light of the requirement on Monday I felt the need to state my opinion. Without reservation. Took my time to highlight precedence and GDS standards. Squashed the issue.&lt;/p&gt;
+
+&lt;p&gt;Felt empowered I must admit.&lt;/p&gt;
+
+&lt;p&gt;Saw the design requirement&amp;rsquo;s impact on the service when a few colleagues opened the most recent prototype. I was a little bit like watching a car crash. Though not a &amp;ldquo;scientific&amp;rdquo; study, it a brutal insight into the confusion the design change will have.&lt;/p&gt;
+
+&lt;p&gt;If I thought I was losing sleep over the issue before, this really worried me. On the train home I started drafting notes on how to reverse this requirement. Or mitigate some of the confusion it was causing.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Started the day finishing off an email highlighting my case against the requirement. Built a case. Laid out the various ways forward. And prayed the email landed.&lt;/p&gt;
+
+&lt;p&gt;Helped kickstart a small project team &amp;ldquo;cookie cutters&amp;rdquo; swarm on stuff for the 25th May and beyond.&lt;/p&gt;
+
+&lt;p&gt;Jumped on various issues throughout the day. Lots of pivots and changes. Many unneeded.&lt;/p&gt;
+
+&lt;p&gt;Prepared the ground work for a different project prototype.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Meeting with lead researcher and product owner on new &amp;ldquo;NHS number&amp;rdquo; project. Talked about a few issues. Doing one thing per page and the central hypothesis behind the first prototype.&lt;/p&gt;
+
+&lt;p&gt;Walked through something I had crafted together on the train into Leeds. Benefit of having a prototyping kit where you can glue things together to test and explore ideas.&lt;/p&gt;
+
+&lt;p&gt;Changed up how I built this one in response to picking through the GDS kit. Doing more of the routing stuff on the server rather than on the frontend. Will see if it makes it more flexible for me or not.&lt;/p&gt;
+
+&lt;p&gt;Had to jump onto an urgent call. At the end of the call reiterated my points about the requirement I disagreed with. Laid out my position. Final decision was with the senior responsible officer (SRO) later in the day.&lt;/p&gt;
+
+&lt;p&gt;Ran across to the NHS Digital design away day. Heard lots of interesting stories. Saw lots of great designs in response to many challenges.&lt;/p&gt;
+
+&lt;p&gt;Got to meet up with lots of friends and the cool people from NHS BSA again!&lt;/p&gt;
+
+&lt;p&gt;Really enjoyed the guest talk from the NHS BSA team.&lt;/p&gt;
+
+&lt;p&gt;Saw a pattern throughout the day.&lt;/p&gt;
+
+&lt;p&gt;Those that shared their work early and often had a maturity and coherence to their work compared to those that didn&amp;rsquo;t. It&amp;rsquo;s the key to being a good designer. It&amp;rsquo;s hard. It&amp;rsquo;s scary. But sharing your work will make it better. Particularly before you hit that &amp;ldquo;I&amp;rsquo;m comfortable with this&amp;rdquo; stage.&lt;/p&gt;
+
+&lt;p&gt;Wasn&amp;rsquo;t able to have a great chat over lunch as I had to jump onto another urgent call. Bit upset. But that&amp;rsquo;s what happens when you are launching a national service in a weeks time.&lt;/p&gt;
+
+&lt;p&gt;Had a great day though. Always feel sad when the day is over. Never enough time to talk to everyone.&lt;/p&gt;
+
+&lt;p&gt;Walk back to the train station had a good chat with a colleague or two. Issues shared. Truths told.&lt;/p&gt;
+
+&lt;p&gt;On my train back I heard news about the hard requirement I emailed about on Wednesday was being reversed. Moment of great relief. Promised to investigate the concern that caused the requirement.&lt;/p&gt;
+
+&lt;p&gt;Can stop losing sleep over it now.&lt;/p&gt;
+
+&lt;p&gt;Also had a good chat about cookies and GDPR and what stuff needs to happen to explore the impact of that too. Plans made.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Finished off the first prototype for the new &amp;ldquo;NHS Number&amp;rdquo; project. Pretty happy with it all things considered.&lt;/p&gt;
+
+&lt;p&gt;Crafted up some screens for the cookie project. Wrote up and modelled some proto-personas. Evaluated and ranked some needs. Balanced user needs, business requirements and potential clinical risks.&lt;/p&gt;
+
+&lt;p&gt;When your website visitors may be having a heart attack. Or their child is struggling to breathe you have a duty not to get things wrong.&lt;/p&gt;
+
+&lt;p&gt;Explored the screens against various websites and pages. Judging the solution against different styles of page. And in different scenarios.&lt;/p&gt;
+
+&lt;p&gt;Shared preliminary stuff with the cookie cutters. Tweaked a few things.&lt;/p&gt;
+
+&lt;p&gt;Day then went a bit south. Ended up watching my wife connected to all sorts of machines and tests. Frustrating and very long day. All fine in the end. At times it didn&amp;rsquo;t sound like it would end well.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 05</title>
     <link rel="alternate" href="http://blog.url.com/2018/05/11/weeknotes-05.html"/>
@@ -452,73 +548,6 @@ the minister. Took a fair chunk of the day.&lt;/p&gt;
 &lt;p&gt;Had a good catch up.&lt;/p&gt;
 
 &lt;p&gt;Didn’t get to talk double diamond enough. Need to make sure we don’t leave it to goodbyes to talk our favourite subject.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Start pages</title>
-    <link rel="alternate" href="http://blog.url.com/2018/02/03/start-pages.html"/>
-    <id>http://blog.url.com/2018/02/03/start-pages.html</id>
-    <published>2018-02-03T16:45:00+00:00</published>
-    <updated>2018-02-13T12:49:39+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;For the last couple of months I have been designing for “comprehension”. Helping users understand a very complicated and emotive subject.&lt;/p&gt;
-&lt;p&gt;Although not “done”, recent success in user labs has given us some scope to focus on other risks.&lt;/p&gt;
-&lt;p&gt;We want to make sure that people start our service understanding the thing they are doing. And what they need to have to complete that journey.&lt;/p&gt;
-&lt;p&gt;We have been looking at how we inform users of the process they’ll about to undertake. How best we can let them know if they are able to complete the journey online.&lt;/p&gt;
-&lt;p&gt;This led me to read a few things about start pages:&lt;/p&gt;
-&lt;ol class='weekly-link-list'&gt;
-&lt;li&gt;
-&lt;h2&gt;“It means people can use services much quicker, and they have detailed information in the place they most need it”&lt;/h2&gt;
-&lt;p&gt;
-First was
-&lt;a href="https://designnotes.blog.gov.uk/2013/12/20/start-pages-within-guides/" target="_blank"&gt;"start pages within guides". &lt;/a&gt;
-A blog post from 2013.
-&lt;/p&gt;
-&lt;p&gt;In it the team behind the carer’s allowance explained how they integrated their start page into the guide itself. Reducing the steps required to get the allowance and making it clearer that users could make a claim&lt;/p&gt;
-&lt;p&gt;When you are dealing with quite a complicated subject, you don’t want to dilute the message with the practicalities of how to start an online transactional journey.&lt;/p&gt;
-&lt;p&gt;Yet it makes sense to have the journey start from where users are. Where they can jump back and forward and get the information they need.&lt;/p&gt;
-&lt;div class='link-to'&gt;
-Read more:
-&lt;a href="https://designnotes.blog.gov.uk/2013/12/20/start-pages-within-guides/" target="_blank"&gt;Start pages within guides&lt;/a&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h2&gt;“You’ll only be able to ask users clear questions when the process itself is clear”&lt;/h2&gt;
-&lt;p&gt;
-As I kept googling I re-read the
-&lt;a href="https://www.gov.uk/service-manual/design/check-before-you-start" target="_blank"&gt;“Check before you start”&lt;/a&gt;
-pattern. This is where you take users through a set of questions that pre-checks whether they are able to use the service in question.
-&lt;/p&gt;
-&lt;p&gt;The “before you start” pattern was something we toyed with in an earlier prototype but the journey felt like we were begging the question. The outcomes were too simple and as such didn’t add much value to the transaction.&lt;/p&gt;
-&lt;p&gt;Where I see this filter pattern or similar really shining, is when you have several closely aligned transactions or services. Services with a single entry point that users might not immediately see significant difference between.&lt;/p&gt;
-&lt;p&gt;This way, the filter works like visiting a GP. You know what symptoms you have and the expert (the service) through well thought-out questions kickstarts your journey into the appropriate part of the service.&lt;/p&gt;
-&lt;div class='link-to'&gt;
-Read more:
-&lt;a href="https://www.gov.uk/service-manual/design/check-before-you-start" target="_blank"&gt;Check before you start&lt;/a&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h2&gt;“We have been able to dramatically reduce the amount of content on the start page”&lt;/h2&gt;
-&lt;p&gt;
-Another thing I looked at was the
-&lt;a href="https://home-office-digital-patterns.herokuapp.com/patterns/interruption-card" target="_blank"&gt;“interruption card”&lt;/a&gt;
-pattern on the Home Office digital pattern library.
-&lt;/p&gt;
-&lt;p&gt;This pattern matched something we had been trying to design before users got presented with a form to fill in.&lt;/p&gt;
-&lt;p&gt;Often you want to create a frictionless journey for your users. But when you need them to understand something, you need to introduce friction.&lt;/p&gt;
-&lt;p&gt;The interruption card does this well. It looks different and therefore surprises the user somewhat. But isn’t so different that they think they have gone to another website.&lt;/p&gt;
-&lt;p&gt;It summarizes the journey and requirements well, combining with the start page to increase user comprehension over two pages.&lt;/p&gt;
-&lt;p&gt;The pattern benefits from being within the journey of the service. Once a user has started a journey or transaction, they appear to take the information more seriously. Or at least, a lot more seriously than they do on the start page.&lt;/p&gt;
-&lt;p&gt;The advice in the pattern page calls for caution. Not to use the interruption card pattern too often. What is interesting about this is that the instances of the card I have seen use it quite extensively.&lt;/p&gt;
-&lt;p&gt;Rather than an interruption card, it becomes a journey within a journey. A phase.&lt;/p&gt;
-&lt;div class='link-to'&gt;
-Read more:
-&lt;a href="https://home-office-digital-patterns.herokuapp.com/patterns/interruption-card" target="_blank"&gt;Interruption card pattern&lt;/a&gt;
-&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 </content>
   </entry>
 </feed>
