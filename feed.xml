@@ -5,10 +5,104 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-05-25T01:00:00+01:00</updated>
+  <updated>2018-06-01T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 08</title>
+    <link rel="alternate" href="http://blog.url.com/2018/06/01/weeknotes-08.html"/>
+    <id>http://blog.url.com/2018/06/01/weeknotes-08.html</id>
+    <published>2018-06-01T01:00:00+01:00</published>
+    <updated>2018-06-04T07:06:04+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Bank holiday. Kept things pretty chilled out.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Started the day reviewing the activity on the service.&lt;/p&gt;
+
+&lt;p&gt;Had a call with the programme to review activity. Put things into place for analysis. Combed over some numbers and cautioned for no conclusions. Some numbers weren’t pretty. But we don&amp;rsquo;t have enough users through the system.&lt;/p&gt;
+
+&lt;p&gt;Made a point of getting the programme director to commit to an in-person design session. Idea being, get everyone in a room. Review data. Co-design solutions and share issues.&lt;/p&gt;
+
+&lt;p&gt;In my mind, we have three current concerns.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Are we letting the zoomers&amp;rsquo; zoom and the readers&amp;rsquo; read?&lt;/li&gt;
+&lt;li&gt;Are people able to find their NHS number?&lt;/li&gt;
+&lt;li&gt;Are people able to authenticate? (on scale)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We&amp;rsquo;re too early to come to a position on any of those.&lt;/p&gt;
+
+&lt;p&gt;Had a Thunderbird team retro. Talked about issues holding us back and things we did well.&lt;/p&gt;
+
+&lt;p&gt;After retro talked a little about future issues to solve.&lt;/p&gt;
+
+&lt;p&gt;Started the cookie elaboration for the service.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Elaborated a bit more on the service’s cookie solution. A solution we had intended to pursue wasn’t quite a fit this second. Had to dig through some other privacy policy stuff.&lt;/p&gt;
+
+&lt;p&gt;Had a few questions for the landing page. Resources for professionals etc.&lt;/p&gt;
+
+&lt;p&gt;Updated to a final release of a potential service prototype. Regardless if the service is a goer, feel pretty happy with the prototype.&lt;/p&gt;
+
+&lt;p&gt;DDC UX team meeting. Our lead researcher went through how we had been using hotjar. In Alpha, Private and now public beta. Limitations and workarounds.&lt;/p&gt;
+
+&lt;p&gt;Caught up with the NHS account designers afterwards. Had a good laugh about a few things. Talked about the NHS and branding.&lt;/p&gt;
+
+&lt;p&gt;Finished the day having a long catch up with Emma James. Talked through content design. Question design. Content/interaction flows and the weekly design huddle.&lt;/p&gt;
+
+&lt;p&gt;Emma agreed to talk through some of the stuff she had been working on at the huddle. Announced it on the design slack channel.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Started the day with a quick technical review for the service’s cookie banner.&lt;/p&gt;
+
+&lt;p&gt;Cleaned up some design board stuff. Dean and David volunteered to give an update on the NHSUK redesign work.&lt;/p&gt;
+
+&lt;p&gt;Had an assignment review with the service owner.&lt;/p&gt;
+
+&lt;p&gt;Caught up with Jordan, a graduate user researcher I am helping career manage. Planned in a performance review.&lt;/p&gt;
+
+&lt;p&gt;Also caught up with Sam. Graduate content designer (who dabbles with some interaction design). She was prototyping some questions up. Great to see her grow in confidence. From building her first prototype on the GDS course to using the NHS kit in the NHS account team.&lt;/p&gt;
+
+&lt;p&gt;Talked to Emma over slack about input validation and error messages for NHS numbers. Sharing some stuff we found out in research. Then talked about user confusion with national insurance numbers and NHS numbers. Good chat through important stuff.&lt;/p&gt;
+
+&lt;p&gt;Went through error messaging hypotheses. Algorithm that you can use to validate NHS numbers. We agreed that there needs to be a standard approach to NHS numbers going forward.&lt;/p&gt;
+
+&lt;p&gt;Wrote up a quick hypotheses for when a user enters a national insurance number into the NHS number field.&lt;/p&gt;
+
+&lt;p&gt;Reviewed my designs for a “review your answers” page. Felt unhappy with it on mobile and made a few tweaks.&lt;/p&gt;
+
+&lt;p&gt;Walked over to BWP for the design huddle.&lt;/p&gt;
+
+&lt;p&gt;Had a great session. Particularly enjoyed talking through interaction/content design problems as a group.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Leeds designers’ huddle &lt;a href="https://twitter.com/NHSDigital?ref_src=twsrc%5Etfw"&gt;@NHSDigital&lt;/a&gt;. &lt;a href="https://twitter.com/DoTheWords?ref_src=twsrc%5Etfw"&gt;@DoTheWords&lt;/a&gt; sharing a gnarly content and interaction design challenge to make it simpler for people to sign in to NHS services online &lt;a href="https://t.co/GAO74YPJkO"&gt;pic.twitter.com/GAO74YPJkO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Matt Edgar (@mattedgar) &lt;a href="https://twitter.com/mattedgar/status/1002210556290486278?ref_src=twsrc%5Etfw"&gt;May 31, 2018&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Started Friday with a design backlog review.&lt;/p&gt;
+
+&lt;p&gt;Provided some personal review feedback for members of the team. For their career managers.&lt;/p&gt;
+
+&lt;p&gt;Product backlog review with service owner. Talked through some concerns and future design work. Not tons on the horizon. Though that always seems to change.&lt;/p&gt;
+
+&lt;p&gt;Lunch in the sun. Caught up with some recent ex-Thunderbird team members.&lt;/p&gt;
+
+&lt;p&gt;Bit of design work on leaflets and forms. We have a creeping set of landing page requirements that is worrying me.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 07</title>
     <link rel="alternate" href="http://blog.url.com/2018/05/25/weeknotes-07.html"/>
@@ -516,92 +610,6 @@ the minister. Took a fair chunk of the day.&lt;/p&gt;
 &lt;p&gt;Spent some time exploring the GDS prototype kit and the inner workings. With the aim to pull in some features into my personal kit.&lt;/p&gt;
 
 &lt;p&gt;Learnt lots from all the prototypes I&amp;rsquo;ve built since early October last year for NHS Digital. Important not to get hung up on all the hacks. Also important to learn from them and make life easier next time.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 02</title>
-    <link rel="alternate" href="http://blog.url.com/2018/04/20/weeknotes-02.html"/>
-    <id>http://blog.url.com/2018/04/20/weeknotes-02.html</id>
-    <published>2018-04-20T01:00:00+01:00</published>
-    <updated>2018-04-22T14:59:08+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Another busy week. Worked through some issues in implementing the service&amp;rsquo;s site on the NHSUK platform. Spent some time learning how GDS and gov.uk do design in London.&lt;/p&gt;
-
-&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Started the week talking design principles. We have some draft NHS design principles up on the wall in the Digital Delivery Centre. Right now we have nine principles. To kickstart conversation I asked what two principles people would remove. We had a pretty healthy debate.  It was interesting to see slight differences between interaction and service designers.&lt;/p&gt;
-
-&lt;p&gt;Some of the principles may actually be better described as behaviours.  “What makes someone a good designer” rather than “what makes something a good design”. Something to think about.&lt;/p&gt;
-
-&lt;p&gt;I ran into Stephen Corbett who was in his last week. Talked about service design with him and the world of “UX”. Going to miss Stephen. Always good fun and a smart mind.&lt;/p&gt;
-
-&lt;p&gt;Had a sprint retrospective with the Thunderbird tribe. Then walked through some storyboards for a side project.&lt;/p&gt;
-
-&lt;p&gt;Attended the Digital Delivery Centre experience design team meet up. Talked about the progress of the service.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Worked from home. Crafted a sitemap for the service.&lt;/p&gt;
-
-&lt;p&gt;Welcomed new member of the design community via Slack. Always make a point to do this.&lt;/p&gt;
-
-&lt;p&gt;Travelled down to London later in the day. Had a 40 min delay due to a passenger medical emergency.&lt;/p&gt;
-
-&lt;p&gt;Got to my hotel fine. Right next to the tower of London and tower bridge. Missed out on being able to catch my brother before he left work and a friend. Worked out meeting my friend on Thursday though. Next time I have to stay over in London I will arrange something with a friend or a colleague beforehand. Felt bored. Had a wonder and took some photos to relieve the boredom.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/images/london/tower_bridge.jpg" alt="Tower Bridge in black and white with heavy shadows"/&gt;&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Had a wonder up to Whitechapel after strolling around St Katharine’s. Beautiful place.&lt;/p&gt;
-
-&lt;p&gt;First day of the GDS course. Talking principles, user stories, service design and journey mapping. Before getting into interaction flows with Tim Paul. Some of the day seemed out of sync. We did journey mapping before research. Seemed in the wrong order.&lt;/p&gt;
-
-&lt;p&gt;Had a great lunch from a local street market. £5 for a massive chicken tikka roll, meat samosa and a drink.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src="/images/london/team_with_tikka.jpg" alt="Four designers eating Chicken tikka wraps in a street market"/&gt;
-  &lt;figcaption class="noir"&gt;Street food on a Yorkshire budget&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Enjoyed spending the day with a group of people doing digital stuff for government. Paired with a graduate from NHS Digital, Sam as well. Enjoyed it.&lt;/p&gt;
-
-&lt;p&gt;Had a night out with the team from NHS Digital. Had a blast. Pizza. Beers and good company.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Next day at the training started with content design. Sam shone here. It’s always great to see people doing what they love. We also heard from Ed “from slack” Horsford about the journey to create the passport service.&lt;/p&gt;
-
-&lt;p&gt;I enjoyed doing an interaction design review with Tim Paul. Piped up a little too much. Particularly here. But interaction design is my jam.&lt;/p&gt;
-
-&lt;p&gt;Later on after work met a friend. Had some beers by the river. Funny how far we’d come from when we first met in a small publishing company in Birmingham.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Last day in London. Started it early by touring around the City of London and enjoying the sights.&lt;/p&gt;
-
-&lt;div class="half"&gt;
-  &lt;figure class="noir"&gt;
-    &lt;img src="/images/london/noir_gerk.jpg" alt="The Gherkin building in London in black and white with heavy shadows"/&gt;
-    &lt;figcaption&gt;The Gherkin. Always swamped and surrounded by other buildings but standing out by its shape.&lt;/figcaption&gt;
-  &lt;/figure&gt;
-  &lt;figure class="noir"&gt;
-    &lt;img src="/images/london/lloyds.jpg" alt="The Lloyd's building in London in black and white with heavy shadows"/&gt;
-    &lt;figcaption&gt;The Lloyd&amp;rsquo;s building. Brutally showing its bowels.&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Training was about using the gov.uk prototyping kit. A couple of the NHS Digital grads didn&amp;rsquo;t get IT to put the kit on their machines. Tried to use a browser based option. But all the platforms had issues. Either with gulp.js (glitch) or with a need for a credit card (Cloud9, Koding) or some bizarre no access to a terminal on free accounts (codio).&lt;/p&gt;
-
-&lt;p&gt;Bit frustrating.&lt;/p&gt;
-
-&lt;p&gt;I paired with one of the graduates and let her use my machine. It was great to see the GDS designers and frontenders there to help. Being able to cobble together an interactive prototype is a fun and powerful thing.&lt;/p&gt;
-
-&lt;p&gt;The room benefitted from there being plenty of examples in the kit as well. Lots of lessons for NHS Digital.&lt;/p&gt;
-
-&lt;p&gt;Had to catch up and jump into many conversations through the day about my normal work. Found it a touch stressful as the project is gearing up to go live and not being in Leeds.&lt;/p&gt;
 </content>
   </entry>
 </feed>
