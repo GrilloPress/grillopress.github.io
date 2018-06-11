@@ -5,10 +5,97 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-06-01T01:00:00+01:00</updated>
+  <updated>2018-06-08T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 09</title>
+    <link rel="alternate" href="http://blog.url.com/2018/06/08/weeknotes-09.html"/>
+    <id>http://blog.url.com/2018/06/08/weeknotes-09.html</id>
+    <published>2018-06-08T01:00:00+01:00</published>
+    <updated>2018-06-11T15:48:49+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Started the week by finishing off. Wrote up and shared a prototype. Demonstrating what to show users who cannot save a choice.&lt;/p&gt;
+
+&lt;p&gt;Chased up human resources team on an issue for a junior designer.&lt;/p&gt;
+
+&lt;p&gt;Talked with the Thunderbird Product owner, Ruth. Position on a potential service. Interesting product. But in my mind, obsolete on go live. Solving a real problem, in the wrong place.&lt;/p&gt;
+
+&lt;p&gt;More “Making it hard work to do something simple” than “Do the hard work to make it simple”.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Further work on leaflets and forms. How they sit within the content strategy for the site.&lt;/p&gt;
+
+&lt;p&gt;Little bit of chat about design roadmaps with a colleague. Made me think about method. Wrote up some notes.&lt;/p&gt;
+
+&lt;p&gt;Talk with product owner about the NHS number service.&lt;/p&gt;
+
+&lt;p&gt;Wrote down some stuff I had been filtering through my mind about consent. Tried to categorise some patterns of capturing consent. And some related components.&lt;/p&gt;
+
+&lt;div class="half"&gt;
+  &lt;figure class="noir"&gt;
+    &lt;img src="/images/consent/IMG_20180604_155857.jpg" alt="Sticky notes arranged on a worktop. Grouping types of consent by being implicit or explicit. As well as patterns used to inform, rather than capture consent."/&gt;
+    &lt;figcaption&gt;First go. Patterns to inform. Patterns to capture consent.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure class="noir"&gt;
+
+    &lt;img src="/images/consent/IMG_20180606_141529.jpg" alt="Sticknotes arranged in groups to express how patterns are active and passive."/&gt;
+    &lt;figcaption&gt;Passive and active patterns. And some examples of how those things are expressed and captured.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Needless to say. Lots of clean up and work through. But better out of the mind than in.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Verified cookie and analytics solution in live.&lt;/p&gt;
+
+&lt;p&gt;Worked with a programme business analyst to explain some dashboards. Talked through the numbers on the service.&lt;/p&gt;
+
+&lt;p&gt;Walked the same BA through a concept prototype. Explained the hypothesis behind it. Risks and costs attached.&lt;/p&gt;
+
+&lt;p&gt;Content strategy meeting with the programme and content designer. A good hour thrashing out the next three months. Concerns to test. Ideas to explore and things we need to have a clear answer to by October.&lt;/p&gt;
+
+&lt;p&gt;Got a massive thank you for my intervention with the last minute request before live. Feels nice to be thanked for being yourself and standing up for what you believe in.&lt;/p&gt;
+
+&lt;p&gt;Sketched up a &amp;ldquo;hypotheses mapping&amp;rdquo; process. Method to generate one. Improve it. Categorise it. And choose what to work on next.&lt;/p&gt;
+
+&lt;figure class="noir"&gt;
+  &lt;img src="/images/consent/IMG_20180611_151355.jpg" alt="Notebook full of writing."/&gt;
+  &lt;figcaption&gt;Writing to teach helps you learn. It&amp;rsquo;s how I always try to write. Always helps me find clarity.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Said farewell to a colleague going off on maternity leave. Added benefit of catching up with a colleague I hadn&amp;rsquo;t seen in a while. What he&amp;rsquo;s currently working on.&lt;/p&gt;
+
+&lt;p&gt;Caught an issue with one of the live error screens. Consequence of having to de-prioritise some work before go live.&lt;/p&gt;
+
+&lt;p&gt;Weekly design huddle.&lt;/p&gt;
+
+&lt;p&gt;Walked through the NHS referral service design. Future design concepts. Talked about product roadmaps. Getting good user centred design at the heart of them.&lt;/p&gt;
+
+&lt;p&gt;Cheeky pint with the designers from the huddle afterwards to end the day.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Triaged the error screen problem and offered two solutions. Immediate fix and an ideal long-term solution.&lt;/p&gt;
+
+&lt;p&gt;Quick meeting with the service owner.&lt;/p&gt;
+
+&lt;p&gt;Had a meeting with the new Thunderbird product owner. Caught up on the roadmap for two potential services she will be handling.&lt;/p&gt;
+
+&lt;p&gt;Spent a little time solving an NHS number-related keyboard on mobiles issue. Got a solution working across all devices. Some issues remain. Started writing up a blog post about it.&lt;/p&gt;
+
+&lt;p&gt;Packaged up a release for the NHSUK team. Surfaced a few issues. Planned next couple of releases with the programme team.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 08</title>
     <link rel="alternate" href="http://blog.url.com/2018/06/01/weeknotes-08.html"/>
@@ -530,88 +617,6 @@
 &lt;p&gt;Helped a junior colleague go through the process to make changes to the live service. Folding in a small content correction.&lt;/p&gt;
 
 &lt;p&gt;Exhausting end to a very exhausting week.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 03</title>
-    <link rel="alternate" href="http://blog.url.com/2018/04/28/weeknotes-03.html"/>
-    <id>http://blog.url.com/2018/04/28/weeknotes-03.html</id>
-    <published>2018-04-28T01:00:00+01:00</published>
-    <updated>2018-04-29T16:47:37+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Yet another busy week. Something of a pattern for April.&lt;/p&gt;
-
-&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Started the week finishing off.&lt;/p&gt;
-
-&lt;p&gt;Error messages. Form downloads for the offline service. Helping the Thunderbird team update the transactional service with some small tweaks. Bit of career management.&lt;/p&gt;
-
-&lt;p&gt;Helped get a grad I met at the GDS training in touch with Thunderbird&amp;rsquo;s talented delivery manager.&lt;/p&gt;
-
-&lt;p&gt;Spent lunch with a friend from a different team. Ended up in a random Italian place. Talked about the tension of delivery and delivering the right thing.&lt;/p&gt;
-
-&lt;p&gt;Met with the service owner. Thrashed out how we are going to help all the teams on the same page.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Folded in the new HTML email design into the system.&lt;/p&gt;
-
-&lt;p&gt;Got told I had to use a real life photo on a slack instance. So, used the first one in my phone. Got trolled hard. Obviously just too saucy. Too Mills and Boon.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure class="noir right"&gt;
-    &lt;img src="/images/mills_and_boon.png" alt="A joke mock-up of a Mills and Boon romance novel called 'Kanban at midnight' feating Andrew Duckworth's face"/&gt;
-    &lt;figcaption&gt;Available in all good bookstores&amp;hellip; Thanks Dean ;)&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;Lost count of the amount of people who told me the photo made me look fatter. Thanks. I think.&lt;/p&gt;
-
-&lt;p&gt;Spent some time with the user researchers. Ever since we had to move offices, the whole team hasn&amp;rsquo;t been able to sit together. Although Slack helps. For some people you need to get together face to face.&lt;/p&gt;
-
-&lt;p&gt;Talked through the private beta findings. We used &lt;a href="https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html"&gt;&amp;ldquo;System Usability Scale&amp;rdquo;&lt;/a&gt; as well as a comprehension survey. Great usability scores. SUS scores place the service in the top 90%.&lt;/p&gt;
-
-&lt;p&gt;Comprehension is a worry. There was a recent phrase change that we can point to as causing a drop in comprehension.&lt;/p&gt;
-
-&lt;p&gt;Enjoyed going through the screen recordings. Will build the findings into a show and tell.&lt;/p&gt;
-
-&lt;p&gt;Met with communications teams from various parts of the organisation. Working out how to help coordinate any old content and how that gets updated.&lt;/p&gt;
-
-&lt;p&gt;Talked to a GDS designer about their prototyping kit. Some of the reasoning behind certain design decisions.&lt;/p&gt;
-
-&lt;p&gt;The prototyping kit is a tool that brings patterns into life.&lt;/p&gt;
-
-&lt;p&gt;As such, less is often more. If you have too many patterns, or too low a bar for a pattern you increase the potential for teams to put in place things that are going to fail.&lt;/p&gt;
-
-&lt;p&gt;But, too few, or too high a bar for a pattern, then people will do what they need to do to get the job done right now. Often at the expense of the bigger picture.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Got asked to produce something for the minister. Asked for clarity on a few things.&lt;/p&gt;
-
-&lt;p&gt;Had a meeting with the service owner and content designer. Went through the transactional service. Talked errors, issues to implementation, emails and planning for planning.&lt;/p&gt;
-
-&lt;p&gt;Met up with a new designer, Alexandra. Working on the buying catalogue. A market place tool for procurement for CCGs. Interesting stuff. Hard challenges. Loads of potential. Was great to meet her. Had many questions about styles, patterns and standards.&lt;/p&gt;
-
-&lt;p&gt;Also talked about measuring usability and comprehension and how to get that in place for alpha.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Large planning meeting with programme, Head of Product and Thunderbird tribe. Pretty productive. No fuss. Bit worried about the level of work I am touching on in the next few weeks. Need to sketch a plan of action. Will pair up with another designer again to get some of the design work into the product for the deadline.&lt;/p&gt;
-
-&lt;p&gt;Alongside planning had to pull in some changes for a prototype for
-the minister. Took a fair chunk of the day.&lt;/p&gt;
-
-&lt;p&gt;Got invited to talk at Agile Manchester. Taking &lt;a href="http://uxinthecity.net/2018/manchester/sessions/index.php?session=311"&gt;&amp;ldquo;Making UX Agile&amp;rdquo;&lt;/a&gt; on tour.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Owned a lot of flexitime. Took some. Alongside a little bit of work on the prototype and the product.&lt;/p&gt;
-
-&lt;p&gt;Spent some time exploring the GDS prototype kit and the inner workings. With the aim to pull in some features into my personal kit.&lt;/p&gt;
-
-&lt;p&gt;Learnt lots from all the prototypes I&amp;rsquo;ve built since early October last year for NHS Digital. Important not to get hung up on all the hacks. Also important to learn from them and make life easier next time.&lt;/p&gt;
 </content>
   </entry>
 </feed>
