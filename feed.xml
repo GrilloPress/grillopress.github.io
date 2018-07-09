@@ -124,53 +124,51 @@
     <link rel="alternate" href="http://blog.url.com/2018/06/26/things-are-different-in-live.html"/>
     <id>http://blog.url.com/2018/06/26/things-are-different-in-live.html</id>
     <published>2018-06-26T01:00:00+01:00</published>
-    <updated>2018-07-06T08:19:39+01:00</updated>
+    <updated>2018-07-09T14:28:23+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;Things are different in live&lt;/p&gt;
+    <content type="html">&lt;p&gt;In May I had the privilege of hearing about the great work done by the NHS Business Services Authority.&lt;/p&gt;
 
-&lt;p&gt;In May I had the privilege of hearing about the great work being done by the NHS Business Services Authority.&lt;/p&gt;
+&lt;p&gt;During the talk the team mentioned a particular question that encountered a lot of distrust during testing.&lt;/p&gt;
 
-&lt;p&gt;During the talk the team mentioned a particular question that encountered a lot of distrust during user labs.&lt;/p&gt;
-
-&lt;p&gt;I asked if they&amp;rsquo;d seen the same since going public. Or any indication of the question causing an issue.&lt;/p&gt;
-
-&lt;p&gt;They hadn&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;I asked if they’d seen the same since going public. They hadn’t.&lt;/p&gt;
 
 &lt;p&gt;This matched a recent experience with research into the National Data Opt-out.&lt;/p&gt;
 
-&lt;p&gt;We had a few issues that when under the magnifying glass of user labs, got an increased emphasis that we didn&amp;rsquo;t see since going public.&lt;/p&gt;
+&lt;p&gt;We had a few issues that when under the magnifying glass of user labs, got an increased emphasis. Emphasis we didn’t see since going public.&lt;/p&gt;
 
-&lt;p&gt;This isn&amp;rsquo;t to say everything has been like this. The things people liked in labs, they liked in the public service. And the things that annoyed them (and us) in labs, annoyed them since going public.&lt;/p&gt;
+&lt;p&gt;This isn’t to say everything has been like this. The things people liked in labs, they liked in the public service. And the things that annoyed them (and us) in labs, annoyed them since going public.&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s a particular strength of user labs that they let you solve the issues that would stop people from even using your service. And you find speed bumps and things that lead people astray.&lt;/p&gt;
+&lt;p&gt;It’s a strength of user labs that they let you solve the issues that stop people from using your service. And you find speed bumps and things that lead people astray.&lt;/p&gt;
 
-&lt;p&gt;But they won&amp;rsquo;t iron out every issue. They also don&amp;rsquo;t reflect going public either.&lt;/p&gt;
+&lt;p&gt;But they won’t iron out every issue. They also don’t reflect going public either.&lt;/p&gt;
 
-&lt;p&gt;One thing in particular that we found performing better in the public service has been our &amp;ldquo;interruption card&amp;rdquo; component.&lt;/p&gt;
+&lt;p&gt;One thing we found performing better has been our “interruption card” component.&lt;/p&gt;
 
-&lt;p&gt;Effectively we have a screen that acts as the sinew between the landing page and transactional service that lays out what is required to do the thing online. This is subtly different from the service requirements. Though they are repeated here.&lt;/p&gt;
+&lt;p&gt;We have a screen that acts as the sinew between the landing page and transactional service. This page lays out how to do the thing online.&lt;/p&gt;
 
-&lt;p&gt;The idea behind it was to clear up the process of one-time authentication that&amp;rsquo;s needed. We found in Alpha that we had a sizeable user group that hadn&amp;rsquo;t done two-factor authentication before.&lt;/p&gt;
-
-&lt;p&gt;[I originally called the component an interstitial&amp;hellip; Home office documentation for calling them interruption cards]&lt;/p&gt;
+&lt;p&gt;The idea behind it was to clear up the process of one-time authentication that’s needed. We found in Alpha that we had a sizeable user group that hadn’t done two-factor authentication before.&lt;/p&gt;
 
 &lt;p&gt;In the lab, these things performed okay. Some people zoomed past them. Some slowed down and got the info they needed to understand the journey they were about to take.&lt;/p&gt;
 
 &lt;p&gt;Not a ringing endorsement.&lt;/p&gt;
 
-&lt;p&gt;Part of the issue in the lab was most users were happy to share their data with the NHS for research and planning purposes.&lt;/p&gt;
+&lt;p&gt;Part of the issue was most users were happy to share their data with the NHS for research and planning purposes.&lt;/p&gt;
 
-&lt;p&gt;Evaluating the component became difficult because no user was starting the transaction with any strong motivation (other than being told to use it). So we saw some users zoom through things they may have taken more time over at home.&lt;/p&gt;
+&lt;p&gt;Evaluating the component became difficult. We saw some users zoom through things they may have taken more time over at home.&lt;/p&gt;
 
-&lt;p&gt;Though it didn&amp;rsquo;t stop the zoomers, it did however seem to support some users. We kept it for the public service. Partially because of a hunch that on scale it would prove its worth and also because the evidence was that it did &lt;em&gt;alright&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Though it didn’t stop the zoomers in the lab, it did seem to support some users. We kept it for the public service. Partially because of a hunch that on scale it would prove its worth. And also because the evidence was that it did alright.&lt;/p&gt;
 
-&lt;p&gt;Since going public, the indications have been that it&amp;rsquo;s been working better. Tracking cursor movements has seen lots of users track and read the text on the card. User journey recordings also indicate it. Likewise, with user feedback on that page.&lt;/p&gt;
+&lt;p&gt;Since going public, the indications have been that it’s been working better. Tracking cursor movements has seen lots of users track and read the text on the card. User journey recordings also show it. Likewise, with user feedback on that page.&lt;/p&gt;
 
-&lt;p&gt;Empowering users is about them understanding what they are doing. And why. The value of letting users know how to do a thing is that they understand what to expect. You don&amp;rsquo;t alway need to surface process, but we&amp;rsquo;re glad we have. It stopped users questioning why we were asking for their details to stop data being shared. It stopped some users feeling out of control and unable to use the online service.&lt;/p&gt;
+&lt;p&gt;Empowering users is about them understanding what they are doing. And why.&lt;/p&gt;
 
-&lt;p&gt;You’ll never know for sure if something works until it is used by real people in realistic situations.&lt;/p&gt;
+&lt;p&gt;The value of letting users know how to do a thing is that they understand what to expect.&lt;/p&gt;
+
+&lt;p&gt;You don’t alway need to surface process, but we’re glad we have. It stopped users questioning why we were asking for their details to stop data being shared. It stopped some users feeling out of control and unable to use the online service.&lt;/p&gt;
+
+&lt;p&gt;You’ll never know for sure if something works. Things are different in live.&lt;/p&gt;
 </content>
   </entry>
   <entry>
