@@ -5,10 +5,174 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-06-08T01:00:00+01:00</updated>
+  <updated>2018-07-06T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 11</title>
+    <link rel="alternate" href="http://blog.url.com/2018/07/06/weeknotes-11.html"/>
+    <id>http://blog.url.com/2018/07/06/weeknotes-11.html</id>
+    <published>2018-07-06T01:00:00+01:00</published>
+    <updated>2018-07-09T12:04:13+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Skipped Weeknotes 10. The arrival of Evelyn Ada Duckworth over that weekend meant those notes didn’t get turned into a blog post. Written but not published.&lt;/p&gt;
+
+&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;First day back from paternity leave. Working from home.&lt;/p&gt;
+
+&lt;p&gt;Sent an email to the programme team with some context about the birth etc.&lt;/p&gt;
+
+&lt;p&gt;Appreciate the environment and warm response from everyone in NHS Digital. Makes it easier to come back as well as plan some more time with my family.&lt;/p&gt;
+
+&lt;p&gt;Wrote up some stuff for my personal development review. Found it tough going. Took inspiration from Matt Edgar and put in some tweets about my work.&lt;/p&gt;
+
+&lt;p&gt;Took some time to go through some emails and prioritise work.&lt;/p&gt;
+
+&lt;p&gt;Arranged meetings through the week to catch up on work.&lt;/p&gt;
+
+&lt;p&gt;Medical appointment for myself at lunch. A very painful one but sorting a long-term issue.&lt;/p&gt;
+
+&lt;p&gt;Worked through the user research show and tell I missed as well as accessibility review.&lt;/p&gt;
+
+&lt;p&gt;Reviewed the new designer job descriptions.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Worked from home again.&lt;/p&gt;
+
+&lt;p&gt;Wrote up some more personal review stuff.&lt;/p&gt;
+
+&lt;p&gt;Spent some time working on a new prototype content architecture for my service. We have hit a point where we need to expand what we point people to. As new needs emerge and services are developed, we need to be able to easily scale the site&amp;rsquo;s structure to handle this. Right now, we are hitting the natural scaling limit of the pattern we are using.&lt;/p&gt;
+
+&lt;p&gt;Went through a couple of stories on Jira and cleaned them up.&lt;/p&gt;
+
+&lt;p&gt;Created a new interaction flow for a potential service integration.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;First day back in the office.&lt;/p&gt;
+
+&lt;p&gt;Cleaned up an issue on Jira for the development team. Got a lovely card and gift from the Thunderbird team. Really appreciated it.&lt;/p&gt;
+
+&lt;p&gt;Checked up on the status of a ticket that really improves the user journey of our service.&lt;/p&gt;
+
+&lt;p&gt;Caught up with the product manager for Thunderbird. She&amp;rsquo;s now in control for the two programme projects. Had a good catch up.&lt;/p&gt;
+
+&lt;p&gt;Arranged with a colleague to do a “hypothesis backlog generation” session. He had worked on the service before and we’re going to run a session we did when I arrived. Blog post coming soon!&lt;/p&gt;
+
+&lt;p&gt;Talked through with a colleague some page navigation work. Shared research and ideas.&lt;/p&gt;
+
+&lt;p&gt;Cleaned up a developer point on a ticket.&lt;/p&gt;
+
+&lt;p&gt;Met up with the service owner and programme manager. We talked roadmap, future integrations and design work. They mentioned how much they needed me in the next few months which was nice to hear.&lt;/p&gt;
+
+&lt;p&gt;Caught up quickly with the user research team. Quick word before the lab on Thursday.&lt;/p&gt;
+
+&lt;p&gt;Jumped into a call with the delivery manager for the NHS app. Arranged to meet up with the design and research team in the next week.&lt;/p&gt;
+
+&lt;p&gt;Talked through links and downloads with a colleague tasked to explore those issues. Shared some scenarios and ideas.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;NHS 70th birthday. Tweeted about my little service Easter egg.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Happy birthday NHS! My little Easter egg for today was making my service&amp;rsquo;s &amp;ldquo;date of birth&amp;rdquo; helper text the same as the NHS &lt;a href="https://twitter.com/hashtag/nhs70?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#nhs70&lt;/a&gt; &lt;a href="https://t.co/KZEbEQLVcE"&gt;pic.twitter.com/KZEbEQLVcE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Andrew Duckworth (@AndrewDuck_) &lt;a href="https://twitter.com/AndrewDuck_/status/1014764183555100675?ref_src=twsrc%5Etfw"&gt;July 5, 2018&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;Early start with a usability lab. The lab focused on mobile users and digging behind some numbers. The hypothesis was that many of our users preferred not to start the transaction on mobile. We wanted to see if that was true, and if so, why.&lt;/p&gt;
+
+&lt;p&gt;We also wanted to evidence if the service was easy to use on mobile. And that we weren&amp;rsquo;t the cause of people avoiding using mobile.&lt;/p&gt;
+
+&lt;p&gt;Some things we saw in the lab:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;People really love the NHS&lt;/li&gt;
+&lt;li&gt;Most people are willing to trade off personal data for the greater good&lt;/li&gt;
+&lt;li&gt;Giving people a sense of control, even if they don&amp;rsquo;t choose to use it, influences people&amp;rsquo;s willingness to share data&lt;/li&gt;
+&lt;li&gt;Making authentication straightforward, clear and obvious increases people&amp;rsquo;s confidence in an organisation&amp;rsquo;s ability to handle sensitive data&lt;/li&gt;
+&lt;li&gt;Service comprehension remains high&lt;/li&gt;
+&lt;li&gt;Having a dropdown/reveal near the service start green button caused a little confusion on mobile. Proximity appeared to cause more issues on mobile&lt;/li&gt;
+&lt;li&gt;Many of our users just prefer their laptops over mobiles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the afternoon I walked over to the design huddle. Ben talked us through some of his research on icons. It was a great talk. Ben is one of my favourite people at NHS Digital. His talk was great.&lt;/p&gt;
+
+&lt;p&gt;Late on remembered to share some data with a colleague. Couple of heatmaps showing how people ignore thumbnails on download pages. People prefer links. People just don&amp;rsquo;t click or hover over thumbnails.&lt;/p&gt;
+
+&lt;p&gt;The value of a thumbnail is in creating a pool of focus.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Shorter work day due to my longer Thursday. Meetings most of the morning.&lt;/p&gt;
+
+&lt;p&gt;Quick update with the developer team and then lots of chats. Talked to the NHSUK redesign team about folding in work. Lots of stuff to do here.&lt;/p&gt;
+
+&lt;p&gt;Chatted to Ben about hub pages and differing styles of navigation. The key being consistent but also mixing things up when the need arrises.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s very easy as a designer, with the whole website in your head, to over-value uniformity. Users don&amp;rsquo;t notice small differences. They notice if what they want to do is hard.&lt;/p&gt;
+
+&lt;p&gt;Caught up with Matt (Head of Design). Chatted about my service and how it is going since live. Family. And how to make your siblings like you (by peeing up walls as an infant).&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Things are different in live</title>
+    <link rel="alternate" href="http://blog.url.com/2018/06/26/things-are-different-in-live.html"/>
+    <id>http://blog.url.com/2018/06/26/things-are-different-in-live.html</id>
+    <published>2018-06-26T01:00:00+01:00</published>
+    <updated>2018-07-06T08:19:39+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Things are different in live&lt;/p&gt;
+
+&lt;p&gt;In May I had the privilege of hearing about the great work being done by the NHS Business Services Authority.&lt;/p&gt;
+
+&lt;p&gt;During the talk the team mentioned a particular question that encountered a lot of distrust during user labs.&lt;/p&gt;
+
+&lt;p&gt;I asked if they&amp;rsquo;d seen the same since going public. Or any indication of the question causing an issue.&lt;/p&gt;
+
+&lt;p&gt;They hadn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;This matched a recent experience with research into the National Data Opt-out.&lt;/p&gt;
+
+&lt;p&gt;We had a few issues that when under the magnifying glass of user labs, got an increased emphasis that we didn&amp;rsquo;t see since going public.&lt;/p&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t to say everything has been like this. The things people liked in labs, they liked in the public service. And the things that annoyed them (and us) in labs, annoyed them since going public.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a particular strength of user labs that they let you solve the issues that would stop people from even using your service. And you find speed bumps and things that lead people astray.&lt;/p&gt;
+
+&lt;p&gt;But they won&amp;rsquo;t iron out every issue. They also don&amp;rsquo;t reflect going public either.&lt;/p&gt;
+
+&lt;p&gt;One thing in particular that we found performing better in the public service has been our &amp;ldquo;interruption card&amp;rdquo; component.&lt;/p&gt;
+
+&lt;p&gt;Effectively we have a screen that acts as the sinew between the landing page and transactional service that lays out what is required to do the thing online. This is subtly different from the service requirements. Though they are repeated here.&lt;/p&gt;
+
+&lt;p&gt;The idea behind it was to clear up the process of one-time authentication that&amp;rsquo;s needed. We found in Alpha that we had a sizeable user group that hadn&amp;rsquo;t done two-factor authentication before.&lt;/p&gt;
+
+&lt;p&gt;[I originally called the component an interstitial&amp;hellip; Home office documentation for calling them interruption cards]&lt;/p&gt;
+
+&lt;p&gt;In the lab, these things performed okay. Some people zoomed past them. Some slowed down and got the info they needed to understand the journey they were about to take.&lt;/p&gt;
+
+&lt;p&gt;Not a ringing endorsement.&lt;/p&gt;
+
+&lt;p&gt;Part of the issue in the lab was most users were happy to share their data with the NHS for research and planning purposes.&lt;/p&gt;
+
+&lt;p&gt;Evaluating the component became difficult because no user was starting the transaction with any strong motivation (other than being told to use it). So we saw some users zoom through things they may have taken more time over at home.&lt;/p&gt;
+
+&lt;p&gt;Though it didn&amp;rsquo;t stop the zoomers, it did however seem to support some users. We kept it for the public service. Partially because of a hunch that on scale it would prove its worth and also because the evidence was that it did &lt;em&gt;alright&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since going public, the indications have been that it&amp;rsquo;s been working better. Tracking cursor movements has seen lots of users track and read the text on the card. User journey recordings also indicate it. Likewise, with user feedback on that page.&lt;/p&gt;
+
+&lt;p&gt;Empowering users is about them understanding what they are doing. And why. The value of letting users know how to do a thing is that they understand what to expect. You don&amp;rsquo;t alway need to surface process, but we&amp;rsquo;re glad we have. It stopped users questioning why we were asking for their details to stop data being shared. It stopped some users feeling out of control and unable to use the online service.&lt;/p&gt;
+
+&lt;p&gt;You’ll never know for sure if something works until it is used by real people in realistic situations.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 09</title>
     <link rel="alternate" href="http://blog.url.com/2018/06/08/weeknotes-09.html"/>
@@ -416,207 +580,6 @@
 &lt;p&gt;Shared preliminary stuff with the cookie cutters. Tweaked a few things.&lt;/p&gt;
 
 &lt;p&gt;Day then went a bit south. Ended up watching my wife connected to all sorts of machines and tests. Frustrating and very long day. All fine in the end. At times it didn&amp;rsquo;t sound like it would end well.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 05</title>
-    <link rel="alternate" href="http://blog.url.com/2018/05/11/weeknotes-05.html"/>
-    <id>http://blog.url.com/2018/05/11/weeknotes-05.html</id>
-    <published>2018-05-11T01:00:00+01:00</published>
-    <updated>2018-05-15T21:43:25+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Bank holiday. Spent it in Cheshire. Sadly felt really ill for most of the day :/&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Worked from home.&lt;/p&gt;
-
-&lt;p&gt;Looked into an issue with our analytics during public beta. We need to be clearer on capturing consent. Right now we don’t capture it quite to the standard needed (Post May 25th). There is an organisation-wide solution but it may not actually be ready for our cutoff. Asked a question.&lt;/p&gt;
-
-&lt;p&gt;Tweaked a couple of things on a prototype.&lt;/p&gt;
-
-&lt;p&gt;Got back to a colleague who had some questions about how we had evolved our site&amp;rsquo;s navigation. Hypothesis driven design to the rescue again. Every change we’ve used a set way of recording changes and the reasons for them. You can find more info on &lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;how we do Hypothesis driven design in this blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Sketched some potential solutions. Issue being how we handle important offline forms for very specialist groups. Mocked a few things up. Trying to find something that is sustainable. Something that can deal with shifting requirements.&lt;/p&gt;
-
-&lt;p&gt;Had a meeting with the programme and NHSUK team about progress for go live. After that did a technical review of the pages. Caught a couple of small issues.&lt;/p&gt;
-
-&lt;p&gt;Worked a little on my part of the &amp;ldquo;Making UX Agile&amp;rdquo; talk. Emma Harvey (Head of Product) and I got asked if we could take the show on the road to Agile Manchester. Got told we had extremely positive reviews at UX in the City.&lt;/p&gt;
-
-&lt;p&gt;The potential audience was quite different.  So, although the narrative remained similar, I wanted to nail down the main takeaways. See Thursday for those!&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;In Manchester for &amp;ldquo;Agile Manchester&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Couldn&amp;rsquo;t quite get into the swing of the event due to other work stuff. Was there with my delivery manager and she also had quite a few things to attend to as well.&lt;/p&gt;
-
-&lt;p&gt;Had to duck out of the keynote to make an iteration on a prototype.&lt;/p&gt;
-
-&lt;p&gt;Caught an interesting talk from John Clapham called &amp;ldquo;Kaizen to Karõshi - sustainable pace and performance in teams&amp;rdquo;. Effectively, how and why people burn out. How agile can actually be an excuse for some bad behaviours.&lt;/p&gt;
-
-&lt;p&gt;Made me pause for thought.&lt;/p&gt;
-
-&lt;p&gt;Look after yourself, and each other.&lt;/p&gt;
-
-&lt;p&gt;Co-presented after lunch. Our talk was called &lt;a href="http://agilemanchester.net/2018/sessions/index.php?session=503"&gt;Making UX truly agile&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We talked about our journey. Starting from an agile-ish team but with some massive silos. To a well-connected, lean agile design into dev team. We&amp;rsquo;re facing new challenges everyday. But the team feels able to rise to the challenges.&lt;/p&gt;
-
-&lt;p&gt;I was the only designer in the room. We had a mixture of developers, delivery staff and agile coaches. I asked how many people had experience of working with designers they felt were &amp;ldquo;agile&amp;rdquo; or &amp;ldquo;lean&amp;rdquo;. I got one half hand-up.&lt;/p&gt;
-
-&lt;p&gt;Room to improve designers!&lt;/p&gt;
-
-&lt;p&gt;My main points in the talk were:&lt;/p&gt;
-
-&lt;h3&gt;1. Focus on the quality of conversations you have, much more than the quantity&lt;/h3&gt;
-
-&lt;p&gt;Make it easy to say things of substance.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Go where the conversations are happening&lt;/li&gt;
-&lt;li&gt;don’t do things - like stand ups etc. - because “that’s how we do things here”. Make sure they’re adding value. If they’re not, change it up&lt;/li&gt;
-&lt;li&gt;talk less, say more. Listen twice as much as you speak up and when you do, make sure it is productive&lt;/li&gt;
-&lt;li&gt;if it feels like it would be awkward or difficult to talk about an issue, talk about it twice as much. Get things in the open. Get things cleaned up and sorted&lt;/li&gt;
-&lt;li&gt;if you get a gut feeling like “really need to catch up with X”. Do it. Don’t delay&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Do this and have less &amp;ldquo;WTF?&amp;rdquo; and &amp;ldquo;Why wasn&amp;rsquo;t I told&amp;rdquo; moments.&lt;/p&gt;
-
-&lt;h3&gt;2. You&amp;rsquo;ll never make design agile on your own&lt;/h3&gt;
-
-&lt;p&gt;Even if you are the sole designer or have one designer in the team, you&amp;rsquo;ll need help. Empower your team to think about the user. Everyone impacts on the design. In exploration or implementation. Get everyone involved. Make it everyone&amp;rsquo;s problem with yourself (or your designer) as the lead.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Introduce user outcomes&lt;/li&gt;
-&lt;li&gt;talk about it a lot and use the same language all the time&lt;/li&gt;
-&lt;li&gt;talk about users beyond the &amp;ldquo;UI&amp;rdquo; stuff. Non-functional things like security and performance are UX issues too!&lt;/li&gt;
-&lt;li&gt;invite everyone to user research and design stuff&lt;/li&gt;
-&lt;li&gt;Proactively engage and elaborate design things with the development team. Be it your BA, product owner, developer or whatever. Co-craft the implementation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Do this and you&amp;rsquo;ll be able to not only &amp;ldquo;keep ahead&amp;rdquo; of the development, but see what&amp;rsquo;s coming up. See what hasn&amp;rsquo;t been thought about. And spend less time telling people &amp;ldquo;you didn&amp;rsquo;t implement that right&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Saving you time and energy to reinvest in the service or product you are building. And your own mental wellbeing.&lt;/p&gt;
-
-&lt;h3&gt;3. Treat your design process like a design problem. Create, iterate, test, iterate, test, iterate, test&lt;/h3&gt;
-
-&lt;p&gt;Master your design workflow. Be sure how to take a problem and turn it into an outcome for your user. Make your process repeatable so you can keep iterating your design and iterating your service.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;work out a simple stepped flow on how you finish a piece of design work&lt;/li&gt;
-&lt;li&gt;add phases you&amp;rsquo;d like or should have (document, design review etc.)&lt;/li&gt;
-&lt;li&gt;use your process. Iterate. Test. Explore what works&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In terms of building a process, &lt;a href="https://grillopress.github.io/2018/01/08/kanban_for_interaction_design.html"&gt;I wrote up more about how we used a Kanban board to do just that in this blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you have a process ask yourself:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What works?&lt;/li&gt;
-&lt;li&gt;What could you do better?&lt;/li&gt;
-&lt;li&gt;What is too zoomed in? What am I obsessing over?&lt;/li&gt;
-&lt;li&gt;What is too high level? What is important but isn&amp;rsquo;t being captured?&lt;/li&gt;
-&lt;li&gt;Where am I holding things up?&lt;/li&gt;
-&lt;li&gt;Am I finishing things before starting the next lot of work?&lt;/li&gt;
-&lt;li&gt;Where and when do I get design tasks from?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And don&amp;rsquo;t forget to share your process. Talk about it to everyone who will listen. Share it early and often. It&amp;rsquo;s the only way to get better at it.&lt;/p&gt;
-
-&lt;h3&gt;4. There will always be a tension between design and delivery&lt;/h3&gt;
-
-&lt;p&gt;And that is okay. Design tries to get things right. And delivery is about making a thing real. There is always a need to balance making the right thing and making something real.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ll never know for sure if something works until it is used by real people. So get something out in front of a user.&lt;/p&gt;
-
-&lt;p&gt;Being agile as a designer, or doing agile design, is about finding that path.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Bit intense.&lt;/p&gt;
-
-&lt;p&gt;Our lead developer announced at standup he would be moving on. Really gutted to hear. He&amp;rsquo;s been great to work with and I will miss him.&lt;/p&gt;
-
-&lt;p&gt;To prepare for go live we had loads of attention and requests flying in. Very hectic day.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll leave it at that :)&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 04</title>
-    <link rel="alternate" href="http://blog.url.com/2018/05/04/weeknotes-04.html"/>
-    <id>http://blog.url.com/2018/05/04/weeknotes-04.html</id>
-    <published>2018-05-04T01:00:00+01:00</published>
-    <updated>2018-05-07T21:51:02+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Started the week with some urgent medical care. My own.&lt;/p&gt;
-
-&lt;p&gt;After dealing with that, jumped on some frontend tickets for the Thunderbird team. Updated the interruption card in the live service.&lt;/p&gt;
-
-&lt;p&gt;We saw some mixed results using the latest version of the &amp;ldquo;interruption card&amp;rdquo;. It was either not interrupting enough or people were clicking icons. We had hoped that icons would make the card more arresting. But it has not. If anything, it made it more like a graphical element that people skipped.&lt;/p&gt;
-
-&lt;p&gt;Started on updating the error messages for the live service too.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Finished the error messages for pubic beta. Making the service&amp;rsquo;s error messages more actionable.&lt;/p&gt;
-
-&lt;p&gt;Asked in the gov slack for advice. Got &lt;a href="https://docs.google.com/document/d/1mbQPc_YATKR4h7inHMDvE8OLor7crEGP7f7Qd_QszqA/edit?usp=sharing"&gt;some great practical advice about writing error messages&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Worked through screen recordings of the service. Digesting the feedback from the private beta.&lt;/p&gt;
-
-&lt;p&gt;Helped a colleague help a graduate prepare for an internal interview. Always enjoy helping others see how great they are. But also pushing them further.&lt;/p&gt;
-
-&lt;p&gt;Wrote and presented at a show and tell. Great to see the researchers work through their findings.&lt;/p&gt;
-
-&lt;p&gt;I updated the wider project on the interruption card and upcoming design work.&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/research_beta.png" alt="Two user researchers standing in front of a television screen"/&gt;
-  &lt;figcaption&gt;Emma and Katharine bossing it at the show and tell.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Worked on some more frontend cards for the Thunderbird team. This time SMS messages and emails. Took a chunk of the day. Had other personal stuff to deal with too.&lt;/p&gt;
-
-&lt;p&gt;Got some good news from some recruitment work I had helped lead on earlier in the year. Passed on that good news.&lt;/p&gt;
-
-&lt;p&gt;Sent an email to the programme setting out my understanding of what to do for Friday. Took a few phonecalls to uncover requirements and pragmatic approaches going forward.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Started the day with another call. Explored final content requirements and pragmatic approaches going forward.&lt;/p&gt;
-
-&lt;p&gt;Halfway through the day got asked my opinion on some ministerial feedback. Dug out some stats from the private beta period to back up my position. Things like scroll depth, user journeys etc.&lt;/p&gt;
-
-&lt;p&gt;Had a few phonecalls to sort a range of issues that sprung out of that. Helped define a few small prototypes that could be of use to explore certain issues.&lt;/p&gt;
-
-&lt;p&gt;Worked on those for first thing Friday.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Finished four prototypes. Three for the minister in the morning.&lt;/p&gt;
-
-&lt;p&gt;Sent a final call on the content and offline forms. Got all the content and packaged it up for a baselined prototype for the NHSUK team. Ready for go live.&lt;/p&gt;
-
-&lt;p&gt;Received some updated terms and conditions for the live service.&lt;/p&gt;
-
-&lt;p&gt;Helped a junior colleague go through the process to make changes to the live service. Folding in a small content correction.&lt;/p&gt;
-
-&lt;p&gt;Exhausting end to a very exhausting week.&lt;/p&gt;
 </content>
   </entry>
 </feed>
