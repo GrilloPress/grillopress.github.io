@@ -5,10 +5,98 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-07-06T01:00:00+01:00</updated>
+  <updated>2018-07-13T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 12</title>
+    <link rel="alternate" href="http://blog.url.com/2018/07/13/weeknotes-12.html"/>
+    <id>http://blog.url.com/2018/07/13/weeknotes-12.html</id>
+    <published>2018-07-13T01:00:00+01:00</published>
+    <updated>2018-07-17T14:06:26+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Worked from home.&lt;/p&gt;
+
+&lt;p&gt;Finalised some personal development paperwork. For myself and a user researcher I career manage.&lt;/p&gt;
+
+&lt;p&gt;Updated the service prototype. Asked the team a couple of questions about what I saw as gaps in the content.&lt;/p&gt;
+
+&lt;p&gt;Quick chat with the programme manager. Future direction of the landing pages.&lt;/p&gt;
+
+&lt;p&gt;Got stuck into the new NHSUK redesign team&amp;rsquo;s work. Exploring how our landing pages would fit right now. But also what we are planning on creating long term.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Head&amp;rsquo;s down type of day on the future of the service. Content architecture. Site structure and redesign.&lt;/p&gt;
+
+&lt;p&gt;Talked through the day to designers about their work. What was going on. What they&amp;rsquo;ve seen and bouncing ideas between us all. Ideas are always stronger for sharing.&lt;/p&gt;
+
+&lt;p&gt;Little bit of admin for the weekly design huddle.&lt;/p&gt;
+
+&lt;p&gt;Updated the release prototype with a couple of extra changes.&lt;/p&gt;
+
+&lt;p&gt;Published my article about how &lt;a href="https://grillopress.github.io/2018/06/26/things-are-different-in-live.html"&gt;Things are different in live&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Another day full of work on the future of the service&amp;rsquo;s landing pages.&lt;/p&gt;
+
+&lt;p&gt;Helped a colleague collect some details for Expo.&lt;/p&gt;
+
+&lt;p&gt;Shared the new landing page direction with the wider team. Talked through the last round of user research and how to reflect what we learnt into our start page.&lt;/p&gt;
+
+&lt;p&gt;Caught up quite a bit with the NHSUK redesign team over slack.&lt;/p&gt;
+
+&lt;p&gt;Fired up the accessibility tools to verify a fix on the live solution. Getting better with the tools but the learning curve is immense.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Met with Pedro, a designer on the NHS app team. Talked through the app. Design decisions on the National Data Opt-out. And how we integrate the service into the app to ensure users have control over their data.&lt;/p&gt;
+
+&lt;p&gt;Caught up with the Thunderbird team. Learnt that we were going to lose some talented people from the team. Not great news to say the least.&lt;/p&gt;
+
+&lt;p&gt;Hosted the design huddle. We had Dave Evans talk to us about &amp;ldquo;publications&amp;rdquo;. Was a great chat.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Enjoyed today&amp;rsquo;s &lt;a href="https://twitter.com/NHSDigital?ref_src=twsrc%5Etfw"&gt;@NHSDigital&lt;/a&gt; design meetup talk by &lt;a href="https://twitter.com/devansXD?ref_src=twsrc%5Etfw"&gt;@devansXD&lt;/a&gt; (co-presenting here with the wonderful &lt;a href="https://twitter.com/McVities?ref_src=twsrc%5Etfw"&gt;@McVities&lt;/a&gt; Jaffacakes) &lt;a href="https://t.co/sROQENUZNF"&gt;pic.twitter.com/sROQENUZNF&lt;/a&gt;&lt;/p&gt;&amp;mdash; Andrew Duckworth (@AndrewDuck_) &lt;a href="https://twitter.com/AndrewDuck_/status/1017479408783953921?ref_src=twsrc%5Etfw"&gt;July 12, 2018&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;A consistent issue across NHS Digital projects is a need to make navigating content work for people. Either in-page or across pages. It was great to hear from Dave what they had found designing for complex reports and publications.&lt;/p&gt;
+
+&lt;p&gt;Afterwards had a quick accessibility review with the Citizen ID team. How to make errors discoverable and clear for all people. Another great huddle.&lt;/p&gt;
+
+&lt;p&gt;Finished the day by writing up instructions for the NHSUK CMS team for an upcoming update on the train home.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Started the day catching up on an email thread about the performance of our two-factor process. With the help of Adam from the Thunderbird team, dug out some of our log data.&lt;/p&gt;
+
+&lt;p&gt;The development team had been asked a question two weeks ago about an issue. Though the numbers were fine there, I felt there was a subtle difference if we looked at an earlier stage of the journey.&lt;/p&gt;
+
+&lt;p&gt;I shared the data with the head of programme and the rest of the team.&lt;/p&gt;
+
+&lt;p&gt;The numbers helped focus the team from &amp;ldquo;let&amp;rsquo;s find out what we can improve about the two-factor journey for an unknown set of users&amp;rdquo;. To &amp;ldquo;we know users struggle on this page, right here&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;After that met up with colleague (Dan) for a service review. And hypothesis generation session.&lt;/p&gt;
+
+&lt;p&gt;Dan was the junior designer on the service before and we ran a similar exercise when I joined the team (October 2017). Tables turned slightly as it was he who was asking me about the work.&lt;/p&gt;
+
+&lt;p&gt;We ran through the service questioning everything. Digging into compromises. Half solved issues. Alternatives and data. We asked the obvious questions. We did this screen by screen. Element by element.&lt;/p&gt;
+
+&lt;p&gt;As well as deconstructing things, we also created new ideas. Looking at alternatives. Considering other options we crafted up countless new ideas and things to try.&lt;/p&gt;
+
+&lt;p&gt;It was mentally draining and though. But great fun. We grabbed a pizza at lunch and took a pause.&lt;/p&gt;
+
+&lt;p&gt;Afterwards we&amp;rsquo;ll rank and sort all the ideas and questions. Which will give us our backlog of design work for the service. We&amp;rsquo;ll then share the backlog with other people in the team. Reorder, add things. Then get cracking.&lt;/p&gt;
+
+&lt;p&gt;Before the end of the day took a call from Tero, service designer on another team, to go through what we felt was our goals for a meeting on Monday.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 11</title>
     <link rel="alternate" href="http://blog.url.com/2018/07/06/weeknotes-11.html"/>
@@ -482,102 +570,6 @@
 &lt;p&gt;Chased up on some questions I had asked. Given some content for the service but bounced it back asking for clarification.&lt;/p&gt;
 
 &lt;p&gt;Went for lunch with the team and later in the day some drinks. Celebrated launching a service with a small, talented and motivated team.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 06</title>
-    <link rel="alternate" href="http://blog.url.com/2018/05/18/weeknotes-06.html"/>
-    <id>http://blog.url.com/2018/05/18/weeknotes-06.html</id>
-    <published>2018-05-18T01:00:00+01:00</published>
-    <updated>2018-05-20T17:37:20+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Delivery Centre UX team update. Caught up in a meeting beforehand so turned up a few minutes late. Always enjoy hearing what colleagues are up to.&lt;/p&gt;
-
-&lt;p&gt;Later on got a very direct design requirement. One that came with the caveat that without it, no live service.&lt;/p&gt;
-
-&lt;p&gt;To me it was a solution we had no idea of the impact of that tried to solve a problem we had little to no evidence for. Pushed back but got told in no uncertain terms it wasn&amp;rsquo;t up for negotiation.&lt;/p&gt;
-
-&lt;p&gt;Knocked me for six.&lt;/p&gt;
-
-&lt;p&gt;Crafted up some HTML for a new privacy notice for the Thunderbird team.&lt;/p&gt;
-
-&lt;p&gt;Had a great discussion with the Thunderbird developers later about an API we use. A small chat with the team. Thrashing out and balancing user experience and technical possibility. A great team co-design session amongst a sea of uncertainty and confusion.&lt;/p&gt;
-
-&lt;p&gt;One of those moments you feel like as a team you could conquer anything.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Catch up meeting with the user research team first thing. Talking through some things that will be coming our way. Mitigating some issues going forward and planning the future.&lt;/p&gt;
-
-&lt;p&gt;Got an answer back RE: cookies and stuff for the 25th. Plot thickens a little but a clearer choice forward.&lt;/p&gt;
-
-&lt;p&gt;Got asked a question. In light of the requirement on Monday I felt the need to state my opinion. Without reservation. Took my time to highlight precedence and GDS standards. Squashed the issue.&lt;/p&gt;
-
-&lt;p&gt;Felt empowered I must admit.&lt;/p&gt;
-
-&lt;p&gt;Saw the impact of Monday&amp;rsquo;s design requirement&amp;rsquo;s on the service when a few colleagues opened the most recent prototype. It was a little bit like watching a car crash. It was a brutal insight into the confusion the design change will have.&lt;/p&gt;
-
-&lt;p&gt;If I thought I was losing sleep over the issue before, this really worried me. On the train home I started drafting notes on how to reverse this requirement. Or mitigate some of the confusion it was causing.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Started the day finishing off an email highlighting my case against the requirement. Built a case. Laid out the various ways forward. And prayed the email landed.&lt;/p&gt;
-
-&lt;p&gt;Helped kickstart a small project team &amp;ldquo;cookie cutters&amp;rdquo; swarm on stuff for the 25th May and beyond.&lt;/p&gt;
-
-&lt;p&gt;Jumped on various issues throughout the day. Lots of pivots and changes. Many unneeded.&lt;/p&gt;
-
-&lt;p&gt;Prepared the ground work for a different project prototype.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Meeting with lead researcher and product owner on new &amp;ldquo;NHS number&amp;rdquo; project. Talked about a few issues. Doing one thing per page and the central hypothesis behind the first prototype.&lt;/p&gt;
-
-&lt;p&gt;Walked through something I had crafted together on the train into Leeds. Benefit of having a prototyping kit where you can glue things together to test and explore ideas.&lt;/p&gt;
-
-&lt;p&gt;Changed up how I built this one in response to picking through the GDS kit. Doing more of the routing stuff on the server rather than on the frontend. Will see if it makes it more flexible for me or not.&lt;/p&gt;
-
-&lt;p&gt;Had to jump onto an urgent call. At the end of the call reiterated my points about the requirement I disagreed with. Laid out my position. Final decision was with the senior responsible officer (SRO) later in the day.&lt;/p&gt;
-
-&lt;p&gt;Ran across to the NHS Digital design away day. Heard lots of interesting stories. Saw lots of great designs in response to many challenges.&lt;/p&gt;
-
-&lt;p&gt;Got to meet up with lots of friends and the cool people from NHS BSA again!&lt;/p&gt;
-
-&lt;p&gt;Really enjoyed the guest talk from the NHS BSA team.&lt;/p&gt;
-
-&lt;p&gt;Saw a pattern throughout the day.&lt;/p&gt;
-
-&lt;p&gt;Those that shared their work early and often had a maturity and coherence to their work compared to those that didn&amp;rsquo;t. It&amp;rsquo;s the key to being a good designer. It&amp;rsquo;s hard. It&amp;rsquo;s scary. But sharing your work will make it better. Particularly before you hit that &amp;ldquo;I&amp;rsquo;m comfortable with this&amp;rdquo; stage.&lt;/p&gt;
-
-&lt;p&gt;Wasn&amp;rsquo;t able to have a great chat over lunch as I had to jump onto another urgent call. Bit upset. But that&amp;rsquo;s what happens when you are launching a national service in a week.&lt;/p&gt;
-
-&lt;p&gt;Had a great day though. Always feel sad when the day is over. Never enough time to talk to everyone.&lt;/p&gt;
-
-&lt;p&gt;Walk back to the train station had a good chat with a colleague or two. Issues shared. Truths told.&lt;/p&gt;
-
-&lt;p&gt;On my train back I heard news about the hard requirement I emailed about on Wednesday was being reversed. Moment of great relief. Promised to investigate the concern that caused the requirement.&lt;/p&gt;
-
-&lt;p&gt;Can stop losing sleep over it now.&lt;/p&gt;
-
-&lt;p&gt;Also had a good chat about cookies and GDPR and what stuff needs to happen to explore the impact of that too. Plans made.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Finished off the first prototype for the new &amp;ldquo;NHS Number&amp;rdquo; project. Pretty happy with it all things considered.&lt;/p&gt;
-
-&lt;p&gt;Crafted up some screens for the cookie project. Wrote up and modelled some proto-personas. Evaluated and ranked some needs. Balanced user needs, business requirements and potential clinical risks.&lt;/p&gt;
-
-&lt;p&gt;When your website visitors may be having a heart attack. Or their child is struggling to breathe you have a duty not to get things wrong.&lt;/p&gt;
-
-&lt;p&gt;Explored the screens against various websites and pages. Judging the solution against different styles of page. And in different scenarios.&lt;/p&gt;
-
-&lt;p&gt;Shared preliminary stuff with the cookie cutters. Tweaked a few things.&lt;/p&gt;
-
-&lt;p&gt;Day then went a bit south. Ended up watching my wife connected to all sorts of machines and tests. Frustrating and very long day. All fine in the end. At times it didn&amp;rsquo;t sound like it would end well.&lt;/p&gt;
 </content>
   </entry>
 </feed>
