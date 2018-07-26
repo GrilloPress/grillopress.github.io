@@ -5,10 +5,100 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-07-13T01:00:00+01:00</updated>
+  <updated>2018-07-20T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 13</title>
+    <link rel="alternate" href="http://blog.url.com/2018/07/20/weeknotes-13.html"/>
+    <id>http://blog.url.com/2018/07/20/weeknotes-13.html</id>
+    <published>2018-07-20T01:00:00+01:00</published>
+    <updated>2018-07-26T08:05:27+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Finished off the short-term roadmap for NHSUK development work. Shared it and asked for feedback.&lt;/p&gt;
+
+&lt;p&gt;Met up with the Thunderbird product owner. Heard about a better direction for a large piece of work coming out of discovery.&lt;/p&gt;
+
+&lt;p&gt;Attended a Programme patient facing services meeting. Part of a regular Monday meetup. We talked about the various work streams. NHS app integration. Analytics on the service. User journeys on our NHSUK landing pages. Measuring how successful our authentication work has been. And the numbers I dug out about the two-factor element of our service.&lt;/p&gt;
+
+&lt;p&gt;Good meeting. Tough things to discuss. But cracking on. Making things better.&lt;/p&gt;
+
+&lt;p&gt;After the meeting caught up with our content designer. We talked about my “hub” page concept and his content audit and how to best take those two things forward.&lt;/p&gt;
+
+&lt;p&gt;Caught up with the developers and then walked to the Citizen, NHS app and National data opt-out cross-service meeting.&lt;/p&gt;
+
+&lt;p&gt;Pitched what I saw as the model of interaction we should be striving for.&lt;/p&gt;
+
+&lt;p&gt;I had prepared for this meeting by talking lots. Understanding constraints on all sides (design, technical, delivery).&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Three NHS services in a room. Talking through making things easier. Better. Exploring possibilities and making plans to test things. What I joined &lt;a href="https://twitter.com/NHSDigital?ref_src=twsrc%5Etfw"&gt;@NHSDigital&lt;/a&gt; to do&lt;/p&gt;&amp;mdash; Andrew Duckworth (@AndrewDuck_) &lt;a href="https://twitter.com/AndrewDuck_/status/1018889390473478147?ref_src=twsrc%5Etfw"&gt;July 16, 2018&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Started the day collecting all the improvements we’d made since going into public beta.  For a report to the Department of Health and Social Care.&lt;/p&gt;
+
+&lt;p&gt;A large chunk being accessibility improvements. Still lots more to make. But rewarding how much we’ve made the service better already.&lt;/p&gt;
+
+&lt;p&gt;Designed a “scheduled maintenance” page for the service. As the service matures, we’re refining the messages people see when things go wrong.&lt;/p&gt;
+
+&lt;p&gt;Chased up some work we’re relying on another team to complete. Bit of career management. Training courses. For myself and others.&lt;/p&gt;
+
+&lt;p&gt;Started a presentation about the reasons why we should move to a new content architecture. As much an exercise to get myself prepared as anything.&lt;/p&gt;
+
+&lt;p&gt;Designed an interaction flow for the service. Exploration of the app/service integration.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Because we’re distributed around offices, we have two weekly calls for design and research. We talked at length what we saw as the biggest problems facing the service. Came out with an update to our service polls. Had a great session.&lt;/p&gt;
+
+&lt;p&gt;Afterwards we had an authentication review. A vital meeting to dig into our biggest problems.&lt;/p&gt;
+
+&lt;p&gt;We have a range of potential solutions. In the meeting we thrashed through the pros and cons of each approach. Outcome of the meeting was a sprint based on testing a two-track authentication approach.&lt;/p&gt;
+
+&lt;p&gt;After the meeting one of the user researchers said to me “You were really on it!”. Made me laugh.&lt;/p&gt;
+
+&lt;p&gt;Asked the programme if there was any possibility we could get a graduate designer to join the team. Got a pretty quick yes. Wrote up the form. Sold the opportunity.&lt;/p&gt;
+
+&lt;p&gt;Spent the rest of the day sketching flows and screens for the next prototype iteration.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Started the morning catching up with some of the user centred design team from the Digital Delivery Centre. Then talked service design with Tero and Simon. Integration between Citizen ID and National data opt-out. Both short-term and long-term visions.&lt;/p&gt;
+
+&lt;p&gt;Asked the person in charge of the graduate programme if the form was any good. He submitted immediately and said it was great… Finger’s crossed!&lt;/p&gt;
+
+&lt;p&gt;Reviewed the new NHSUK grid system. Found a place we’d need an override. Opened an issue for the team.&lt;/p&gt;
+
+&lt;p&gt;Bit of admin with the weekly design huddle.&lt;/p&gt;
+
+&lt;p&gt;Started a new prototype series to explore the alternative authentication approaches. Was nice to be doing something with my kit again. Although I was ripping lots of things out, I have it all well set up. Integrated some of the NHS number finder code into the kit to get me ahead.&lt;/p&gt;
+
+&lt;p&gt;It can be easy as a designer to want to switch tools. To move to the next thing. Though there is much I want to improve in my kit. It works and I’m productive.&lt;/p&gt;
+
+&lt;p&gt;Attended sprint planning with the Thunderbird team. Talked the delivery team through the design hypotheses behind the future authentication work.&lt;/p&gt;
+
+&lt;p&gt;Also talked through some of the work we’d need to do around the two-factor code screen.&lt;/p&gt;
+
+&lt;p&gt;There is often a bit of tension when new work is iterative rather than incremental. A move from 1.0 to 2.0. But understanding the why. The outcomes that are desired makes the jump easier to understand.&lt;/p&gt;
+
+&lt;p&gt;Great session as ever.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Started the day with a content architecture review. Ian the content designer had crafted up the content and pages he thought vital.&lt;/p&gt;
+
+&lt;p&gt;We walked through the hub pages together. Noted a couple of changes. He sent them over ready for a new hub page prototype.&lt;/p&gt;
+
+&lt;p&gt;Spent the rest of the day working on the new authentication prototype series.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 12</title>
     <link rel="alternate" href="http://blog.url.com/2018/07/13/weeknotes-12.html"/>
@@ -440,136 +530,6 @@
 &lt;p&gt;Lunch in the sun. Caught up with some recent ex-Thunderbird team members.&lt;/p&gt;
 
 &lt;p&gt;Bit of design work on leaflets and forms. We have a creeping set of landing page requirements that is worrying me.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 07</title>
-    <link rel="alternate" href="http://blog.url.com/2018/05/25/weeknotes-07.html"/>
-    <id>http://blog.url.com/2018/05/25/weeknotes-07.html</id>
-    <published>2018-05-25T01:00:00+01:00</published>
-    <updated>2018-05-29T21:49:45+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Started early.  Created two prototypes. Exploring different cookie consent banners.&lt;/p&gt;
-
-&lt;p&gt;One with a simplified yes/no choice. Another that gave users more control.&lt;/p&gt;
-
-&lt;p&gt;Shared the prototypes with the rest of the “Cookie cutters” for feedback. Rather than chuck some hypotheses and proto-personas at the group, I arranged a call.&lt;/p&gt;
-
-&lt;p&gt;Shared the “NHS number” prototype with that team as well. Got given the analytics code to add and talked through research options.&lt;/p&gt;
-
-&lt;p&gt;After my daily standup with Thunderbird I had the research planning call. Discussed the hypotheses behind the two versions of the cookie banner.&lt;/p&gt;
-
-&lt;p&gt;Hadn’t ever worked with the researchers before. You take for granted the chemistry you have with people. But the team was great and we quickly got on the same page.&lt;/p&gt;
-
-&lt;p&gt;Talked through the ideas. Shaped the research plan. Some questions were:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What users thought the banner was about?&lt;/li&gt;
-&lt;li&gt;What (if anything) they thought the banner was asking them to do?&lt;/li&gt;
-&lt;li&gt;How they interacted with the banner&lt;/li&gt;
-&lt;li&gt;Did they know what cookies were?&lt;/li&gt;
-&lt;li&gt;How much did they know about GDPR?&lt;/li&gt;
-&lt;li&gt;Which prototype model did they prefer? Why?&lt;/li&gt;
-&lt;li&gt;What did they understand they were agreeing to?&lt;/li&gt;
-&lt;li&gt;What they understood by &amp;ldquo;third-party&amp;rdquo; and other terms?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The plan was to get people with a range of digital skills through a pop-up in a library.&lt;/p&gt;
-
-&lt;p&gt;The researchers, Ana and Antonia, thought testing a third prototype would help them. So I got to crafting it while they shared the updated research plan in the Cookie cutter slack group.&lt;/p&gt;
-
-&lt;p&gt;Jumped onto verifying the service for go-live. Caught an issue with the footer.&lt;/p&gt;
-
-&lt;p&gt;Started an interaction flow in Sketch for the NHS number prototype.&lt;/p&gt;
-
-&lt;p&gt;Took a call with programme about cookies and analytics for the service.&lt;/p&gt;
-
-&lt;p&gt;Talked to a developer on the gov.uk slack about why they needed their NHS number. They’d asked in a channel where you could find it.&lt;/p&gt;
-
-&lt;p&gt;Late in the day heard back from the researchers with the pop-up results. We got six people through. Between the two concepts, users preferred having more immediate control.&lt;/p&gt;
-
-&lt;p&gt;Users understood what was being asked of them. And had heard about &amp;ldquo;cookies&amp;rdquo;. But they felt somewhat confused over the implications of things.&lt;/p&gt;
-
-&lt;p&gt;Part of this issue was that I had thrown the words together. And they weren’t great.&lt;/p&gt;
-
-&lt;p&gt;The other issue was that we were exploring the need for consent to advert placement/tracking.&lt;/p&gt;
-
-&lt;p&gt;In a scenario where you are asking people a simpler question, the binary yes/no option would excel. But, we had a scenario where we had finer grained layers. And as such, people liked that to be transparent.&lt;/p&gt;
-
-&lt;p&gt;The next iteration was then to fold in what we had learnt about simplifying the language. As well as drilling further into how to let people make an informed decision.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;More prototyping.&lt;/p&gt;
-
-&lt;p&gt;Dug into the cookies we were using. How to categorise them to something that’s easy to understand and doesn’t rely on web concepts or web terms. Tried to simplify things.&lt;/p&gt;
-
-&lt;p&gt;We shifted to terms we thought were more commonly understood. Things like “social media”. (Yes, still too vague&amp;hellip;)&lt;/p&gt;
-
-&lt;p&gt;Explored addition concepts like “just in time” consent. This was more of a proof of concept. Not something we tested immediately.&lt;/p&gt;
-
-&lt;p&gt;Finished off the NHS number service interaction flow. Added more detail on errors and loops.&lt;/p&gt;
-
-&lt;p&gt;Got the final feedback on pop-up sessions for the latest prototypes. Progress on simplifying the concepts we are trying to get across to people.&lt;/p&gt;
-
-&lt;p&gt;Our design worked well. But we had an issue again with the language. Recent Facebook and Cambridge Analytica stories changed how people perceived a few terms. Moving in the right direction.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Improved the cookie banner based on the user feedback. Packaged up the prototype for implementation.&lt;/p&gt;
-
-&lt;p&gt;Later in the morning met up with a colleague from London to talk navigation. Love chatting to Graham but don’t get to talk face to face much. Nice change.&lt;/p&gt;
-
-&lt;p&gt;Met up with Ben. Took the opportunity to grab lunch. Talked through some stuff we were working on. Respecting context in interaction design amongst other things.&lt;/p&gt;
-
-&lt;p&gt;Talked to Adam from the Cookie cutter crew. Caught up with the implementation of the cooke banner. He&amp;rsquo;d made great progress on two versions.&lt;/p&gt;
-
-&lt;p&gt;Said hello to an NHS graduate I met during the GDS course. Caught up how she was. What she is moving onto.&lt;/p&gt;
-
-&lt;p&gt;Caught up with Ruth the product owner for the new NHS number service. Talked through where the service could live if it is a goer.&lt;/p&gt;
-
-&lt;p&gt;Shared the wireflow kit I used to create the NHS number interaction flow.&lt;/p&gt;
-
-&lt;p&gt;Late in the day talked to a colleague from the NHSUK CMS team. About the prototype kit I made to explore their designs. Crafted up a starter kit for them.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Though not announced until Friday, the Thunderbird team put the service live.&lt;/p&gt;
-
-&lt;p&gt;All things healthy and good to go. Nice moment. Particularly for a small team.&lt;/p&gt;
-
-&lt;p&gt;Took a bit of time to go deeper into the error validation and messaging for the NHS number prototype. With a small window until MVP it’s key to explore the end to end journey. Dead-ends and things we left too late on my current service.&lt;/p&gt;
-
-&lt;p&gt;Talked to a content designer colleague about help text and dropdowns.&lt;/p&gt;
-
-&lt;p&gt;Shared some stuff we found in user testing. She also suggested some stuff. Improvements for the service and new prototype.&lt;/p&gt;
-
-&lt;p&gt;Got sight of some of the launch day comms. It had changed quite a bit from last time. The plan was to announce the service in every national newspaper. As well as places like radio.&lt;/p&gt;
-
-&lt;p&gt;A couple of speakers for the weekly design meetup had had to drop out. Life got in the way. I presented on a recent issue. Had planned for the chat to end with a sketching session. But debate and discussion took us to a more strategic than interface level.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Launch day!&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/thunderbird go live.jpg" alt="Group of colleagues standing in front of a whiteboard celebrating launching a national service"/&gt;
-  &lt;figcaption&gt;Thunderbird team celebrating go live!&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Colleagues collected newspaper cuttings and shared where they had seen the service advertised.&lt;/p&gt;
-
-&lt;p&gt;Did a little more on error messages. This time some validation rules for the prototype and then wording on end-pages.&lt;/p&gt;
-
-&lt;p&gt;Helped the Thunderbird team on a range of issues and queries.&lt;/p&gt;
-
-&lt;p&gt;Chased up on some questions I had asked. Given some content for the service but bounced it back asking for clarification.&lt;/p&gt;
-
-&lt;p&gt;Went for lunch with the team and later in the day some drinks. Celebrated launching a service with a small, talented and motivated team.&lt;/p&gt;
 </content>
   </entry>
 </feed>
