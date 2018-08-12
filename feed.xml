@@ -5,10 +5,92 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-07-20T01:00:00+01:00</updated>
+  <updated>2018-08-06T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Weeknotes 14</title>
+    <link rel="alternate" href="http://blog.url.com/2018/08/06/weeknotes-14.html"/>
+    <id>http://blog.url.com/2018/08/06/weeknotes-14.html</id>
+    <published>2018-08-06T01:00:00+01:00</published>
+    <updated>2018-08-12T20:29:07+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Started the day with the regular UX meeting. Talked about the lab for the next day. Timing wise and what we need to cover is pretty tight.&lt;/p&gt;
+
+&lt;p&gt;Prototype ready to go. Added some behaviour to simulate live timings and behaviour.&lt;/p&gt;
+
+&lt;p&gt;I typically don’t simulate things like spinners and delay in a prototype. The idea being that a prototype is testing a hypothesis. Not your ability to make it seem like live. But what we’re testing is behaviour influenced by time. Delay. And the impact of failure.&lt;/p&gt;
+
+&lt;p&gt;We’re exploring adding an extra way to find your credentials. Right now, we have a high percentage change of finding users’ contact details. But, we are asking that they use their NHS number. We’re exploring alternatives.&lt;/p&gt;
+
+&lt;p&gt;Alternatives that may not suit everyone. And introduce new potential failures. But also make the service easier to use first time for many more people.&lt;/p&gt;
+
+&lt;p&gt;Spent a lot of the day chatting with a colleague Ben. Lots of fun but also sharing research and ideas. Images, designer collaboration. Ensuring styles stay consistent. Helping new and emerging services learn from what has gone before.&lt;/p&gt;
+
+&lt;p&gt;In that vein, reached out to a colleague. Offered some help on a few things that I felt weren’t quite right. Planned to work together and get stuff going in the right direction.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;All day in the lab.&lt;/p&gt;
+
+&lt;p&gt;Nine people through three prototypes.&lt;/p&gt;
+
+&lt;p&gt;Exploring how we could open up the way people authenticate using the service.&lt;/p&gt;
+
+&lt;p&gt;We had people from NHS England, Department of Health and NHS Digital observe together. As well as some very senior stakeholders. Which was great to see. A result of hard work campaigning and pushing a user-centred agenda.&lt;/p&gt;
+
+&lt;p&gt;Some interesting moments in the lab but not as much clarity as hoped for the path forward.&lt;/p&gt;
+
+&lt;p&gt;One moment was when a user said they preferred a version they struggled with. One of the programme manager&amp;rsquo;s asked &amp;ldquo;why?&amp;rdquo;. It was a great teaching moment that what people ask for, isn&amp;rsquo;t always what works.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Day after the lab. Planned some initial steps forward with the service’s authentication design.&lt;/p&gt;
+
+&lt;p&gt;Extensive talk with the researchers to plan some A/B testing.&lt;/p&gt;
+
+&lt;p&gt;Off project work. Working on a more aligned style for a colleague. Simpler screens. One thing at a time. Not one field. But one ask for the user. It doesn&amp;rsquo;t matter if your users are skilled administrators.  You treat them with the same care and attention you would on any other project.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Extremely busy day.&lt;/p&gt;
+
+&lt;p&gt;Caught up with a colleague Dan who used to be on my project. Was great to catch up and talk through his work and catch up him up on some of the things I’d been up to.&lt;/p&gt;
+
+&lt;p&gt;Walked over to my new office. Tagged along with a researcher Lucy who I enjoy chatting with. She’ll be on a project that I will lead design on. Looking forward to working with her and another researcher Will.&lt;/p&gt;
+
+&lt;p&gt;New office is nice. Have a whole floor to ourselves and lots of whitespace. And a football goal!&lt;/p&gt;
+
+&lt;p&gt;Walked into a crisis. Something in the “do later” column was now “get it done yesterday”.&lt;/p&gt;
+
+&lt;p&gt;Went over to another office to attend a meeting I had set up. Originally to sketch out the interaction flow, but now more of a crisis meeting. Productive meeting. Got to eek out the problems we need to tackle. A shared response as well as way forward.&lt;/p&gt;
+
+&lt;p&gt;Back over to the new office and walked into a technical deep-dive. Some possible ways forward immediately became problematic.&lt;/p&gt;
+
+&lt;p&gt;It was intense. But enjoyable as well. A team pulling together.&lt;/p&gt;
+
+&lt;p&gt;Played a little football together and then broke for lunch.&lt;/p&gt;
+
+&lt;p&gt;After lunch across Leeds once again to meet the researchers and talk through our A/B testing scenarios. We mapped out our ideas. Where we needed to split users. Type of activity you can tie yourself up in knots.&lt;/p&gt;
+
+&lt;p&gt;Back again across Leeds to the new office. Again walking into a few more discussions. A few more constraints uncovered. A direction forward starting to take shape.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Worked from home.&lt;/p&gt;
+
+&lt;p&gt;Spent most of the day working on a framework to help do all the A/B testing. Just simple JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Added it to my prototype and cut two versions to test. Created a landing page for the experiment as well as a end page.&lt;/p&gt;
+
+&lt;p&gt;Shared the prototype with the researchers. Now to chuck 250 people at it.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 13</title>
     <link rel="alternate" href="http://blog.url.com/2018/07/20/weeknotes-13.html"/>
@@ -434,102 +516,6 @@
 &lt;p&gt;Spent a little time solving an NHS number-related keyboard on mobiles issue. Got a solution working across all devices. Some issues remain. Started writing up a blog post about it.&lt;/p&gt;
 
 &lt;p&gt;Packaged up a release for the NHSUK team. Surfaced a few issues. Planned next couple of releases with the programme team.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 08</title>
-    <link rel="alternate" href="http://blog.url.com/2018/06/01/weeknotes-08.html"/>
-    <id>http://blog.url.com/2018/06/01/weeknotes-08.html</id>
-    <published>2018-06-01T01:00:00+01:00</published>
-    <updated>2018-06-04T10:00:56+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Bank holiday. Kept things pretty chilled out.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Started the day reviewing the activity on the service.&lt;/p&gt;
-
-&lt;p&gt;Had a call with the programme to talk through it. Put things into place for analysis. Combed over some numbers and cautioned for no conclusions. Some numbers weren’t pretty. But we don&amp;rsquo;t have enough users through the system.&lt;/p&gt;
-
-&lt;p&gt;Made a point of getting the programme director to commit to an in-person design session. Idea being, get everyone in a room. Review data. Co-design solutions and share issues.&lt;/p&gt;
-
-&lt;p&gt;In my mind, we have three current concerns.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Are we letting the zoomers&amp;rsquo; zoom and the readers&amp;rsquo; read?&lt;/li&gt;
-&lt;li&gt;Are people able to find their NHS number?&lt;/li&gt;
-&lt;li&gt;Are people able to authenticate? (on scale)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;We&amp;rsquo;re too early to come to a position on any of those.&lt;/p&gt;
-
-&lt;p&gt;Had a Thunderbird team retro. Talked about issues holding us back and things we did well.&lt;/p&gt;
-
-&lt;p&gt;After retro talked a little about future issues to solve.&lt;/p&gt;
-
-&lt;p&gt;Started the cookie elaboration for the service.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Elaborated a bit more on the service’s cookie solution. A solution we had intended to pursue wasn’t quite a fit this second. Had to dig through some other privacy policy stuff.&lt;/p&gt;
-
-&lt;p&gt;Had a few questions for the landing page. Resources for professionals etc.&lt;/p&gt;
-
-&lt;p&gt;Updated to a final release of a potential service prototype. Regardless if the service is a goer, feel pretty happy with the prototype.&lt;/p&gt;
-
-&lt;p&gt;DDC UX team meeting. Our lead researcher went through how we had been using hotjar. In Alpha, Private and now public beta. Limitations and workarounds.&lt;/p&gt;
-
-&lt;p&gt;Caught up with the NHS account designers afterwards. Had a good laugh about a few things. Talked about the NHS and branding.&lt;/p&gt;
-
-&lt;p&gt;Finished the day having a long catch up with Emma James. Talked through content design. Question design. Content/interaction flows and the weekly design huddle.&lt;/p&gt;
-
-&lt;p&gt;Emma agreed to talk through some of the stuff she had been working on at the huddle. Announced it on the design slack channel.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Started the day with a quick technical review for the service’s cookie banner.&lt;/p&gt;
-
-&lt;p&gt;Cleaned up some design board stuff. Dean and David volunteered to give an update on the NHSUK redesign work.&lt;/p&gt;
-
-&lt;p&gt;Had an assignment review with the service owner.&lt;/p&gt;
-
-&lt;p&gt;Caught up with Jordan, a graduate user researcher I am helping career manage. Planned in a performance review.&lt;/p&gt;
-
-&lt;p&gt;Also caught up with Sam. Graduate content designer (who dabbles with some interaction design). She was prototyping some questions up. Great to see her grow in confidence. From building her first prototype on the GDS course to using the NHS kit in the NHS account team.&lt;/p&gt;
-
-&lt;p&gt;Talked to Emma over slack about input validation and error messages for NHS numbers. Sharing some stuff we found out in research. Then talked about user confusion with national insurance numbers and NHS numbers. Good chat through important stuff.&lt;/p&gt;
-
-&lt;p&gt;Went through error messaging hypotheses. Algorithm that you can use to validate NHS numbers. We agreed that there needs to be a standard approach to NHS numbers going forward.&lt;/p&gt;
-
-&lt;p&gt;Wrote up a quick hypotheses for when a user enters a national insurance number into the NHS number field.&lt;/p&gt;
-
-&lt;p&gt;Reviewed my designs for a “review your answers” page. Felt unhappy with it on mobile and made a few tweaks.&lt;/p&gt;
-
-&lt;p&gt;Walked over to BWP for the design huddle.&lt;/p&gt;
-
-&lt;p&gt;Had a great session. Particularly enjoyed talking through interaction/content design problems as a group.&lt;/p&gt;
-
-&lt;p&gt;Our Head of Design tweeted about it:&lt;/p&gt;
-
-&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Leeds designers’ huddle &lt;a href="https://twitter.com/NHSDigital?ref_src=twsrc%5Etfw"&gt;@NHSDigital&lt;/a&gt;. &lt;a href="https://twitter.com/DoTheWords?ref_src=twsrc%5Etfw"&gt;@DoTheWords&lt;/a&gt; sharing a gnarly content and interaction design challenge to make it simpler for people to sign in to NHS services online &lt;a href="https://t.co/GAO74YPJkO"&gt;pic.twitter.com/GAO74YPJkO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Matt Edgar (@mattedgar) &lt;a href="https://twitter.com/mattedgar/status/1002210556290486278?ref_src=twsrc%5Etfw"&gt;May 31, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Started Friday with a design backlog review.&lt;/p&gt;
-
-&lt;p&gt;Provided some personal review feedback for members of the team. For their career managers.&lt;/p&gt;
-
-&lt;p&gt;Product backlog review with service owner. Talked through some concerns and future design work. Not tons on the horizon. Though that always seems to change.&lt;/p&gt;
-
-&lt;p&gt;Lunch in the sun. Caught up with some recent ex-Thunderbird team members.&lt;/p&gt;
-
-&lt;p&gt;Bit of design work on leaflets and forms. We have a creeping set of landing page requirements that is worrying me.&lt;/p&gt;
 </content>
   </entry>
 </feed>
