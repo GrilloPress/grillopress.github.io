@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2018/08/06/weeknotes-14.html"/>
     <id>http://blog.url.com/2018/08/06/weeknotes-14.html</id>
     <published>2018-08-06T01:00:00+01:00</published>
-    <updated>2018-08-12T20:29:07+01:00</updated>
+    <updated>2018-08-12T20:38:18+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -26,7 +26,7 @@
 
 &lt;p&gt;I typically don’t simulate things like spinners and delay in a prototype. The idea being that a prototype is testing a hypothesis. Not your ability to make it seem like live. But what we’re testing is behaviour influenced by time. Delay. And the impact of failure.&lt;/p&gt;
 
-&lt;p&gt;We’re exploring adding an extra way to find your credentials. Right now, we have a high percentage change of finding users’ contact details. But, we are asking that they use their NHS number. We’re exploring alternatives.&lt;/p&gt;
+&lt;p&gt;We’re exploring adding an extra way to find your credentials. Right now, we have a high percentage chance of finding users’ contact details. But, we are asking that they use their NHS number. We’re exploring alternatives.&lt;/p&gt;
 
 &lt;p&gt;Alternatives that may not suit everyone. And introduce new potential failures. But also make the service easier to use first time for many more people.&lt;/p&gt;
 
