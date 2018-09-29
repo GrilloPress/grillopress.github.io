@@ -5,10 +5,47 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-09-14T01:00:00+01:00</updated>
+  <updated>2018-09-29T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Treat your design process like a design problem</title>
+    <link rel="alternate" href="http://blog.url.com/2018/09/29/treat-your-design-process-like-a-design-process.html"/>
+    <id>http://blog.url.com/2018/09/29/treat-your-design-process-like-a-design-process.html</id>
+    <published>2018-09-29T01:00:00+01:00</published>
+    <updated>2018-09-29T18:06:25+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Before going on leave I got to work with a graduate designer (Sam) who will be joining me on a couple of projects. Over three days we covered interaction flows, content architecture and paper forms.&lt;/p&gt;
+
+&lt;p&gt;With Sam joining me, it made me think about design process. Creating a good one. A repeatable, efficient process that creates great outcomes.&lt;/p&gt;
+
+&lt;p&gt;Working on the National Data Opt-out we crafted a process that helped us explore a massive range of ideas and issues.&lt;/p&gt;
+
+&lt;p&gt;The process didn’t appear fully-formed. It took many iterations. It evolved through experience and being worked.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://grillopress.github.io/2018/01/08/kanban_for_interaction_design.html"&gt;I blogged about the journey&lt;/a&gt;, centring on our use of a kanban board.&lt;/p&gt;
+
+&lt;p&gt;A great time to think about process is when a new person joins a team, or a team starts to form.&lt;/p&gt;
+
+&lt;p&gt;The keys to creating a great design process is to treat it like a design problem.&lt;/p&gt;
+
+&lt;p&gt;That is,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Start by stating the issue you want to solve&lt;/li&gt;
+&lt;li&gt;Sketch out crude flows and processes&lt;/li&gt;
+&lt;li&gt;Iterate over things again and again&lt;/li&gt;
+&lt;li&gt;Create a prototype and use it in anger&lt;/li&gt;
+&lt;li&gt;Seek feedback from those around you&lt;/li&gt;
+&lt;li&gt;Articulate and defend your ideas to expose flaws and strengths&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The kanban board felt the best mechanism to control and test the process.  With new work and a new team, it&amp;rsquo;s a great time to explore our process again.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Weeknotes 15</title>
     <link rel="alternate" href="http://blog.url.com/2018/09/14/weeknotes-15.html"/>
@@ -449,58 +486,6 @@
 &lt;p&gt;It&amp;rsquo;s very easy as a designer, with the whole website in your head, to over-value uniformity. Users don&amp;rsquo;t notice small differences. They notice if what they want to do is hard.&lt;/p&gt;
 
 &lt;p&gt;Caught up with Matt (Head of Design). Chatted about my service and how it is going since live. Family. And how to make your siblings like you (by peeing up walls as an infant).&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Things are different in live</title>
-    <link rel="alternate" href="http://blog.url.com/2018/06/26/things-are-different-in-live.html"/>
-    <id>http://blog.url.com/2018/06/26/things-are-different-in-live.html</id>
-    <published>2018-06-26T01:00:00+01:00</published>
-    <updated>2018-07-10T14:07:00+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;In May I had the privilege of hearing about the great work done by the NHS Business Services Authority.&lt;/p&gt;
-
-&lt;p&gt;During the talk the team mentioned a particular question that encountered a lot of distrust during testing.&lt;/p&gt;
-
-&lt;p&gt;I asked if they’d seen the same since going public. They hadn’t.&lt;/p&gt;
-
-&lt;p&gt;This matched a recent experience with research into the National Data Opt-out.&lt;/p&gt;
-
-&lt;p&gt;We had a few issues that when under the magnifying glass of user labs, got an increased emphasis. Emphasis we didn’t see since going public.&lt;/p&gt;
-
-&lt;p&gt;This isn’t to say everything has been like this. The things people liked in labs, they liked in the public service. And the things that annoyed them (and us) in labs, annoyed them since going public.&lt;/p&gt;
-
-&lt;p&gt;It’s a strength of user labs that they let you solve the issues that stop people from using your service. And you find speed bumps and things that lead people astray.&lt;/p&gt;
-
-&lt;p&gt;But they won’t iron out every issue. They also don’t reflect going public either.&lt;/p&gt;
-
-&lt;p&gt;One thing we found performing better has been our “interruption card” component.&lt;/p&gt;
-
-&lt;p&gt;We have a screen that acts as the sinew between the landing page and transactional service. This page lays out how to do the thing online.&lt;/p&gt;
-
-&lt;p&gt;The idea behind it was to clear up the process of one-time authentication that’s needed. We found in Alpha that we had a sizeable user group that hadn’t done two-factor authentication before.&lt;/p&gt;
-
-&lt;p&gt;In the lab, these things performed okay. Some people zoomed past them. Some slowed down and got the info they needed to understand the journey they were about to take.&lt;/p&gt;
-
-&lt;p&gt;Not a ringing endorsement.&lt;/p&gt;
-
-&lt;p&gt;Part of the issue was most users were happy to share their data with the NHS for research and planning purposes.&lt;/p&gt;
-
-&lt;p&gt;Evaluating the component became difficult. We saw some users zoom through things they may have taken more time over at home.&lt;/p&gt;
-
-&lt;p&gt;Though it didn’t stop the zoomers in the lab, it did seem to support some users. We kept it for the public service. Partially because of a hunch that on scale it would prove its worth. And also because the evidence was that it did alright.&lt;/p&gt;
-
-&lt;p&gt;Since going public, the indications have been that it’s been working better. Tracking cursor movements has seen lots of users track and read the text on the card. User journey recordings also show it. Likewise, with user feedback on that page.&lt;/p&gt;
-
-&lt;p&gt;Empowering users is about them understanding what they are doing. And why.&lt;/p&gt;
-
-&lt;p&gt;The value of letting users know how to do a thing is that they understand what to expect.&lt;/p&gt;
-
-&lt;p&gt;You don’t alway need to surface process, but we’re glad we have. It stopped users questioning why we were asking for their details to stop data being shared. It stopped some users feeling out of control and unable to use the online service.&lt;/p&gt;
-
-&lt;p&gt;You’ll never know for sure if something works. Things are different in live.&lt;/p&gt;
 </content>
   </entry>
 </feed>
