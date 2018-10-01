@@ -5,10 +5,96 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-09-29T01:00:00+01:00</updated>
+  <updated>2018-10-01T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Advice for aspiring junior UX designers</title>
+    <link rel="alternate" href="http://blog.url.com/2018/10/01/advice-for-aspiring-junior-ux-designers.html"/>
+    <id>http://blog.url.com/2018/10/01/advice-for-aspiring-junior-ux-designers.html</id>
+    <published>2018-10-01T01:00:00+01:00</published>
+    <updated>2018-10-01T20:06:42+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;A while back I helped recruit a junior designer. I got to talk to many talented junior designers on the phone and face to face.&lt;/p&gt;
+
+&lt;p&gt;During the process I made a note of some general advice I felt could help many of the candidates.&lt;/p&gt;
+
+&lt;p&gt;The following tips are my advice for aspiring user experience designers. Though many of the points could apply to any role.&lt;/p&gt;
+
+&lt;h2&gt;CV advice&lt;/h2&gt;
+
+&lt;p&gt;When it comes to your CV keep it simple.&lt;/p&gt;
+
+&lt;p&gt;There is plenty of general advice about CVs that also holds for designers. Keep it short as possible. To the point and easy to read.&lt;/p&gt;
+
+&lt;p&gt;It can be tempting as a designer to spend too much time on the visual design flourishes of your CV. But for user experience roles, the key thing to get across is that you understand your user.&lt;/p&gt;
+
+&lt;p&gt;Your user cares about being able to scan information about you. Keep it neat. Keep it clean and minimal and easy to read.&lt;/p&gt;
+
+&lt;p&gt;Make sure your CV works on different devices and the links actually go where you expect.&lt;/p&gt;
+
+&lt;p&gt;Look at the job role and related info and check you have what they need. On each criteria write one-line of how you’ve shown you have that skill. With the ones that you are less confident on, how can you show how you are developing that skill?&lt;/p&gt;
+
+&lt;p&gt;This list helps form your CV, cover letter and interview answers.&lt;/p&gt;
+
+&lt;p&gt;If the role is for a junior post, companies will be expecting some weaker areas. They need you to be able to show understanding, passion as much as actual experience.&lt;/p&gt;
+
+&lt;p&gt;Passion and willingness to learn isn’t something an employer can teach. HTML is.&lt;/p&gt;
+
+&lt;p&gt;If you have lots of gaps (things you can’t even show you are trying to address as a weakness), don’t apply. Don’t waste your time on something you are not a good fit on. You’re not going to get past the CV sift where it is as much matching keywords as it is your potential. If it is a dream job, you now have a list of things to get good at and prove.&lt;/p&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t to say you shouldn&amp;rsquo;t apply for a role you&amp;rsquo;re a nearly match for. Those you should. Job roles are perfect fits. No one is perfect. But don&amp;rsquo;t waste your time and emotional energy on something  you&amp;rsquo;re not a good fit on.&lt;/p&gt;
+
+&lt;h2&gt;Cover letter advice&lt;/h2&gt;
+
+&lt;p&gt;In your cover letter match the language the company uses. If the job post talks about interaction design, call it that. If they call it user interface design, likewise. Like mirroring someone’s body language, mirror their conventions.&lt;/p&gt;
+
+&lt;h2&gt;Portfolio advice&lt;/h2&gt;
+
+&lt;p&gt;When it comes to your portfolio make sure you have a strong narrative. You should write them using a schema like:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Summary. A short description of what you did. Tweet length&lt;/li&gt;
+&lt;li&gt;Context. Provide the background. Where it was. What it was for etc. in one or two paragraphs&lt;/li&gt;
+&lt;li&gt;Process. Describe the broad strokes of your design process. This should be the meatiest part. Ensure you describe how you put the user at the heart of your process!&lt;/li&gt;
+&lt;li&gt;Outcomes. What did you produce and what outcome did it create for your user?&lt;/li&gt;
+&lt;li&gt;Lessons. What did you learn and what would you do next time? A key skill to a good designer is learning from mistakes and applying those learnings&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It is hard to underestimate the importance of being able to explain your design process. You must be able to explain what you did, how you did it and why you did it. This isn&amp;rsquo;t to say it&amp;rsquo;s easy. But you&amp;rsquo;ll stand out as a candidate if you can take someone through your process.&lt;/p&gt;
+
+&lt;h2&gt;Interview advice&lt;/h2&gt;
+
+&lt;p&gt;As with your portfolio, it is vital you are able to explain your design process. The steps you go through to design something.&lt;/p&gt;
+
+&lt;p&gt;In many face to face interviews you’ll have to take someone through a portfolio item. Or tackle a design challenge. Being able to explain your process will make you stand out. More so than eye-catching visuals.&lt;/p&gt;
+
+&lt;p&gt;A caveat to this advice to not to be rigid in your process. Be flexible. Understand that there are techniques appropriate in some situations. For some problems, you need to be very lean.&lt;/p&gt;
+
+&lt;p&gt;A textbook large-scale discovery isn&amp;rsquo;t the only tool.&lt;/p&gt;
+
+&lt;p&gt;Don’t confuse good client management with user testing. Unless your client is the only person to use a system, it is likely they aren’t the user you are looking for. A/B testing with a client does not replace user testing. Client driven design is not user centred design.&lt;/p&gt;
+
+&lt;p&gt;Your goal as a designer is creating a product that works for your client’s users. Do this and your client will see the rewards from happy users.&lt;/p&gt;
+
+&lt;h2&gt;Post-interview advice&lt;/h2&gt;
+
+&lt;p&gt;Regardless of how well it went, try to ask for advice.&lt;/p&gt;
+
+&lt;p&gt;If you didn’t get the job, ask why. Remember that it is often being able to demonstrate your skills as having them.&lt;/p&gt;
+
+&lt;p&gt;The interviewer cannot assume you have skills. They need you to state them.&lt;/p&gt;
+
+&lt;h2&gt;General advice&lt;/h2&gt;
+
+&lt;p&gt;Be yourself. Be your best self.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ve got this! Good luck. If you want any further help, feel free to message me.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Treat your design process like a design problem</title>
     <link rel="alternate" href="http://blog.url.com/2018/09/29/treat-your-design-process-like-a-design-process.html"/>
@@ -376,116 +462,6 @@
 &lt;p&gt;Afterwards we&amp;rsquo;ll rank and sort all the ideas and questions. Which will give us our backlog of design work for the service. We&amp;rsquo;ll then share the backlog with other people in the team. Reorder, add things. Then get cracking.&lt;/p&gt;
 
 &lt;p&gt;Before the end of the day took a call from Tero, service designer on another team, to go through what we felt was our goals for a meeting on Monday.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 11</title>
-    <link rel="alternate" href="http://blog.url.com/2018/07/06/weeknotes-11.html"/>
-    <id>http://blog.url.com/2018/07/06/weeknotes-11.html</id>
-    <published>2018-07-06T01:00:00+01:00</published>
-    <updated>2018-07-09T12:04:13+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Skipped Weeknotes 10. The arrival of Evelyn Ada Duckworth over that weekend meant those notes didn’t get turned into a blog post. Written but not published.&lt;/p&gt;
-
-&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;First day back from paternity leave. Working from home.&lt;/p&gt;
-
-&lt;p&gt;Sent an email to the programme team with some context about the birth etc.&lt;/p&gt;
-
-&lt;p&gt;Appreciate the environment and warm response from everyone in NHS Digital. Makes it easier to come back as well as plan some more time with my family.&lt;/p&gt;
-
-&lt;p&gt;Wrote up some stuff for my personal development review. Found it tough going. Took inspiration from Matt Edgar and put in some tweets about my work.&lt;/p&gt;
-
-&lt;p&gt;Took some time to go through some emails and prioritise work.&lt;/p&gt;
-
-&lt;p&gt;Arranged meetings through the week to catch up on work.&lt;/p&gt;
-
-&lt;p&gt;Medical appointment for myself at lunch. A very painful one but sorting a long-term issue.&lt;/p&gt;
-
-&lt;p&gt;Worked through the user research show and tell I missed as well as accessibility review.&lt;/p&gt;
-
-&lt;p&gt;Reviewed the new designer job descriptions.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Worked from home again.&lt;/p&gt;
-
-&lt;p&gt;Wrote up some more personal review stuff.&lt;/p&gt;
-
-&lt;p&gt;Spent some time working on a new prototype content architecture for my service. We have hit a point where we need to expand what we point people to. As new needs emerge and services are developed, we need to be able to easily scale the site&amp;rsquo;s structure to handle this. Right now, we are hitting the natural scaling limit of the pattern we are using.&lt;/p&gt;
-
-&lt;p&gt;Went through a couple of stories on Jira and cleaned them up.&lt;/p&gt;
-
-&lt;p&gt;Created a new interaction flow for a potential service integration.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;First day back in the office.&lt;/p&gt;
-
-&lt;p&gt;Cleaned up an issue on Jira for the development team. Got a lovely card and gift from the Thunderbird team. Really appreciated it.&lt;/p&gt;
-
-&lt;p&gt;Checked up on the status of a ticket that really improves the user journey of our service.&lt;/p&gt;
-
-&lt;p&gt;Caught up with the product manager for Thunderbird. She&amp;rsquo;s now in control for the two programme projects. Had a good catch up.&lt;/p&gt;
-
-&lt;p&gt;Arranged with a colleague to do a “hypothesis backlog generation” session. He had worked on the service before and we’re going to run a session we did when I arrived. Blog post coming soon!&lt;/p&gt;
-
-&lt;p&gt;Talked through with a colleague some page navigation work. Shared research and ideas.&lt;/p&gt;
-
-&lt;p&gt;Cleaned up a developer point on a ticket.&lt;/p&gt;
-
-&lt;p&gt;Met up with the service owner and programme manager. We talked roadmap, future integrations and design work. They mentioned how much they needed me in the next few months which was nice to hear.&lt;/p&gt;
-
-&lt;p&gt;Caught up quickly with the user research team. Quick word before the lab on Thursday.&lt;/p&gt;
-
-&lt;p&gt;Jumped into a call with the delivery manager for the NHS app. Arranged to meet up with the design and research team in the next week.&lt;/p&gt;
-
-&lt;p&gt;Talked through links and downloads with a colleague tasked to explore those issues. Shared some scenarios and ideas.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;NHS 70th birthday. Tweeted about my little service Easter egg.&lt;/p&gt;
-
-&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Happy birthday NHS! My little Easter egg for today was making my service&amp;rsquo;s &amp;ldquo;date of birth&amp;rdquo; helper text the same as the NHS &lt;a href="https://twitter.com/hashtag/nhs70?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#nhs70&lt;/a&gt; &lt;a href="https://t.co/KZEbEQLVcE"&gt;pic.twitter.com/KZEbEQLVcE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Andrew Duckworth (@AndrewDuck_) &lt;a href="https://twitter.com/AndrewDuck_/status/1014764183555100675?ref_src=twsrc%5Etfw"&gt;July 5, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;p&gt;Early start with a usability lab. The lab focused on mobile users and digging behind some numbers. The hypothesis was that many of our users preferred not to start the transaction on mobile. We wanted to see if that was true, and if so, why.&lt;/p&gt;
-
-&lt;p&gt;We also wanted to evidence if the service was easy to use on mobile. And that we weren&amp;rsquo;t the cause of people avoiding using mobile.&lt;/p&gt;
-
-&lt;p&gt;Some things we saw in the lab:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;People really love the NHS&lt;/li&gt;
-&lt;li&gt;Most people are willing to trade off personal data for the greater good&lt;/li&gt;
-&lt;li&gt;Giving people a sense of control, even if they don&amp;rsquo;t choose to use it, influences people&amp;rsquo;s willingness to share data&lt;/li&gt;
-&lt;li&gt;Making authentication straightforward, clear and obvious increases people&amp;rsquo;s confidence in an organisation&amp;rsquo;s ability to handle sensitive data&lt;/li&gt;
-&lt;li&gt;Service comprehension remains high&lt;/li&gt;
-&lt;li&gt;Having a dropdown/reveal near the service start green button caused a little confusion on mobile. Proximity appeared to cause more issues on mobile&lt;/li&gt;
-&lt;li&gt;Many of our users just prefer their laptops over mobiles&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In the afternoon I walked over to the design huddle. Ben talked us through some of his research on icons. It was a great talk. Ben is one of my favourite people at NHS Digital. His talk was great.&lt;/p&gt;
-
-&lt;p&gt;Late on remembered to share some data with a colleague. Couple of heatmaps showing how people ignore thumbnails on download pages. People prefer links. People just don&amp;rsquo;t click or hover over thumbnails.&lt;/p&gt;
-
-&lt;p&gt;The value of a thumbnail is in creating a pool of focus.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Shorter work day due to my longer Thursday. Meetings most of the morning.&lt;/p&gt;
-
-&lt;p&gt;Quick update with the developer team and then lots of chats. Talked to the NHSUK redesign team about folding in work. Lots of stuff to do here.&lt;/p&gt;
-
-&lt;p&gt;Chatted to Ben about hub pages and differing styles of navigation. The key being consistent but also mixing things up when the need arrises.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s very easy as a designer, with the whole website in your head, to over-value uniformity. Users don&amp;rsquo;t notice small differences. They notice if what they want to do is hard.&lt;/p&gt;
-
-&lt;p&gt;Caught up with Matt (Head of Design). Chatted about my service and how it is going since live. Family. And how to make your siblings like you (by peeing up walls as an infant).&lt;/p&gt;
 </content>
   </entry>
 </feed>
