@@ -5,10 +5,57 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-10-01T01:00:00+01:00</updated>
+  <updated>2018-10-06T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Dashing dashboards</title>
+    <link rel="alternate" href="http://blog.url.com/2018/10/06/dashing-dashboards.html"/>
+    <id>http://blog.url.com/2018/10/06/dashing-dashboards.html</id>
+    <published>2018-10-06T01:00:00+01:00</published>
+    <updated>2018-10-06T22:11:34+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;A little while back I was talking to a colleague about dashboards.&lt;/p&gt;
+
+&lt;p&gt;The key value of a dashboard is insight and clarity. Not data. Not numbers.&lt;/p&gt;
+
+&lt;p&gt;Your service’s KPIs are indicators, not the story. And not an insight in itself. You need to give people a clear direction of what’s happening, why and what to do next.&lt;/p&gt;
+
+&lt;p&gt;When I worked in publishing the data team created a tool to help visualise publishing topics. The idea being to give editors insight into lucrative areas to publish in. How topics related. And the potential market size.&lt;/p&gt;
+
+&lt;p&gt;The tool was great engineering. But added no value. The issue  was that the only people who could get value out of it, knew the topics and relationships already.&lt;/p&gt;
+
+&lt;p&gt;It was a nice tool. But one that only provided insight to those who could already see the big picture.&lt;/p&gt;
+
+&lt;p&gt;This is often the problem with dashboards. Understandable for the creators. Not for the stakeholders. Consumers and decision makers.&lt;/p&gt;
+
+&lt;p&gt;When creating dashboards ask yourself what do we (and/or our users) need to know? What insights are important?&lt;/p&gt;
+
+&lt;p&gt;A great place to start is with problem statements. If you don’t have them, they’re worth generating retrospectively.&lt;/p&gt;
+
+&lt;p&gt;Ask yourself:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What have we seen and what are we trying to solve?&lt;/li&gt;
+&lt;li&gt;How will we know when we&amp;rsquo;ve solved that problem or created that outcome?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It can be tempting to inject numbers into a dashboard. Particularly as a team that understands them or can interpret them. Things like time on site, bounce rates, response times, scroll depth are all interesting things. But what do they say?&lt;/p&gt;
+
+&lt;p&gt;If those terms are new or unknown, they say nothing.&lt;/p&gt;
+
+&lt;p&gt;If you want to tell the story of whether users a doing a thing, make that immediately clear. Clear without need to interpret numbers.&lt;/p&gt;
+
+&lt;p&gt;If there is a hierarchy. An important thing to explain. Follow the fundamental design principle of making that hierarchy clear.&lt;/p&gt;
+
+&lt;p&gt;A dashboard that asks you to interpret data doesn’t offer insight. It may provide you with enough to get there in raw ingredients. But will everyone with 60 seconds understand and see the story? If you provide the raw elements to understand the live service, it&amp;rsquo;s like offering someone a burger. And then giving them wheat and raw mince.&lt;/p&gt;
+
+&lt;p&gt;Is your dashboard counting how many eggs you have, or making an omelette?&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Advice for aspiring junior UX designers</title>
     <link rel="alternate" href="http://blog.url.com/2018/10/01/advice-for-aspiring-junior-ux-designers.html"/>
@@ -374,94 +421,6 @@
 &lt;p&gt;We walked through the hub pages together. Noted a couple of changes. He sent them over ready for a new hub page prototype.&lt;/p&gt;
 
 &lt;p&gt;Spent the rest of the day working on the new authentication prototype series.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 12</title>
-    <link rel="alternate" href="http://blog.url.com/2018/07/13/weeknotes-12.html"/>
-    <id>http://blog.url.com/2018/07/13/weeknotes-12.html</id>
-    <published>2018-07-13T01:00:00+01:00</published>
-    <updated>2018-07-17T14:06:26+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Worked from home.&lt;/p&gt;
-
-&lt;p&gt;Finalised some personal development paperwork. For myself and a user researcher I career manage.&lt;/p&gt;
-
-&lt;p&gt;Updated the service prototype. Asked the team a couple of questions about what I saw as gaps in the content.&lt;/p&gt;
-
-&lt;p&gt;Quick chat with the programme manager. Future direction of the landing pages.&lt;/p&gt;
-
-&lt;p&gt;Got stuck into the new NHSUK redesign team&amp;rsquo;s work. Exploring how our landing pages would fit right now. But also what we are planning on creating long term.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Head&amp;rsquo;s down type of day on the future of the service. Content architecture. Site structure and redesign.&lt;/p&gt;
-
-&lt;p&gt;Talked through the day to designers about their work. What was going on. What they&amp;rsquo;ve seen and bouncing ideas between us all. Ideas are always stronger for sharing.&lt;/p&gt;
-
-&lt;p&gt;Little bit of admin for the weekly design huddle.&lt;/p&gt;
-
-&lt;p&gt;Updated the release prototype with a couple of extra changes.&lt;/p&gt;
-
-&lt;p&gt;Published my article about how &lt;a href="https://grillopress.github.io/2018/06/26/things-are-different-in-live.html"&gt;Things are different in live&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Another day full of work on the future of the service&amp;rsquo;s landing pages.&lt;/p&gt;
-
-&lt;p&gt;Helped a colleague collect some details for Expo.&lt;/p&gt;
-
-&lt;p&gt;Shared the new landing page direction with the wider team. Talked through the last round of user research and how to reflect what we learnt into our start page.&lt;/p&gt;
-
-&lt;p&gt;Caught up quite a bit with the NHSUK redesign team over slack.&lt;/p&gt;
-
-&lt;p&gt;Fired up the accessibility tools to verify a fix on the live solution. Getting better with the tools but the learning curve is immense.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Met with Pedro, a designer on the NHS app team. Talked through the app. Design decisions on the National Data Opt-out. And how we integrate the service into the app to ensure users have control over their data.&lt;/p&gt;
-
-&lt;p&gt;Caught up with the Thunderbird team. Learnt that we were going to lose some talented people from the team. Not great news to say the least.&lt;/p&gt;
-
-&lt;p&gt;Hosted the design huddle. We had Dave Evans talk to us about &amp;ldquo;publications&amp;rdquo;. Was a great chat.&lt;/p&gt;
-
-&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Enjoyed today&amp;rsquo;s &lt;a href="https://twitter.com/NHSDigital?ref_src=twsrc%5Etfw"&gt;@NHSDigital&lt;/a&gt; design meetup talk by &lt;a href="https://twitter.com/devansXD?ref_src=twsrc%5Etfw"&gt;@devansXD&lt;/a&gt; (co-presenting here with the wonderful &lt;a href="https://twitter.com/McVities?ref_src=twsrc%5Etfw"&gt;@McVities&lt;/a&gt; Jaffacakes) &lt;a href="https://t.co/sROQENUZNF"&gt;pic.twitter.com/sROQENUZNF&lt;/a&gt;&lt;/p&gt;&amp;mdash; Andrew Duckworth (@AndrewDuck_) &lt;a href="https://twitter.com/AndrewDuck_/status/1017479408783953921?ref_src=twsrc%5Etfw"&gt;July 12, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;p&gt;A consistent issue across NHS Digital projects is a need to make navigating content work for people. Either in-page or across pages. It was great to hear from Dave what they had found designing for complex reports and publications.&lt;/p&gt;
-
-&lt;p&gt;Afterwards had a quick accessibility review with the Citizen ID team. How to make errors discoverable and clear for all people. Another great huddle.&lt;/p&gt;
-
-&lt;p&gt;Finished the day by writing up instructions for the NHSUK CMS team for an upcoming update on the train home.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Started the day catching up on an email thread about the performance of our two-factor process. With the help of Adam from the Thunderbird team, dug out some of our log data.&lt;/p&gt;
-
-&lt;p&gt;The development team had been asked a question two weeks ago about an issue. Though the numbers were fine there, I felt there was a subtle difference if we looked at an earlier stage of the journey.&lt;/p&gt;
-
-&lt;p&gt;I shared the data with the head of programme and the rest of the team.&lt;/p&gt;
-
-&lt;p&gt;The numbers helped focus the team from &amp;ldquo;let&amp;rsquo;s find out what we can improve about the two-factor journey for an unknown set of users&amp;rdquo;. To &amp;ldquo;we know users struggle on this page, right here&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;After that met up with colleague (Dan) for a service review. And hypothesis generation session.&lt;/p&gt;
-
-&lt;p&gt;Dan was the junior designer on the service before and we ran a similar exercise when I joined the team (October 2017). Tables turned slightly as it was he who was asking me about the work.&lt;/p&gt;
-
-&lt;p&gt;We ran through the service questioning everything. Digging into compromises. Half solved issues. Alternatives and data. We asked the obvious questions. We did this screen by screen. Element by element.&lt;/p&gt;
-
-&lt;p&gt;As well as deconstructing things, we also created new ideas. Looking at alternatives. Considering other options we crafted up countless new ideas and things to try.&lt;/p&gt;
-
-&lt;p&gt;It was mentally draining and though. But great fun. We grabbed a pizza at lunch and took a pause.&lt;/p&gt;
-
-&lt;p&gt;Afterwards we&amp;rsquo;ll rank and sort all the ideas and questions. Which will give us our backlog of design work for the service. We&amp;rsquo;ll then share the backlog with other people in the team. Reorder, add things. Then get cracking.&lt;/p&gt;
-
-&lt;p&gt;Before the end of the day took a call from Tero, service designer on another team, to go through what we felt was our goals for a meeting on Monday.&lt;/p&gt;
 </content>
   </entry>
 </feed>
