@@ -5,10 +5,51 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-12-05T00:00:00+00:00</updated>
+  <updated>2018-12-14T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Show at your show and tell</title>
+    <link rel="alternate" href="http://blog.url.com/2018/12/14/showing.html"/>
+    <id>http://blog.url.com/2018/12/14/showing.html</id>
+    <published>2018-12-14T00:00:00+00:00</published>
+    <updated>2018-12-14T23:02:37+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;We&amp;rsquo;ve recently been reviewing some of the language we use in our service. What the terms mean and the implications they have for understanding the service. And how the NHS works in general.&lt;/p&gt;
+
+&lt;p&gt;This has been quite a contentious issue within the team because we want to balance between being:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;easy to understand&lt;/li&gt;
+&lt;li&gt;comprehensive and transparent&lt;/li&gt;
+&lt;li&gt;words people use themselves naturally&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We&amp;rsquo;ve run some pop-ups and a lab to really focus on the words we use. In particular our service name and how we define the data people have a choice over.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re getting closer to the point where we have a strong sense of direction. Nothing is easy here. But a sense of direction.&lt;/p&gt;
+
+&lt;p&gt;The work we had been doing recently culminated in a show and tell after a lab.&lt;/p&gt;
+
+&lt;p&gt;It was a great show and tell. What was the greatest part was letting the users talk.&lt;/p&gt;
+
+&lt;p&gt;We had video after video on the same issue. What &amp;ldquo;confidential patient information&amp;rdquo; meant.&lt;/p&gt;
+
+&lt;p&gt;It struck me as being one of the better show and tells I&amp;rsquo;ve been to for a while because:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;everything was on a topic we cared deeply about&lt;/li&gt;
+&lt;li&gt;we let users do the talking&lt;/li&gt;
+&lt;li&gt;we discussed the issue as a team&lt;/li&gt;
+&lt;li&gt;and came together to the solution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sometimes you have to pitch a vision, but when you can, let your users talk. It&amp;rsquo;s a lot more powerful than summarising their words.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Questions for your questions</title>
     <link rel="alternate" href="http://blog.url.com/2018/12/05/questions-for-your-questions.html"/>
@@ -334,78 +375,6 @@
 &lt;p&gt;The kanban board felt the best mechanism to control and test the process.  &lt;/p&gt;
 
 &lt;p&gt;With new work and a new team, it&amp;rsquo;s a great time to explore our process again.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 15</title>
-    <link rel="alternate" href="http://blog.url.com/2018/09/14/weeknotes-15.html"/>
-    <id>http://blog.url.com/2018/09/14/weeknotes-15.html</id>
-    <published>2018-09-14T01:00:00+01:00</published>
-    <updated>2018-09-14T19:16:10+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Trying to keep these even leaner. Going to focus on a few themes from a week.&lt;/p&gt;
-
-&lt;h2&gt;Paper forms&lt;/h2&gt;
-
-&lt;p&gt;On a personal crusade with paper forms right now. We have three for patients. And soon have some for prisoners (filled in by prison medical staff on behalf of a prisoner).&lt;/p&gt;
-
-&lt;p&gt;They&amp;rsquo;re not good enough. People can muddle through them. But they&amp;rsquo;re not the standard we need to be hitting.&lt;/p&gt;
-
-&lt;p&gt;On the back of a great session at the design huddle with Caroline Jarrett I had a strong action plan. I even tweeted it for feedback:&lt;/p&gt;
-
-&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Any other solid ways of researching paper forms?&lt;br&gt;&lt;br&gt;We&amp;rsquo;re doing:&lt;br&gt;&lt;br&gt;+ looking at real paper form submissions&lt;br&gt;+ working with team who get forms and action them&lt;br&gt;+ user lab focused on paper forms&lt;br&gt;+ Challenging the need for stuff in the forms 😁&lt;/p&gt;&amp;mdash; Andrew Duckworth (@AndrewDuck_) &lt;a href="https://twitter.com/AndrewDuck_/status/1039789320792666112?ref_src=twsrc%5Etfw"&gt;September 12, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;p&gt;And got even greater feedback and connections to people willing to help.&lt;/p&gt;
-
-&lt;p&gt;The programme agreed to do everything to make them better. With a bit of campaigning we&amp;rsquo;ve got access to the current filled in forms and will review them next Wednesday as a team. We&amp;rsquo;ve also booked in a lab and potentially some pop-up testing.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve created a clean form system. Brutally simple graphic design system. Now to make our process brutally simple for our users.&lt;/p&gt;
-
-&lt;h2&gt;Design meet up!&lt;/h2&gt;
-
-&lt;p&gt;This week it was the quarterly all-hands design meet. In London this time.&lt;/p&gt;
-
-&lt;p&gt;I enjoy going to London. That said, though the venue was great, it wasn&amp;rsquo;t as iconic or scenic a walk this time. And it was also a rather painfully long day. Thanks trains!&lt;/p&gt;
-
-&lt;p&gt;During the day I got to express my inner artiste:&lt;/p&gt;
-
-&lt;blockquote class="twitter-tweet" data-lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;The best name badge I ever did have. Thank you &lt;a href="https://twitter.com/AndrewDuck_?ref_src=twsrc%5Etfw"&gt;@AndrewDuck_&lt;/a&gt; 🦄 &lt;a href="https://t.co/cH2DBkcFRu"&gt;pic.twitter.com/cH2DBkcFRu&lt;/a&gt;&lt;/p&gt;&amp;mdash; Louise Mushet (@louisemushet) &lt;a href="https://twitter.com/louisemushet/status/1039883809553084416?ref_src=twsrc%5Etfw"&gt;September 12, 2018&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;p&gt;And hang with lots of cool people. (Special shout out to Louise Mushet who made the day extra fun without a few of my design besties!)&lt;/p&gt;
-
-&lt;p&gt;During the day the rapid paced 5 min show and tells worked well in quickly letting everyone show a thing. Be present. Be the centre of attention. But they also too short and leave no room for chats.&lt;/p&gt;
-
-&lt;p&gt;I nicked time in each talk to ask a question. So when people were swapping over I&amp;rsquo;d ask a question. But they left me wanting more. Much more.&lt;/p&gt;
-
-&lt;p&gt;When you get together so many smart people I feel you have to give space to comments. That freeform discussion space is where designers shine.&lt;/p&gt;
-
-&lt;p&gt;Lunch was amazing. Hat tip to Pete &amp;ldquo;Two sheds but actually I only have one right now because I gave my son a shed&amp;rdquo; Smith. We had to walk for it but I had a great plate of chicken kabab and chips.&lt;/p&gt;
-
-&lt;p&gt;All in all it was a great day. Loads of smart, fun people in the room. Really well put together by the London design gang!&lt;/p&gt;
-
-&lt;h2&gt;Stuff for admin users&lt;/h2&gt;
-
-&lt;p&gt;Something that popped up at the design away day. And reviewing some work recently, is the attitude towards professional/admin users by designers.&lt;/p&gt;
-
-&lt;p&gt;Something I&amp;rsquo;ve heard elsewhere was lots of excuses how &amp;ldquo;that&amp;rdquo; group of users are different. Like they can&amp;rsquo;t be overworked. Distracted. Confused. Need full love and attention.&lt;/p&gt;
-
-&lt;p&gt;Happily we have lots of designers who care. But plenty don&amp;rsquo;t. Plenty throw away solid patterns because things aren&amp;rsquo;t &amp;ldquo;citizen facing&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Like admin staff aren&amp;rsquo;t &amp;ldquo;citizens&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Yes, if a user does a thing 20 times a day, certain patterns may need to be tweaked. Tweaked not destroyed.&lt;/p&gt;
-
-&lt;p&gt;Designers should be responding to user needs not preconceptions. And it makes me shudder when those preconceptions don&amp;rsquo;t have a date with user testing.&lt;/p&gt;
-
-&lt;p&gt;Does your user do that thing 20 times a day?&lt;/p&gt;
-
-&lt;p&gt;I asked this question recently to a designer and the answer was 3 times a year. That isn&amp;rsquo;t an interface that they know by heart. That isn&amp;rsquo;t an interface they have muscle memory developed for.&lt;/p&gt;
 </content>
   </entry>
 </feed>
