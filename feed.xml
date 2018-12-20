@@ -5,10 +5,72 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-12-18T00:00:00+00:00</updated>
+  <updated>2018-12-19T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Trying a new format for hypotheses</title>
+    <link rel="alternate" href="http://blog.url.com/2018/12/19/trying-a-new-format-for-hypotheses.html"/>
+    <id>http://blog.url.com/2018/12/19/trying-a-new-format-for-hypotheses.html</id>
+    <published>2018-12-19T00:00:00+00:00</published>
+    <updated>2018-12-20T07:38:33+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I&amp;rsquo;m a big fan of &lt;a href="http://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;hypothesis driven design&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have advocated using it in my own team. In other NHS teams and across other organisations.&lt;/p&gt;
+
+&lt;p&gt;I was sitting in Bridgewater Place the other day and I overheard a team use it. A junior designer I worked with on a previous service has started doing it with his new team. A team that hasn&amp;rsquo;t always been great at doing design.&lt;/p&gt;
+
+&lt;p&gt;Writing design hypotheses isn&amp;rsquo;t always pleasurable. It can be tough to get them exactly right. But they make you a better designer. And design better things as a team.&lt;/p&gt;
+
+&lt;p&gt;The act of articulating your design choice further refines your design. And your skills as a designer.&lt;/p&gt;
+
+&lt;p&gt;By using a hypothesis driven design process you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Articulate your thinking&lt;/li&gt;
+&lt;li&gt;Provide others with understanding of your thinking&lt;/li&gt;
+&lt;li&gt;Create a framework to test your designs against&lt;/li&gt;
+&lt;li&gt;Develop a standard way of documenting your work&lt;/li&gt;
+&lt;li&gt;Make better stuff&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Working on a new range of services with a new team we&amp;rsquo;re still finding our feet. And working out how we work together.&lt;/p&gt;
+
+&lt;p&gt;One thing we are doing is looking at our format of hypotheses. We started with:&lt;/p&gt;
+
+&lt;ul class="list-unstyled list-margin--indent"&gt;
+  &lt;li&gt;&lt;strong&gt;[Context]&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;If [some action]&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Then [outcome for users]&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Because [reason for outcome]&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We&amp;rsquo;re trying to make how we test things clearer. This is something a few people feedback when they talk about how they&amp;rsquo;ve adopted the format above.&lt;/p&gt;
+
+&lt;p&gt;Find whatever works for you and your team is my answer.&lt;/p&gt;
+
+&lt;p&gt;So, taking my advice, we&amp;rsquo;ve moved to:&lt;/p&gt;
+
+&lt;ul class="list-unstyled list-margin--indent"&gt;
+  &lt;li&gt;&lt;strong&gt;[Context]&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;If [some action]&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Then [outcome for users]&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;We&amp;rsquo;ll know this works/is true when:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;[Measurement]&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The measurements are the key results. Some based on numbers. Some not.&lt;/p&gt;
+
+&lt;p&gt;This seems to work right now. And it&amp;rsquo;s making them easier to write and easier to talk about how to prove an idea or not.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Make things obvious</title>
     <link rel="alternate" href="http://blog.url.com/2018/12/18/simple.html"/>
@@ -303,92 +365,6 @@
 &lt;p&gt;A dashboard that asks you to interpret data doesn’t offer insight. It may provide you with enough to get there in raw ingredients. But will everyone with 60 seconds understand and see the story? If you provide the raw elements to understand the live service, it&amp;rsquo;s like offering someone a burger. And then giving them wheat and raw mince.&lt;/p&gt;
 
 &lt;p&gt;Is your dashboard counting how many eggs you have, or making an omelette?&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Advice for aspiring junior UX designers</title>
-    <link rel="alternate" href="http://blog.url.com/2018/10/01/advice-for-aspiring-junior-ux-designers.html"/>
-    <id>http://blog.url.com/2018/10/01/advice-for-aspiring-junior-ux-designers.html</id>
-    <published>2018-10-01T01:00:00+01:00</published>
-    <updated>2018-10-01T20:06:42+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;A while back I helped recruit a junior designer. I got to talk to many talented junior designers on the phone and face to face.&lt;/p&gt;
-
-&lt;p&gt;During the process I made a note of some general advice I felt could help many of the candidates.&lt;/p&gt;
-
-&lt;p&gt;The following tips are my advice for aspiring user experience designers. Though many of the points could apply to any role.&lt;/p&gt;
-
-&lt;h2&gt;CV advice&lt;/h2&gt;
-
-&lt;p&gt;When it comes to your CV keep it simple.&lt;/p&gt;
-
-&lt;p&gt;There is plenty of general advice about CVs that also holds for designers. Keep it short as possible. To the point and easy to read.&lt;/p&gt;
-
-&lt;p&gt;It can be tempting as a designer to spend too much time on the visual design flourishes of your CV. But for user experience roles, the key thing to get across is that you understand your user.&lt;/p&gt;
-
-&lt;p&gt;Your user cares about being able to scan information about you. Keep it neat. Keep it clean and minimal and easy to read.&lt;/p&gt;
-
-&lt;p&gt;Make sure your CV works on different devices and the links actually go where you expect.&lt;/p&gt;
-
-&lt;p&gt;Look at the job role and related info and check you have what they need. On each criteria write one-line of how you’ve shown you have that skill. With the ones that you are less confident on, how can you show how you are developing that skill?&lt;/p&gt;
-
-&lt;p&gt;This list helps form your CV, cover letter and interview answers.&lt;/p&gt;
-
-&lt;p&gt;If the role is for a junior post, companies will be expecting some weaker areas. They need you to be able to show understanding, passion as much as actual experience.&lt;/p&gt;
-
-&lt;p&gt;Passion and willingness to learn isn’t something an employer can teach. HTML is.&lt;/p&gt;
-
-&lt;p&gt;If you have lots of gaps (things you can’t even show you are trying to address as a weakness), don’t apply. Don’t waste your time on something you are not a good fit on. You’re not going to get past the CV sift where it is as much matching keywords as it is your potential. If it is a dream job, you now have a list of things to get good at and prove.&lt;/p&gt;
-
-&lt;p&gt;This isn&amp;rsquo;t to say you shouldn&amp;rsquo;t apply for a role you&amp;rsquo;re a nearly match for. Those you should. Job roles are perfect fits. No one is perfect. But don&amp;rsquo;t waste your time and emotional energy on something  you&amp;rsquo;re not a good fit on.&lt;/p&gt;
-
-&lt;h2&gt;Cover letter advice&lt;/h2&gt;
-
-&lt;p&gt;In your cover letter match the language the company uses. If the job post talks about interaction design, call it that. If they call it user interface design, likewise. Like mirroring someone’s body language, mirror their conventions.&lt;/p&gt;
-
-&lt;h2&gt;Portfolio advice&lt;/h2&gt;
-
-&lt;p&gt;When it comes to your portfolio make sure you have a strong narrative. You should write them using a schema like:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Summary. A short description of what you did. Tweet length&lt;/li&gt;
-&lt;li&gt;Context. Provide the background. Where it was. What it was for etc. in one or two paragraphs&lt;/li&gt;
-&lt;li&gt;Process. Describe the broad strokes of your design process. This should be the meatiest part. Ensure you describe how you put the user at the heart of your process!&lt;/li&gt;
-&lt;li&gt;Outcomes. What did you produce and what outcome did it create for your user?&lt;/li&gt;
-&lt;li&gt;Lessons. What did you learn and what would you do next time? A key skill to a good designer is learning from mistakes and applying those learnings&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;It is hard to underestimate the importance of being able to explain your design process. You must be able to explain what you did, how you did it and why you did it. This isn&amp;rsquo;t to say it&amp;rsquo;s easy. But you&amp;rsquo;ll stand out as a candidate if you can take someone through your process.&lt;/p&gt;
-
-&lt;h2&gt;Interview advice&lt;/h2&gt;
-
-&lt;p&gt;As with your portfolio, it is vital you are able to explain your design process. The steps you go through to design something.&lt;/p&gt;
-
-&lt;p&gt;In many face to face interviews you’ll have to take someone through a portfolio item. Or tackle a design challenge. Being able to explain your process will make you stand out. More so than eye-catching visuals.&lt;/p&gt;
-
-&lt;p&gt;A caveat to this advice to not to be rigid in your process. Be flexible. Understand that there are techniques appropriate in some situations. For some problems, you need to be very lean.&lt;/p&gt;
-
-&lt;p&gt;A textbook large-scale discovery isn&amp;rsquo;t the only tool.&lt;/p&gt;
-
-&lt;p&gt;Don’t confuse good client management with user testing. Unless your client is the only person to use a system, it is likely they aren’t the user you are looking for. A/B testing with a client does not replace user testing. Client driven design is not user centred design.&lt;/p&gt;
-
-&lt;p&gt;Your goal as a designer is creating a product that works for your client’s users. Do this and your client will see the rewards from happy users.&lt;/p&gt;
-
-&lt;h2&gt;Post-interview advice&lt;/h2&gt;
-
-&lt;p&gt;Regardless of how well it went, try to ask for advice.&lt;/p&gt;
-
-&lt;p&gt;If you didn’t get the job, ask why. Remember that it is often being able to demonstrate your skills as having them.&lt;/p&gt;
-
-&lt;p&gt;The interviewer cannot assume you have skills. They need you to state them.&lt;/p&gt;
-
-&lt;h2&gt;General advice&lt;/h2&gt;
-
-&lt;p&gt;Be yourself. Be your best self.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ve got this! Good luck. If you want any further help, feel free to message me.&lt;/p&gt;
 </content>
   </entry>
 </feed>
