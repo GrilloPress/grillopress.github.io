@@ -5,10 +5,50 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-12-19T00:00:00+00:00</updated>
+  <updated>2018-12-29T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Explaining a thing over saying a thing</title>
+    <link rel="alternate" href="http://blog.url.com/2018/12/29/explaining-a-thing-over-saying-the-thing.html"/>
+    <id>http://blog.url.com/2018/12/29/explaining-a-thing-over-saying-the-thing.html</id>
+    <published>2018-12-29T00:00:00+00:00</published>
+    <updated>2018-12-30T17:17:46+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Explaining what something is is almost always better than using a technical term for it.&lt;/p&gt;
+
+&lt;p&gt;Don’t use complicated, specialist language in a service.&lt;/p&gt;
+
+&lt;p&gt;Even audiences you think will know what a word means will benefit from explaining a thing.&lt;/p&gt;
+
+&lt;p&gt;Avoid complex phrases unless you have clear and unambiguous proof.&lt;/p&gt;
+
+&lt;p&gt;Designing in the world of data, privacy and medical records you often have complicated concepts. And equally complicated terms:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anonymisation&lt;/li&gt;
+&lt;li&gt;Pseudonymisation&lt;/li&gt;
+&lt;li&gt;Data minimisation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In user research we see the negative reaction to these terms. Users find them confusing. Or evasive. And they are.&lt;/p&gt;
+
+&lt;p&gt;Instead of saying anonymisation, talk about information that has personal details removed. And give examples.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;When we share your information with another organisation, we remove all personal details such as your name and address&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Being open and clear isn’t without problems. Exposing how you use someone else’s data can be problematic. But it’s the truth. And you shouldn’t be processing data without good reason.&lt;/p&gt;
+
+&lt;p&gt;Technical terms or metaphors are always the worst choice.&lt;/p&gt;
+
+&lt;p&gt;Explain the thing. Your service or product will benefit from it.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Trying a new format for hypotheses</title>
     <link rel="alternate" href="http://blog.url.com/2018/12/19/trying-a-new-format-for-hypotheses.html"/>
@@ -318,53 +358,6 @@
 &lt;p&gt;Created some materials for the upcoming lab. Wasn&amp;rsquo;t as straight forward as I had hoped.&lt;/p&gt;
 
 &lt;p&gt;Reviewed the paper forms once last time with Sam. Took a decision on a few items that were left outstanding. Everything ready for the lab next Tuesday.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Dashing dashboards</title>
-    <link rel="alternate" href="http://blog.url.com/2018/10/06/dashing-dashboards.html"/>
-    <id>http://blog.url.com/2018/10/06/dashing-dashboards.html</id>
-    <published>2018-10-06T01:00:00+01:00</published>
-    <updated>2018-10-06T22:11:34+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;A little while back I was talking to a colleague about dashboards.&lt;/p&gt;
-
-&lt;p&gt;The key value of a dashboard is insight and clarity. Not data. Not numbers.&lt;/p&gt;
-
-&lt;p&gt;Your service’s KPIs are indicators, not the story. And not an insight in itself. You need to give people a clear direction of what’s happening, why and what to do next.&lt;/p&gt;
-
-&lt;p&gt;When I worked in publishing the data team created a tool to help visualise publishing topics. The idea being to give editors insight into lucrative areas to publish in. How topics related. And the potential market size.&lt;/p&gt;
-
-&lt;p&gt;The tool was great engineering. But added no value. The issue  was that the only people who could get value out of it, knew the topics and relationships already.&lt;/p&gt;
-
-&lt;p&gt;It was a nice tool. But one that only provided insight to those who could already see the big picture.&lt;/p&gt;
-
-&lt;p&gt;This is often the problem with dashboards. Understandable for the creators. Not for the stakeholders. Consumers and decision makers.&lt;/p&gt;
-
-&lt;p&gt;When creating dashboards ask yourself what do we (and/or our users) need to know? What insights are important?&lt;/p&gt;
-
-&lt;p&gt;A great place to start is with problem statements. If you don’t have them, they’re worth generating retrospectively.&lt;/p&gt;
-
-&lt;p&gt;Ask yourself:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What have we seen and what are we trying to solve?&lt;/li&gt;
-&lt;li&gt;How will we know when we&amp;rsquo;ve solved that problem or created that outcome?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It can be tempting to inject numbers into a dashboard. Particularly as a team that understands them or can interpret them. Things like time on site, bounce rates, response times, scroll depth are all interesting things. But what do they say?&lt;/p&gt;
-
-&lt;p&gt;If those terms are new or unknown, they say nothing.&lt;/p&gt;
-
-&lt;p&gt;If you want to tell the story of whether users a doing a thing, make that immediately clear. Clear without need to interpret numbers.&lt;/p&gt;
-
-&lt;p&gt;If there is a hierarchy. An important thing to explain. Follow the fundamental design principle of making that hierarchy clear.&lt;/p&gt;
-
-&lt;p&gt;A dashboard that asks you to interpret data doesn’t offer insight. It may provide you with enough to get there in raw ingredients. But will everyone with 60 seconds understand and see the story? If you provide the raw elements to understand the live service, it&amp;rsquo;s like offering someone a burger. And then giving them wheat and raw mince.&lt;/p&gt;
-
-&lt;p&gt;Is your dashboard counting how many eggs you have, or making an omelette?&lt;/p&gt;
 </content>
   </entry>
 </feed>
