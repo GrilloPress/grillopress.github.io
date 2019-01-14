@@ -171,39 +171,6 @@
 </content>
   </entry>
   <entry>
-    <title>Keep your design consistent (with the right things)</title>
-    <link rel="alternate" href="http://blog.url.com/2019/01/04/keep-your-design-consistent-with-the-right-things.html"/>
-    <id>http://blog.url.com/2019/01/04/keep-your-design-consistent-with-the-right-things.html</id>
-    <published>2019-01-04T00:00:00+00:00</published>
-    <updated>2019-01-14T06:37:46+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Keeping things consistent is a common design principle or rule.&lt;/p&gt;
-
-&lt;p&gt;If you make interactions work in a consistent way, your users will be better able to use your system. Particularly if they have to use it regularly or for a long time.&lt;/p&gt;
-
-&lt;p&gt;Being consistent doesn&amp;rsquo;t mean uniform however. Uniformity is a level of visual and interaction sameness that doesn&amp;rsquo;t change regardless of context.&lt;/p&gt;
-
-&lt;p&gt;Whereas uniformity in design means a system that is always the same, consistency is about something being applied generally.&lt;/p&gt;
-
-&lt;p&gt;Across all your pages, your links are broadly similar. And only deviate based on particular reasons, such as usability, contrast etc.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Uniformity&lt;/dt&gt;
-  &lt;dd&gt;All links are blue and underlined&lt;/dd&gt;
-  &lt;dt&gt;Consistency&lt;/dt&gt;
-  &lt;dd&gt;Generally speaking, links are blue and underlined&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;&lt;a href="https://articles.uie.com/consistency-in-design-is-the-wrong-approach/"&gt;consistency in design is the wrong approach&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Unlike Jared I&amp;rsquo;m unsure if designers are very good at making things consistent. Locally or globally.&lt;/p&gt;
-
-&lt;p&gt;Is the goal of consistent design a user-centred activity or a system-centred activity?&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
     <title>Explaining a thing over saying a thing</title>
     <link rel="alternate" href="http://blog.url.com/2018/12/29/explaining-a-thing-over-saying-the-thing.html"/>
     <id>http://blog.url.com/2018/12/29/explaining-a-thing-over-saying-the-thing.html</id>
@@ -395,6 +362,67 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Sometimes you have to pitch a vision, but when you can, let your users talk. It&amp;rsquo;s a lot more powerful than summarising their words.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Questions for your questions</title>
+    <link rel="alternate" href="http://blog.url.com/2018/12/05/questions-for-your-questions.html"/>
+    <id>http://blog.url.com/2018/12/05/questions-for-your-questions.html</id>
+    <published>2018-12-05T00:00:00+00:00</published>
+    <updated>2018-12-05T17:14:03+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Yesterday, to no fanfare, I put live a significant iteration to the non-digital service. The service helps users make a choice on how their children&amp;rsquo;s data can be used.&lt;/p&gt;
+
+&lt;p&gt;Part of the new process was an iteration on a previous form. The work brought together:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;new visual system&lt;/li&gt;
+&lt;li&gt;reduced list of identity documents required&lt;/li&gt;
+&lt;li&gt;simplified process to prove parental responsibility&lt;/li&gt;
+&lt;li&gt;user focused words and ways of asking questions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Redesigning the forms with the team meant questioning everything. Things we held self-evident. Rules that were stuck-in-stone. Policy.&lt;/p&gt;
+
+&lt;p&gt;Happily the whole team leapt into this work. Sam (grad content designer) and I had no need to canvas for support to charge ahead with this work.&lt;/p&gt;
+
+&lt;p&gt;It made me realise that you could better explore the tough parts of any service with the non-digital version first. That is, inputting information, reading it and processes. But not just pretend stuff (paper prototypes). But actual real life submissions. Paper is cheap. Easy to iterate. But live. If your service is a policy-driven thing. What better way to test drive whether that policy delivers what it needs to?&lt;/p&gt;
+
+&lt;p&gt;I also felt that there are many questions you need to ask when designing a service that gets information from a user. That is, questions that all services, digital or not, should answer.&lt;/p&gt;
+
+&lt;p&gt;I wrote some of these questions down and shared them. And in the spirit of making things open. Here is my first go at questions to ask yourself when designing services and forms.&lt;/p&gt;
+
+&lt;h2&gt;Questions for your questions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is your user trying to do?&lt;/li&gt;
+&lt;li&gt;What information do you need to get them to their goal?&lt;/li&gt;
+&lt;li&gt;Why are you asking for this information?&lt;/li&gt;
+&lt;li&gt;If any of it isn&amp;rsquo;t necessary, why are you asking for it?&lt;/li&gt;
+&lt;li&gt;Is what you&amp;rsquo;re asking for, the least you can get away with asking?&lt;/li&gt;
+&lt;li&gt;Could you get the information you need from them without directly asking?&lt;/li&gt;
+&lt;li&gt;How would you ask the user in person for this information?&lt;/li&gt;
+&lt;li&gt;How would a user describe what they&amp;rsquo;re being asked for?&lt;/li&gt;
+&lt;li&gt;Is there any format restrictions? (Age by number or specific date etc.)&lt;/li&gt;
+&lt;li&gt;Will the things you are asking for be expected or natural?&lt;/li&gt;
+&lt;li&gt;Will the context of the service, or where the user is, change how appropriate the question is? (Sexual health, prison, on behalf of another etc.)&lt;/li&gt;
+&lt;li&gt;Will the location of the user change how easy to answer the question is? (Mobile, home, abroad, in an emergency)&lt;/li&gt;
+&lt;li&gt;What happens if the user can&amp;rsquo;t or won&amp;rsquo;t answer the question?&lt;/li&gt;
+&lt;li&gt;If there is a restriction, what happens if the user doesn&amp;rsquo;t meet it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Questions to help your questions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do other services ask for this currently?&lt;/li&gt;
+&lt;li&gt;How effective is this? What do they say works or doesn&amp;rsquo;t work? If  they could click their fingers and it happen, would they change anything?&lt;/li&gt;
+&lt;li&gt;What help does other systems provide to help people answer it? (Before they fill it in)&lt;/li&gt;
+&lt;li&gt;What help does it provide if the answer isn&amp;rsquo;t filled in?&lt;/li&gt;
+&lt;li&gt;What help does it provide if the format is wrong?&lt;/li&gt;
+&lt;li&gt;What happens when a user doesn&amp;rsquo;t meet the requirements? (For example, they are too young)&lt;/li&gt;
+&lt;/ul&gt;
 </content>
   </entry>
 </feed>
