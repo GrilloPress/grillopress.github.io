@@ -5,10 +5,204 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-12-29T00:00:00+00:00</updated>
+  <updated>2019-01-10T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Offline services and paper forms</title>
+    <link rel="alternate" href="http://blog.url.com/2019/01/10/doing-paper-forms.html"/>
+    <id>http://blog.url.com/2019/01/10/doing-paper-forms.html</id>
+    <published>2019-01-10T00:00:00+00:00</published>
+    <updated>2019-01-14T08:23:06+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I wrote up some notes for someone to recap the advice I would give myself if I was doing the paper forms for the service again. Here they are.&lt;/p&gt;
+
+&lt;h2&gt;Things to do or think about&lt;/h2&gt;
+
+&lt;h3&gt;Review current or similar services&lt;/h3&gt;
+
+&lt;p&gt;Review the current service’s offline route. Or, if none, find the most similar service with current offline processes.&lt;/p&gt;
+
+&lt;p&gt;Think things with similar needs to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;prove address&lt;/li&gt;
+&lt;li&gt;prove name&lt;/li&gt;
+&lt;li&gt;financial history (bursaries?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Talk to the service owners about issues. System side and user side. Talk to the contact centre and what themes they get (back that up with data as well).&lt;/p&gt;
+
+&lt;p&gt;Remember that you’re not just prototyping the form. But the process. So, letters, emails and call scripts. Before, during and after submission.&lt;/p&gt;
+
+&lt;p&gt;Get permission to go through filled-in forms. Review in a team submissions and note things that work well and don’t work.&lt;/p&gt;
+
+&lt;p&gt;Use:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;sticky notes&lt;/li&gt;
+&lt;li&gt;pens&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And write down notes, collect and analyse like you would a user lab.&lt;/p&gt;
+
+&lt;p&gt;Collecting observations and notes. Make sure to make extra notes where people have crossed things out and filled in their own answers as well as mistakes and misunderstandings.&lt;/p&gt;
+
+&lt;p&gt;People in this session:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;researchers&lt;/li&gt;
+&lt;li&gt;designers&lt;/li&gt;
+&lt;li&gt;service owner&lt;/li&gt;
+&lt;li&gt;product owner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And anyone else you can get in the room. It is a rewarding but slow process. Be sure to draft in lots of assistance and help.&lt;/p&gt;
+
+&lt;p&gt;Feedback findings to contact centre team and those involved currently for things to implement or solve quickly.&lt;/p&gt;
+
+&lt;h3&gt;Review your questions&lt;/h3&gt;
+
+&lt;p&gt;Start from the beginning. You have your user needs and outcome they want to achieve. Ask what you need to get from them to help them achieve their goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://grillopress.github.io/2018/12/05/questions-for-your-questions.html"&gt;Conduct a thorough question review&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Keep these questions and answers in a spreadsheet. Yep. A spreadsheet.&lt;/p&gt;
+
+&lt;p&gt;Be sure to use their language not yours.&lt;/p&gt;
+
+&lt;p&gt;Remember that offline services can’t give instant validation. Clear instructions are key. But also remember that users can’t be redirected to the correct parts of a service as clearly either.&lt;/p&gt;
+
+&lt;h3&gt;Make prototypes early and often&lt;/h3&gt;
+
+&lt;p&gt;Typically you should aim to prototype:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;paper form/s (you may need more than one)&lt;/li&gt;
+&lt;li&gt;page paper form will live on (standalone or on the service)&lt;/li&gt;
+&lt;li&gt;guidance document if needed (people don’t read these so keep it light)&lt;/li&gt;
+&lt;li&gt;call script&lt;/li&gt;
+&lt;li&gt;introduction letters or emails&lt;/li&gt;
+&lt;li&gt;letters or emails informing the user of an error&lt;/li&gt;
+&lt;li&gt;letters or emails confirming receipt of submission&lt;/li&gt;
+&lt;li&gt;letters or emails confirming success&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unlike a digital service, it is extremely easy to rapidly prototype paper forms and make them live.&lt;/p&gt;
+
+&lt;p&gt;Unless you are great at things like Adobe InDesign, rapidly prototype with Microsoft Word.&lt;/p&gt;
+
+&lt;p&gt;Share liberally.&lt;/p&gt;
+
+&lt;p&gt;Placement will go funny often but the key is being able to create lots of versions quickly that you can put in front of people.&lt;/p&gt;
+
+&lt;p&gt;We got to version 21 before we were happy enough to publish one.&lt;/p&gt;
+
+&lt;p&gt;Remember that you’re not just prototyping the form. But the process. So, letters, emails and call scripts. Before, during and after submission need designing too.&lt;/p&gt;
+
+&lt;h3&gt;Get testing your process&lt;/h3&gt;
+
+&lt;p&gt;Paper is cheap. Get testing questions and assumptions often. Test by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;doing quick crits inside your organisation&lt;/li&gt;
+&lt;li&gt;getting call handlers and contact centre staff to fill it in&lt;/li&gt;
+&lt;li&gt;doing pop-ups with similar users (Keep pop-up lightweight)&lt;/li&gt;
+&lt;li&gt;in labs where you can explore the whole journey end to end&lt;/li&gt;
+&lt;li&gt;in context. Home, office or similar&lt;/li&gt;
+&lt;li&gt;getting call handlers in the lab with you and simulating any phone conversations or emails&lt;/li&gt;
+&lt;li&gt;sending out early prototypes through the post to people on research panels (after they have agreed to do that, obviously!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And be sure to test with people:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;with access needs&lt;/li&gt;
+&lt;li&gt;on the go or working away from a home address&lt;/li&gt;
+&lt;li&gt;with non-nuclear family structures&lt;/li&gt;
+&lt;li&gt;with two addresses, no address or a difficult one (canal boat)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Get reviews from the wider organisation and experts and helpful friends around the design community.&lt;/p&gt;
+
+&lt;p&gt;As well as how well the form will help the user get what they want, ask:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;how will they find the offline service&lt;/li&gt;
+&lt;li&gt;what conditions they would use it&lt;/li&gt;
+&lt;li&gt;how they will find the documents they need&lt;/li&gt;
+&lt;li&gt;where they would send the form&lt;/li&gt;
+&lt;li&gt;what standard of post&lt;/li&gt;
+&lt;li&gt;when and how they expect to hear back&lt;/li&gt;
+&lt;li&gt;how they would print the form or related documents off (if needed)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Key design principles&lt;/h2&gt;
+
+&lt;h3&gt;Design for context&lt;/h3&gt;
+
+&lt;p&gt;Remember your user is not able to know they’re filling in things right. Keep instructions clear.&lt;/p&gt;
+
+&lt;p&gt;Don’t try to ask two things in one question.&lt;/p&gt;
+
+&lt;p&gt;Keep addresses, emails and phone numbers clear. Expect pages to go lost or not to be read correctly.&lt;/p&gt;
+
+&lt;p&gt;Know that users won’t have clear cut relationships and situations.&lt;/p&gt;
+
+&lt;p&gt;People divorce. Never get married in the first place. Move address. Keep old addresses in certain systems. Work far away from their “home” address. Live on a boat.&lt;/p&gt;
+
+&lt;p&gt;People also don’t print stuff out that often either. Find out how people will do that.&lt;/p&gt;
+
+&lt;h3&gt;Uniform not consistent&lt;/h3&gt;
+
+&lt;p&gt;Your offline service should try to match your online service in name and solving the same need.&lt;/p&gt;
+
+&lt;p&gt;Don’t have a different name for the service, but do:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;change questions if they make more sense offline&lt;/li&gt;
+&lt;li&gt;provide additional information you may not on a screen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You don’t need to match any online service completely. Deviate where it makes sense.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Keep your design consistent (with the right things)</title>
+    <link rel="alternate" href="http://blog.url.com/2019/01/04/keep-your-design-consistent-with-the-right-things.html"/>
+    <id>http://blog.url.com/2019/01/04/keep-your-design-consistent-with-the-right-things.html</id>
+    <published>2019-01-04T00:00:00+00:00</published>
+    <updated>2019-01-14T06:37:46+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Keeping things consistent is a common design principle or rule.&lt;/p&gt;
+
+&lt;p&gt;If you make interactions work in a consistent way, your users will be better able to use your system. Particularly if they have to use it regularly or for a long time.&lt;/p&gt;
+
+&lt;p&gt;Being consistent doesn&amp;rsquo;t mean uniform however. Uniformity is a level of visual and interaction sameness that doesn&amp;rsquo;t change regardless of context.&lt;/p&gt;
+
+&lt;p&gt;Whereas uniformity in design means a system that is always the same, consistency is about something being applied generally.&lt;/p&gt;
+
+&lt;p&gt;Across all your pages, your links are broadly similar. And only deviate based on particular reasons, such as usability, contrast etc.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Uniformity&lt;/dt&gt;
+  &lt;dd&gt;All links are blue and underlined&lt;/dd&gt;
+  &lt;dt&gt;Consistency&lt;/dt&gt;
+  &lt;dd&gt;Generally speaking, links are blue and underlined&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;a href="https://articles.uie.com/consistency-in-design-is-the-wrong-approach/"&gt;consistency in design is the wrong approach&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unlike Jared I&amp;rsquo;m unsure if designers are very good at making things consistent. Locally or globally.&lt;/p&gt;
+
+&lt;p&gt;Is the goal of consistent design a user-centred activity or a system-centred activity?&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Explaining a thing over saying a thing</title>
     <link rel="alternate" href="http://blog.url.com/2018/12/29/explaining-a-thing-over-saying-the-thing.html"/>
@@ -201,163 +395,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Sometimes you have to pitch a vision, but when you can, let your users talk. It&amp;rsquo;s a lot more powerful than summarising their words.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Questions for your questions</title>
-    <link rel="alternate" href="http://blog.url.com/2018/12/05/questions-for-your-questions.html"/>
-    <id>http://blog.url.com/2018/12/05/questions-for-your-questions.html</id>
-    <published>2018-12-05T00:00:00+00:00</published>
-    <updated>2018-12-05T17:14:03+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Yesterday, to no fanfare, I put live a significant iteration to the non-digital service. The service helps users make a choice on how their children&amp;rsquo;s data can be used.&lt;/p&gt;
-
-&lt;p&gt;Part of the new process was an iteration on a previous form. The work brought together:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;new visual system&lt;/li&gt;
-&lt;li&gt;reduced list of identity documents required&lt;/li&gt;
-&lt;li&gt;simplified process to prove parental responsibility&lt;/li&gt;
-&lt;li&gt;user focused words and ways of asking questions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Redesigning the forms with the team meant questioning everything. Things we held self-evident. Rules that were stuck-in-stone. Policy.&lt;/p&gt;
-
-&lt;p&gt;Happily the whole team leapt into this work. Sam (grad content designer) and I had no need to canvas for support to charge ahead with this work.&lt;/p&gt;
-
-&lt;p&gt;It made me realise that you could better explore the tough parts of any service with the non-digital version first. That is, inputting information, reading it and processes. But not just pretend stuff (paper prototypes). But actual real life submissions. Paper is cheap. Easy to iterate. But live. If your service is a policy-driven thing. What better way to test drive whether that policy delivers what it needs to?&lt;/p&gt;
-
-&lt;p&gt;I also felt that there are many questions you need to ask when designing a service that gets information from a user. That is, questions that all services, digital or not, should answer.&lt;/p&gt;
-
-&lt;p&gt;I wrote some of these questions down and shared them. And in the spirit of making things open. Here is my first go at questions to ask yourself when designing services and forms.&lt;/p&gt;
-
-&lt;h2&gt;Questions for your questions&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What is your user trying to do?&lt;/li&gt;
-&lt;li&gt;What information do you need to get them to their goal?&lt;/li&gt;
-&lt;li&gt;Why are you asking for this information?&lt;/li&gt;
-&lt;li&gt;If any of it isn&amp;rsquo;t necessary, why are you asking for it?&lt;/li&gt;
-&lt;li&gt;Is what you&amp;rsquo;re asking for, the least you can get away with asking?&lt;/li&gt;
-&lt;li&gt;Could you get the information you need from them without directly asking?&lt;/li&gt;
-&lt;li&gt;How would you ask the user in person for this information?&lt;/li&gt;
-&lt;li&gt;How would a user describe what they&amp;rsquo;re being asked for?&lt;/li&gt;
-&lt;li&gt;Is there any format restrictions? (Age by number or specific date etc.)&lt;/li&gt;
-&lt;li&gt;Will the things you are asking for be expected or natural?&lt;/li&gt;
-&lt;li&gt;Will the context of the service, or where the user is, change how appropriate the question is? (Sexual health, prison, on behalf of another etc.)&lt;/li&gt;
-&lt;li&gt;Will the location of the user change how easy to answer the question is? (Mobile, home, abroad, in an emergency)&lt;/li&gt;
-&lt;li&gt;What happens if the user can&amp;rsquo;t or won&amp;rsquo;t answer the question?&lt;/li&gt;
-&lt;li&gt;If there is a restriction, what happens if the user doesn&amp;rsquo;t meet it?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Questions to help your questions&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How do other services ask for this currently?&lt;/li&gt;
-&lt;li&gt;How effective is this? What do they say works or doesn&amp;rsquo;t work? If  they could click their fingers and it happen, would they change anything?&lt;/li&gt;
-&lt;li&gt;What help does other systems provide to help people answer it? (Before they fill it in)&lt;/li&gt;
-&lt;li&gt;What help does it provide if the answer isn&amp;rsquo;t filled in?&lt;/li&gt;
-&lt;li&gt;What help does it provide if the format is wrong?&lt;/li&gt;
-&lt;li&gt;What happens when a user doesn&amp;rsquo;t meet the requirements? (For example, they are too young)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weeknotes 16</title>
-    <link rel="alternate" href="http://blog.url.com/2018/11/02/weeknotes-16.html"/>
-    <id>http://blog.url.com/2018/11/02/weeknotes-16.html</id>
-    <published>2018-11-02T00:00:00+00:00</published>
-    <updated>2018-11-06T07:10:43+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Back on the Weeknotes wagon. See how long this&amp;rsquo;ll last&amp;hellip;&lt;/p&gt;
-
-&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;A fair chunk of Monday spent reviewing the work done on the paper forms. Sam (graduate designer) took a day last week to get heads down on the forms. We worked through some issues and translated her content into the new design.&lt;/p&gt;
-
-&lt;p&gt;The forms have come a long way. Even from September. Much of that credit to the team jumping into this issue. And Sam&amp;rsquo;s hard work.&lt;/p&gt;
-
-&lt;p&gt;In the afternoon the national data opt-out team met up to talk about the research roadmap. We reviewed what we had planned. Including the paper forms and the accessibility audit.&lt;/p&gt;
-
-&lt;p&gt;Some extra work planned in for December. Had a good discussion with the programme manager about what we needed to do next.&lt;/p&gt;
-
-&lt;p&gt;We also looked at how we are evaluating comprehension. There were a few questions that when we wrote them they worked well enough but now we could see how to improve them.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Sent over the finished paper forms to the user researchers to help them do a live test of their lab plan.&lt;/p&gt;
-
-&lt;p&gt;Backlog review for the national data opt out service. Talked through a few cards and bugs I created.&lt;/p&gt;
-
-&lt;p&gt;Spent much of the day with the senior members of the design community talking about design culture. Both in the community and wider organisation.&lt;/p&gt;
-
-&lt;p&gt;We celebrated the &lt;a href="https://www.gov.uk/government/publications/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care"&gt;new vision for health tech&lt;/a&gt; released by the department of health and social care.&lt;/p&gt;
-
-&lt;p&gt;A few of us in the room had written the NHS design principles. But we also pondered how we can get our organisation to talk more about design and its value.&lt;/p&gt;
-
-&lt;p&gt;Had a productive chat with the developers about the future product. Not my role, but talked though technical architecture. We talked through how we could make the most developer friendly set up. Whilst maintaining the most device/platform agnostic frontend possible.&lt;/p&gt;
-
-&lt;p&gt;Ended the day talking to the audit and transparency team about user research. Design questions and content questions. Always enjoy talking to Lucy, Will and Sam.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Started the day talking to Will (researcher on audit and transparency) about problem statements. The problem statement had gone through many changes. But there wasn&amp;rsquo;t a confirmed one. I felt we had one pretty much there. With enough scope not to allow for a pivot. We agreed to go for it in the steering group.&lt;/p&gt;
-
-&lt;p&gt;Had my first steering group show and tell for audit and transparency. Everything was very positively received. Make sure Sam&amp;rsquo;s good work on the content discovery was front and centre too. One of the clinicians raised a great point. When giving users a look at their medical record you have to be aware there are risks that they are being treated for things they may not think they are. Or how it is recorded in their medical record may make it look more serious than it is.&lt;/p&gt;
-
-&lt;p&gt;After the call switched back to the opt-out service&amp;rsquo;s paper forms. Went through the initial feedback and lab plan with the user researchers. A few small things to change and some to watch in the lab next week.&lt;/p&gt;
-
-&lt;p&gt;One of the issues was having nothing but a PO address.&lt;/p&gt;
-
-&lt;p&gt;I thought the lack of a service name or title for the postal address would make that seem creepy. Rather than secure.&lt;/p&gt;
-
-&lt;p&gt;It did.&lt;/p&gt;
-
-&lt;p&gt;In the afternoon we had a long user stories review and writing session. Cleared out some older ones. Wrote some cornerstones. More work to do. Good session though.&lt;/p&gt;
-
-&lt;p&gt;Finished the day chatting about information architecture to Sam. The picture of the NHS website platform and our user&amp;rsquo;s needs.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Started the day with a chat with the NHS website team with how to get access to edit the website.&lt;/p&gt;
-
-&lt;p&gt;Got the audit and transparency team together to talk through content. We talked:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;As is picture&lt;/li&gt;
-&lt;li&gt;Search terms&lt;/li&gt;
-&lt;li&gt;Referrers&lt;/li&gt;
-&lt;li&gt;Organisational strategy&lt;/li&gt;
-&lt;li&gt;the &amp;ldquo;to be&amp;rdquo; picture&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Best thing we got out of the day was a better understanding of the whole galaxy that our users navigate. When it comes to finding out about their health records, users often start with their GP.&lt;/p&gt;
-
-&lt;p&gt;Over lunch heard about what Well Digital have been up to. The format was pretty well organised. It was nice to hear they cared about the human processes behind the digital and not the computers bit.&lt;/p&gt;
-
-&lt;p&gt;The thing overran but would have asked about clinical risks.&lt;/p&gt;
-
-&lt;p&gt;Talked about the new audit service we are building at the design huddle.&lt;/p&gt;
-
-&lt;p&gt;Talked through our design principles and design constraints. Pitched a short sketching challenge too.&lt;/p&gt;
-
-&lt;p&gt;I could tell from a few faces that the designers thought the challenge was obvious. But when we talked things through it wasn&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;Many of us in that room have apps and use services that let us audit our activity. In the app or service (energy usage, milage, spend) and some that let us audit how the data about us is generated or shared. Like Uber, Google etc.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Not as productive as I&amp;rsquo;d like. Lots of small things.&lt;/p&gt;
-
-&lt;p&gt;Gave a colleague a review of some of the stuff I sent another team. A situation where I tried to help nudge and review some work.&lt;/p&gt;
-
-&lt;p&gt;Created some materials for the upcoming lab. Wasn&amp;rsquo;t as straight forward as I had hoped.&lt;/p&gt;
-
-&lt;p&gt;Reviewed the paper forms once last time with Sam. Took a decision on a few items that were left outstanding. Everything ready for the lab next Tuesday.&lt;/p&gt;
 </content>
   </entry>
 </feed>
