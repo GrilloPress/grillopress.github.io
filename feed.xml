@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog Name</title>
-  <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
-  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <title>Andrew Duckworth</title>
+  <subtitle>Designer, artist</subtitle>
+  <id>https://grillopress.github.io/</id>
+  <link href="https://grillopress.github.io/"/>
+  <link href="https://grillopress.github.io/feed.xml" rel="self"/>
   <updated>2019-01-10T00:00:00+00:00</updated>
   <author>
-    <name>Blog Author</name>
+    <name>Andrew Duckworth</name>
   </author>
   <entry>
     <title>Offline services and paper forms</title>
-    <link rel="alternate" href="http://blog.url.com/2019/01/10/doing-paper-forms.html"/>
-    <id>http://blog.url.com/2019/01/10/doing-paper-forms.html</id>
+    <link rel="alternate" href="https://grillopress.github.io/2019/01/10/doing-paper-forms.html"/>
+    <id>https://grillopress.github.io/2019/01/10/doing-paper-forms.html</id>
     <published>2019-01-10T00:00:00+00:00</published>
     <updated>2019-01-15T16:19:08+00:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Andrew Duckworth</name>
     </author>
     <content type="html">&lt;p&gt;I wrote up some notes for someone to recap the advice I would give myself if I was doing the paper forms for the service again. Here they are.&lt;/p&gt;
 
@@ -172,12 +172,12 @@
   </entry>
   <entry>
     <title>Explaining a thing over saying a thing</title>
-    <link rel="alternate" href="http://blog.url.com/2018/12/29/explaining-a-thing-over-saying-the-thing.html"/>
-    <id>http://blog.url.com/2018/12/29/explaining-a-thing-over-saying-the-thing.html</id>
+    <link rel="alternate" href="https://grillopress.github.io/2018/12/29/explaining-a-thing-over-saying-the-thing.html"/>
+    <id>https://grillopress.github.io/2018/12/29/explaining-a-thing-over-saying-the-thing.html</id>
     <published>2018-12-29T00:00:00+00:00</published>
     <updated>2018-12-30T17:17:46+00:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Andrew Duckworth</name>
     </author>
     <content type="html">&lt;p&gt;Explaining what something is is almost always better than using a technical term for it.&lt;/p&gt;
 
@@ -212,12 +212,12 @@
   </entry>
   <entry>
     <title>Trying a new format for hypotheses</title>
-    <link rel="alternate" href="http://blog.url.com/2018/12/19/trying-a-new-format-for-hypotheses.html"/>
-    <id>http://blog.url.com/2018/12/19/trying-a-new-format-for-hypotheses.html</id>
+    <link rel="alternate" href="https://grillopress.github.io/2018/12/19/trying-a-new-format-for-hypotheses.html"/>
+    <id>https://grillopress.github.io/2018/12/19/trying-a-new-format-for-hypotheses.html</id>
     <published>2018-12-19T00:00:00+00:00</published>
     <updated>2018-12-20T07:38:33+00:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Andrew Duckworth</name>
     </author>
     <content type="html">&lt;p&gt;I&amp;rsquo;m a big fan of &lt;a href="http://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;hypothesis driven design&lt;/a&gt;.&lt;/p&gt;
 
@@ -274,12 +274,12 @@
   </entry>
   <entry>
     <title>Make things obvious</title>
-    <link rel="alternate" href="http://blog.url.com/2018/12/18/simple.html"/>
-    <id>http://blog.url.com/2018/12/18/simple.html</id>
+    <link rel="alternate" href="https://grillopress.github.io/2018/12/18/simple.html"/>
+    <id>https://grillopress.github.io/2018/12/18/simple.html</id>
     <published>2018-12-18T00:00:00+00:00</published>
     <updated>2018-12-18T21:56:29+00:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Andrew Duckworth</name>
     </author>
     <content type="html">&lt;p&gt;Good interaction design is about keeping things obvious.&lt;/p&gt;
 
@@ -325,12 +325,12 @@
   </entry>
   <entry>
     <title>Show at your show and tell</title>
-    <link rel="alternate" href="http://blog.url.com/2018/12/14/showing.html"/>
-    <id>http://blog.url.com/2018/12/14/showing.html</id>
+    <link rel="alternate" href="https://grillopress.github.io/2018/12/14/showing.html"/>
+    <id>https://grillopress.github.io/2018/12/14/showing.html</id>
     <published>2018-12-14T00:00:00+00:00</published>
     <updated>2018-12-14T23:08:36+00:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Andrew Duckworth</name>
     </author>
     <content type="html">&lt;p&gt;We&amp;rsquo;ve recently been reviewing some of the language we use in our service. What the terms mean and the implications they have for understanding the service. And how the NHS works in general.&lt;/p&gt;
 
@@ -366,12 +366,12 @@
   </entry>
   <entry>
     <title>Questions for your questions</title>
-    <link rel="alternate" href="http://blog.url.com/2018/12/05/questions-for-your-questions.html"/>
-    <id>http://blog.url.com/2018/12/05/questions-for-your-questions.html</id>
+    <link rel="alternate" href="https://grillopress.github.io/2018/12/05/questions-for-your-questions.html"/>
+    <id>https://grillopress.github.io/2018/12/05/questions-for-your-questions.html</id>
     <published>2018-12-05T00:00:00+00:00</published>
     <updated>2018-12-05T17:14:03+00:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Andrew Duckworth</name>
     </author>
     <content type="html">&lt;p&gt;Yesterday, to no fanfare, I put live a significant iteration to the non-digital service. The service helps users make a choice on how their children&amp;rsquo;s data can be used.&lt;/p&gt;
 
