@@ -5,10 +5,56 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-01-20T00:00:00+00:00</updated>
+  <updated>2019-01-31T00:00:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Ask a question</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/01/31/asking-questions.html"/>
+    <id>https://grillopress.github.io/2019/01/31/asking-questions.html</id>
+    <published>2019-01-31T00:00:00+00:00</published>
+    <updated>2019-01-31T22:53:19+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;One thing I’m always doing is encouraging people to ask questions.&lt;/p&gt;
+
+&lt;p&gt;Asking why. Asking how.&lt;/p&gt;
+
+&lt;p&gt;It’s fundamental to being a good designer. We provide purpose and direction. But only after questions.&lt;/p&gt;
+
+&lt;p&gt;The questions you ask don’t have to be clever. And they don’t have to have deep purpose beyond knowing a bit more. Getting a bit clearer or checking if you have something right.&lt;/p&gt;
+
+&lt;p&gt;A great example of this recently is one asked by Sam (fellow designer I work with) in the cross-gov community.&lt;/p&gt;
+
+&lt;p&gt;She had been exploring how we could provide our contact centre with a way to speed up creating reports.&lt;/p&gt;
+
+&lt;p&gt;One of the things we wanted to do was make sure we had clear checks that the report about to be created matched the paper form.&lt;/p&gt;
+
+&lt;p&gt;She made a quick sketch flow. Then mocked up a quick screen. As we reviewed it we felt we could probably do better.&lt;/p&gt;
+
+&lt;figure class="noir right"&gt;
+  &lt;img src="/images/question.png" alt="A sketch on a sticky note of a question and address."/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We soon had three versions.&lt;/p&gt;
+
+&lt;p&gt;The screens all asked the user to confirm some personal data matched the request.&lt;/p&gt;
+
+&lt;p&gt;As we considered the best approach I suggested Sam ask if anyone had had to do something similar in the cross-gov slack.&lt;/p&gt;
+
+&lt;p&gt;Turned out lots of people had had to do it. And there were a few variations flying around.&lt;/p&gt;
+
+&lt;p&gt;So much so &lt;a href="https://github.com/alphagov/govuk-design-system-backlog/issues/187"&gt;it&amp;rsquo;s now on the design system backlog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A simple question and we got lots of examples and research back.&lt;/p&gt;
+
+&lt;p&gt;Ask your question. Find out why a process is how it is. See if anyone has tried solving the same problem or created a similar solution.&lt;/p&gt;
+
+&lt;p&gt;And better yet, ask that question publicly so you help everyone else too.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Asking the right question</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/01/20/asking-the-right-question.html"/>
@@ -353,47 +399,6 @@
 &lt;p&gt;Here the effort should be to reassure the user their data has been received and processed. Even if that takes longer than ideal.&lt;/p&gt;
 
 &lt;p&gt;Your greatest efforts though should be spent on making your service quicker.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Show at your show and tell</title>
-    <link rel="alternate" href="https://grillopress.github.io/2018/12/14/showing.html"/>
-    <id>https://grillopress.github.io/2018/12/14/showing.html</id>
-    <published>2018-12-14T00:00:00+00:00</published>
-    <updated>2018-12-14T23:08:36+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;We&amp;rsquo;ve recently been reviewing some of the language we use in our service. What the terms mean and the implications they have for understanding the service. And how the NHS works in general.&lt;/p&gt;
-
-&lt;p&gt;This has been quite a contentious issue within the team because we want to balance between being:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;easy to understand&lt;/li&gt;
-&lt;li&gt;comprehensive and transparent&lt;/li&gt;
-&lt;li&gt;words people use themselves&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We&amp;rsquo;ve run some pop-ups and a lab to focus on the words we use. In particular our service name and how we define the data people have a choice over.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re getting closer to the point where we have a strong sense of direction. Nothing is easy here. But a sense of direction.&lt;/p&gt;
-
-&lt;p&gt;The work we had been doing recently culminated in a show and tell after a lab.&lt;/p&gt;
-
-&lt;p&gt;It was a great show and tell. What was the greatest part was letting the users talk.&lt;/p&gt;
-
-&lt;p&gt;We had video after video on the same issue. What &amp;ldquo;confidential patient information&amp;rdquo; meant.&lt;/p&gt;
-
-&lt;p&gt;It struck me as being one of the better show and tells I&amp;rsquo;ve been to for a while because:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;everything was on a topic we cared about&lt;/li&gt;
-&lt;li&gt;we let users do the talking&lt;/li&gt;
-&lt;li&gt;we discussed the issue as a team&lt;/li&gt;
-&lt;li&gt;and came together to the solution&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sometimes you have to pitch a vision, but when you can, let your users talk. It&amp;rsquo;s a lot more powerful than summarising their words.&lt;/p&gt;
 </content>
   </entry>
 </feed>
