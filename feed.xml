@@ -10,6 +10,54 @@
     <name>Andrew Duckworth</name>
   </author>
   <entry>
+    <title>One thing per page</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/01/31/one-thing.html"/>
+    <id>https://grillopress.github.io/2019/01/31/one-thing.html</id>
+    <published>2019-01-31T00:00:00+00:00</published>
+    <updated>2019-02-09T18:38:14+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Advice that often causes some debate is doing &amp;ldquo;one thing per page&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page"&gt;advice to start with this pattern&lt;/a&gt; often runs into resistance for internal teams. Or products with &amp;ldquo;expert&amp;rdquo; users.&lt;/p&gt;
+
+&lt;p&gt;Whilst helping run a form workshop for &amp;ldquo;services week&amp;rdquo; this topic featured. Both in the wider room and one to one.&lt;/p&gt;
+
+&lt;p&gt;The argument is that lots of questions will slow down users who have to do a thing 50 times a day.&lt;/p&gt;
+
+&lt;p&gt;This is a fair criticism.&lt;/p&gt;
+
+&lt;p&gt;If your users use an interface everyday, the patterns that work for them may be different.&lt;/p&gt;
+
+&lt;p&gt;For me though, I like to explain the &amp;ldquo;one thing&amp;rdquo; a little differently.&lt;/p&gt;
+
+&lt;p&gt;That is, &amp;ldquo;one thing&amp;rdquo; is a flexible concept. Yes, it can mean one question or one input. But one thing can also mean several inputs but one concept.&lt;/p&gt;
+
+&lt;p&gt;For a user who submits identical claims 50 times a day the whole &amp;ldquo;claim&amp;rdquo; could be one thing. A user who uses your service once a year won&amp;rsquo;t have the whole thing in their head.&lt;/p&gt;
+
+&lt;p&gt;The question isn&amp;rsquo;t &amp;ldquo;should we do one thing or lots of things?&amp;rdquo;. It is establishing what task users want to do. What sized task they can do without having to think.&lt;/p&gt;
+
+&lt;p&gt;The question isn&amp;rsquo;t whether your user should do &amp;ldquo;one thing&amp;rdquo; or not. It is what that one thing means.&lt;/p&gt;
+
+&lt;p&gt;The worst thing you can do though is assume that your users can cope with several things per page without evidence.&lt;/p&gt;
+
+&lt;p&gt;A little while back I reviewed a team&amp;rsquo;s service. They had some serious issues with users struggling to complete their registration process. They tried to cover this with a &amp;ldquo;save and continue&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;But the solution was solving the symptom.&lt;/p&gt;
+
+&lt;p&gt;The issue was that they were assuming too much. Assuming that their users would understand the questions they were asking.&lt;/p&gt;
+
+&lt;p&gt;They had rejected the &amp;ldquo;one thing per page&amp;rdquo; pattern as needing &amp;ldquo;too many clicks&amp;rdquo;. But had they used it, they would have discovered the questions that users found easy. And those they found hard. Those questions that could grouped. And those that needed another page.&lt;/p&gt;
+
+&lt;p&gt;Users were struggling on the third question into the service. They had assumed their professional users would know the answer to these questions. They didn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;Start by breaking down what you need from your user into the smallest questions possible. Only deviate when you have good evidence you can group questions together.&lt;/p&gt;
+
+&lt;p&gt;Start with one thing per page. The smallest thing. And only expand when you have clear evidence to do that. But also find out what that &amp;ldquo;one thing&amp;rdquo; means. And the best way to ask it. Whether it is one question or several.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Ask a question</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/01/31/asking-questions.html"/>
     <id>https://grillopress.github.io/2019/01/31/asking-questions.html</id>
@@ -348,57 +396,6 @@
 &lt;p&gt;The measurements are the key results. Some based on numbers. Some not.&lt;/p&gt;
 
 &lt;p&gt;This seems to work right now. And it&amp;rsquo;s making them easier to write and easier to talk about how to prove an idea or not.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Make things obvious</title>
-    <link rel="alternate" href="https://grillopress.github.io/2018/12/18/simple.html"/>
-    <id>https://grillopress.github.io/2018/12/18/simple.html</id>
-    <published>2018-12-18T00:00:00+00:00</published>
-    <updated>2018-12-18T21:56:29+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Good interaction design is about keeping things obvious.&lt;/p&gt;
-
-&lt;p&gt;Be it restraining complexity. Simplifying the complex. Or making a way forward clearer.&lt;/p&gt;
-
-&lt;p&gt;In the cross-gov slack a question was raised about the best way to show users something was being processed. And that the user would have to wait for a while.&lt;/p&gt;
-
-&lt;p&gt;The request was long enough that the designer was worried about a user either trying to refresh the page. Or quit the service.&lt;/p&gt;
-
-&lt;p&gt;There are many things you can do to give the user reassurance or understanding.&lt;/p&gt;
-
-&lt;p&gt;Disabled buttons, spinners, skeleton pages, spinners in buttons, animations, progress bars etc.&lt;/p&gt;
-
-&lt;p&gt;But creativity in this situation is your worst enemy.&lt;/p&gt;
-
-&lt;p&gt;One thing that seeing your users use your designs shows you is that anything smart doesn&amp;rsquo;t work.&lt;/p&gt;
-
-&lt;p&gt;In isolation things like spinners in buttons can seem like smart solutions.&lt;/p&gt;
-
-&lt;p&gt;Surely the thing the user clicked is a great place to give feedback?&lt;/p&gt;
-
-&lt;p&gt;But it violates a few things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;doesn&amp;rsquo;t act like a normal button or link&lt;/li&gt;
-&lt;li&gt;user clicks a button and expects a full page refresh so their focus moves away&lt;/li&gt;
-&lt;li&gt;visually a tiny place to explain a complex thing&lt;/li&gt;
-&lt;li&gt;vague whether it is checking the form or submitting the form or the internet is being terrible&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In this scenario the best approach is to be obvious. If the user has submitted data. Act as if that is the case and change the page.&lt;/p&gt;
-
-&lt;p&gt;If it may take a while while their data is processed. Make that obvious. Tell them. Particularly so if the transaction is serious.&lt;/p&gt;
-
-&lt;p&gt;If you need to give them a sense the page isn&amp;rsquo;t dead. Give them that sense.&lt;/p&gt;
-
-&lt;p&gt;Be obvious. Don&amp;rsquo;t let a user guess. If you&amp;rsquo;re too smart, you&amp;rsquo;ll be solving the wrong problem.&lt;/p&gt;
-
-&lt;p&gt;Here the effort should be to reassure the user their data has been received and processed. Even if that takes longer than ideal.&lt;/p&gt;
-
-&lt;p&gt;Your greatest efforts though should be spent on making your service quicker.&lt;/p&gt;
 </content>
   </entry>
 </feed>
