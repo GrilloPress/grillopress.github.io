@@ -5,10 +5,90 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-01-31T20:30:00+00:00</updated>
+  <updated>2019-03-18T20:30:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Do the hard work to make it inclusive</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"/>
+    <id>https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html</id>
+    <published>2019-03-18T20:30:00+00:00</published>
+    <updated>2019-03-18T23:25:47+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Back in August we had a challenge. We had a method of authentication that worked pretty well, but needed an NHS number.&lt;/p&gt;
+
+&lt;p&gt;If you have your NHS number we could be pretty sure to find you.&lt;/p&gt;
+
+&lt;p&gt;But NHS numbers aren&amp;rsquo;t something that everyone has to hand.&lt;/p&gt;
+
+&lt;p&gt;They should be on letters, prescriptions and the like.&lt;/p&gt;
+
+&lt;p&gt;But not everyone has had a recent appointment. Or keeps their letters. And some letters don&amp;rsquo;t include the NHS number (even though they should!). Never mind the NHS number being easy to find on a letter.&lt;/p&gt;
+
+&lt;p&gt;Though not a thing some users can&amp;rsquo;t get. Many users told us that they contacted their GP receptionist and after a few questions for given it. The NHS number represented a significant speed bump.&lt;/p&gt;
+
+&lt;p&gt;Something that stopped users being successful first time. And in the worst cases, a potential barrier.&lt;/p&gt;
+
+&lt;p&gt;Our challenge was to make accessing the service not rely on the NHS number.&lt;/p&gt;
+
+&lt;p&gt;But I didn&amp;rsquo;t want to throw away our path that worked for many.&lt;/p&gt;
+
+&lt;p&gt;The API we used however offered an alternative. We could get a patient by NHS number, but also by their personal details.&lt;/p&gt;
+
+&lt;p&gt;The details were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;name&lt;/li&gt;
+&lt;li&gt;date of birth&lt;/li&gt;
+&lt;li&gt;postcode&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;gender&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Name and date of birth confronted no significant issues. We knew some users would struggle a little with postcode.&lt;/p&gt;
+
+&lt;p&gt;But the biggest worry was gender.&lt;/p&gt;
+
+&lt;p&gt;The reason the API asked for that was because it was a clinical API.&lt;/p&gt;
+
+&lt;p&gt;It was a requirement for the API. No &amp;ldquo;wildcard&amp;rdquo; allowed. We&amp;rsquo;d need to ask for it.&lt;/p&gt;
+
+&lt;p&gt;We were also told to try we couldn&amp;rsquo;t get around this.&lt;/p&gt;
+
+&lt;p&gt;Though we knew many users wouldn&amp;rsquo;t blink at this question. Our service lets users choose if their data is used for research. We don&amp;rsquo;t want to embarrass or impede anyone making that choice.&lt;/p&gt;
+
+&lt;p&gt;Our service is for everyone.&lt;/p&gt;
+
+&lt;h2&gt;New hope&lt;/h2&gt;
+
+&lt;p&gt;In a meeting with colleagues from another service I noticed they used the same API. But weren&amp;rsquo;t asking for gender.&lt;/p&gt;
+
+&lt;p&gt;I pressed hard on how they got around it.&lt;/p&gt;
+
+&lt;p&gt;Email confirmation after the meeting we had an answer.&lt;/p&gt;
+
+&lt;p&gt;We could call it several times for each gender or category stored.&lt;/p&gt;
+
+&lt;p&gt;The other service would have much higher traffic than ours. We had precedence and I had enough ammunition to get my way.&lt;/p&gt;
+
+&lt;p&gt;We would do the hard work to call the API four times when a user gave us a postcode instead of an NHS number.&lt;/p&gt;
+
+&lt;p&gt;Several prototypes later, 800 a/b tested users later and we had confidence in our design.&lt;/p&gt;
+
+&lt;p&gt;Service redesigned. Service load tested. New way of using the service released.&lt;/p&gt;
+
+&lt;p&gt;Over one third of our users don&amp;rsquo;t bother with an irrelevant question.&lt;/p&gt;
+
+&lt;p&gt;Our service does the hard work to make it inclusive.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>One thing per page</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/01/31/one-thing.html"/>
@@ -334,68 +414,6 @@
 &lt;p&gt;Technical terms or metaphors are always the worst choice.&lt;/p&gt;
 
 &lt;p&gt;Explain the thing. Your service or product will benefit from it.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Trying a new format for hypotheses</title>
-    <link rel="alternate" href="https://grillopress.github.io/2018/12/19/trying-a-new-format-for-hypotheses.html"/>
-    <id>https://grillopress.github.io/2018/12/19/trying-a-new-format-for-hypotheses.html</id>
-    <published>2018-12-19T00:00:00+00:00</published>
-    <updated>2018-12-20T07:38:33+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;I&amp;rsquo;m a big fan of &lt;a href="http://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;hypothesis driven design&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I have advocated using it in my own team. In other NHS teams and across other organisations.&lt;/p&gt;
-
-&lt;p&gt;I was sitting in Bridgewater Place the other day and I overheard a team use it. A junior designer I worked with on a previous service has started doing it with his new team. A team that hasn&amp;rsquo;t always been great at doing design.&lt;/p&gt;
-
-&lt;p&gt;Writing design hypotheses isn&amp;rsquo;t always pleasurable. It can be tough to get them exactly right. But they make you a better designer. And design better things as a team.&lt;/p&gt;
-
-&lt;p&gt;The act of articulating your design choice further refines your design. And your skills as a designer.&lt;/p&gt;
-
-&lt;p&gt;By using a hypothesis driven design process you:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Articulate your thinking&lt;/li&gt;
-&lt;li&gt;Provide others with understanding of your thinking&lt;/li&gt;
-&lt;li&gt;Create a framework to test your designs against&lt;/li&gt;
-&lt;li&gt;Develop a standard way of documenting your work&lt;/li&gt;
-&lt;li&gt;Make better stuff&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Working on a new range of services with a new team we&amp;rsquo;re still finding our feet. And working out how we work together.&lt;/p&gt;
-
-&lt;p&gt;One thing we are doing is looking at our format of hypotheses. We started with:&lt;/p&gt;
-
-&lt;ul class="list-unstyled list-margin--indent"&gt;
-  &lt;li&gt;&lt;strong&gt;[Context]&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;If [some action]&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Then [outcome for users]&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Because [reason for outcome]&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We&amp;rsquo;re trying to make how we test things clearer. This is something a few people feedback when they talk about how they&amp;rsquo;ve adopted the format above.&lt;/p&gt;
-
-&lt;p&gt;Find whatever works for you and your team is my answer.&lt;/p&gt;
-
-&lt;p&gt;So, taking my advice, we&amp;rsquo;ve moved to:&lt;/p&gt;
-
-&lt;ul class="list-unstyled list-margin--indent"&gt;
-  &lt;li&gt;&lt;strong&gt;[Context]&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;If [some action]&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Then [outcome for users]&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;We&amp;rsquo;ll know this works/is true when:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;[Measurement]&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The measurements are the key results. Some based on numbers. Some not.&lt;/p&gt;
-
-&lt;p&gt;This seems to work right now. And it&amp;rsquo;s making them easier to write and easier to talk about how to prove an idea or not.&lt;/p&gt;
 </content>
   </entry>
 </feed>

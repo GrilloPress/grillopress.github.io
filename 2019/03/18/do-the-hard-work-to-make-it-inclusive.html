@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<title>
+GrilloPress - Do the hard work to make it inclusive
+</title>
+<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+<meta content='summary' name='twitter:card'>
+<meta content='@AndrewDuck_' name='twitter:site'>
+<meta content='@AndrewDuck_' name='twitter:creator'>
+<meta content='/2019/03/18/do-the-hard-work-to-make-it-inclusive.html' property='og:url'>
+<meta content='Do the hard work to make it inclusive' property='og:title'>
+<meta content='' property='og:description'>
+<meta content='' property='og:description'>
+<meta content='#eff0ea' name='theme-color'>
+<meta content='https://grillopress.github.io/images/background.png' property='og:image'>
+<link href="../../../stylesheets/main.css" rel="stylesheet" />
+<link href="../../../stylesheets/weeknotes.css" rel="stylesheet" />
+
+
+<link href='https://fonts.googleapis.com/css?family=Overpass:400,700' rel='stylesheet'>
+<script src="../../../javascripts/main.js"></script>
+<link href="../../../images/me.jpg" rel="icon" type="image/jpg" />
+</head>
+<body class='x2019 x2019_03 x2019_03_18 x2019_03_18_do-the-hard-work-to-make-it-inclusive weeknotes Design'>
+<main role='main'>
+<nav class='navbar'>
+<div class='navbar-container'>
+<div>
+<a href="/">Andrew Duckworth</a>
+</div>
+</div>
+</nav>
+<article id='do_the_hard_work_to_make_it_inclusive'>
+<section class='hero'>
+<div class='container'>
+<div>
+<h1>
+Do the hard work to make it inclusive
+</h1>
+<p>
+
+</p>
+</div>
+</div>
+</section>
+<div class='container'>
+<section class='blog-post'>
+<p>Back in August we had a challenge. We had a method of authentication that worked pretty well, but needed an NHS number.</p>
+
+<p>If you have your NHS number we could be pretty sure to find you.</p>
+
+<p>But NHS numbers aren&rsquo;t something that everyone has to hand.</p>
+
+<p>They should be on letters, prescriptions and the like.</p>
+
+<p>But not everyone has had a recent appointment. Or keeps their letters. And some letters don&rsquo;t include the NHS number (even though they should!). Never mind the NHS number being easy to find on a letter.</p>
+
+<p>Though not a thing some users can&rsquo;t get. Many users told us that they contacted their GP receptionist and after a few questions for given it. The NHS number represented a significant speed bump.</p>
+
+<p>Something that stopped users being successful first time. And in the worst cases, a potential barrier.</p>
+
+<p>Our challenge was to make accessing the service not rely on the NHS number.</p>
+
+<p>But I didn&rsquo;t want to throw away our path that worked for many.</p>
+
+<p>The API we used however offered an alternative. We could get a patient by NHS number, but also by their personal details.</p>
+
+<p>The details were:</p>
+
+<ul>
+<li>name</li>
+<li>date of birth</li>
+<li>postcode</li>
+</ul>
+
+<p>And</p>
+
+<ul>
+<li>gender</li>
+</ul>
+
+<p>Name and date of birth confronted no significant issues. We knew some users would struggle a little with postcode.</p>
+
+<p>But the biggest worry was gender.</p>
+
+<p>The reason the API asked for that was because it was a clinical API.</p>
+
+<p>It was a requirement for the API. No &ldquo;wildcard&rdquo; allowed. We&rsquo;d need to ask for it.</p>
+
+<p>We were also told to try we couldn&rsquo;t get around this.</p>
+
+<p>Though we knew many users wouldn&rsquo;t blink at this question. Our service lets users choose if their data is used for research. We don&rsquo;t want to embarrass or impede anyone making that choice.</p>
+
+<p>Our service is for everyone.</p>
+
+<h2>New hope</h2>
+
+<p>In a meeting with colleagues from another service I noticed they used the same API. But weren&rsquo;t asking for gender.</p>
+
+<p>I pressed hard on how they got around it.</p>
+
+<p>Email confirmation after the meeting we had an answer.</p>
+
+<p>We could call it several times for each gender or category stored.</p>
+
+<p>The other service would have much higher traffic than ours. We had precedence and I had enough ammunition to get my way.</p>
+
+<p>We would do the hard work to call the API four times when a user gave us a postcode instead of an NHS number.</p>
+
+<p>Several prototypes later, 800 a/b tested users later and we had confidence in our design.</p>
+
+<p>Service redesigned. Service load tested. New way of using the service released.</p>
+
+<p>Over one third of our users don&rsquo;t bother with an irrelevant question.</p>
+
+<p>Our service does the hard work to make it inclusive.</p>
+
+<nav class='pagination'>
+<div class='prev'>
+Previous:
+<a href='/2019/01/31/one-thing.html' rel='prev'>One thing per page</a>
+</div>
+<div class='next'>
+</div>
+</nav>
+<!-- Begin MailChimp Signup Form -->
+<div id='mc_embed_signup'>
+<form action='https://github.us17.list-manage.com/subscribe/post?u=854caf2991c76fd7adae546f1&amp;id=b4e21ad2ba' class='validate' id='mc-embedded-subscribe-form' method='post' name='mc-embedded-subscribe-form' novalidate='' target='_blank'>
+<div id='mc_embed_signup_scroll'>
+<h2>Don't miss an article</h2>
+<div class='mc-field-group'>
+<label for='mce-EMAIL'>Email Address</label>
+<input class='required email' id='mce-EMAIL' name='EMAIL' type='email' value=''>
+</div>
+<div class='clear' id='mce-responses'>
+<div class='response' id='mce-error-response' style='display:none'></div>
+<div class='response' id='mce-success-response' style='display:none'></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
+<div aria-hidden='true' style='position: absolute; left: -5000px;'>
+<input name='b_854caf2991c76fd7adae546f1_b4e21ad2ba' tabindex='-1' type='text' value=''>
+</div>
+<div class='clear'>
+<input class='button' id='mc-embedded-subscribe' name='subscribe' type='submit' value='Subscribe'>
+</div>
+</div>
+</form>
+</div>
+<!-- End mc_embed_signup -->
+</section>
+</div>
+</article>
+</main>
+<footer class='container'>
+<p>
+Copyright 2017-2019 Andrew Duckworth
+|
+<a href="https://twitter.com/AndrewDuck_">@AndrewDuck_</a>
+</p>
+</footer>
+</body>
+</html>
