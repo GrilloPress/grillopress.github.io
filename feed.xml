@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"/>
     <id>https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html</id>
     <published>2019-03-18T20:30:00+00:00</published>
-    <updated>2019-03-19T09:10:25+00:00</updated>
+    <updated>2019-03-19T09:53:35+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -44,11 +44,7 @@
 &lt;li&gt;name&lt;/li&gt;
 &lt;li&gt;date of birth&lt;/li&gt;
 &lt;li&gt;postcode&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And&lt;/p&gt;
-
-&lt;ul&gt;
+&lt;div&gt;and&lt;/div&gt;
 &lt;li&gt;gender&lt;/li&gt;
 &lt;/ul&gt;
 
