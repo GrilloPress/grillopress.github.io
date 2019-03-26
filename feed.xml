@@ -5,10 +5,60 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-03-18T20:30:00+00:00</updated>
+  <updated>2019-03-26T07:30:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>You never know, you know</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/03/26/you-never-know-you-know.html"/>
+    <id>https://grillopress.github.io/2019/03/26/you-never-know-you-know.html</id>
+    <published>2019-03-26T07:30:00+00:00</published>
+    <updated>2019-03-26T14:14:35+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;You should always get people outside your project or product to review your work. They&amp;rsquo;ll ask things you haven&amp;rsquo;t thought about. And question things you take for granted.&lt;/p&gt;
+
+&lt;p&gt;A question I got asked recently surprised me.&lt;/p&gt;
+
+&lt;p&gt;It was after talking through a change we made to the live service.&lt;/p&gt;
+
+&lt;p&gt;We had gone from a long list of exceptions to an easier to navigate set of headings and content.&lt;/p&gt;
+
+&lt;p&gt;We had tested the change. And had 40 users (13-50+) go through the work with changes here and there.&lt;/p&gt;
+
+&lt;p&gt;We had seen improved understanding. And created an easier reading experience.&lt;/p&gt;
+
+&lt;p&gt;The question asked was &amp;ldquo;how do you know you&amp;rsquo;ve tested with enough users?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;The implication seemed to be that we hadn&amp;rsquo;t tested with enough users to &amp;ldquo;really know&amp;rdquo; before going live.&lt;/p&gt;
+
+&lt;p&gt;But you never will.&lt;/p&gt;
+
+&lt;p&gt;You will never &lt;em&gt;know&lt;/em&gt;  that a change is the right one. And you will never know how something will &lt;em&gt;really&lt;/em&gt; work when live.&lt;/p&gt;
+
+&lt;p&gt;You can be confident in your hypothesis, your change.&lt;/p&gt;
+
+&lt;p&gt;You can do things to increase this confidence. And how likely you feel you&amp;rsquo;ll get something right.&lt;/p&gt;
+
+&lt;p&gt;Like testing in realistic context and with a range of users with different abilities and understanding.&lt;/p&gt;
+
+&lt;p&gt;When reviewing changes this is actually a great question to ask yourselves:&lt;/p&gt;
+
+&lt;div class="question"&gt;How likely is it this change will solve [the problem]?&lt;/div&gt;
+
+&lt;p&gt;You can also frame your research around the change to make clear what things would increase your confidence:&lt;/p&gt;
+
+&lt;div class="question"&gt;We&amp;rsquo;ll be more confident in this change when we see users understand that their data can still be shared in certain situations&lt;/div&gt;
+
+&lt;p&gt;When you change your service. You&amp;rsquo;ll never know. So, you keep listening, keep learning and change when you need to.&lt;/p&gt;
+
+&lt;p&gt;That is agile. That is design.&lt;/p&gt;
+
+&lt;p&gt;As a designer your job is navigate that uncertainty. But you never know, you know.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Do the hard work to make it inclusive</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"/>
@@ -370,46 +420,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;You don’t need to match any online service completely. Deviate where it makes sense.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Explaining a thing over saying a thing</title>
-    <link rel="alternate" href="https://grillopress.github.io/2018/12/29/explaining-a-thing-over-saying-the-thing.html"/>
-    <id>https://grillopress.github.io/2018/12/29/explaining-a-thing-over-saying-the-thing.html</id>
-    <published>2018-12-29T00:00:00+00:00</published>
-    <updated>2019-03-19T11:19:09+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Explaining what something it is almost always better than using a technical term for it.&lt;/p&gt;
-
-&lt;p&gt;Don’t use complicated, specialist language in a service.&lt;/p&gt;
-
-&lt;p&gt;Even audiences you think will know what a word means will benefit from explaining a thing.&lt;/p&gt;
-
-&lt;p&gt;Avoid complex phrases unless you have clear and unambiguous proof.&lt;/p&gt;
-
-&lt;p&gt;Designing in the world of data, privacy and medical records you often have complicated concepts. And equally complicated terms:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Anonymisation&lt;/li&gt;
-&lt;li&gt;Pseudonymisation&lt;/li&gt;
-&lt;li&gt;Data minimisation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In user research we see the negative reaction to these terms. Users find them confusing. Or evasive. And they are.&lt;/p&gt;
-
-&lt;p&gt;Instead of saying anonymisation, talk about information that has personal details removed. And give examples.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;When we share your information with another organisation, we remove all personal details such as your name and address&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Being open and clear isn’t without problems. Exposing how you use someone else’s data can be problematic. But it’s the truth. And you shouldn’t be processing data without good reason.&lt;/p&gt;
-
-&lt;p&gt;Technical terms or metaphors are always the worst choice.&lt;/p&gt;
-
-&lt;p&gt;Explain the thing. Your service or product will benefit from it.&lt;/p&gt;
 </content>
   </entry>
 </feed>
