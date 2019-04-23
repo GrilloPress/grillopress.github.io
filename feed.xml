@@ -5,10 +5,125 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-04-12T08:30:00+01:00</updated>
+  <updated>2019-04-19T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Week 02</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/04/19/discovery-notes-02.html"/>
+    <id>https://grillopress.github.io/2019/04/19/discovery-notes-02.html</id>
+    <published>2019-04-19T08:30:00+01:00</published>
+    <updated>2019-04-23T13:13:20+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Reviewed Rhiannon&amp;rsquo;s work on the live service&amp;rsquo;s start page. Good work. Massive simplification. Asked her to look at the page we let people download the paper forms.&lt;/p&gt;
+
+&lt;p&gt;Had a call with a colleague from NHS improvement about an information architecture issue.&lt;/p&gt;
+
+&lt;p&gt;Had a planning meeting with the team for the cross team inception workshop. Grabbed some time to confirm what we wanted to cover and the outcomes we wanted.&lt;/p&gt;
+
+&lt;p&gt;Made a point of making sure everyone had a role. Be it presentation or facilitation or leading an activity.&lt;/p&gt;
+
+&lt;p&gt;After lunch had a quick meeting about the &amp;ldquo;Detained and secure estates&amp;rdquo; service. Reset the plan for user research.&lt;/p&gt;
+
+&lt;p&gt;Let Sam lead on reviewing the forms and emails.&lt;/p&gt;
+
+&lt;p&gt;Ended the day writing the presentation for the workshop. Just enough presentation to allow us to ask provocative questions.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Started the day running through the slides with Sam for her activity. And the presentation with Will.&lt;/p&gt;
+
+&lt;p&gt;And talking with Lucy and Emma about what they would cover.&lt;/p&gt;
+
+&lt;p&gt;Held the workshop. We went into it with a clear feeling we didn&amp;rsquo;t want to spend 8 weeks discovering what we knew.&lt;/p&gt;
+
+&lt;p&gt;About as perfect a workshop as possible. Hard questions were asked. We reset our scope to be much more ambitious. Good videos of users confirming that approach too.&lt;/p&gt;
+
+&lt;figure class="noir"&gt;
+  &lt;img src="/images/sam_at_workshop.jpg" alt="Sam running a "min specs" exercise"/&gt;
+  &lt;figcaption&gt;Sam running a &amp;ldquo;min specs&amp;rdquo; exercise&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;At the end of the workshop there was some slight reorganising of the team due to a new discovery piece.&lt;/p&gt;
+
+&lt;p&gt;Practicalities of this took the wind out of the discovery workshop a little.&lt;/p&gt;
+
+&lt;p&gt;After lunch organised the design huddle about accessibility statements. Emma from NHS login has written one and wanted to update on that. I asked for access to the GDS one so we could cross reference.&lt;/p&gt;
+
+&lt;p&gt;Reviewed Rhiannon&amp;rsquo;s work with Sam on the page for the paper form downloads. Added it to the prototype.&lt;/p&gt;
+
+&lt;p&gt;Then reviewed with Sam the NHS app content and the prison forms.&lt;/p&gt;
+
+&lt;p&gt;Live service release. Goodbye beta!&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class="twitter-tweet" data-dnt="true"&gt;&lt;p lang="en" dir="ltr"&gt;Goodbye beta! 🎉🎊🥳&lt;br&gt;&lt;br&gt;We passed our live service assessment. Thanks to those that helped us on the way &lt;a href="https://t.co/pwDI3jncJZ"&gt;pic.twitter.com/pwDI3jncJZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Andrew Duckworth (@AndrewDuck&lt;em&gt;) &amp;lt;a href=&amp;ldquo;https://twitter.com/AndrewDuck&lt;/em&gt;/status/1118931827991961601?ref_src=twsrc%5Etfw&amp;rdquo;&amp;gt;April 18, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;The release also included some accessibility improvements. And small but important CSS changes that improved how the service looked.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Early morning start at Bridgewater. Chat with Susie about the work she&amp;rsquo;s jumping onto.&lt;/p&gt;
+
+&lt;p&gt;Then an end of service survey review with Caroline Jarrett.&lt;/p&gt;
+
+&lt;p&gt;Was a great meeting (as ever). Talked through what we are asking and what we wanted to know.  As ever the key is being purposeful about what you ask. And not hiding questions within questions.&lt;/p&gt;
+
+&lt;p&gt;Walked back to the office then chatted through the one-time password improvements with Sam. We&amp;rsquo;d done quite a lot of work on this but it was time for a decision.&lt;/p&gt;
+
+&lt;p&gt;Talked about probability. &lt;a href="#"&gt;You never know&lt;/a&gt; so you have to weight up how confident you are a change will solve an issue.&lt;/p&gt;
+
+&lt;p&gt;We both agreed it would solve a couple of issues. Though that the ultimate issue is improving data in another system. One this change can&amp;rsquo;t impact.&lt;/p&gt;
+
+&lt;p&gt;Reviewed Sam and Rhiannon&amp;rsquo;s work on the app and the live service landing pages.&lt;/p&gt;
+
+&lt;p&gt;Backlog review with product owner, lead developer and scrum master for the live service. We have a few things we will continue to work on but very happy with where the product is.&lt;/p&gt;
+
+&lt;p&gt;After lunch took part in a workshop with &amp;ldquo;Empower the person&amp;rdquo; programme about consent and preferences. So completely up my street.&lt;/p&gt;
+
+&lt;p&gt;Found common ground and definitions. Then moved onto contact preferences.&lt;/p&gt;
+
+&lt;p&gt;In the audit and transparency alpha we explored showing people what information we had about people and in particular contact details. So we had lots of research here.&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Started the day talking about the workshop from the day before.&lt;/p&gt;
+
+&lt;p&gt;Walked over to Bridgewater with Sam to talk to the app team. Talking about issues and talking ways of working together.&lt;/p&gt;
+
+&lt;p&gt;Quick catch up with Tero then over to the office again.&lt;/p&gt;
+
+&lt;p&gt;Started a (delayed) design activity into exploring one of our big questions in discovery.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re looking to mock up a service to dig into some things we&amp;rsquo;ve seen over the last year or so.
+Many people are really happy for their data to be used to help the NHS. In the workshop last week we heard:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;If my data helps just one person it&amp;rsquo;s worth it&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;We want to explore this. The limits and extent of this. The potential to help people see the impact their data is having. And if people want to do more. And if so, what that could look like.&lt;/p&gt;
+
+&lt;p&gt;We lost a couple of hours due to other meetings but got quite a lot mapped out. We&amp;rsquo;ll pick this up next week and take something to test with people.&lt;/p&gt;
+
+&lt;p&gt;Walked over to Bridgewater for the design huddle. Emma took us through the accessibility statement shed written for NHS login. I shared what GDS had given us.&lt;/p&gt;
+
+&lt;figure class="noir"&gt;
+  &lt;img src="/images/emma_at_the_huddle.jpg" alt="Emma talking to the group about accessibility statements"/&gt;
+  &lt;figcaption&gt;Emma talking to the group about accessibility statements&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Some questions left over on policy.&lt;/p&gt;
+
+&lt;p&gt;Matt Edgar also made a point about accessibility statements being the cost of not building things right. The shame of not doing it right and having to state everything you&amp;rsquo;ve done that isn&amp;rsquo;t up to standard.&lt;/p&gt;
+
+&lt;p&gt;My concern was that as with cookie policies and privacy notices organisations soon get over that embarrassment. And they can become a dumping ground of &amp;ldquo;won&amp;rsquo;t fix&amp;rdquo; rather than the spirit behind the policy.&lt;/p&gt;
+
+&lt;p&gt;I hope that every NHS team makes the right choice.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Week 01</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/04/12/discovery-notes-01.html"/>
@@ -329,52 +444,6 @@
 &lt;p&gt;Start by breaking down what you need from your user into the smallest questions possible. Only deviate when you have good evidence you can group questions together.&lt;/p&gt;
 
 &lt;p&gt;Start with one thing per page. The smallest thing. And only expand when you have clear evidence to do that. But also find out what that &amp;ldquo;one thing&amp;rdquo; means. And the best way to ask it. Whether it is one question or several.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Ask a question</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/01/31/asking-questions.html"/>
-    <id>https://grillopress.github.io/2019/01/31/asking-questions.html</id>
-    <published>2019-01-31T00:00:00+00:00</published>
-    <updated>2019-01-31T22:55:32+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;One thing I’m always doing is encouraging people to ask questions.&lt;/p&gt;
-
-&lt;p&gt;Asking why. Asking how.&lt;/p&gt;
-
-&lt;p&gt;It’s fundamental to being a good designer. We provide purpose and direction. But only after questions.&lt;/p&gt;
-
-&lt;p&gt;The questions you ask don’t have to be clever. And they don’t have to have deep purpose beyond knowing a bit more. Getting a bit clearer or checking if you have something right.&lt;/p&gt;
-
-&lt;p&gt;A great example of this recently is one asked by Sam (graduate designer I work with) in the cross-gov community.&lt;/p&gt;
-
-&lt;p&gt;She had been exploring how we could provide our contact centre with a way to speed up creating reports.&lt;/p&gt;
-
-&lt;p&gt;One of the things we wanted to do was make sure we had clear checks that the report about to be created matched the paper form.&lt;/p&gt;
-
-&lt;p&gt;She made a quick sketch flow. Then mocked up a quick screen. As we reviewed it we felt we could probably do better.&lt;/p&gt;
-
-&lt;figure class="noir right"&gt;
-  &lt;img src="/images/question.png" alt="A sketch on a sticky note of a question and address."/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;We soon had three versions.&lt;/p&gt;
-
-&lt;p&gt;The screens all asked the user to confirm some personal data matched the request.&lt;/p&gt;
-
-&lt;p&gt;As we considered the best approach I suggested Sam ask if anyone had had to do something similar in the cross-gov slack.&lt;/p&gt;
-
-&lt;p&gt;Turned out lots of people had had to do it. And there were a few variations flying around.&lt;/p&gt;
-
-&lt;p&gt;So much so &lt;a href="https://github.com/alphagov/govuk-design-system-backlog/issues/187"&gt;it&amp;rsquo;s now on the design system backlog&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A simple question and we got lots of examples and research back.&lt;/p&gt;
-
-&lt;p&gt;Ask your question. Find out why a process is how it is. See if anyone has tried solving the same problem or created a similar solution.&lt;/p&gt;
-
-&lt;p&gt;And better yet, ask that question publicly so you help everyone else too.&lt;/p&gt;
 </content>
   </entry>
 </feed>
