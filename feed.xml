@@ -5,16 +5,137 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-04-19T08:30:00+01:00</updated>
+  <updated>2019-04-26T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Week 03</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/04/26/discovery-notes-03.html"/>
+    <id>https://grillopress.github.io/2019/04/26/discovery-notes-03.html</id>
+    <published>2019-04-26T08:30:00+01:00</published>
+    <updated>2019-04-29T13:30:00+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Slow day. Other things to sort beyond work.&lt;/p&gt;
+
+&lt;p&gt;Reviewed the new end of service feedback questions.&lt;/p&gt;
+
+&lt;p&gt;Wrote up some thoughts on a few issues.&lt;/p&gt;
+
+&lt;p&gt;Agreed to do a talk about GDS assessment to the graduate BA community.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Most of the morning was a resetting exercise following the workshop the week before.&lt;/p&gt;
+
+&lt;p&gt;It can be tough to get talking about data with people. It&amp;rsquo;s abstract.&lt;/p&gt;
+
+&lt;p&gt;So we&amp;rsquo;re prototyping to explore.&lt;/p&gt;
+
+&lt;p&gt;Discovery so far has been slower than hoped. Some of that&amp;rsquo;s due to changes based on feedback from a lab and workshop. Some of it other things.&lt;/p&gt;
+
+&lt;p&gt;Caught up with a graduate researcher to see how he was going on.&lt;/p&gt;
+
+&lt;p&gt;Spent the time before and after lunch mapping out an exploratory service.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re going to explore attitudes to data with a data donor service.&lt;/p&gt;
+
+&lt;p&gt;One of the provocative questions  underlining the prototype was:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;You&amp;rsquo;d be happy if you or your loved one benefited from medical research, so would you be happy to donate your data to help this?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re exploring:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;how happy people are to share data&lt;/li&gt;
+&lt;li&gt;what changes if they data is donated&lt;/li&gt;
+&lt;li&gt;what happens when people look at matching data with projects that would like it to be shared with. And those they wouldn&amp;rsquo;t&lt;/li&gt;
+&lt;li&gt;what people need to know to understand research studies and make a decision about&lt;/li&gt;
+&lt;li&gt;what we&amp;rsquo;d need to show to give people a sense of positive feeling about donating&lt;/li&gt;
+&lt;li&gt;what people would want in a way or a happy ending&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Wrote a presentation about 5 lessons from doing GDS assessments. For the huddle.&lt;/p&gt;
+
+&lt;p&gt;Couple of issues here or there. Mostly spent time sketching a flow with Sam in response to the service we mapped out the day before.&lt;/p&gt;
+
+&lt;p&gt;Reviewed some work of Rhiannon&amp;rsquo;s. Asked for her decision on what of the three options was her preferred thing to take forward.&lt;/p&gt;
+
+&lt;p&gt;Did some annual review meetings. Always important for people to know what they&amp;rsquo;re responsible for. What good looks like and what&amp;rsquo;s important to achieve.&lt;/p&gt;
+
+&lt;p&gt;Back on sketching out the basic flow.&lt;/p&gt;
+
+&lt;p&gt;Then to the huddle.&lt;/p&gt;
+
+&lt;p&gt;Didn&amp;rsquo;t end up giving my GDS presentation.&lt;/p&gt;
+
+&lt;p&gt;Talked about how we document designs and design decisions. Then an interesting issue from Ben Cullimore about highlighting that the NHS website medicines A to Z may not include every medicine.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Prototyping prototyping prototyping.&lt;/p&gt;
+
+&lt;p&gt;Divided up the work with Sam.&lt;/p&gt;
+
+&lt;p&gt;Joined in a discussion on slack about documenting design decisions.&lt;/p&gt;
+
+&lt;p&gt;Poked Mat Johnson to share his tweet in slack as well as the twitters.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class="twitter-tweet" data-dnt="true"&gt;&lt;p lang="en" dir="ltr"&gt;Utterly &lt;a href="https://twitter.com/hashtag/lazyweb?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#lazyweb&lt;/a&gt; - &lt;em&gt;swiftly and simply&lt;/em&gt; documenting and recording design decisions to create a usable record. What do you do? Any good posts I should look at?&lt;/p&gt;&amp;mdash; Mat Johnson (@demotive) &lt;a href="https://twitter.com/demotive/status/1121335669958246400?ref_src=twsrc%5Etfw"&gt;April 25, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;70 comments later I think it was a good thing to do.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s key to split up what it is you&amp;rsquo;re trying to document:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How things act and look (now, should)&lt;/li&gt;
+&lt;li&gt;Changes to designs&lt;/li&gt;
+&lt;li&gt;Reasons for decisions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are overlapping things but to me do have differences.&lt;/p&gt;
+
+&lt;p&gt;A reason for a change doesn&amp;rsquo;t need the whole service to be mapped out and every potential change shown.&lt;/p&gt;
+
+&lt;p&gt;But for a team meeting or planning session it might.&lt;/p&gt;
+
+&lt;p&gt;You have to find a consistent, efficient way to do this.&lt;/p&gt;
+
+&lt;p&gt;My design team, &lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;we do hypothesis driven design&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The goal being to log why we&amp;rsquo;re making certain changes.&lt;/p&gt;
+
+&lt;p&gt;I used to put all hypotheses in the prototype. And some colleagues said it was useful. But watching them read it it was the major one or two before entry into a prototype.&lt;/p&gt;
+
+&lt;p&gt;It also got quite laborious to do it.&lt;/p&gt;
+
+&lt;p&gt;For the opt-out service I&amp;rsquo;ve created hundreds of prototypes. Documenting all things on our Jira board and the prototype become tedious and inefficient.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re writing lots of text in a prototype, you&amp;rsquo;re better off with a CMS or word document.&lt;/p&gt;
+
+&lt;p&gt;Within corporate environments there comes the question of shareability. If that document goes to confluence or SharePoint it might as well be buried in the garden.&lt;/p&gt;
+
+&lt;p&gt;But then, a prototype with a password and one designer to update it doesn&amp;rsquo;t sound like a great sharing mechanism either.&lt;/p&gt;
+
+&lt;p&gt;So, you have to find your way.&lt;/p&gt;
+
+&lt;p&gt;But the way forward isn&amp;rsquo;t doing nothing. Complicated systems need documenting. Teams need help being kept on the same page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://grillopress.github.io/2018/01/08/kanban_for_interaction_design.html"&gt;Document your work as you go&lt;/a&gt;. &lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;Write hypotheses&lt;/a&gt;. Make it easy to understand your work. Make it easy to have a discussion about your work.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Week 02</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/04/19/discovery-notes-02.html"/>
     <id>https://grillopress.github.io/2019/04/19/discovery-notes-02.html</id>
     <published>2019-04-19T08:30:00+01:00</published>
-    <updated>2019-04-23T13:48:04+01:00</updated>
+    <updated>2019-04-24T21:01:05+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -45,7 +166,7 @@
 &lt;p&gt;About as perfect a workshop as possible. Hard questions were asked. We reset our scope to be much more ambitious. Good videos of users confirming that approach too.&lt;/p&gt;
 
 &lt;figure class="noir"&gt;
-  &lt;img src="/images/sam_at_workshop.jpg" alt="Sam running a "min specs" exercise"/&gt;
+  &lt;img src="/images/sam_at_workshop.jpg"/&gt;
   &lt;figcaption&gt;Sam running a &amp;ldquo;min specs&amp;rdquo; exercise&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -73,7 +194,7 @@
 
 &lt;p&gt;Walked back to the office then chatted through the one-time password improvements with Sam. We&amp;rsquo;d done quite a lot of work on this but it was time for a decision.&lt;/p&gt;
 
-&lt;p&gt;Talked about probability. &lt;a href="https://grillopress.github.io/2019/03/26/you-never-know-you-know.html"&gt;You never know&lt;/a&gt; so you have to weight up how confident you are a change will solve an issue.&lt;/p&gt;
+&lt;p&gt;Talked about probability. &lt;a href="https://grillopress.github.io/2019/03/26/you-never-know-you-know.html"&gt;You never know&lt;/a&gt; so you have to weigh up how confident you are a change will solve an issue.&lt;/p&gt;
 
 &lt;p&gt;We both agreed it would solve a couple of issues. Though that the ultimate issue is improving data in another system. One this change can&amp;rsquo;t impact.&lt;/p&gt;
 
@@ -109,7 +230,7 @@ Many people are really happy for their data to be used to help the NHS. In the w
 &lt;p&gt;Walked over to Bridgewater for the design huddle. Emma took us through the accessibility statement shed written for NHS login. I shared what GDS had given us.&lt;/p&gt;
 
 &lt;figure class="noir"&gt;
-  &lt;img src="/images/emma_at_the_huddle.jpg" alt="Emma talking to the group about accessibility statements"/&gt;
+  &lt;img src="/images/emma_at_the_huddle.jpg"/&gt;
   &lt;figcaption&gt;Emma talking to the group about accessibility statements&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -120,6 +241,10 @@ Many people are really happy for their data to be used to help the NHS. In the w
 &lt;p&gt;My concern was that as with cookie policies and privacy notices organisations soon get over that embarrassment. And they can become a dumping ground of &amp;ldquo;won&amp;rsquo;t fix&amp;rdquo; rather than the spirit behind the policy.&lt;/p&gt;
 
 &lt;p&gt;I hope that every NHS team makes the right choice.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Bank holiday. Walking. Beer. BBQ&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -394,54 +519,6 @@ Many people are really happy for their data to be used to help the NHS. In the w
 &lt;p&gt;Over one third of our users don’t bother with an irrelevant question.&lt;/p&gt;
 
 &lt;p&gt;Our service does the hard work to make it inclusive.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>One thing per page</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/01/31/one-thing.html"/>
-    <id>https://grillopress.github.io/2019/01/31/one-thing.html</id>
-    <published>2019-01-31T20:30:00+00:00</published>
-    <updated>2019-02-11T08:21:50+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Advice that often causes some debate is doing &amp;ldquo;one thing per page&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href="https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page"&gt;advice to start with this pattern&lt;/a&gt; often runs into resistance for internal teams. Or products with &amp;ldquo;expert&amp;rdquo; users.&lt;/p&gt;
-
-&lt;p&gt;Whilst helping run a form workshop for &amp;ldquo;services week&amp;rdquo; this topic featured. Both in the wider room and one to one.&lt;/p&gt;
-
-&lt;p&gt;The argument is that lots of questions will slow down users who have to do a thing 50 times a day.&lt;/p&gt;
-
-&lt;p&gt;This is a fair criticism.&lt;/p&gt;
-
-&lt;p&gt;If your users use an interface everyday, the patterns that work for them may be different.&lt;/p&gt;
-
-&lt;p&gt;For me though, I like to explain the &amp;ldquo;one thing&amp;rdquo; a little differently.&lt;/p&gt;
-
-&lt;p&gt;That is, &amp;ldquo;one thing&amp;rdquo; is a flexible concept. Yes, it can mean one question or one input. But one thing can also mean several inputs but one concept.&lt;/p&gt;
-
-&lt;p&gt;For a user who submits identical claims 50 times a day the whole &amp;ldquo;claim&amp;rdquo; could be one thing. A user who uses your service once a year won&amp;rsquo;t have the whole thing in their head.&lt;/p&gt;
-
-&lt;p&gt;The question isn&amp;rsquo;t &amp;ldquo;should we do one thing or lots of things?&amp;rdquo;. It is establishing what task users want to do. What sized task they can do without having to think.&lt;/p&gt;
-
-&lt;p&gt;The question isn&amp;rsquo;t whether your user should do &amp;ldquo;one thing&amp;rdquo; or not. It is what that one thing means.&lt;/p&gt;
-
-&lt;p&gt;The worst thing you can do though is assume that your users can cope with several things per page without evidence.&lt;/p&gt;
-
-&lt;p&gt;A little while back I reviewed a team&amp;rsquo;s service. They had some serious issues with users struggling to complete their registration process. They tried to cover this with a &amp;ldquo;save and continue&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;But the solution was solving the symptom.&lt;/p&gt;
-
-&lt;p&gt;The issue was that they were assuming too much. Assuming that their users would understand the questions they were asking.&lt;/p&gt;
-
-&lt;p&gt;They had rejected the &amp;ldquo;one thing per page&amp;rdquo; pattern as needing &amp;ldquo;too many clicks&amp;rdquo;. But had they used it, they would have discovered the questions that users found easy. And those they found hard. Those questions that could grouped. And those that needed another page.&lt;/p&gt;
-
-&lt;p&gt;Users were struggling on the third question into the service. They had assumed their professional users would know the answer to these questions. They didn&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;Start by breaking down what you need from your user into the smallest questions possible. Only deviate when you have good evidence you can group questions together.&lt;/p&gt;
-
-&lt;p&gt;Start with one thing per page. The smallest thing. And only expand when you have clear evidence to do that. But also find out what that &amp;ldquo;one thing&amp;rdquo; means. And the best way to ask it. Whether it is one question or several.&lt;/p&gt;
 </content>
   </entry>
 </feed>
