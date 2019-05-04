@@ -5,10 +5,77 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-05-03T08:30:00+01:00</updated>
+  <updated>2019-05-04T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Prototyping in shorthand</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/05/04/writing-shorthand.html"/>
+    <id>https://grillopress.github.io/2019/05/04/writing-shorthand.html</id>
+    <published>2019-05-04T08:30:00+01:00</published>
+    <updated>2019-05-04T22:57:33+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;As mentioned in my last &lt;a href="https://grillopress.github.io/2019/05/03/discovery-notes-03.html"&gt;discovery notes&lt;/a&gt; I like to write up pages in a shorthand method.&lt;/p&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t something that only I do.&lt;/p&gt;
+
+&lt;p&gt;When I was helping out in services week for &amp;ldquo;formapalooza&amp;rdquo; &lt;a href="https://twitter.com/Ralph_Hawkins"&gt;Ralph Hawkins&lt;/a&gt; spoke about the format he used in Google docs to write pages.&lt;/p&gt;
+
+&lt;p&gt;The format follows the shapes of interface elements using:&lt;/p&gt;
+
+&lt;pre&gt;
+( ) For radio buttons
+
+[ ] For checkboxes
+
+[           ] Input fields
+
+[ Buttons ]
+
+Etc.
+&lt;/pre&gt;
+
+&lt;p&gt;I do this too. But I like to add a few markdown elements as well, so &lt;code&gt;#&lt;/code&gt;&amp;lsquo;s for headings. So:&lt;/p&gt;
+
+&lt;pre&gt;
+# heading one
+
+## heading two
+
+### heading three
+
+Etc.
+&lt;/pre&gt;
+
+&lt;p&gt;This means I like to write pages like this:&lt;/p&gt;
+
+&lt;pre&gt;
+# Make your choice
+
+You need to chose what you're going to have for tea.
+
+It's really important.
+
+## What do you want for tea?
+
+( ) Curry
+( ) Chips and sausages
+( ) Pizza
+
+[ Continue ]
+
+&lt;/pre&gt;
+
+&lt;p&gt;Write in this format or similar in a sharable doc and you’ve got a way for a whole team to work together. To edit and adjust things before putting it in live or a prototype.&lt;/p&gt;
+
+&lt;p&gt;It also makes it easy for two designers to collaborate on screens.&lt;/p&gt;
+
+&lt;p&gt;Use Google docs or a notes app. It’s a quick way of prototyping screens and flows. It’ll help you focus on the important bits. The words and questions. The structure and flow.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Week 04</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/05/03/discovery-notes-03.html"/>
@@ -552,56 +619,6 @@ Many people are really happy for their data to be used to help the NHS. In the w
 &lt;p&gt;But whatever happens, my goal will be to make sure we keep interference to a minimum. And those around us help do that too.&lt;/p&gt;
 
 &lt;p&gt;What could you achieve without interference?&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>You never know, you know</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/03/26/you-never-know-you-know.html"/>
-    <id>https://grillopress.github.io/2019/03/26/you-never-know-you-know.html</id>
-    <published>2019-03-26T07:30:00+00:00</published>
-    <updated>2019-04-06T17:03:52+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;You should always get people outside your project or product to review your work. They&amp;rsquo;ll ask things you haven&amp;rsquo;t thought about. And question things you take for granted.&lt;/p&gt;
-
-&lt;p&gt;A question I got asked recently surprised me.&lt;/p&gt;
-
-&lt;p&gt;It was after talking through a change we made to the live service.&lt;/p&gt;
-
-&lt;p&gt;We had gone from a long list of exceptions to an easier to navigate set of headings and content.&lt;/p&gt;
-
-&lt;p&gt;We had tested the change. And had 40 users (from the age of 13) go through the work with changes here and there.&lt;/p&gt;
-
-&lt;p&gt;We had seen improved understanding. And created an easier reading experience.&lt;/p&gt;
-
-&lt;p&gt;The question asked was &amp;ldquo;how do you know you&amp;rsquo;ve tested with enough users?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;The implication seemed to be that we hadn&amp;rsquo;t tested with enough users to &amp;ldquo;really know&amp;rdquo; before going live.&lt;/p&gt;
-
-&lt;p&gt;But you never will.&lt;/p&gt;
-
-&lt;p&gt;You will never &lt;em&gt;know&lt;/em&gt;  that a change is the right one. And you will never know how something will &lt;em&gt;really&lt;/em&gt; work when live.&lt;/p&gt;
-
-&lt;p&gt;You can be confident in your hypothesis, your change.&lt;/p&gt;
-
-&lt;p&gt;You can do things to increase this confidence. And how likely you feel you&amp;rsquo;ll get something right.&lt;/p&gt;
-
-&lt;p&gt;Like testing in realistic context and with a range of users with different abilities and understanding.&lt;/p&gt;
-
-&lt;p&gt;When reviewing changes this is actually a great question to ask yourselves:&lt;/p&gt;
-
-&lt;div class="question"&gt;How likely is it this change will solve [the problem]?&lt;/div&gt;
-
-&lt;p&gt;You can also frame your research around the change to make clear what things would increase your confidence:&lt;/p&gt;
-
-&lt;div class="question"&gt;We&amp;rsquo;ll be more confident in this change when we see users understand that their data can still be shared in certain situations&lt;/div&gt;
-
-&lt;p&gt;When you change your service. You&amp;rsquo;ll never know. So, you keep listening, keep learning and change when you need to.&lt;/p&gt;
-
-&lt;p&gt;That is agile. That is design.&lt;/p&gt;
-
-&lt;p&gt;As a designer your job is to navigate that uncertainty. But you never know, you know.&lt;/p&gt;
 </content>
   </entry>
 </feed>
