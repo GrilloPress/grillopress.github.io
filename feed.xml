@@ -5,16 +5,166 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-04-26T08:30:00+01:00</updated>
+  <updated>2019-05-03T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Week 04</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/05/03/discovery-notes-03.html"/>
+    <id>https://grillopress.github.io/2019/05/03/discovery-notes-03.html</id>
+    <published>2019-05-03T08:30:00+01:00</published>
+    <updated>2019-05-04T22:19:07+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
+
+&lt;p&gt;Met with Phil Cooke from the Data request service and data access environment.&lt;/p&gt;
+
+&lt;p&gt;Talked about background to some of the internal data pipeline for NHS digital. Constraints. Things to improve.&lt;/p&gt;
+
+&lt;p&gt;Saw the benefits of a cross programme workshop we held before. Getting out of your part of the business is the type of thing that rewards you long after the initial reason you held a workshop.&lt;/p&gt;
+
+&lt;p&gt;Had a couple of practical questions answered. And a name to help with digging into the API/database which logs where your data has been shared for research and why.&lt;/p&gt;
+
+&lt;p&gt;Reviewed the opt out service development backlog. We have four tickets left (!)&lt;/p&gt;
+
+&lt;p&gt;Reviewed the prototype from Friday. Few things to glue together. On reflection a few things to clean up.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s always some rework moving from a sketch on a sticky note to another level of fidelity. And that&amp;rsquo;s fine. Things sound better in the head and worse when said. Giving things shape will always be a challenge.&lt;/p&gt;
+
+&lt;p&gt;Sam asked for &lt;a href="https://github.com/alphagov/govuk-design-system-backlog/issues/29"&gt;examples of declarations from around government and got linked to this&lt;/a&gt;. A reminder that GitHub isn&amp;rsquo;t always obvious to search, but is a treasure trove of information.&lt;/p&gt;
+
+&lt;p&gt;Reviewed some information architecture issues with Rhiannon.&lt;/p&gt;
+
+&lt;h2&gt;Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Wrote up some notes into a presentation. Tussled with it for most of the day. Didn&amp;rsquo;t quite get the narrative right.&lt;/p&gt;
+
+&lt;p&gt;Retro and planning with Will, Lucy and Emma.&lt;/p&gt;
+
+&lt;p&gt;We talked about what we&amp;rsquo;ve got in the next few weeks. I talked a little about getting to the heart of what makes a research study an attractive for someone.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;d gotten my hands on an API spec so will jump into what we log about research studies at NHS digital.&lt;/p&gt;
+
+&lt;p&gt;More work on a presentation. Still didn&amp;rsquo;t like it.&lt;/p&gt;
+
+&lt;p&gt;Chat with Jordan (grad researcher). Catch up on how he&amp;rsquo;s getting on.&lt;/p&gt;
+
+&lt;p&gt;We talked about being able to talk about why you use a method and tools. Job interviews and assessment criteria.&lt;/p&gt;
+
+&lt;p&gt;More tweaks on a presentation. Still didn&amp;rsquo;t like it.&lt;/p&gt;
+
+&lt;p&gt;Popped onto a call with the leadership team of the NHS website.&lt;/p&gt;
+
+&lt;p&gt;Gave the presentation. Went fine. Gave a service eye&amp;rsquo;s view of a few issues with the website. Nothing insurmountable. Everyone was very nice.&lt;/p&gt;
+
+&lt;h2&gt;Wednesday&lt;/h2&gt;
+
+&lt;p&gt;Talked through the job descriptions with Sam. What type of things a designer needs to show. Matching it against the spec etc.&lt;/p&gt;
+
+&lt;p&gt;Dialled in to the content huddle. Really glad to see the content community chatting through some issues. Was about the &lt;a href="#"&gt;care cards component&lt;/a&gt; and some questions about implementation.&lt;/p&gt;
+
+&lt;p&gt;The strict scenario the component should only be used in means it&amp;rsquo;s something you should set apart from the rest.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s not a general building block.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s more of a very specific solution in response to a very specific scenario.&lt;/p&gt;
+
+&lt;p&gt;A solution that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re unsure works in the specific situation it handles&lt;/li&gt;
+&lt;li&gt;Unsure whether every type of &amp;ldquo;get help&amp;rdquo; should be solved by the care card&lt;/li&gt;
+&lt;li&gt;Unclear how it&amp;rsquo;ll work alongside other cards or long pages of content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The type of thing that should be shared and discussed as a solution to a particular problem. But rolled out cautiously.&lt;/p&gt;
+
+&lt;p&gt;Pop up day in Bradford uni for the research team. 98% of those talked to would be happy to proactively share data with the NHS.&lt;/p&gt;
+
+&lt;p&gt;Lots of interesting things shared (Will being heckled one foot into Bradford).&lt;/p&gt;
+
+&lt;p&gt;One person who didn&amp;rsquo;t want to share their data but it was nothing to do with the NHS. They just didn&amp;rsquo;t trust data being shared on computers. Once it&amp;rsquo;s online or in a database it could be leaked, hacked and shared beyond purpose.&lt;/p&gt;
+
+&lt;p&gt;We also heard about someone who is happy to share but where they used to live they would have said no. With concerns about the weaponisation of data.&lt;/p&gt;
+
+&lt;p&gt;People told us &amp;ldquo;for training&amp;rdquo; was a good reason to share data too. Hadn&amp;rsquo;t heard that before.&lt;/p&gt;
+
+&lt;p&gt;Reviewed the pages on the NHS digital website we want a survey. And what we wanted to ask.&lt;/p&gt;
+
+&lt;p&gt;Sam did some great work on search terms in Google analytics and Google search console.&lt;/p&gt;
+
+&lt;p&gt;Sam made a list of pages that would be good to ask questions on. We went through reviewing each page if we had specific thing to find out.&lt;/p&gt;
+
+&lt;p&gt;Shared the questions round the team.&lt;/p&gt;
+
+&lt;p&gt;We based our questions on something that really worked for us on the health records pages before. With a tweak or two.&lt;/p&gt;
+
+&lt;p&gt;Emma had a couple of questions&lt;/p&gt;
+
+&lt;h2&gt;Thursday&lt;/h2&gt;
+
+&lt;p&gt;Talked through some changes to the data donor screens with Sam&lt;/p&gt;
+
+&lt;p&gt;Then had a debrief with Ruth and Sam about the pop-up the day before which lasted most of the morning.&lt;/p&gt;
+
+&lt;p&gt;Lunch then reviewing our work. More prototyping.&lt;/p&gt;
+
+&lt;p&gt;Mainly in shared docs.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re using a shared doc to write the screens in shorthand.&lt;/p&gt;
+
+&lt;pre&gt;
+( ) For radio buttons
+
+[ ] For checkboxes
+
+[           ] Input fields
+
+[ Buttons ]
+
+Etc.
+&lt;/pre&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t new. I&amp;rsquo;ve been writing notes to myself in a mixture of shorthand and markdown on my mobile.&lt;/p&gt;
+
+&lt;p&gt;But we agreed it works for us working together. In that space between sketch and full screen or prototype.&lt;/p&gt;
+
+&lt;p&gt;Went over earlier to BWP so Sam could get the NHS app environments set up on her laptop.&lt;/p&gt;
+
+&lt;p&gt;Good huddle reviewing some work on eRS.&lt;/p&gt;
+
+&lt;p&gt;Nothing will make your work better faster than sharing your work in the open.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;ll hurt at times. But do it early and often.&lt;/p&gt;
+
+&lt;p&gt;And if someone asks for your help listen to the constraints. Context. And give them the fruit of all the hard work you&amp;rsquo;ve done.&lt;/p&gt;
+
+&lt;p&gt;Seeing and critiquing other people&amp;rsquo;s work will make you better. You&amp;rsquo;ll see things that&amp;rsquo;ll work for you. And spot issues you have too.&lt;/p&gt;
+
+&lt;h2&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;I always try and make Friday a chatty day. Answer emails. Respond to questions. Post questions. Raise issues or fixes on GitHub.&lt;/p&gt;
+
+&lt;p&gt;Today was no exception. Wrote up some documentation too.&lt;/p&gt;
+
+&lt;p&gt;Answered some development issues and dug into why some CSS was working on the prototype but not a build environment.&lt;/p&gt;
+
+&lt;p&gt;Wrote a few sketches up.&lt;/p&gt;
+
+&lt;p&gt;Reviewed Sam&amp;rsquo;s work on the prototype. Helped her stitch a few things together and taught her about JavaScript objects.&lt;/p&gt;
+
+&lt;p&gt;Rhiannon noticed a couple of things so fixed them in the opt out prototype. Chatted about a question from Ruth. She&amp;rsquo;s going to dig into the data and see what&amp;rsquo;s what.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Week 03</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/04/26/discovery-notes-03.html"/>
     <id>https://grillopress.github.io/2019/04/26/discovery-notes-03.html</id>
     <published>2019-04-26T08:30:00+01:00</published>
-    <updated>2019-04-29T15:57:15+01:00</updated>
+    <updated>2019-04-29T19:49:55+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -452,82 +602,6 @@ Many people are really happy for their data to be used to help the NHS. In the w
 &lt;p&gt;That is agile. That is design.&lt;/p&gt;
 
 &lt;p&gt;As a designer your job is to navigate that uncertainty. But you never know, you know.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Do the hard work to make it inclusive</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"/>
-    <id>https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html</id>
-    <published>2019-03-18T20:30:00+00:00</published>
-    <updated>2019-03-19T09:53:35+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Back in August we had a challenge. We had a method of authentication that worked pretty well, but needed an NHS number.&lt;/p&gt;
-
-&lt;p&gt;If you have your NHS number we could be pretty sure to find you.&lt;/p&gt;
-
-&lt;p&gt;But NHS numbers aren’t something that everyone has to hand.&lt;/p&gt;
-
-&lt;p&gt;They should be on letters, prescriptions and the like.&lt;/p&gt;
-
-&lt;p&gt;But not everyone has had a recent appointment. Or keeps their letters. And some letters don’t include the NHS number (even though they should!). Never mind the NHS number being easy to find on a letter.&lt;/p&gt;
-
-&lt;p&gt;Though not a thing some users can’t get. Many users told us that they contacted their GP receptionist and after a few questions for given it. The NHS number represented a significant speed bump.&lt;/p&gt;
-
-&lt;p&gt;Something that stopped users being successful first time. And in the worst cases, a potential barrier.&lt;/p&gt;
-
-&lt;p&gt;Our challenge was to make accessing the service not rely on the NHS number.&lt;/p&gt;
-
-&lt;p&gt;But I didn’t want to throw away our path that worked for many.&lt;/p&gt;
-
-&lt;p&gt;The API we used however offered an alternative. We could get a patient by NHS number, but also by their personal details.&lt;/p&gt;
-
-&lt;p&gt;The details were:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;name&lt;/li&gt;
-&lt;li&gt;date of birth&lt;/li&gt;
-&lt;li&gt;postcode&lt;/li&gt;
-&lt;div&gt;and&lt;/div&gt;
-&lt;li&gt;gender&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Name and date of birth confronted no significant issues. We knew some users would struggle a little with postcode.&lt;/p&gt;
-
-&lt;p&gt;But the biggest worry was gender.&lt;/p&gt;
-
-&lt;p&gt;The reason the API asked for that was because it was a clinical API.&lt;/p&gt;
-
-&lt;p&gt;It was a requirement for the API. No “wildcard” allowed. We’d need to ask for it.&lt;/p&gt;
-
-&lt;p&gt;We were also told we couldn’t get around this.&lt;/p&gt;
-
-&lt;p&gt;Though we knew many users wouldn’t blink at this question. Our service lets users choose if their data is used for research. We don’t want to embarrass or impede anyone making that choice.&lt;/p&gt;
-
-&lt;p&gt;Our service is for everyone.&lt;/p&gt;
-
-&lt;h2&gt;New hope&lt;/h2&gt;
-
-&lt;p&gt;In a meeting with colleagues from another service I noticed they used the same API. But weren’t asking for gender.&lt;/p&gt;
-
-&lt;p&gt;I pressed hard on how they got around it.&lt;/p&gt;
-
-&lt;p&gt;Email confirmation after the meeting we had an answer.&lt;/p&gt;
-
-&lt;p&gt;We could call the API several times for each gender or category stored.&lt;/p&gt;
-
-&lt;p&gt;The other service would have much higher traffic than ours. We had precedence and I had enough ammunition to get my way.&lt;/p&gt;
-
-&lt;p&gt;So, our service would do the hard work to call the API four times when a user gave us a postcode instead of an NHS number.&lt;/p&gt;
-
-&lt;p&gt;Several prototypes later, 800 a/b tested users later and we had confidence in our design.&lt;/p&gt;
-
-&lt;p&gt;Service redesigned. Service load tested. New way of using the service released.&lt;/p&gt;
-
-&lt;p&gt;Over one third of our users don’t bother with an irrelevant question.&lt;/p&gt;
-
-&lt;p&gt;Our service does the hard work to make it inclusive.&lt;/p&gt;
 </content>
   </entry>
 </feed>
