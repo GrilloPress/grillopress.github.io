@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2019/05/04/writing-shorthand.html"/>
     <id>https://grillopress.github.io/2019/05/04/writing-shorthand.html</id>
     <published>2019-05-04T08:30:00+01:00</published>
-    <updated>2019-05-04T22:57:33+01:00</updated>
+    <updated>2019-05-08T12:10:16+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -26,29 +26,32 @@
 
 &lt;p&gt;The format follows the shapes of interface elements using:&lt;/p&gt;
 
-&lt;pre&gt;
-( ) For radio buttons
-
-[ ] For checkboxes
-
-[           ] Input fields
-
-[ Buttons ]
-
-Etc.
-&lt;/pre&gt;
+&lt;dl&gt;
+  &lt;div class="dl_element"&gt;
+    &lt;dt&gt;Radio buttons&lt;/dt&gt;
+    &lt;dd&gt;(&amp;nbsp;&amp;nbsp;)&lt;/dd&gt;
+  &lt;/div&gt;
+  &lt;div class="dl_element"&gt;
+    &lt;dt&gt;Checkboxes&lt;/dt&gt;
+    &lt;dd&gt;[&amp;nbsp;&amp;nbsp;]&lt;/dd&gt;
+  &lt;/div&gt;
+  &lt;div class="dl_element"&gt;
+    &lt;dt&gt;Input fields&lt;/dt&gt;
+    &lt;dd&gt;[&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;]&lt;/dd&gt;
+  &lt;/div&gt;
+  &lt;div class="dl_element"&gt;
+    &lt;dt&gt;Buttons&lt;/dt&gt;
+    &lt;dd&gt;[ Continue ]&lt;/dd&gt;
+  &lt;/div&gt;
+&lt;/dl&gt;
 
 &lt;p&gt;I do this too. But I like to add a few markdown elements as well, so &lt;code&gt;#&lt;/code&gt;&amp;lsquo;s for headings. So:&lt;/p&gt;
 
-&lt;pre&gt;
-# heading one
-
-## heading two
-
-### heading three
-
-Etc.
-&lt;/pre&gt;
+&lt;ul class="list-unstyled"&gt;
+  &lt;li&gt;# Heading one&lt;/li&gt;
+  &lt;li&gt;## Heading two&lt;/li&gt;
+  &lt;li&gt;### Heading three&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;This means I like to write pages like this:&lt;/p&gt;
 
@@ -69,11 +72,19 @@ It's really important.
 
 &lt;/pre&gt;
 
-&lt;p&gt;Write in this format or similar in a sharable doc and you’ve got a way for a whole team to work together. To edit and adjust things before putting it in live or a prototype.&lt;/p&gt;
+&lt;p&gt;Write in this format or similar in a sharable doc and you’ve got a way for a whole team to work together.&lt;/p&gt;
 
-&lt;p&gt;It also makes it easy for two designers to collaborate on screens.&lt;/p&gt;
+&lt;p&gt;You can even use document editor styles like links.&lt;/p&gt;
 
-&lt;p&gt;Use Google docs or a notes app. It’s a quick way of prototyping screens and flows. It’ll help you focus on the important bits. The words and questions. The structure and flow.&lt;/p&gt;
+&lt;p&gt;Using shorthand makes it easy for two designers to collaborate on screens. Or for other members of the team or other teams to get involved.&lt;/p&gt;
+
+&lt;p&gt;Use Google docs, word or a notes app. It’s a quick way of prototyping screens and flows. It’ll help you focus on the important bits:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the words and questions&lt;/li&gt;
+&lt;li&gt;the structure and flow&lt;/li&gt;
+&lt;li&gt;and ultimately, if your service meets a need&lt;/li&gt;
+&lt;/ul&gt;
 </content>
   </entry>
   <entry>
