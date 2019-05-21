@@ -5,10 +5,78 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-05-10T08:30:00+01:00</updated>
+  <updated>2019-05-17T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Week 06</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/05/17/discovery-notes-06.html"/>
+    <id>https://grillopress.github.io/2019/05/17/discovery-notes-06.html</id>
+    <published>2019-05-17T08:30:00+01:00</published>
+    <updated>2019-05-21T07:41:20+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Very busy week. Wake up at 4 in the morning thinking about work type of busy.&lt;/p&gt;
+
+&lt;p&gt;Some good news (eventually) on Monday. Now a &lt;em&gt;senior&lt;/em&gt; designer.&lt;/p&gt;
+
+&lt;p&gt;A friend asked what that means. Doing the same things I think. And helping out on a new project.&lt;/p&gt;
+
+&lt;p&gt;We did a lot of user research as a team this week. Two pop-ups and two workshops. With a lab and a patient panel planned the week after.&lt;/p&gt;
+
+&lt;p&gt;Busy.&lt;/p&gt;
+
+&lt;h2&gt;It&amp;rsquo;s hard work making this simple&lt;/h2&gt;
+
+&lt;p&gt;Lots of time spent discussing, exploring and trying to make the log of where NHS digital shares data simple.&lt;/p&gt;
+
+&lt;p&gt;Found it hard to make it simple to grasp what data has been shared, to who and why. Without adding unimportant noise.&lt;/p&gt;
+
+&lt;p&gt;In isolation the things aren&amp;rsquo;t difficult. But the ordering and interconnected bits are.&lt;/p&gt;
+
+&lt;p&gt;In one data sharing agreement you may have your data shared as part of 40 different datasets. All to help a local area evaluate and plan services.&lt;/p&gt;
+
+&lt;p&gt;The size, shape and structure of every data sharing agreement is unique.&lt;/p&gt;
+
+&lt;p&gt;I just don&amp;rsquo;t want people to have to know how the system works to see how the system is working for them.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;d also help if the content wasn&amp;rsquo;t so academic.&lt;/p&gt;
+
+&lt;h2&gt;Your job is to help the organisation make better decisions&lt;/h2&gt;
+
+&lt;p&gt;About a year ago a team from GDS came to the digital delivery centre and I walked round with them for a little bit.&lt;/p&gt;
+
+&lt;p&gt;We talked a little about adopting more agile ways of working within programmes.&lt;/p&gt;
+
+&lt;p&gt;One of the guests asked a good question:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;How are you helping the programme make better decisions?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;It wasn&amp;rsquo;t a question I didn&amp;rsquo;t have an answer to. But it was one of those that stuck with me.&lt;/p&gt;
+
+&lt;p&gt;The depth to which you can answer this question is a sign of your impact as a designer or researcher.&lt;/p&gt;
+
+&lt;p&gt;Working in agile ways means you make decisions more often. You respond to change. You test things. You make change possible and at a lower cost.&lt;/p&gt;
+
+&lt;p&gt;As a designer you ask questions and force decisions. But you need to be purposeful about your work and ask yourself:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What decision is my work helping to make?&lt;/li&gt;
+&lt;li&gt;How do I help make that decision?&lt;/li&gt;
+&lt;li&gt;How do I help make the best decision for the user and the organisation?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You&amp;rsquo;re likely to get pushback when you start working like this. More so if you&amp;rsquo;re working beyond how something &amp;ldquo;looks&amp;rdquo; or how the interface works. People will challenge why a designer is caring about certain decisions or business process. But your job is to challenge thought processes and deliver value. If you&amp;rsquo;re not challenging you&amp;rsquo;re probably not designing for a better outcome.&lt;/p&gt;
+
+&lt;p&gt;On Friday we had a show and tell that I felt forced a decision and delivered the evidence to make a better choice.&lt;/p&gt;
+
+&lt;p&gt;By the end we&amp;rsquo;d agreed what evidence was left to capture and what we needed to do to finalise a decision.&lt;/p&gt;
+
+&lt;p&gt;But also how to communicate that finding beyond our organisation so the whole system stops repeating the same research and finding the same thing.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Week 05</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/05/10/discovery-notes-04.html"/>
@@ -534,114 +602,6 @@ Many people are really happy for their data to be used to help the NHS. In the w
 &lt;h2&gt;Friday&lt;/h2&gt;
 
 &lt;p&gt;Bank holiday. Walking. Beer. BBQ&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Week 01</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/04/12/discovery-notes-01.html"/>
-    <id>https://grillopress.github.io/2019/04/12/discovery-notes-01.html</id>
-    <published>2019-04-12T08:30:00+01:00</published>
-    <updated>2019-04-15T06:52:20+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;I’m going to &lt;em&gt;try&lt;/em&gt; and write up weeknotes during discovery. We&amp;rsquo;re deciding whether to a build a service to show the use of data for research and planning.&lt;/p&gt;
-
-&lt;p&gt;Not everything will be about the discovery. But lots will.&lt;/p&gt;
-
-&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Started the week by finishing off.&lt;/p&gt;
-
-&lt;p&gt;Reviewing error messages and end pages with Sam. She&amp;rsquo;s put in a lot of hard work and documented everything we do and want to do for users when things don&amp;rsquo;t work.&lt;/p&gt;
-
-&lt;p&gt;Reviewed the feedback banner we&amp;rsquo;re going to use on the service. We&amp;rsquo;re removing the hotjar one. Avoiding an accessibility issue and letting us capture email addresses if users are happy to talk more.&lt;/p&gt;
-
-&lt;p&gt;Went to the first opt-out service meeting since we passed our live service assessment. Looked at a few issues we want to tackle. Some stuff not quite right in the app.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Over the last two weeks before we started our discovery we ran some exercises to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;state what we wanted to find out during discovery and scope of the discovery&lt;/li&gt;
-&lt;li&gt;the decision we want to make and what questions we&amp;rsquo;ll need to answer to make the right one&lt;/li&gt;
-&lt;li&gt;our definition of done&lt;/li&gt;
-&lt;li&gt;the things we thought we knew already&lt;/li&gt;
-&lt;li&gt;the things we&amp;rsquo;re going to do&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Today was a quick look back at all of our planning and how we are working as a team. And what we&amp;rsquo;re going to do over the next week or so.&lt;/p&gt;
-
-&lt;p&gt;I ran the exercise in two parts. Things we should stop/start. A classic retro style meeting. And a quick calendar based chat about what we&amp;rsquo;ve got coming.&lt;/p&gt;
-
-&lt;p&gt;Plain to me that we could learn quicker with some props. Services or not.&lt;/p&gt;
-
-&lt;p&gt;Later on reviewed the new service forms for making a choice for &amp;ldquo;the detained and secure estate&amp;rdquo; (screams forever). Meeting with that part of the programme was cancelled but work done.&lt;/p&gt;
-
-&lt;p&gt;Reviewed some changes for the NHS website with Rhiannon.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Started with a call about SEO. Let Rhiannon take the lead.&lt;/p&gt;
-
-&lt;p&gt;Ran through some accessibility tickets for the live service. Crossing turtles and dotting i&amp;rsquo;s.&lt;/p&gt;
-
-&lt;p&gt;Then to the first workshop of discovery. 10 people in two sessions in Roundhay. New venue. Interesting. Not ideally placed for me.&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/roundhay.jpg" alt="Several people sitting at a desk writing up notes"/&gt;
-  &lt;figcaption&gt;Some of the Roundhay gang&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Had a drive over with Lucy. And a drive back with Ruth (product owner).&lt;/p&gt;
-
-&lt;p&gt;It was a good session. But we heard nothing radically new. Different stories with the same answers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;people make tradeoffs with data and privacy all the time (privacy loses)&lt;/li&gt;
-&lt;li&gt;people think data sharing is consent based&lt;/li&gt;
-&lt;li&gt;people don&amp;rsquo;t think that data is processed beyond appointments or on request (blood tests)&lt;/li&gt;
-&lt;li&gt;most people see why the NHS would share data&lt;/li&gt;
-&lt;li&gt;avoid using the word &amp;ldquo;confidential&amp;rdquo; or &amp;ldquo;anonymised&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;people are generally speaking cool with the NHS sharing data&lt;/li&gt;
-&lt;li&gt;people like having a choice but rarely want to use it&lt;/li&gt;
-&lt;li&gt;people prefer not to think about this stuff (&amp;ldquo;more worried about brexit&amp;rdquo;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Helped out with analysis on the next day.&lt;/p&gt;
-
-&lt;p&gt;Four days in and none of us want to hear the same answers. We agreed that we needed to be more ambitious. Provocative. And try a different approach if we were going to get anything out of this discovery.&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/analysis.jpg" alt="Lucy, Emma and Will looking at sticky notes"/&gt;
-  &lt;figcaption&gt;Is Will confused, suspicious or thinking too hard?&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Reviewed an issue on the live service. Came to an agreement with John (developer) on the right approach. I really enjoy working with John. Went you like working with people you should tell them. I make a point of that. John is a good egg.&lt;/p&gt;
-
-&lt;p&gt;Wrote up a naming report for the programme with Sam.&lt;/p&gt;
-
-&lt;p&gt;Over to BWP for the design huddle.&lt;/p&gt;
-
-&lt;p&gt;We had Lucy and Rhiannon from my team talk about their work on Electronic Prescription Service (often referred to as EPS). Bonnie talk about inclusive design. And Ben talk about the NHSX website.&lt;/p&gt;
-
-&lt;p&gt;It was great having Lucy and Rhiannon at the huddle. There are some tough challenges when rolling out new features nationally. It&amp;rsquo;s important we understand our users pain points.&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/huddle-april.jpg" alt="Lucy and Rhiannon bossing it at the huddle"/&gt;
-  &lt;figcaption&gt;Lucy and Rhiannon bossing it at the huddle.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;In light of the findings on Thursday, rewrote a session plan for a workshop with the programme next week.&lt;/p&gt;
-
-&lt;p&gt;Spent most of the day enjoying a migraine.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;If technology or policy was no barrier what would data sharing for research look like?&amp;rdquo; was the question I considered.&lt;/p&gt;
 </content>
   </entry>
 </feed>
