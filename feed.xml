@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2019/05/24/discovery-notes-07.html"/>
     <id>https://grillopress.github.io/2019/05/24/discovery-notes-07.html</id>
     <published>2019-05-24T08:30:00+01:00</published>
-    <updated>2019-05-28T07:23:14+01:00</updated>
+    <updated>2019-05-28T07:46:21+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -28,11 +28,11 @@
 
 &lt;p&gt;She did an amazing job. There was some tricky logic to do.&lt;/p&gt;
 
-&lt;p&gt;When things are tough or tricky to complete, it&amp;rsquo;s always worth reminding yourself that what&amp;rsquo;s difficult now would have been impossible before.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s always worth reminding yourself that what&amp;rsquo;s difficult now would have been impossible before.&lt;/p&gt;
 
 &lt;h2&gt;Lots of likes but no needs&lt;/h2&gt;
 
-&lt;p&gt;In the lab users were very complimentary about a prototype service but none of them had thought, never mind tried, to solve the issue it was attempting to satisfy.&lt;/p&gt;
+&lt;p&gt;In the lab users were very complimentary about the prototype service. But none of them had thought, never mind tried, to solve the issue it was attempting to meet.&lt;/p&gt;
 
 &lt;p&gt;Their politeness about the service was nice. But it was all &lt;em&gt;nice&lt;/em&gt; to have and nothing they&amp;rsquo;d drop things to do. Or need to do before they could drop things.&lt;/p&gt;
 
@@ -48,7 +48,7 @@
 
 &lt;p&gt;Key of course is to really watch people&amp;rsquo;s behaviour. Before and after interacting with a thing.&lt;/p&gt;
 
-&lt;p&gt;The service wasn&amp;rsquo;t going to satisfy any need.&lt;/p&gt;
+&lt;p&gt;The service wasn&amp;rsquo;t going to meet any need.&lt;/p&gt;
 
 &lt;figure class="noir"&gt;
   &lt;img src="/images/real-needs.png"/&gt;
@@ -57,11 +57,17 @@
 
 &lt;h2&gt;The strategy is delivery (but not this thing)&lt;/h2&gt;
 
-&lt;p&gt;Right now, there&amp;rsquo;s no strong need for the service. It makes our system more coherent, slightly, but it wouldn&amp;rsquo;t do much better than improved signposting, better content and fixing some plumbing and internal processes.&lt;/p&gt;
+&lt;p&gt;Right now, there&amp;rsquo;s no strong need for the service. It makes our system more coherent. But it wouldn&amp;rsquo;t do much better than:&lt;/p&gt;
 
-&lt;p&gt;Balancing the cost of the service, and the things we&amp;rsquo;d have to change, an &amp;ldquo;online&amp;rdquo; service wouldn&amp;rsquo;t deliver the benefits in a sustainable way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;improved signposting&lt;/li&gt;
+&lt;li&gt;better content&lt;/li&gt;
+&lt;li&gt;fixing some plumbing and internal processes.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Of course trust, accountability and openness with health data isn&amp;rsquo;t a thing you decide not to do. Just there are more effective steps.&lt;/p&gt;
+&lt;p&gt;An &amp;ldquo;online&amp;rdquo; service wouldn&amp;rsquo;t deliver the benefits in a sustainable way.&lt;/p&gt;
+
+&lt;p&gt;Of course trust, accountability and openness with health data isn&amp;rsquo;t a thing you decide not to do. But there are more effective steps.&lt;/p&gt;
 
 &lt;p&gt;Giving people control and sight of their health records is, from what we&amp;rsquo;ve seen from people, the better first step.&lt;/p&gt;
 </content>
