@@ -5,10 +5,67 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-05-17T08:30:00+01:00</updated>
+  <updated>2019-05-24T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Week 07</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/05/24/discovery-notes-07.html"/>
+    <id>https://grillopress.github.io/2019/05/24/discovery-notes-07.html</id>
+    <published>2019-05-24T08:30:00+01:00</published>
+    <updated>2019-05-28T07:23:14+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;h2&gt;What&amp;rsquo;s difficult now would have been impossible before&lt;/h2&gt;
+
+&lt;p&gt;Week started in crunch mode trying to get the prototype ready for the lab on Tuesday. Most of the bits were there.&lt;/p&gt;
+
+&lt;p&gt;Sadly I was all across Leeds for a lot of the day.&lt;/p&gt;
+
+&lt;p&gt;Reviewed the prototype with Sam. She took lead on the part of the prototype for the last lab activity. We sketched out the flow together. Two questions but if they answered yes to any one of them the system would get a little more complicated.&lt;/p&gt;
+
+&lt;p&gt;She did an amazing job. There was some tricky logic to do.&lt;/p&gt;
+
+&lt;p&gt;When things are tough or tricky to complete, it&amp;rsquo;s always worth reminding yourself that what&amp;rsquo;s difficult now would have been impossible before.&lt;/p&gt;
+
+&lt;h2&gt;Lots of likes but no needs&lt;/h2&gt;
+
+&lt;p&gt;In the lab users were very complimentary about a prototype service but none of them had thought, never mind tried, to solve the issue it was attempting to satisfy.&lt;/p&gt;
+
+&lt;p&gt;Their politeness about the service was nice. But it was all &lt;em&gt;nice&lt;/em&gt; to have and nothing they&amp;rsquo;d drop things to do. Or need to do before they could drop things.&lt;/p&gt;
+
+&lt;p&gt;It can be very easy to be persuaded by people saying they&amp;rsquo;d use a service.&lt;/p&gt;
+
+&lt;p&gt;Or that something they&amp;rsquo;re interacting with is interesting and means something to them.&lt;/p&gt;
+
+&lt;p&gt;But people say things but behave very differently.&lt;/p&gt;
+
+&lt;p&gt;We all do.&lt;/p&gt;
+
+&lt;p&gt;The user is in a strange room with strange people interacting with a strange system asking strange things. It&amp;rsquo;s natural behaviour to be nice and say pleasant things.&lt;/p&gt;
+
+&lt;p&gt;Key of course is to really watch people&amp;rsquo;s behaviour. Before and after interacting with a thing.&lt;/p&gt;
+
+&lt;p&gt;The service wasn&amp;rsquo;t going to satisfy any need.&lt;/p&gt;
+
+&lt;figure class="noir"&gt;
+  &lt;img src="/images/real-needs.png"/&gt;
+  &lt;figcaption&gt;Some sort of visual metaphor for users solving problems because they have a need &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;The strategy is delivery (but not this thing)&lt;/h2&gt;
+
+&lt;p&gt;Right now, there&amp;rsquo;s no strong need for the service. It makes our system more coherent, slightly, but it wouldn&amp;rsquo;t do much better than improved signposting, better content and fixing some plumbing and internal processes.&lt;/p&gt;
+
+&lt;p&gt;Balancing the cost of the service, and the things we&amp;rsquo;d have to change, an &amp;ldquo;online&amp;rdquo; service wouldn&amp;rsquo;t deliver the benefits in a sustainable way.&lt;/p&gt;
+
+&lt;p&gt;Of course trust, accountability and openness with health data isn&amp;rsquo;t a thing you decide not to do. Just there are more effective steps.&lt;/p&gt;
+
+&lt;p&gt;Giving people control and sight of their health records is, from what we&amp;rsquo;ve seen from people, the better first step.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Week 06</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/05/17/discovery-notes-06.html"/>
@@ -485,123 +542,6 @@ Etc.
 &lt;li&gt;Make it easy to understand your work&lt;/li&gt;
 &lt;li&gt;Make it easy to have a discussion about your work&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Week 02</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/04/19/discovery-notes-02.html"/>
-    <id>https://grillopress.github.io/2019/04/19/discovery-notes-02.html</id>
-    <published>2019-04-19T08:30:00+01:00</published>
-    <updated>2019-04-24T21:01:05+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Reviewed Rhiannon&amp;rsquo;s work on the live service&amp;rsquo;s start page. Good work. Massive simplification. Asked her to look at the page we let people download the paper forms.&lt;/p&gt;
-
-&lt;p&gt;Had a call with a colleague from NHS improvement about an information architecture issue.&lt;/p&gt;
-
-&lt;p&gt;Had a planning meeting with the team for the cross team inception workshop. Grabbed some time to confirm what we wanted to cover and the outcomes we wanted.&lt;/p&gt;
-
-&lt;p&gt;Made a point of making sure everyone had a role. Be it presentation or facilitation or leading an activity.&lt;/p&gt;
-
-&lt;p&gt;After lunch had a quick meeting about the &amp;ldquo;Detained and secure estates&amp;rdquo; service. Reset the plan for user research.&lt;/p&gt;
-
-&lt;p&gt;Let Sam lead on reviewing the forms and emails.&lt;/p&gt;
-
-&lt;p&gt;Ended the day writing the presentation for the workshop. Just enough presentation to allow us to ask provocative questions.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Started the day running through the slides with Sam for her activity. And the presentation with Will.&lt;/p&gt;
-
-&lt;p&gt;And talking with Lucy and Emma about what they would cover.&lt;/p&gt;
-
-&lt;p&gt;Held the workshop. We went into it with a clear feeling we didn&amp;rsquo;t want to spend 8 weeks discovering what we knew.&lt;/p&gt;
-
-&lt;p&gt;About as perfect a workshop as possible. Hard questions were asked. We reset our scope to be much more ambitious. Good videos of users confirming that approach too.&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/sam_at_workshop.jpg"/&gt;
-  &lt;figcaption&gt;Sam running a &amp;ldquo;min specs&amp;rdquo; exercise&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;At the end of the workshop there was some slight reorganising of the team due to a new discovery piece.&lt;/p&gt;
-
-&lt;p&gt;Practicalities of this took the wind out of the discovery workshop a little.&lt;/p&gt;
-
-&lt;p&gt;After lunch organised the design huddle about accessibility statements. Emma from NHS login has written one and wanted to update on that. I asked for access to the GDS one so we could cross reference.&lt;/p&gt;
-
-&lt;p&gt;Reviewed Rhiannon&amp;rsquo;s work with Sam on the page for the paper form downloads. Added it to the prototype.&lt;/p&gt;
-
-&lt;p&gt;Then reviewed with Sam the NHS app content and the prison forms.&lt;/p&gt;
-
-&lt;p&gt;Live service release. Goodbye beta!&lt;/p&gt;
-
-&lt;p&gt;The release also included some accessibility improvements. And small but important CSS changes that improved how the service looked.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Early morning start at Bridgewater. Chat with Susie about the work she&amp;rsquo;s jumping onto.&lt;/p&gt;
-
-&lt;p&gt;Then an end of service survey review with Caroline Jarrett.&lt;/p&gt;
-
-&lt;p&gt;Was a great meeting (as ever). Talked through what we are asking and what we wanted to know.  As ever the key is being purposeful about what you ask. And not hiding questions within questions.&lt;/p&gt;
-
-&lt;p&gt;Walked back to the office then chatted through the one-time password improvements with Sam. We&amp;rsquo;d done quite a lot of work on this but it was time for a decision.&lt;/p&gt;
-
-&lt;p&gt;Talked about probability. &lt;a href="https://grillopress.github.io/2019/03/26/you-never-know-you-know.html"&gt;You never know&lt;/a&gt; so you have to weigh up how confident you are a change will solve an issue.&lt;/p&gt;
-
-&lt;p&gt;We both agreed it would solve a couple of issues. Though that the ultimate issue is improving data in another system. One this change can&amp;rsquo;t impact.&lt;/p&gt;
-
-&lt;p&gt;Reviewed Sam and Rhiannon&amp;rsquo;s work on the app and the live service landing pages.&lt;/p&gt;
-
-&lt;p&gt;Backlog review with product owner, lead developer and scrum master for the live service. We have a few things we will continue to work on but very happy with where the product is.&lt;/p&gt;
-
-&lt;p&gt;After lunch took part in a workshop with &amp;ldquo;Empower the person&amp;rdquo; programme about consent and preferences. So completely up my street.&lt;/p&gt;
-
-&lt;p&gt;Found common ground and definitions. Then moved onto contact preferences.&lt;/p&gt;
-
-&lt;p&gt;In the audit and transparency alpha we explored showing people what information we had about people and in particular contact details. So we had lots of research here.&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Started the day talking about the workshop from the day before.&lt;/p&gt;
-
-&lt;p&gt;Walked over to Bridgewater with Sam to talk to the app team. Talking about issues and talking ways of working together.&lt;/p&gt;
-
-&lt;p&gt;Quick catch up with Tero then over to the office again.&lt;/p&gt;
-
-&lt;p&gt;Started a (delayed) design activity into exploring one of our big questions in discovery.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re looking to mock up a service to dig into some things we&amp;rsquo;ve seen over the last year or so.
-Many people are really happy for their data to be used to help the NHS. In the workshop last week we heard:&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;If my data helps just one person it&amp;rsquo;s worth it&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;We want to explore this. The limits and extent of this. The potential to help people see the impact their data is having. And if people want to do more. And if so, what that could look like.&lt;/p&gt;
-
-&lt;p&gt;We lost a couple of hours due to other meetings but got quite a lot mapped out. We&amp;rsquo;ll pick this up next week and take something to test with people.&lt;/p&gt;
-
-&lt;p&gt;Walked over to Bridgewater for the design huddle. Emma took us through the accessibility statement shed written for NHS login. I shared what GDS had given us.&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/emma_at_the_huddle.jpg"/&gt;
-  &lt;figcaption&gt;Emma talking to the group about accessibility statements&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Some questions left over on policy.&lt;/p&gt;
-
-&lt;p&gt;Matt Edgar also made a point about accessibility statements being the cost of not building things right. The shame of not doing it right and having to state everything you&amp;rsquo;ve done that isn&amp;rsquo;t up to standard.&lt;/p&gt;
-
-&lt;p&gt;My concern was that as with cookie policies and privacy notices organisations soon get over that embarrassment. And they can become a dumping ground of &amp;ldquo;won&amp;rsquo;t fix&amp;rdquo; rather than the spirit behind the policy.&lt;/p&gt;
-
-&lt;p&gt;I hope that every NHS team makes the right choice.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Bank holiday. Walking. Beer. BBQ&lt;/p&gt;
 </content>
   </entry>
 </feed>
