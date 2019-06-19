@@ -5,16 +5,87 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-05-24T08:30:00+01:00</updated>
+  <updated>2019-06-10T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Make things open</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/06/10/make-things-open.html"/>
+    <id>https://grillopress.github.io/2019/06/10/make-things-open.html</id>
+    <published>2019-06-10T08:30:00+01:00</published>
+    <updated>2019-06-19T22:44:57+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;In the last week or so, Sam has written the opt-out service’s accessibility statement. An accessibility statement is a page that explains what accessibility testing you&amp;rsquo;ve done. And any defects you are working through.&lt;/p&gt;
+
+&lt;p&gt;I’m a big fan of working in the open and being open about your work.&lt;/p&gt;
+
+&lt;p&gt;When planning the work Sam and myself said the definition of done should be to open up our work to our colleagues.&lt;/p&gt;
+
+&lt;p&gt;So as part of the acceptance criteria we agreed that we’d share the statement on slack.&lt;/p&gt;
+
+&lt;h2&gt;Working in the open&lt;/h2&gt;
+
+&lt;p&gt;In writing the statement we made a point of being open. Getting help from several places through our entire process. We had:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Read the full policy&lt;/li&gt;
+&lt;li&gt;Asked the UK Government slack community what they were doing. And to check my understanding of the policy&lt;/li&gt;
+&lt;li&gt;Looked through an early access version of the GDS template&lt;/li&gt;
+&lt;li&gt;Held a design meet up about it to discuss as designers what we were doing and our position on it&lt;/li&gt;
+&lt;li&gt;Aligned our work with what our colleagues around NHS Digital and GDS were doing&lt;/li&gt;
+&lt;li&gt;Talked the delivery team through the design decisions&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We had also leant on the expertise of users with access needs through our testing partner DAC.&lt;/p&gt;
+
+&lt;p&gt;When Sam had finished writing the accessibility statement she shared it on slack.&lt;/p&gt;
+
+&lt;h2&gt;Opportunities to be open&lt;/h2&gt;
+
+&lt;p&gt;One of the principles I love is &amp;ldquo;make things open, it makes things better&amp;rdquo;. I see it as a ways of working principle.&lt;/p&gt;
+
+&lt;p&gt;There are many opportunities to be open about your work.&lt;/p&gt;
+
+&lt;p&gt;Using baking a cake as an example there are many stages of being open:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I’m hungry, what should I eat? &lt;em&gt;or&lt;/em&gt; I have these ingredients, what should I cook?&lt;/li&gt;
+&lt;li&gt;I’m thinking about cooking a cake. What cake should I cook?&lt;/li&gt;
+&lt;li&gt;I’m making this cake, any advice? &lt;em&gt;or&lt;/em&gt; Would you like to do it with me?&lt;/li&gt;
+&lt;li&gt;I’m cooking a cake, does this look right?&lt;/li&gt;
+&lt;li&gt;I’ve cooked my cake, what do you think? (Would you like a slice?)&lt;/li&gt;
+&lt;li&gt;My cakes are very dense, what could I do that&amp;rsquo;s different?&lt;/li&gt;
+&lt;li&gt;Here’s what I did to cook that cake&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There is every opportunity to be open with your work. Be it with your team, or those beyond it. Choose an opportunity. It may not be as delicious as cake, but being working in the open makes your work better.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Week 08</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/05/31/discovery-notes-08.html"/>
+    <id>https://grillopress.github.io/2019/05/31/discovery-notes-08.html</id>
+    <published>2019-05-31T08:30:00+01:00</published>
+    <updated>2019-06-19T22:46:29+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;All over.&lt;/p&gt;
+
+&lt;p&gt;Discovery finished. Our work has been compiled into a board report. Planning to write it up publicly eventually.&lt;/p&gt;
+
+&lt;p&gt;But not this week. &lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Week 07</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/05/24/discovery-notes-07.html"/>
     <id>https://grillopress.github.io/2019/05/24/discovery-notes-07.html</id>
     <published>2019-05-24T08:30:00+01:00</published>
-    <updated>2019-05-28T08:06:37+01:00</updated>
+    <updated>2019-05-28T08:14:40+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -265,286 +336,6 @@ It's really important.
 &lt;li&gt;the words and questions&lt;/li&gt;
 &lt;li&gt;the structure and flow&lt;/li&gt;
 &lt;li&gt;and ultimately, if your service meets a need&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Week 04</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/05/03/discovery-notes-03.html"/>
-    <id>https://grillopress.github.io/2019/05/03/discovery-notes-03.html</id>
-    <published>2019-05-03T08:30:00+01:00</published>
-    <updated>2019-05-04T22:19:07+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;h2&gt;Monday&lt;/h2&gt;
-
-&lt;p&gt;Met with Phil Cooke from the Data request service and data access environment.&lt;/p&gt;
-
-&lt;p&gt;Talked about background to some of the internal data pipeline for NHS digital. Constraints. Things to improve.&lt;/p&gt;
-
-&lt;p&gt;Saw the benefits of a cross programme workshop we held before. Getting out of your part of the business is the type of thing that rewards you long after the initial reason you held a workshop.&lt;/p&gt;
-
-&lt;p&gt;Had a couple of practical questions answered. And a name to help with digging into the API/database which logs where your data has been shared for research and why.&lt;/p&gt;
-
-&lt;p&gt;Reviewed the opt out service development backlog. We have four tickets left (!)&lt;/p&gt;
-
-&lt;p&gt;Reviewed the prototype from Friday. Few things to glue together. On reflection a few things to clean up.&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s always some rework moving from a sketch on a sticky note to another level of fidelity. And that&amp;rsquo;s fine. Things sound better in the head and worse when said. Giving things shape will always be a challenge.&lt;/p&gt;
-
-&lt;p&gt;Sam asked for &lt;a href="https://github.com/alphagov/govuk-design-system-backlog/issues/29"&gt;examples of declarations from around government and got linked to this&lt;/a&gt;. A reminder that GitHub isn&amp;rsquo;t always obvious to search, but is a treasure trove of information.&lt;/p&gt;
-
-&lt;p&gt;Reviewed some information architecture issues with Rhiannon.&lt;/p&gt;
-
-&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Wrote up some notes into a presentation. Tussled with it for most of the day. Didn&amp;rsquo;t quite get the narrative right.&lt;/p&gt;
-
-&lt;p&gt;Retro and planning with Will, Lucy and Emma.&lt;/p&gt;
-
-&lt;p&gt;We talked about what we&amp;rsquo;ve got in the next few weeks. I talked a little about getting to the heart of what makes a research study an attractive for someone.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;d gotten my hands on an API spec so will jump into what we log about research studies at NHS digital.&lt;/p&gt;
-
-&lt;p&gt;More work on a presentation. Still didn&amp;rsquo;t like it.&lt;/p&gt;
-
-&lt;p&gt;Chat with Jordan (grad researcher). Catch up on how he&amp;rsquo;s getting on.&lt;/p&gt;
-
-&lt;p&gt;We talked about being able to talk about why you use a method and tools. Job interviews and assessment criteria.&lt;/p&gt;
-
-&lt;p&gt;More tweaks on a presentation. Still didn&amp;rsquo;t like it.&lt;/p&gt;
-
-&lt;p&gt;Popped onto a call with the leadership team of the NHS website.&lt;/p&gt;
-
-&lt;p&gt;Gave the presentation. Went fine. Gave a service eye&amp;rsquo;s view of a few issues with the website. Nothing insurmountable. Everyone was very nice.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Talked through the job descriptions with Sam. What type of things a designer needs to show. Matching it against the spec etc.&lt;/p&gt;
-
-&lt;p&gt;Dialled in to the content huddle. Really glad to see the content community chatting through some issues. Was about the &lt;a href="#"&gt;care cards component&lt;/a&gt; and some questions about implementation.&lt;/p&gt;
-
-&lt;p&gt;The strict scenario the component should only be used in means it&amp;rsquo;s something you should set apart from the rest.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s not a general building block.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s more of a very specific solution in response to a very specific scenario.&lt;/p&gt;
-
-&lt;p&gt;A solution that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;We&amp;rsquo;re unsure works in the specific situation it handles&lt;/li&gt;
-&lt;li&gt;Unsure whether every type of &amp;ldquo;get help&amp;rdquo; should be solved by the care card&lt;/li&gt;
-&lt;li&gt;Unclear how it&amp;rsquo;ll work alongside other cards or long pages of content&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The type of thing that should be shared and discussed as a solution to a particular problem. But rolled out cautiously.&lt;/p&gt;
-
-&lt;p&gt;Pop up day in Bradford uni for the research team. 98% of those talked to would be happy to proactively share data with the NHS.&lt;/p&gt;
-
-&lt;p&gt;Lots of interesting things shared (Will being heckled one foot into Bradford).&lt;/p&gt;
-
-&lt;p&gt;One person who didn&amp;rsquo;t want to share their data but it was nothing to do with the NHS. They just didn&amp;rsquo;t trust data being shared on computers. Once it&amp;rsquo;s online or in a database it could be leaked, hacked and shared beyond purpose.&lt;/p&gt;
-
-&lt;p&gt;We also heard about someone who is happy to share but where they used to live they would have said no. With concerns about the weaponisation of data.&lt;/p&gt;
-
-&lt;p&gt;People told us &amp;ldquo;for training&amp;rdquo; was a good reason to share data too. Hadn&amp;rsquo;t heard that before.&lt;/p&gt;
-
-&lt;p&gt;Reviewed the pages on the NHS digital website we want a survey. And what we wanted to ask.&lt;/p&gt;
-
-&lt;p&gt;Sam did some great work on search terms in Google analytics and Google search console.&lt;/p&gt;
-
-&lt;p&gt;Sam made a list of pages that would be good to ask questions on. We went through reviewing each page if we had specific thing to find out.&lt;/p&gt;
-
-&lt;p&gt;Shared the questions round the team.&lt;/p&gt;
-
-&lt;p&gt;We based our questions on something that really worked for us on the health records pages before. With a tweak or two.&lt;/p&gt;
-
-&lt;p&gt;Emma had a couple of questions&lt;/p&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Talked through some changes to the data donor screens with Sam&lt;/p&gt;
-
-&lt;p&gt;Then had a debrief with Ruth and Sam about the pop-up the day before which lasted most of the morning.&lt;/p&gt;
-
-&lt;p&gt;Lunch then reviewing our work. More prototyping.&lt;/p&gt;
-
-&lt;p&gt;Mainly in shared docs.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re using a shared doc to write the screens in shorthand.&lt;/p&gt;
-
-&lt;pre&gt;
-( ) For radio buttons
-
-[ ] For checkboxes
-
-[           ] Input fields
-
-[ Buttons ]
-
-Etc.
-&lt;/pre&gt;
-
-&lt;p&gt;This isn&amp;rsquo;t new. I&amp;rsquo;ve been writing notes to myself in a mixture of shorthand and markdown on my mobile.&lt;/p&gt;
-
-&lt;p&gt;But we agreed it works for us working together. In that space between sketch and full screen or prototype.&lt;/p&gt;
-
-&lt;p&gt;Went over earlier to BWP so Sam could get the NHS app environments set up on her laptop.&lt;/p&gt;
-
-&lt;p&gt;Good huddle reviewing some work on eRS.&lt;/p&gt;
-
-&lt;p&gt;Nothing will make your work better faster than sharing your work in the open.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;ll hurt at times. But do it early and often.&lt;/p&gt;
-
-&lt;p&gt;And if someone asks for your help listen to the constraints. Context. And give them the fruit of all the hard work you&amp;rsquo;ve done.&lt;/p&gt;
-
-&lt;p&gt;Seeing and critiquing other people&amp;rsquo;s work will make you better. You&amp;rsquo;ll see things that&amp;rsquo;ll work for you. And spot issues you have too.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;I always try and make Friday a chatty day. Answer emails. Respond to questions. Post questions. Raise issues or fixes on GitHub.&lt;/p&gt;
-
-&lt;p&gt;Today was no exception. Wrote up some documentation too.&lt;/p&gt;
-
-&lt;p&gt;Answered some development issues and dug into why some CSS was working on the prototype but not a build environment.&lt;/p&gt;
-
-&lt;p&gt;Wrote a few sketches up.&lt;/p&gt;
-
-&lt;p&gt;Reviewed Sam&amp;rsquo;s work on the prototype. Helped her stitch a few things together and taught her about JavaScript objects.&lt;/p&gt;
-
-&lt;p&gt;Rhiannon noticed a couple of things so fixed them in the opt out prototype. Chatted about a question from Ruth. She&amp;rsquo;s going to dig into the data and see what&amp;rsquo;s what.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Week 03</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/04/26/discovery-notes-03.html"/>
-    <id>https://grillopress.github.io/2019/04/26/discovery-notes-03.html</id>
-    <published>2019-04-26T08:30:00+01:00</published>
-    <updated>2019-04-29T19:49:55+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;h2&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Slow day. Other things to sort beyond work.&lt;/p&gt;
-
-&lt;p&gt;Reviewed the new end of service feedback questions.&lt;/p&gt;
-
-&lt;p&gt;Wrote up some thoughts on a few issues.&lt;/p&gt;
-
-&lt;p&gt;Agreed to do a talk about GDS assessment to the graduate BA community.&lt;/p&gt;
-
-&lt;h2&gt;Wednesday&lt;/h2&gt;
-
-&lt;p&gt;Most of the morning was a resetting exercise following the workshop the week before.&lt;/p&gt;
-
-&lt;p&gt;It can be tough to get talking about data with people. It&amp;rsquo;s abstract.&lt;/p&gt;
-
-&lt;p&gt;So we&amp;rsquo;re prototyping to explore.&lt;/p&gt;
-
-&lt;p&gt;Discovery so far has been slower than hoped. Some of that&amp;rsquo;s due to changes based on feedback from a lab and workshop. Some of it other things.&lt;/p&gt;
-
-&lt;p&gt;Caught up with a graduate researcher to see how he was going on.&lt;/p&gt;
-
-&lt;p&gt;Spent the time before and after lunch mapping out an exploratory service.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re going to explore attitudes to data with a data donor service.&lt;/p&gt;
-
-&lt;p&gt;One of the provocative questions  underlining the prototype was:&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;You&amp;rsquo;d be happy if you or your loved one benefited from medical research, so would you be happy to donate your data to help this?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re exploring:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;how happy people are to share data&lt;/li&gt;
-&lt;li&gt;what changes if they data is donated&lt;/li&gt;
-&lt;li&gt;what happens when people look at matching data with projects that would like it to be shared with. And those they wouldn&amp;rsquo;t&lt;/li&gt;
-&lt;li&gt;what people need to know to understand research studies and make a decision about them&lt;/li&gt;
-&lt;li&gt;what we&amp;rsquo;d need to show to give people a sense of positive feeling about donating&lt;/li&gt;
-&lt;li&gt;what people would want in a way or a happy ending&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Wrote a presentation about 5 lessons from doing GDS assessments. For the huddle.&lt;/p&gt;
-
-&lt;p&gt;Couple of issues here or there. Mostly spent time sketching a flow with Sam in response to the service we mapped out the day before.&lt;/p&gt;
-
-&lt;p&gt;Reviewed some work of Rhiannon&amp;rsquo;s. Asked for her decision on what of the three options was her preferred thing to take forward.&lt;/p&gt;
-
-&lt;p&gt;Did some annual review meetings. Always important for people to know what they&amp;rsquo;re responsible for. What good looks like and what&amp;rsquo;s important to achieve.&lt;/p&gt;
-
-&lt;p&gt;Back on sketching out the basic flow.&lt;/p&gt;
-
-&lt;p&gt;Then to the huddle.&lt;/p&gt;
-
-&lt;p&gt;Didn&amp;rsquo;t end up giving my GDS presentation.&lt;/p&gt;
-
-&lt;p&gt;Talked about how we document designs and design decisions. Then an interesting issue from Ben Cullimore about highlighting that the NHS website medicines A to Z may not include every medicine.&lt;/p&gt;
-
-&lt;h2&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Prototyping prototyping prototyping.&lt;/p&gt;
-
-&lt;p&gt;Divided up the work with Sam.&lt;/p&gt;
-
-&lt;p&gt;Talked to Ben about benefit realisation and OKRs (objectives and key results).&lt;/p&gt;
-
-&lt;p&gt;Joined in a discussion on slack about documenting design decisions.&lt;/p&gt;
-
-&lt;p&gt;Poked Mat Johnson to share his tweet in slack as well as the twitters.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class="twitter-tweet" data-dnt="true"&gt;&lt;p lang="en" dir="ltr"&gt;Utterly &lt;a href="https://twitter.com/hashtag/lazyweb?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#lazyweb&lt;/a&gt; - &lt;em&gt;swiftly and simply&lt;/em&gt; documenting and recording design decisions to create a usable record. What do you do? Any good posts I should look at?&lt;/p&gt;&amp;mdash; Mat Johnson (@demotive) &lt;a href="https://twitter.com/demotive/status/1121335669958246400?ref_src=twsrc%5Etfw"&gt;April 25, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;70 comments later I think it was a good thing to do.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s key to split up what it is you&amp;rsquo;re trying to document:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How things act and look (now, should)&lt;/li&gt;
-&lt;li&gt;Changes to designs&lt;/li&gt;
-&lt;li&gt;Reasons for decisions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These are overlapping things but to me do have differences.&lt;/p&gt;
-
-&lt;p&gt;A reason for a change doesn&amp;rsquo;t need the whole service to be mapped out and every potential change shown.&lt;/p&gt;
-
-&lt;p&gt;But for a team meeting or planning session it might.&lt;/p&gt;
-
-&lt;p&gt;You have to find a consistent, efficient way to do this.&lt;/p&gt;
-
-&lt;p&gt;My design team, &lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;we do hypothesis driven design&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The goal being to log why we&amp;rsquo;re making certain changes.&lt;/p&gt;
-
-&lt;p&gt;I used to put all hypotheses in the prototype. And some colleagues said it was useful. But watching them read it it was the major one or two before entry into a prototype.&lt;/p&gt;
-
-&lt;p&gt;It also got quite laborious to do it.&lt;/p&gt;
-
-&lt;p&gt;For the opt-out service I&amp;rsquo;ve created hundreds of prototypes. Documenting all things on our Jira board and the prototype become tedious and inefficient.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re writing lots of text in a prototype, you&amp;rsquo;re better off with a CMS or word document.&lt;/p&gt;
-
-&lt;p&gt;Within corporate environments there comes the question of shareability. If that document goes to confluence or SharePoint it might as well be buried in the garden.&lt;/p&gt;
-
-&lt;p&gt;But then, a prototype with a password and one designer to update it doesn&amp;rsquo;t sound like a great sharing mechanism either.&lt;/p&gt;
-
-&lt;p&gt;So, you have to find your way.&lt;/p&gt;
-
-&lt;p&gt;But the way forward isn&amp;rsquo;t doing nothing. Complicated systems need documenting. Teams need help being kept on the same page.&lt;/p&gt;
-
-&lt;p&gt;So:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://grillopress.github.io/2018/01/08/kanban_for_interaction_design.html"&gt;Document your work as you go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;Write hypotheses&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Make it easy to understand your work&lt;/li&gt;
-&lt;li&gt;Make it easy to have a discussion about your work&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
