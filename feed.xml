@@ -5,10 +5,54 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-06-10T08:30:00+01:00</updated>
+  <updated>2019-07-25T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Make it easier for yourself and others to work in the open</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/07/25/make-it-easier-to-work-in-the-open.html"/>
+    <id>https://grillopress.github.io/2019/07/25/make-it-easier-to-work-in-the-open.html</id>
+    <published>2019-07-25T08:30:00+01:00</published>
+    <updated>2019-07-25T22:28:07+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Working in the open makes your work better. But getting better often means hard, humbling work.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s going to hurt.&lt;/p&gt;
+
+&lt;p&gt;Your good intentions will be mistaken.&lt;/p&gt;
+
+&lt;p&gt;Your openness will be taken as if you&amp;rsquo;ve got the answers to everything. Even when you&amp;rsquo;re asking for feedback and help.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ll be challenging current ways of working. And taking responsibility for things way beyond your control.&lt;/p&gt;
+
+&lt;p&gt;Your process will easily be missed. And people will feel your work threatens or misunderstands other people&amp;rsquo;s.&lt;/p&gt;
+
+&lt;p&gt;Your design&amp;rsquo;s flaws will be exposed to fresh air (whether you like it or not).&lt;/p&gt;
+
+&lt;p&gt;But. Your work will be all the better. And working in the open will help others do so too. Because people will feel they can too. And because responses to your work will give the information they need.&lt;/p&gt;
+
+&lt;p&gt;And much of the feedback you get, even if it doesn&amp;rsquo;t feel positive, will be done with love. And admiration for your efforts and honesty.&lt;/p&gt;
+
+&lt;p&gt;And even when it isn&amp;rsquo;t. The challenge is where you grow the most.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s going to hurt. Growing as a designer is hard, humbling work. Does it need to be so tough? No&lt;/p&gt;
+
+&lt;p&gt;It hurts less when you make your work open earlier. You&amp;rsquo;re less attached to your design.&lt;/p&gt;
+
+&lt;p&gt;It hurts less when you&amp;rsquo;re sharing your work often. And it hurts less when you &lt;a href="https://grillopress.github.io/2019/06/10/make-things-open.html"&gt;find a way to work openly which fits you and where your work is at&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It hurts less when you include others in your process. And make your process open and inclusive.&lt;/p&gt;
+
+&lt;p&gt;It hurts less when everyone else is working openly too.&lt;/p&gt;
+
+&lt;p&gt;It hurts less when we&amp;rsquo;re all supportive and constructive.&lt;/p&gt;
+
+&lt;p&gt;Make it easier for yourself and others to work in the open.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Making your work open isn't just the final icing on the cake</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/06/10/make-things-open.html"/>
@@ -259,84 +303,6 @@
 &lt;p&gt;Now the ideas and solutions are down I&amp;rsquo;m not worrying about them. They&amp;rsquo;re a bunch of assumptions and I&amp;rsquo;m taking them as material to form research questions.&lt;/p&gt;
 
 &lt;p&gt;Put things to bed by getting them out of your head.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Prototyping in shorthand</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/05/04/writing-shorthand.html"/>
-    <id>https://grillopress.github.io/2019/05/04/writing-shorthand.html</id>
-    <published>2019-05-04T08:30:00+01:00</published>
-    <updated>2019-05-09T08:34:40+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;As mentioned in my last &lt;a href="https://grillopress.github.io/2019/05/03/discovery-notes-03.html"&gt;discovery notes&lt;/a&gt; I like to write up pages in a shorthand method.&lt;/p&gt;
-
-&lt;p&gt;This isn&amp;rsquo;t something that only I do.&lt;/p&gt;
-
-&lt;p&gt;When I was helping out in services week for &amp;ldquo;formapalooza&amp;rdquo; &lt;a href="https://twitter.com/Ralph_Hawkins"&gt;Ralph Hawkins&lt;/a&gt; spoke about the format he used in Google docs to write pages.&lt;/p&gt;
-
-&lt;p&gt;The format follows the shapes of interface elements using:&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;div class="dl_element"&gt;
-    &lt;dt&gt;Radio buttons&lt;/dt&gt;
-    &lt;dd&gt;(&amp;nbsp;&amp;nbsp;)&lt;/dd&gt;
-  &lt;/div&gt;
-  &lt;div class="dl_element"&gt;
-    &lt;dt&gt;Checkboxes&lt;/dt&gt;
-    &lt;dd&gt;[&amp;nbsp;&amp;nbsp;]&lt;/dd&gt;
-  &lt;/div&gt;
-  &lt;div class="dl_element"&gt;
-    &lt;dt&gt;Input fields&lt;/dt&gt;
-    &lt;dd&gt;[&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;]&lt;/dd&gt;
-  &lt;/div&gt;
-  &lt;div class="dl_element"&gt;
-    &lt;dt&gt;Buttons&lt;/dt&gt;
-    &lt;dd&gt;[ Continue ]&lt;/dd&gt;
-  &lt;/div&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;I do this too. But I like to add a few markdown elements as well, so &lt;code&gt;#&lt;/code&gt;&amp;lsquo;s for headings. So:&lt;/p&gt;
-
-&lt;ul class="list-unstyled"&gt;
-  &lt;li&gt;# Heading one&lt;/li&gt;
-  &lt;li&gt;## Heading two&lt;/li&gt;
-  &lt;li&gt;### Heading three&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This means I like to write pages like this:&lt;/p&gt;
-
-&lt;pre&gt;
-# Make your choice
-
-You need to choose what you're going to have for tea.
-
-It's really important.
-
-## What do you want for tea?
-
-( ) Curry
-( ) Chips and sausages
-( ) Pizza
-
-[ Continue ]
-
-&lt;/pre&gt;
-
-&lt;p&gt;Write in this format or similar in a sharable doc and you’ve got a way for a whole team to work together.&lt;/p&gt;
-
-&lt;p&gt;You can even use document editor styles like links.&lt;/p&gt;
-
-&lt;p&gt;Using shorthand makes it easy for two designers to collaborate on screens. Or for other members of the team or other teams to get involved.&lt;/p&gt;
-
-&lt;p&gt;Use Google docs, word or a notes app. It’s a quick way of prototyping screens and flows. It’ll help you focus on the important bits:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the words and questions&lt;/li&gt;
-&lt;li&gt;the structure and flow&lt;/li&gt;
-&lt;li&gt;and ultimately, if your service meets a need&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
