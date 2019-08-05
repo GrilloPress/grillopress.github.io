@@ -5,10 +5,40 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-07-25T08:30:00+01:00</updated>
+  <updated>2019-08-05T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Let your design breathe</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/08/05/let-your-design-breathe.html"/>
+    <id>https://grillopress.github.io/2019/08/05/let-your-design-breathe.html</id>
+    <published>2019-08-05T08:30:00+01:00</published>
+    <updated>2019-08-05T07:14:46+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;It can be easy to get caught up in a furious cycle of design research.&lt;/p&gt;
+
+&lt;p&gt;The strategy is delivery. And delivery puts pressure on to test your designs.&lt;/p&gt;
+
+&lt;p&gt;And if you&amp;rsquo;re developing a service against tight deadlines or with a large team, that can mean testing a lot. Of things, ideas and changes.&lt;/p&gt;
+
+&lt;p&gt;With the alternative being not testing things. Or not challenging designs, the pressure is real.&lt;/p&gt;
+
+&lt;p&gt;But you can find yourself sucked into a rapid cycle of testing session after session.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to find yourselves designing in small incremental steps. And not making big iterative changes.&lt;/p&gt;
+
+&lt;p&gt;Sometimes you have to vary your pace.&lt;/p&gt;
+
+&lt;p&gt;Ask any developer and they&amp;rsquo;ll tell you the times they&amp;rsquo;ve spent hours failing to solve a problem. Only to solve it in minutes the next day.&lt;/p&gt;
+
+&lt;p&gt;Sometimes it&amp;rsquo;s better to give yourself some time. And challenge things with larger iterative designs.&lt;/p&gt;
+
+&lt;p&gt;Sometimes you&amp;rsquo;ve got to let it breathe.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Make it easier for yourself and others to work in the open</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/07/25/make-it-easier-to-work-in-the-open.html"/>
@@ -251,58 +281,6 @@
 &lt;p&gt;By the end we&amp;rsquo;d agreed what evidence was left to capture and what we needed to do to finalise a decision.&lt;/p&gt;
 
 &lt;p&gt;But also how to communicate that finding beyond our organisation so the whole system stops repeating the same research and finding the same thing.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Week 05</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/05/10/discovery-notes-04.html"/>
-    <id>https://grillopress.github.io/2019/05/10/discovery-notes-04.html</id>
-    <published>2019-05-10T08:30:00+01:00</published>
-    <updated>2019-05-13T23:41:03+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Failed to make any notes for the last week.&lt;/p&gt;
-
-&lt;p&gt;Some stuff happening that made it emotionally quite exhausting.&lt;/p&gt;
-
-&lt;h2&gt;Better API&lt;/h2&gt;
-
-&lt;p&gt;Discovery wise I finally cracked the API I was exploring.&lt;/p&gt;
-
-&lt;p&gt;Turned out I was seeing a spreadsheet that was only a summary. What someone thought was what I would be interested in.&lt;/p&gt;
-
-&lt;p&gt;The fields were right but some of the details I wanted were missing.&lt;/p&gt;
-
-&lt;p&gt;Went from “your data was part of the A&amp;amp;E dataset” to tracking exact bits of data shared.&lt;/p&gt;
-
-&lt;p&gt;For a user this means we could be clearer about what identifiable stuff is shared.&lt;/p&gt;
-
-&lt;p&gt;Instead of “we shared details that personally identify you” we can give more context. Postcodes were shared because the study was about a specific area.&lt;/p&gt;
-
-&lt;p&gt;It looked like the API available would need lots of love. Processes might still do. But less to overhaul.&lt;/p&gt;
-
-&lt;h2&gt;Getting stuff out of my head&lt;/h2&gt;
-
-&lt;p&gt;One of the biggest sins you see in meetings is overeager solution designing.&lt;/p&gt;
-
-&lt;p&gt;“Is this a problem?” is often lost the second you have a solution.&lt;/p&gt;
-
-&lt;p&gt;I mean, if you have a solution, course there’s a problem.&lt;/p&gt;
-
-&lt;p&gt;Rather than criticising people it’s helpful to ask questions to get back to the problem. Or take a solution as a set of assumptions or research questions to tackle.&lt;/p&gt;
-
-&lt;p&gt;Beyond meetings solutions can hang around in the mind. Particularly when trying to explore if a problem is significant or not.&lt;/p&gt;
-
-&lt;p&gt;This was causing some issues for me when exploring the API. It was quite easy to think of solutions to things that aren’t needed. And take what’s possible and engineer experiences.&lt;/p&gt;
-
-&lt;p&gt;Some of this rattled around my mind all week.&lt;/p&gt;
-
-&lt;p&gt;Took Friday to purge some of it. Get it out on paper. Sketch some components and flows so they didn’t rattle around and get in the way.&lt;/p&gt;
-
-&lt;p&gt;Now the ideas and solutions are down I&amp;rsquo;m not worrying about them. They&amp;rsquo;re a bunch of assumptions and I&amp;rsquo;m taking them as material to form research questions.&lt;/p&gt;
-
-&lt;p&gt;Put things to bed by getting them out of your head.&lt;/p&gt;
 </content>
   </entry>
 </feed>
