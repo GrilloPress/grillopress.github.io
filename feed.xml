@@ -5,16 +5,74 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-10-08T08:30:00+01:00</updated>
+  <updated>2019-10-10T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Start it right</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/10/10/start-it-right.html"/>
+    <id>https://grillopress.github.io/2019/10/10/start-it-right.html</id>
+    <published>2019-10-10T08:30:00+01:00</published>
+    <updated>2019-10-10T23:10:43+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;I&amp;rsquo;ve spent a fair amount of time doing discoveries in the last year.&lt;/p&gt;
+
+&lt;p&gt;Some better than others. And I&amp;rsquo;ve learnt loads.&lt;/p&gt;
+
+&lt;p&gt;Something that helps frame discoveries better is &lt;a href="https://grillopress.github.io/2019/10/08/make-it-about-a-decision.html"&gt;shaping them around a decision&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To do this well it’s best to kick off your discoveries with an “inception” meeting.&lt;/p&gt;
+
+&lt;p&gt;An inception is a project kickoff session.  Everyone who is part of the discovery team should be there. As well as any decision maker or stakeholder too.&lt;/p&gt;
+
+&lt;p&gt;This meeting helps you define the right scope and what you need to go find out.&lt;/p&gt;
+
+&lt;p&gt;A format for an inception that has worked for me and other teams I&amp;rsquo;ve helped is:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What is a discovery?&lt;/li&gt;
+&lt;li&gt;What problem or task have we been given?&lt;/li&gt;
+&lt;li&gt;Our discovery is to decide [x]?&lt;/li&gt;
+&lt;li&gt;To make that decision, we need to know what?&lt;/li&gt;
+&lt;li&gt;What should we do to find out what we need to know?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This format helps get your team focused on the right things. And gives you the space to define what decision you&amp;rsquo;re going to tackle. As well as the steps you&amp;rsquo;re going to take to make that decision.&lt;/p&gt;
+
+&lt;p&gt;If you don’t have a shared understanding of what decision you’re helping make. Or of what you need to do to support that decision, it’s nearly impossible to do any project justice.&lt;/p&gt;
+
+&lt;p&gt;No discovery should start without understanding what issue you&amp;rsquo;re exploring. Nor should they continue without you understanding what decision you are helping make.&lt;/p&gt;
+
+&lt;p&gt;After defining the policy intent or issue to a decision you should discuss as a team what you need to know.&lt;/p&gt;
+
+&lt;p&gt;Understanding what a team needs to know is the most important part. This can range from &amp;ldquo;who are our users&amp;rdquo; to more specific technical issues.&lt;/p&gt;
+
+&lt;p&gt;Even if you only have an hour together, you should spend half your time talking through what you know. And what you need to find out. As well as prioritising what to find out.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve defined as a group what you want to find out, you can define some activities you&amp;rsquo;ll likely do.&lt;/p&gt;
+
+&lt;p&gt;This part might be flexible. But it helps push forward your team from things to find out, to what we can do about it.&lt;/p&gt;
+
+&lt;h2&gt;Continuous inception&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s no reason to only do this sort of activity at the start of project either.&lt;/p&gt;
+
+&lt;p&gt;During the last summer I joined a discovery project several weeks in and struggled a little with the scope. By resetting it with the whole team I caught up but the team could also pivot on what they’d already found.&lt;/p&gt;
+
+&lt;p&gt;That meeting shaped the next few weeks and helped us come to a different, better decision.&lt;/p&gt;
+
+&lt;p&gt;Get your discovery going by setting the direction. By starting, or restarting, it right.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Make it about a decision</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/10/08/make-it-about-a-decision.html"/>
     <id>https://grillopress.github.io/2019/10/08/make-it-about-a-decision.html</id>
     <published>2019-10-08T08:30:00+01:00</published>
-    <updated>2019-10-08T17:25:53+01:00</updated>
+    <updated>2019-10-10T22:16:10+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -190,67 +248,6 @@
 &lt;p&gt;Discovery finished. Our work has been compiled into a board report. Planning to write it up publicly eventually.&lt;/p&gt;
 
 &lt;p&gt;But not this week. &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Week 07</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/05/24/discovery-notes-07.html"/>
-    <id>https://grillopress.github.io/2019/05/24/discovery-notes-07.html</id>
-    <published>2019-05-24T08:30:00+01:00</published>
-    <updated>2019-05-28T08:14:40+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;h2&gt;What&amp;rsquo;s difficult now would have been impossible before&lt;/h2&gt;
-
-&lt;p&gt;Week started in crunch mode trying to get the prototype ready for the lab on Tuesday. Most of the bits were there.&lt;/p&gt;
-
-&lt;p&gt;Sadly I was all across Leeds for a lot of the day.&lt;/p&gt;
-
-&lt;p&gt;Reviewed the prototype with Sam. She took lead on the part of the prototype for the last lab activity. We sketched out the flow together. Two questions but if they answered yes to any one of them the system would get a little more complicated.&lt;/p&gt;
-
-&lt;p&gt;She did an amazing job. There was some tricky logic to do.&lt;/p&gt;
-
-&lt;h2&gt;Lots of likes but no needs&lt;/h2&gt;
-
-&lt;p&gt;In the lab users were very complimentary about the prototype service. But none of them had thought, never mind tried, to solve the issue it was attempting to meet.&lt;/p&gt;
-
-&lt;p&gt;Their politeness about the service was nice. But it was all &lt;em&gt;nice&lt;/em&gt; to have and nothing they&amp;rsquo;d drop things to do. Or need to do before they could drop things.&lt;/p&gt;
-
-&lt;p&gt;It can be very easy to be persuaded by people saying they&amp;rsquo;d use a service.&lt;/p&gt;
-
-&lt;p&gt;Or that something they&amp;rsquo;re interacting with is interesting and means something to them.&lt;/p&gt;
-
-&lt;p&gt;But people say things but behave very differently.&lt;/p&gt;
-
-&lt;p&gt;We all do.&lt;/p&gt;
-
-&lt;p&gt;The user is in a strange room with strange people interacting with a strange system asking strange things. It&amp;rsquo;s natural behaviour to be nice and say pleasant things.&lt;/p&gt;
-
-&lt;p&gt;Key of course is to really watch people&amp;rsquo;s behaviour. Before and after interacting with a thing.&lt;/p&gt;
-
-&lt;p&gt;The service wasn&amp;rsquo;t going to meet any need.&lt;/p&gt;
-
-&lt;figure class="noir"&gt;
-  &lt;img src="/images/real-needs.png"/&gt;
-  &lt;figcaption&gt;Some sort of visual metaphor for users solving problems because they have a need &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2&gt;The strategy is delivery (but not this thing)&lt;/h2&gt;
-
-&lt;p&gt;Right now, there&amp;rsquo;s no strong need for the service. It makes our system more coherent. But it wouldn&amp;rsquo;t do much better than:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;improved signposting&lt;/li&gt;
-&lt;li&gt;better content&lt;/li&gt;
-&lt;li&gt;fixing some plumbing and internal processes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;An &amp;ldquo;online&amp;rdquo; service wouldn&amp;rsquo;t deliver the benefits in a sustainable way.&lt;/p&gt;
-
-&lt;p&gt;Of course trust, accountability and openness with health data isn&amp;rsquo;t a thing you decide not to do. But there are more effective steps.&lt;/p&gt;
-
-&lt;p&gt;Giving people control and sight of their health records is, from what we&amp;rsquo;ve seen from people, the better first step.&lt;/p&gt;
 </content>
   </entry>
 </feed>
