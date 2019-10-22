@@ -5,10 +5,46 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-10-10T08:30:00+01:00</updated>
+  <updated>2019-10-22T08:30:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Find the right words to get the job done</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/10/22/use-the-right-words.html"/>
+    <id>https://grillopress.github.io/2019/10/22/use-the-right-words.html</id>
+    <published>2019-10-22T08:30:00+01:00</published>
+    <updated>2019-10-22T23:33:49+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;About a year ago a designer helped fill in for a couple of weeks when I was on leave.&lt;/p&gt;
+
+&lt;p&gt;They mentioned that one of the development teams I worked with didn&amp;rsquo;t know some design thinking terminology, and it surprised them.&lt;/p&gt;
+
+&lt;p&gt;Especially as I worked with them for over a year.&lt;/p&gt;
+
+&lt;p&gt;Apart from inspiring some mild imposter syndrome, it got me thinking.&lt;/p&gt;
+
+&lt;p&gt;One of the things I like to do is make teams know the outcomes we&amp;rsquo;re trying to create. And the problems we&amp;rsquo;re trying to solve.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s why I do &lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;hypothesis driven design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But there&amp;rsquo;s a difference between working in the right way and dictating the exact words and ways we explain things.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s about finding the right words to help each other understand how to get to a solution. Or what&amp;rsquo;s blocking one.&lt;/p&gt;
+
+&lt;p&gt;From colleagues to stakeholders to users. You have to lean on commonly understood things. As well as what the people you&amp;rsquo;re working with say and label things as.&lt;/p&gt;
+
+&lt;p&gt;I like to use &lt;a href="https://grillopress.github.io/2018/12/19/trying-a-new-format-for-hypotheses.html"&gt;a set format for hypotheses&lt;/a&gt; and I use this to document my work. And when I get my work reviewed by colleagues I tend to talk through them.&lt;/p&gt;
+
+&lt;p&gt;But I&amp;rsquo;m not going to talk about hypothesis driven design.&lt;/p&gt;
+
+&lt;p&gt;Rather than talking about double diamonds, design thinking and hypotheses. It&amp;rsquo;s important to start by using the words and concepts of the team or individual.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s a time and a place to introduce new things. But no one wants to be lectured at. Find the right words to get the job done.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Start it right</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/10/10/start-it-right.html"/>
@@ -232,22 +268,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;There is every opportunity to be open with your work. Be it with your team, or those beyond it. Choose an opportunity. It may not be as delicious as cake, but working in the open makes your work better.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Week 08</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/05/31/discovery-notes-08.html"/>
-    <id>https://grillopress.github.io/2019/05/31/discovery-notes-08.html</id>
-    <published>2019-05-31T08:30:00+01:00</published>
-    <updated>2019-06-19T22:46:29+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;All over.&lt;/p&gt;
-
-&lt;p&gt;Discovery finished. Our work has been compiled into a board report. Planning to write it up publicly eventually.&lt;/p&gt;
-
-&lt;p&gt;But not this week. &lt;/p&gt;
 </content>
   </entry>
 </feed>
