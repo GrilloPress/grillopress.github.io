@@ -14,23 +14,25 @@
     <link rel="alternate" href="https://grillopress.github.io/2019/12/05/stretch-your-design.html"/>
     <id>https://grillopress.github.io/2019/12/05/stretch-your-design.html</id>
     <published>2019-12-05T07:30:00+00:00</published>
-    <updated>2019-12-05T09:21:41+00:00</updated>
+    <updated>2019-12-06T15:25:50+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;A common set of questions I ask designers when reviewing work is how their design stretches to cover different scenarios.&lt;/p&gt;
+    <content type="html">&lt;p&gt;When reviewing a design, I like to ask how it will stretch to cover different scenarios.&lt;/p&gt;
 
 &lt;p&gt;When things are empty. When things go wrong. On different devices. But also for variable data or poor quality data.&lt;/p&gt;
 
-&lt;p&gt;A designer should ensure they have a solid design for a common path, but it&amp;rsquo;s easy to design for unrealistically good examples or data.&lt;/p&gt;
+&lt;p&gt;A designer should ensure they have a solid design for a common path. But it’s easy to design for unrealistically good examples or data. Or &lt;a href="https://samanthasaw.github.io/samantha-saw-blogs/check-how-your-design-works-on-different-devices.html"&gt;not consider all devices&lt;/a&gt; and when things go wrong.&lt;/p&gt;
 
-&lt;p&gt;A long time ago I was tasked with redesigning a few websites for a communications team. Part of the work was a clearer, more accessible web design.&lt;/p&gt;
+&lt;p&gt;A long time ago I redesigned a few websites for a communications team. Part of the work was a clearer, more accessible web design.&lt;/p&gt;
 
-&lt;p&gt;As I designed some of the system and reviewed it against the live website, it dawned on me the how vastly different some of the news article headings were.&lt;/p&gt;
+&lt;p&gt;As I designed some of the system and reviewed it against the live website, it dawned on me the how different some of the article headings were.&lt;/p&gt;
 
-&lt;p&gt;Many of the h1s were full paragraphs. Working with the team I knew this wasn&amp;rsquo;t going to change anytime soon. And even if it did, the years of news articles would still need to be accommodated.&lt;/p&gt;
+&lt;p&gt;Many of the H1s were full paragraphs.&lt;/p&gt;
 
-&lt;p&gt;My large clear font worked great for most of the website, but it didn&amp;rsquo;t stretch to this part of the website.&lt;/p&gt;
+&lt;p&gt;Working with the team I knew this wasn’t going to change anytime soon. And even if it did, the years of news articles would still be there.&lt;/p&gt;
+
+&lt;p&gt;My large clear font worked great for most of the website, but it didn’t stretch to this part of the website.&lt;/p&gt;
 
 &lt;p&gt;To remedy this I first set up a web crawler to download every article into a spreadsheet. I could then analyse the size and shape of the data my design had to stretch to.&lt;/p&gt;
 
@@ -38,11 +40,11 @@
 
 &lt;p&gt;Be sure to &lt;a href="https://grillopress.github.io/2019/12/05/design-for-real-data.html"&gt;design for real data&lt;/a&gt; and real user journeys.&lt;/p&gt;
 
-&lt;p&gt;You can either design for data so good it&amp;rsquo;ll never exist. Or accommodate what a user will really experience.&lt;/p&gt;
+&lt;p&gt;You can either design for data so good it’ll never exist. Or accommodate what a user will experience.&lt;/p&gt;
 
 &lt;p&gt;Your design will have to stretch to getting data back from APIs in FULL SCREAMING UPPERCASE. And some users seeing 1 category, and others seeing 32. Or comms teams who like to write full paragraphs as a heading.&lt;/p&gt;
 
-&lt;p&gt;Don&amp;rsquo;t forget to stretch your design.&lt;/p&gt;
+&lt;p&gt;Don’t forget to stretch your design.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -50,23 +52,23 @@
     <link rel="alternate" href="https://grillopress.github.io/2019/12/05/design-for-real-data.html"/>
     <id>https://grillopress.github.io/2019/12/05/design-for-real-data.html</id>
     <published>2019-12-05T07:29:00+00:00</published>
-    <updated>2019-12-05T09:22:04+00:00</updated>
+    <updated>2019-12-06T15:39:03+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;It&amp;rsquo;s vital to design for real data.&lt;/p&gt;
+    <content type="html">&lt;p&gt;It’s vital to design for real data.&lt;/p&gt;
 
-&lt;p&gt;If you don&amp;rsquo;t, your service or product design is artwork. And your design will not be implemented. However well it tests. Because it can&amp;rsquo;t be.&lt;/p&gt;
+&lt;p&gt;If you don’t, your service or product design is artwork. And your design will not be made. Even if it tests well. Because it can’t be.&lt;/p&gt;
 
-&lt;p&gt;When designing any service that needs to interact with data from a database you have to accommodate the quality and business process rules for that data.&lt;/p&gt;
+&lt;p&gt;When designing a service that includes data from a database you will have to design around the quality of data. And any business process rules for that data.&lt;/p&gt;
 
-&lt;p&gt;Designing for real data is vital when you have to accommodate data from other sources or APIs. Ones not originally designed for being shown to your users.&lt;/p&gt;
+&lt;p&gt;Designing for real data is vital when you have to accommodate data from other sources or APIs. Especially ones not designed for being shown to your users.&lt;/p&gt;
 
-&lt;p&gt;When tackling a data and APIs you need to ask:&lt;/p&gt;
+&lt;p&gt;When tackling a database or APIs you need to ask:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;what&amp;rsquo;s the source of data?&lt;/li&gt;
-&lt;li&gt;What&amp;rsquo;s the original purpose of that data?&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s the original purpose of that data?&lt;/li&gt;
 &lt;li&gt;who looks after the database?&lt;/li&gt;
 &lt;li&gt;how is it kept up to date?&lt;/li&gt;
 &lt;li&gt;how consistent is that data?&lt;/li&gt;
@@ -79,11 +81,11 @@
 
 &lt;p&gt;A colleague &lt;a href="https://samanthasaw.github.io/samantha-saw-blogs/"&gt;Sam&lt;/a&gt; recently finished a project rethinking data collection. Part of her process she looked at previous submissions. As she did, she could point to failings and data quality issues. Which provided real evidence for change.&lt;/p&gt;
 
-&lt;p&gt;You can either design for data so good it&amp;rsquo;ll never exist. Or accommodate what a user will really experience.&lt;/p&gt;
+&lt;p&gt;You can either design for data so good it’ll never exist. Or accommodate what a user will really experience.&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s hard work. But it&amp;rsquo;s where the work really is.&lt;/p&gt;
+&lt;p&gt;It’s hard work. But it’s where the work really is.&lt;/p&gt;
 
-&lt;p&gt;Do the hard work to design for real data.&lt;/p&gt;
+&lt;p&gt;Do the hard work. Design for real data.&lt;/p&gt;
 </content>
   </entry>
   <entry>
