@@ -5,10 +5,135 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2019-12-05T07:30:00+00:00</updated>
+  <updated>2020-01-02T07:30:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Share before you solve it</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/01/02/share-before-you-solve-it.html"/>
+    <id>https://grillopress.github.io/2020/01/02/share-before-you-solve-it.html</id>
+    <published>2020-01-02T07:30:00+00:00</published>
+    <updated>2020-01-02T22:37:51+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;There&amp;rsquo;s nothing I love more than bouncing ideas and questions around with a designer. Be it in a team, a weekly thing, a slack channel or with a colleague. It&amp;rsquo;s partly why I arrange the weekly design meetups at NHS Digital.&lt;/p&gt;
+
+&lt;p&gt;However you do it. It&amp;rsquo;s vital to share. And share what you&amp;rsquo;re working on before you &amp;ldquo;solve it&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The earlier you share an issue or idea the more room you have to ask the right questions and get answers you can handle.&lt;/p&gt;
+
+&lt;p&gt;It gives you time and space to speak through your thinking. And to have that thinking challenged whilst you have space to change things.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve spent time iterating and fine-tuning an idea. You&amp;rsquo;re invested. And it can be hard not to defend. It can be hard to look wide again.&lt;/p&gt;
+
+&lt;p&gt;Your design may also be &amp;ldquo;publicised&amp;rdquo;. With other teams may already have started shaping their work based on your solution.&lt;/p&gt;
+
+&lt;p&gt;Your work doesn&amp;rsquo;t have to be well polished to talk it through either.&lt;/p&gt;
+
+&lt;p&gt;Recently I’ve talked through a range of design options to letting users upload a file to their GP. I had a few rough screens designed but all I talked through was a scrappy page and some arrows.&lt;/p&gt;
+
+&lt;p&gt;This helped a colleague challenge my thinking. And get to a better design.&lt;/p&gt;
+
+&lt;p&gt;Share your work before&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Yearnote: 2019</title>
+    <link rel="alternate" href="https://grillopress.github.io/2019/12/28/in-review.html"/>
+    <id>https://grillopress.github.io/2019/12/28/in-review.html</id>
+    <published>2019-12-28T07:30:00+00:00</published>
+    <updated>2020-01-02T22:28:23+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;It’s been a year. Lots of things I hope I’ll not have to deal with again. And some I know I will.&lt;/p&gt;
+
+&lt;p&gt;It’s tempting to put 2019 straight in the bin. From a work point of view I’ve had plenty of downs this past year. And recently I had been feeling out of sorts.&lt;/p&gt;
+
+&lt;p&gt;But taking some advice I’ve given others plenty of times. I made a list of some stuff that was pretty cool that I did in 2019.&lt;/p&gt;
+
+&lt;p&gt;Some of the stuff I did:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finished an alpha into how health records are used, successfully not building a service that would have increased burden on the NHS&lt;/li&gt;
+&lt;li&gt;Passed live service assessment for the opt-out service. First NHS service to do so!&lt;/li&gt;
+&lt;li&gt;Led a discovery into the uses of patient data for research. Helped the NHS pivot from building a costly service and find other ways to satisfy uncovered needs&lt;/li&gt;
+&lt;li&gt;Steered a discovery looking into how patients get contacted/communicated with. Ended by having my recommendations taken seriously by those at the very top of the NHS&lt;/li&gt;
+&lt;li&gt;Helped Sam and Rhiannon develop as people, professionals and pass their end of graduate scheme assessments&lt;/li&gt;
+&lt;li&gt;Designed an MVP notifications and messaging service&lt;/li&gt;
+&lt;li&gt;Helped reshape the short/medium term future of appointments in the NHS App&lt;/li&gt;
+&lt;li&gt;Presented at 2 NHS Digital code clubs. Helping loads of people get to grips with coding&lt;/li&gt;
+&lt;li&gt;Ran the weekly NHS Digital design meet-ups in Leeds&lt;/li&gt;
+&lt;li&gt;Helped lots of colleagues design better shit and create some cool prototypes to test their thinking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 2019 I led 4 discoveries, 3 alphas, 1 beta and taking 1 service into live management.&lt;/p&gt;
+
+&lt;p&gt;Not bad.&lt;/p&gt;
+
+&lt;p&gt;Maybe 2019 doesn’t belong &lt;em&gt;completely&lt;/em&gt; in the bin.&lt;/p&gt;
+
+&lt;p&gt;2019 was full of opportunities and I&amp;rsquo;m grateful for those.&lt;/p&gt;
+
+&lt;p&gt;Though it wasn&amp;rsquo;t calm.&lt;/p&gt;
+
+&lt;p&gt;Something I&amp;rsquo;m going to try be smarter with the opportunities that come my way.&lt;/p&gt;
+
+&lt;p&gt;Rather than saying no though. I&amp;rsquo;m going to try to pass on and share opportunities that don&amp;rsquo;t quite fit.&lt;/p&gt;
+
+&lt;p&gt;I did that last summer and it turned out to be a great decision. For me. And the team too because I was able to give the opportunity to one of the best designers I know.&lt;/p&gt;
+
+&lt;p&gt;More of that in 2020.&lt;/p&gt;
+
+&lt;h2&gt;Stuff I wrote in 2019&lt;/h2&gt;
+
+&lt;h3&gt;Articles&lt;/h3&gt;
+
+&lt;p&gt;I wrote 17 articles. Most based on advice I gave someone in person. Or to remind myself to do better next time.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/2019/12/05/stretch-your-design.html"&gt;Don&amp;rsquo;t forget to stretch your design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/12/05/design-for-real-data.html"&gt;Design for real data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/10/22/use-the-right-words.html"&gt;Find the right words to get the job done&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/10/10/start-it-right.html"&gt;Start it right&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/10/08/make-it-about-a-decision.html"&gt;Make it about a decision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/08/05/let-your-design-breathe.html"&gt;Let your design breathe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/07/25/make-it-easier-to-work-in-the-open.html"&gt;Make it easier for yourself and others to work in the open&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/06/10/make-things-open.html"&gt;Making your work open isn&amp;rsquo;t just the final icing on the cake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/05/04/writing-shorthand.html"&gt;Prototyping in shorthand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/04/06/minus-interference.html"&gt;Minus interference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/03/26/you-never-know-you-know.html"&gt;You never know, you know&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"&gt;Do the hard work to make it inclusive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/01/31/one-thing.html"&gt;One thing per page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/01/31/asking-questions.html"&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/01/20/asking-the-right-question.html"&gt;Asking the right question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/01/10/doing-paper-forms.html"&gt;Offline services and paper forms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also wrote a pattern about asking patients for their NHS number. Which is much better now. Through feedback from the wider NHS design community. And the service manual team at NHS Digital.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://beta.nhs.uk/service-manual/styles-components-patterns/nhs-number"&gt;Ask users for their NHS number&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Discovery notes&lt;/h3&gt;
+
+&lt;p&gt;In April I also wrote weeknotes for each week of a discovery into the uses of data in the NHS&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/2019/05/31/discovery-notes-08.html"&gt;Week 08&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/05/24/discovery-notes-07.html"&gt;Week 07&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/05/17/discovery-notes-06.html"&gt;Week 06&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/05/10/discovery-notes-04.html"&gt;Week 05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/05/03/discovery-notes-03.html"&gt;Week 04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/04/26/discovery-notes-03.html"&gt;Week 03&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/04/19/discovery-notes-02.html"&gt;Week 02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/2019/04/12/discovery-notes-01.html"&gt;Week 01&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Don't forget to stretch your design</title>
     <link rel="alternate" href="https://grillopress.github.io/2019/12/05/stretch-your-design.html"/>
@@ -180,74 +305,6 @@
 &lt;p&gt;That meeting shaped the next few weeks and helped us come to a different, better decision.&lt;/p&gt;
 
 &lt;p&gt;Get your discovery going by setting the direction. By starting, or restarting, it right.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Make it about a decision</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/10/08/make-it-about-a-decision.html"/>
-    <id>https://grillopress.github.io/2019/10/08/make-it-about-a-decision.html</id>
-    <published>2019-10-08T08:30:00+01:00</published>
-    <updated>2019-10-10T22:16:10+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Whether you&amp;rsquo;re looking at solving a big problem or a part of a product or service that isn&amp;rsquo;t performing, discoveries are a key.&lt;/p&gt;
-
-&lt;p&gt;Discoveries are intense periods of learning and exploring. They help you to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;question what opportunities there are&lt;/li&gt;
-&lt;li&gt;what issues your users are facing&lt;/li&gt;
-&lt;li&gt;what problems you should try to solve&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;They can last weeks or months. And you can even chain several together.&lt;/p&gt;
-
-&lt;p&gt;At the heart of every good discovery is a decision.&lt;/p&gt;
-
-&lt;p&gt;To build a service or not. To pursue a solution. To prioritise a problem or not. To go forward with a piece of work or not. To solve an issue in a certain way.&lt;/p&gt;
-
-&lt;p&gt;By working from a decision it&amp;rsquo;s easier for a team to know what to do. What sort of evidence they need. And what level of confidence they should be comfortable with.&lt;/p&gt;
-
-&lt;p&gt;Focusing on a decision also gives talented teams space. If you&amp;rsquo;re deciding to build a service or not, a &amp;ldquo;no&amp;rdquo; may also highlight what should be done.&lt;/p&gt;
-
-&lt;p&gt;When a team is told to build a thing or deliver a feature, making the first step a discovery and a decision means the team can carve the space to do the work to choose if the direction is correct.&lt;/p&gt;
-
-&lt;p&gt;Framing discoveries as a decision helps transfer power to the team on the ground. Which will help deliver the outcomes behind any ask.&lt;/p&gt;
-
-&lt;p&gt;When I&amp;rsquo;ve made a discovery about a decision, what to do has always been clearer. And speaking truth to power easier, because that was the outcome agreed upon.&lt;/p&gt;
-
-&lt;p&gt;Make your next period of intense research and design about a decision.  It&amp;rsquo;ll help give you space to do your best work. And deliver better outcomes for your business.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Let your design breathe</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/08/05/let-your-design-breathe.html"/>
-    <id>https://grillopress.github.io/2019/08/05/let-your-design-breathe.html</id>
-    <published>2019-08-05T08:30:00+01:00</published>
-    <updated>2019-08-05T07:14:46+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;It can be easy to get caught up in a furious cycle of design research.&lt;/p&gt;
-
-&lt;p&gt;The strategy is delivery. And delivery puts pressure on to test your designs.&lt;/p&gt;
-
-&lt;p&gt;And if you&amp;rsquo;re developing a service against tight deadlines or with a large team, that can mean testing a lot. Of things, ideas and changes.&lt;/p&gt;
-
-&lt;p&gt;With the alternative being not testing things. Or not challenging designs, the pressure is real.&lt;/p&gt;
-
-&lt;p&gt;But you can find yourself sucked into a rapid cycle of testing session after session.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s easy to find yourselves designing in small incremental steps. And not making big iterative changes.&lt;/p&gt;
-
-&lt;p&gt;Sometimes you have to vary your pace.&lt;/p&gt;
-
-&lt;p&gt;Ask any developer and they&amp;rsquo;ll tell you the times they&amp;rsquo;ve spent hours failing to solve a problem. Only to solve it in minutes the next day.&lt;/p&gt;
-
-&lt;p&gt;Sometimes it&amp;rsquo;s better to give yourself some time. And challenge things with larger iterative designs.&lt;/p&gt;
-
-&lt;p&gt;Sometimes you&amp;rsquo;ve got to let it breathe.&lt;/p&gt;
 </content>
   </entry>
 </feed>
