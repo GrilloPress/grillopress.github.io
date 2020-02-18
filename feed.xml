@@ -5,306 +5,232 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2020-01-02T07:30:00+00:00</updated>
+  <updated>2020-02-18T07:30:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
   <entry>
-    <title>Share before you solve it</title>
-    <link rel="alternate" href="https://grillopress.github.io/2020/01/02/share-before-you-solve-it.html"/>
-    <id>https://grillopress.github.io/2020/01/02/share-before-you-solve-it.html</id>
-    <published>2020-01-02T07:30:00+00:00</published>
-    <updated>2020-01-03T09:45:11+00:00</updated>
+    <title>Do less</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/02/18/do-less.html"/>
+    <id>https://grillopress.github.io/2020/02/18/do-less.html</id>
+    <published>2020-02-18T07:30:00+00:00</published>
+    <updated>2020-02-18T09:08:28+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;There&amp;rsquo;s nothing I love more than bouncing ideas and questions around with a designer. Be it in a team, a weekly thing, a slack channel or with a colleague. It&amp;rsquo;s partly why I arrange the weekly design meetups at NHS Digital.&lt;/p&gt;
+    <content type="html">&lt;p&gt;The single most powerful thing to getting great performance from a team is doing less.&lt;/p&gt;
 
-&lt;p&gt;However you do it. It&amp;rsquo;s vital to share. And share what you&amp;rsquo;re working on before you &amp;ldquo;solve it&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Restricting scope. Adding a constraint.&lt;/p&gt;
 
-&lt;p&gt;The earlier you share an issue or idea the more room you have to ask the right questions and get answers you can handle.&lt;/p&gt;
+&lt;p&gt;Last week I talked a team through some of my discovery work. They&amp;rsquo;re picking up the work for alpha.&lt;/p&gt;
 
-&lt;p&gt;It gives you time and space to speak through your thinking. And to have that thinking challenged whilst you have space to change things.&lt;/p&gt;
+&lt;p&gt;My strongest bit of advice from what they had started with was to do less.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;rsquo;ve spent time iterating and fine-tuning an idea. You&amp;rsquo;re invested. And it can be hard not to defend. It can be hard to look wide again.&lt;/p&gt;
+&lt;p&gt;The discovery made several recommendations. And I could see the team was chomping at the bit to get lots done.&lt;/p&gt;
 
-&lt;p&gt;Your design may also be &amp;ldquo;publicised&amp;rdquo;. Other teams may already have started shaping their work based on your solution.&lt;/p&gt;
+&lt;p&gt;But in trying to get to the bigger goals they&amp;rsquo;d tried to tackle three or four problems at once.&lt;/p&gt;
 
-&lt;p&gt;Your work doesn&amp;rsquo;t have to be well polished to talk it through either.&lt;/p&gt;
+&lt;p&gt;With the size of the health and social care sector, even a small problem has immense scale.&lt;/p&gt;
 
-&lt;p&gt;Recently I’ve talked through a range of design options to letting users upload a file to their GP. I had a few rough screens designed but all I talked through was a scrappy page and some arrows.&lt;/p&gt;
+&lt;p&gt;By allowing patients to do simple things like check and update their contact details online we solve multiple needs. Improve the quality of data. And give services better quality data. And confidence in that data.&lt;/p&gt;
 
-&lt;p&gt;This helped a colleague challenge my thinking. And get to a better design.&lt;/p&gt;
+&lt;p&gt;We also extract value from processing people are already having to go through.&lt;/p&gt;
 
-&lt;p&gt;Share your work before you solve it.&lt;/p&gt;
+&lt;p&gt;The idea is a small service. But doable. And something that can impact 60 million records. And give patients more control.&lt;/p&gt;
+
+&lt;p&gt;By doing less they&amp;rsquo;ve got more chance of having a big impact. Of navigating policy and law. Of getting something live and learning.&lt;/p&gt;
+
+&lt;p&gt;It makes things much clearer. And it also lets you get deeper into things. And you spot opportunities and issues earlier.&lt;/p&gt;
+
+&lt;p&gt;By reducing scope you can also finish work. The teams I see struggling are the ones who get 80% of their work done but can&amp;rsquo;t finish off before the next chunk of work comes along.&lt;/p&gt;
+
+&lt;p&gt;Do less. Get things live. And learn. Then you can evaluate what value there is in doing more or something else.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Yearnote: 2019</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/12/28/in-review.html"/>
-    <id>https://grillopress.github.io/2019/12/28/in-review.html</id>
-    <published>2019-12-28T07:30:00+00:00</published>
-    <updated>2020-01-03T00:13:22+00:00</updated>
+    <title>A retrospective on your retros</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/02/17/a-retro-for-your-retros.html"/>
+    <id>https://grillopress.github.io/2020/02/17/a-retro-for-your-retros.html</id>
+    <published>2020-02-17T07:30:00+00:00</published>
+    <updated>2020-02-18T22:21:20+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;It’s been a year. Lots of things I hope I’ll not have to deal with again. And some I know I will.&lt;/p&gt;
+    <content type="html">&lt;p&gt;If you&amp;rsquo;ve worked with a software development team you may have done retros. Regular events where teams reflect on what&amp;rsquo;s gone well or not recently.&lt;/p&gt;
 
-&lt;p&gt;It’s tempting to put 2019 straight in the bin. From a work point of view I’ve had plenty of downs this past year. And recently I had been feeling out of sorts.&lt;/p&gt;
+&lt;p&gt;Their goal is to play part in creating an accountable team. One that talks honestly to each other. That checks what&amp;rsquo;s happening matches the outcomes they want to achieve.&lt;/p&gt;
 
-&lt;p&gt;But taking some advice I’ve given others plenty of times. I made a list of some stuff that was pretty cool that I did in 2019.&lt;/p&gt;
+&lt;p&gt;Regular team meetings where you can talk to each other about what&amp;rsquo;s working. What isn&amp;rsquo;t are a good part of holding yourself and others accountable.&lt;/p&gt;
 
-&lt;p&gt;Some of the stuff I did:&lt;/p&gt;
+&lt;p&gt;But doing retros only gets you and your team so far. They need to help you hold each other to account.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Finished an alpha into how health records are used, successfully not building a service that would have increased burden on the NHS&lt;/li&gt;
-&lt;li&gt;Passed live service assessment for the opt-out service. First NHS service to do so!&lt;/li&gt;
-&lt;li&gt;Led a discovery into the uses of patient data for research. Helped the NHS pivot from building a costly service and find other ways to satisfy uncovered needs&lt;/li&gt;
-&lt;li&gt;Steered a discovery looking into how patients get contacted/communicated with. Ended by having my recommendations taken seriously by those at the very top of the NHS&lt;/li&gt;
-&lt;li&gt;Helped Sam and Rhiannon develop as people, professionals and pass their end of graduate scheme assessments&lt;/li&gt;
-&lt;li&gt;Designed an MVP notifications and messaging service&lt;/li&gt;
-&lt;li&gt;Helped reshape the short/medium term future of appointments in the NHS App&lt;/li&gt;
-&lt;li&gt;Presented at 2 NHS Digital code clubs. Helping loads of people get to grips with coding&lt;/li&gt;
-&lt;li&gt;Ran the weekly NHS Digital design meet-ups in Leeds&lt;/li&gt;
-&lt;li&gt;Helped lots of colleagues design better shit and create some cool prototypes to test their thinking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In 2019 I led 4 discoveries, 3 alphas, 1 beta and taking 1 service into live management.&lt;/p&gt;
-
-&lt;p&gt;Not bad.&lt;/p&gt;
-
-&lt;p&gt;Maybe 2019 doesn’t belong &lt;em&gt;completely&lt;/em&gt; in the bin.&lt;/p&gt;
-
-&lt;p&gt;2019 was full of opportunities and I&amp;rsquo;m grateful for those.&lt;/p&gt;
-
-&lt;p&gt;Though it wasn&amp;rsquo;t calm.&lt;/p&gt;
-
-&lt;p&gt;Something I&amp;rsquo;m going to try be smarter with the opportunities that come my way.&lt;/p&gt;
-
-&lt;p&gt;Rather than saying no though. I&amp;rsquo;m going to try to pass on and share opportunities that don&amp;rsquo;t quite fit.&lt;/p&gt;
-
-&lt;p&gt;I did that last summer and it turned out to be a great decision. For me. And the team too because I was able to give the opportunity to one of the best designers I know.&lt;/p&gt;
-
-&lt;p&gt;More of that in 2020.&lt;/p&gt;
-
-&lt;h2&gt;Stuff I wrote in 2019&lt;/h2&gt;
-
-&lt;h3&gt;Articles&lt;/h3&gt;
-
-&lt;p&gt;I wrote 16 articles. Most based on advice I gave someone in person. Or to remind myself to do better next time.&lt;/p&gt;
+&lt;p&gt;You can test how useful retros (and similar things) are by asking a few questions:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="/2019/12/05/stretch-your-design.html"&gt;Don&amp;rsquo;t forget to stretch your design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/12/05/design-for-real-data.html"&gt;Design for real data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/10/22/use-the-right-words.html"&gt;Find the right words to get the job done&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/10/10/start-it-right.html"&gt;Start it right&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/10/08/make-it-about-a-decision.html"&gt;Make it about a decision&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/08/05/let-your-design-breathe.html"&gt;Let your design breathe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/07/25/make-it-easier-to-work-in-the-open.html"&gt;Make it easier for yourself and others to work in the open&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/06/10/make-things-open.html"&gt;Making your work open isn&amp;rsquo;t just the final icing on the cake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/05/04/writing-shorthand.html"&gt;Prototyping in shorthand&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/04/06/minus-interference.html"&gt;Minus interference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/03/26/you-never-know-you-know.html"&gt;You never know, you know&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"&gt;Do the hard work to make it inclusive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/01/31/one-thing.html"&gt;One thing per page&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/01/31/asking-questions.html"&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/01/20/asking-the-right-question.html"&gt;Asking the right question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/01/10/doing-paper-forms.html"&gt;Offline services and paper forms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Do you feel heard or talked at?&lt;/li&gt;
+&lt;li&gt;Is everything someone else&amp;rsquo;s fault or failing? [The developers, the designers, policy etc.]&lt;/li&gt;
+&lt;li&gt;Are solutions thrown around before the problem is completely voiced?&lt;/li&gt;
+&lt;li&gt;Does the team come out with any actions?&lt;/li&gt;
+&lt;li&gt;Do those actions actually happen?&lt;/li&gt;
+&lt;li&gt;Does anything change afterwards?&lt;/li&gt;
+&lt;li&gt;Do the same topics or issues keep coming up?&lt;/li&gt;
+&lt;li&gt;Do people&amp;rsquo;s real complaints or issues get aired in the retro, or in private conversations?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I also wrote a pattern about asking patients for their NHS number. Which is much better now. Through feedback from the wider NHS design community. And the service manual team at NHS Digital.&lt;/p&gt;
+&lt;p&gt;If the answer to these questions makes you feel like retros aren&amp;rsquo;t working. Time to change how your team holds each other accountable.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://beta.nhs.uk/service-manual/styles-components-patterns/nhs-number"&gt;Ask users for their NHS number&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Discovery notes&lt;/h3&gt;
-
-&lt;p&gt;In April I also wrote weeknotes for each week of a discovery into the uses of data in the NHS&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="/2019/05/31/discovery-notes-08.html"&gt;Week 08&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/05/24/discovery-notes-07.html"&gt;Week 07&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/05/17/discovery-notes-06.html"&gt;Week 06&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/05/10/discovery-notes-04.html"&gt;Week 05&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/05/03/discovery-notes-03.html"&gt;Week 04&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/04/26/discovery-notes-03.html"&gt;Week 03&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/04/19/discovery-notes-02.html"&gt;Week 02&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/2019/04/12/discovery-notes-01.html"&gt;Week 01&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;It&amp;rsquo;s time to be honest and clear about how working like you do right now isn&amp;rsquo;t working.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Don't forget to stretch your design</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/12/05/stretch-your-design.html"/>
-    <id>https://grillopress.github.io/2019/12/05/stretch-your-design.html</id>
-    <published>2019-12-05T07:30:00+00:00</published>
-    <updated>2019-12-06T15:25:50+00:00</updated>
+    <title>Still waiting for perfect</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/02/16/still-working-for-perfect.html"/>
+    <id>https://grillopress.github.io/2020/02/16/still-working-for-perfect.html</id>
+    <published>2020-02-16T07:30:00+00:00</published>
+    <updated>2020-02-18T08:36:44+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;When reviewing a design, I like to ask how it will stretch to cover different scenarios.&lt;/p&gt;
+    <content type="html">&lt;p&gt;You have a great idea. A research technique or plan. Or an idea for a prototype.&lt;/p&gt;
 
-&lt;p&gt;When things are empty. When things go wrong. On different devices. But also for variable data or poor quality data.&lt;/p&gt;
+&lt;p&gt;With just a few more things in place you&amp;rsquo;d be able to do it. With just more discussion you&amp;rsquo;d be able to get it just right. And then you can do that thing.&lt;/p&gt;
 
-&lt;p&gt;A designer should ensure they have a solid design for a common path. But it’s easy to design for unrealistically good examples or data. Or &lt;a href="https://samanthasaw.github.io/samantha-saw-blogs/check-how-your-design-works-on-different-devices.html"&gt;not consider all devices&lt;/a&gt; and when things go wrong.&lt;/p&gt;
+&lt;p&gt;But it won&amp;rsquo;t.&lt;/p&gt;
 
-&lt;p&gt;A long time ago I redesigned a few websites for a communications team. Part of the work was a clearer, more accessible web design.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll be waiting for perfect forever.&lt;/p&gt;
 
-&lt;p&gt;As I designed some of the system and reviewed it against the live website, it dawned on me the how different some of the article headings were.&lt;/p&gt;
+&lt;p&gt;Not only will it not happen but it starts blocking other similar things from delivering value. From getting stuff done.&lt;/p&gt;
 
-&lt;p&gt;Many of the H1s were full paragraphs.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s nothing more toxic than perfect. It blocks getting small stuff done. It means nothing similar can be completed. And nothing else learned. Because &amp;ldquo;why are we doing this first, when we could do this [perfect] thing?&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;Working with the team I knew this wasn’t going to change anytime soon. And even if it did, the years of news articles would still be there.&lt;/p&gt;
+&lt;p&gt;And because perfect is always waiting for that last thing to finish it off, it&amp;rsquo;s always out of date. So when things do align you&amp;rsquo;re getting back to almost done. And never done.&lt;/p&gt;
 
-&lt;p&gt;My large clear font worked great for most of the website, but it didn’t stretch to this part of the website.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re struggling with waiting for perfect ask yourselves and colleagues what&amp;rsquo;s stopping you from doing it right now.&lt;/p&gt;
 
-&lt;p&gt;To remedy this I first set up a web crawler to download every article into a spreadsheet. I could then analyse the size and shape of the data my design had to stretch to.&lt;/p&gt;
+&lt;p&gt;Ask yourself if there&amp;rsquo;s a way to do it even imperfectly in the next two weeks.&lt;/p&gt;
 
-&lt;p&gt;My design was much better for it. My design was now more flexible and able to cope with real data. It was no longer so brittle.&lt;/p&gt;
+&lt;p&gt;Get it done in an imperfect way and learn something. Once you test something you&amp;rsquo;ll find perfect wasn&amp;rsquo;t real anyway.&lt;/p&gt;
 
-&lt;p&gt;Be sure to &lt;a href="https://grillopress.github.io/2019/12/05/design-for-real-data.html"&gt;design for real data&lt;/a&gt; and real user journeys.&lt;/p&gt;
-
-&lt;p&gt;You can either design for data so good it’ll never exist. Or accommodate what a user will experience.&lt;/p&gt;
-
-&lt;p&gt;Your design will have to stretch to getting data back from APIs in FULL SCREAMING UPPERCASE. And some users seeing 1 category, and others seeing 32. Or comms teams who like to write full paragraphs as a heading.&lt;/p&gt;
-
-&lt;p&gt;Don’t forget to stretch your design.&lt;/p&gt;
+&lt;p&gt;Learn something. Stop waiting for perfect.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Design for real data</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/12/05/design-for-real-data.html"/>
-    <id>https://grillopress.github.io/2019/12/05/design-for-real-data.html</id>
-    <published>2019-12-05T07:29:00+00:00</published>
-    <updated>2019-12-06T15:39:03+00:00</updated>
+    <title>Making outcomes clear</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/02/12/making-outcomes-clear.html"/>
+    <id>https://grillopress.github.io/2020/02/12/making-outcomes-clear.html</id>
+    <published>2020-02-12T07:30:00+00:00</published>
+    <updated>2020-02-18T22:18:34+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;It’s vital to design for real data.&lt;/p&gt;
+    <content type="html">&lt;p&gt;A core component of a good team, and accountability, is being set up for success. For yourself. And those around you.&lt;/p&gt;
 
-&lt;p&gt;If you don’t, your service or product design is artwork. And your design will not be made. Even if it tests well. Because it can’t be.&lt;/p&gt;
+&lt;p&gt;Being set up for success is about having a clear sense of the outcomes you want. And the capability to deliver them.&lt;/p&gt;
 
-&lt;p&gt;When designing a service that includes data from a database you will have to design around the quality of data. And any business process rules for that data.&lt;/p&gt;
-
-&lt;p&gt;Designing for real data is vital when you have to accommodate data from other sources or APIs. Especially ones not designed for being shown to your users.&lt;/p&gt;
-
-&lt;p&gt;When tackling a database or APIs you need to ask:&lt;/p&gt;
+&lt;p&gt;You can measure this with some questions:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;what&amp;rsquo;s the source of data?&lt;/li&gt;
-&lt;li&gt;what&amp;rsquo;s the original purpose of that data?&lt;/li&gt;
-&lt;li&gt;who looks after the database?&lt;/li&gt;
-&lt;li&gt;how is it kept up to date?&lt;/li&gt;
-&lt;li&gt;how consistent is that data?&lt;/li&gt;
-&lt;li&gt;what&amp;rsquo;s the exact format of data?&lt;/li&gt;
-&lt;li&gt;what&amp;rsquo;s the most (length, number of items etc.) something can be? What&amp;rsquo;s the least?&lt;/li&gt;
-&lt;li&gt;what are some real examples you could use?&lt;/li&gt;
+&lt;li&gt;Am I clear what I am looking to achieve?&lt;/li&gt;
+&lt;li&gt;Are others around me clear what I am trying to do?&lt;/li&gt;
+&lt;li&gt;Do I have the skills to achieve what I need to do?&lt;/li&gt;
+&lt;li&gt;If I do not have the skills, do I have a plan to develop them? Or access to resources that mean this doesn&amp;rsquo;t matter?&lt;/li&gt;
+&lt;li&gt;Do I know when I am done? When I achieved what I want?&lt;/li&gt;
+&lt;li&gt;Would other people agree with that measurement?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Understanding the real shape of data will let you ask why. &lt;a href="https://grillopress.github.io/2019/12/05/stretch-your-design.html"&gt;Stretch your design&lt;/a&gt;. And potentially create moments to really transform services.&lt;/p&gt;
+&lt;p&gt;Good answers to these questions will involve good communication between you and others. And knowing how things get &amp;ldquo;done&amp;rdquo; (If that is vague where you work. It&amp;rsquo;s worth mapping it out).&lt;/p&gt;
 
-&lt;p&gt;A colleague &lt;a href="https://samanthasaw.github.io/samantha-saw-blogs/"&gt;Sam&lt;/a&gt; recently finished a project rethinking data collection. Part of her process she looked at previous submissions. As she did, she could point to failings and data quality issues. Which provided real evidence for change.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll also have to be honest about your limits. Something I have always struggled with (who doesn&amp;rsquo;t want to be the person who can do it all?).&lt;/p&gt;
 
-&lt;p&gt;You can either design for data so good it’ll never exist. Or accommodate what a user will really experience.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s hard work.&lt;/p&gt;
 
-&lt;p&gt;It’s hard work. But it’s where the work really is.&lt;/p&gt;
+&lt;p&gt;But being clear on the why and how something&amp;rsquo;s going to get done is how you create accountability. And with a clear way we can measure success, everyone is able to help judge and support each other to succeed.&lt;/p&gt;
 
-&lt;p&gt;Do the hard work. Design for real data.&lt;/p&gt;
+&lt;p&gt;Make it clear what outcomes you&amp;rsquo;re trying to achieve. And how you&amp;rsquo;re going to do that.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Find the right words to get the job done</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/10/22/use-the-right-words.html"/>
-    <id>https://grillopress.github.io/2019/10/22/use-the-right-words.html</id>
-    <published>2019-10-22T08:30:00+01:00</published>
-    <updated>2019-10-22T23:33:49+01:00</updated>
+    <title>For professional users</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/02/10/for-pro-users.html"/>
+    <id>https://grillopress.github.io/2020/02/10/for-pro-users.html</id>
+    <published>2020-02-10T07:30:00+00:00</published>
+    <updated>2020-02-18T22:46:45+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;About a year ago a designer helped fill in for a couple of weeks when I was on leave.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Every time I hear the phrase &amp;ldquo;professional user&amp;rdquo; my heart sinks a little.&lt;/p&gt;
 
-&lt;p&gt;They mentioned that one of the development teams I worked with didn&amp;rsquo;t know some design thinking terminology, and it surprised them.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s nearly always a Trojan horse for lazy thinking and assumptions.&lt;/p&gt;
 
-&lt;p&gt;Especially as I worked with them for over a year.&lt;/p&gt;
+&lt;p&gt;The type of phrase that gets combined with things like more training materials, better comms leaflets and pages jam packed with noise. Or questions about how accessible we really need to make something.&lt;/p&gt;
 
-&lt;p&gt;Apart from inspiring some mild imposter syndrome, it got me thinking.&lt;/p&gt;
+&lt;p&gt;Just because your user is paid to do a thing, doesn&amp;rsquo;t mean the thing should be difficult. Or inaccessible.&lt;/p&gt;
 
-&lt;p&gt;One of the things I like to do is make teams know the outcomes we&amp;rsquo;re trying to create. And the problems we&amp;rsquo;re trying to solve.&lt;/p&gt;
+&lt;p&gt;A common issue I hear is about having multiple things on a page. Rather than splitting up a journey.&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s why I do &lt;a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html"&gt;hypothesis driven design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;But whether someone is paid to do a thing or not, doesn&amp;rsquo;t tell you anything.&lt;/p&gt;
 
-&lt;p&gt;But there&amp;rsquo;s a difference between working in the right way and dictating the exact words and ways we explain things.&lt;/p&gt;
+&lt;p&gt;When it comes to interfaces for professionals teams need to ask:&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s about finding the right words to help each other understand how to get to a solution. Or what&amp;rsquo;s blocking one.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is your user doing this thing 50 times a day? Or once a month? Or lots of times in one month then potentially never again?&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://grillopress.github.io/2019/01/31/one-thing.html"&gt;What is a single thing to this user&lt;/a&gt;. One question or one whole record or case?&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;From colleagues to stakeholders to users. You have to lean on commonly understood things. As well as what the people you&amp;rsquo;re working with say and label things as.&lt;/p&gt;
+&lt;p&gt;When a user does a thing 50 times a day, you can make things more compact. More dense. (Though it may also be worth thinking how you can do most of that 50 things for them). But this doesn&amp;rsquo;t mean more complicated.&lt;/p&gt;
 
-&lt;p&gt;I like to use &lt;a href="https://grillopress.github.io/2018/12/19/trying-a-new-format-for-hypotheses.html"&gt;a set format for hypotheses&lt;/a&gt; and I use this to document my work. And when I get my work reviewed by colleagues I tend to talk through them.&lt;/p&gt;
+&lt;p&gt;But you also need to respect the task they&amp;rsquo;re doing. And not just throw 8 conceptually related things at the page.&lt;/p&gt;
 
-&lt;p&gt;But I&amp;rsquo;m not going to talk about hypothesis driven design.&lt;/p&gt;
+&lt;p&gt;But not all professional-facing services are like this. Though they&amp;rsquo;re commonly designed like they are.&lt;/p&gt;
 
-&lt;p&gt;Rather than talking about double diamonds, design thinking and hypotheses. It&amp;rsquo;s important to start by using the words and concepts of the team or individual.&lt;/p&gt;
+&lt;p&gt;A while back I helped review a product which was for professionals. The team assumed everything on one page would be more efficient. It was not.&lt;/p&gt;
 
-&lt;p&gt;There&amp;rsquo;s a time and a place to introduce new things. But no one wants to be lectured at. Find the right words to get the job done.&lt;/p&gt;
+&lt;p&gt;Their users only did this part once a year. They were domain experts but would never use the system to be experts with it. They would visit several times in a short period but not for another 9-10 months.&lt;/p&gt;
+
+&lt;p&gt;Users completed about two fields in to a page before they had to quit.&lt;/p&gt;
+
+&lt;p&gt;They had an assumption and they hadn&amp;rsquo;t tested it until they had built a complete product. They had spent a lot of money. And they&amp;rsquo;re going to have to spend a lot more unpicking work or patching it up.&lt;/p&gt;
+
+&lt;p&gt;Just because someone is paid to use your software, doesn&amp;rsquo;t mean they&amp;rsquo;ll be able to use it.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Start it right</title>
-    <link rel="alternate" href="https://grillopress.github.io/2019/10/10/start-it-right.html"/>
-    <id>https://grillopress.github.io/2019/10/10/start-it-right.html</id>
-    <published>2019-10-10T08:30:00+01:00</published>
-    <updated>2019-10-10T23:10:43+01:00</updated>
+    <title>Document as part of your process</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/01/20/document-as-part-your-process.html"/>
+    <id>https://grillopress.github.io/2020/01/20/document-as-part-your-process.html</id>
+    <published>2020-01-20T07:30:00+00:00</published>
+    <updated>2020-02-18T08:34:43+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
-    <content type="html">&lt;p&gt;I&amp;rsquo;ve spent a fair amount of time doing discoveries in the last year.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Don&amp;rsquo;t spend countless hours documenting stuff after doing work in ways that no one will read or use.&lt;/p&gt;
 
-&lt;p&gt;Some better than others. And I&amp;rsquo;ve learnt loads.&lt;/p&gt;
+&lt;p&gt;Make it part of your process.&lt;/p&gt;
 
-&lt;p&gt;Something that helps frame discoveries better is &lt;a href="https://grillopress.github.io/2019/10/08/make-it-about-a-decision.html"&gt;shaping them around a decision&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve sketched several ideas, take a photo. If you&amp;rsquo;ve thought deeply about an approach. Write a line or two.&lt;/p&gt;
 
-&lt;p&gt;To do this well it’s best to kick off your discoveries with an “inception” meeting.&lt;/p&gt;
+&lt;p&gt;If you can explain a solution in person, record yourself. And get the audio or a transcript added to a ticket or folder.&lt;/p&gt;
 
-&lt;p&gt;An inception is a project kickoff session.  Everyone who is part of the discovery team should be there. As well as any decision maker or stakeholder too.&lt;/p&gt;
+&lt;p&gt;Another way to make it part of your process is to use it as an editorial and quality checking process.&lt;/p&gt;
 
-&lt;p&gt;This meeting helps you define the right scope and what you need to go find out.&lt;/p&gt;
+&lt;p&gt;Recently I was making a map of the prototype were testing soon. It&amp;rsquo;s an integration with an online consultation tool.&lt;/p&gt;
 
-&lt;p&gt;A format for an inception that has worked for me and other teams I&amp;rsquo;ve helped is:&lt;/p&gt;
+&lt;p&gt;It was a bunch of screenshots, arrows and digital sticky notes.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;What is a discovery?&lt;/li&gt;
-&lt;li&gt;What problem or task have we been given?&lt;/li&gt;
-&lt;li&gt;Our discovery is to decide [x]?&lt;/li&gt;
-&lt;li&gt;To make that decision, we need to know what?&lt;/li&gt;
-&lt;li&gt;What should we do to find out what we need to know?&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;But rather than a laborious process of documenting work that&amp;rsquo;s already delivered value. It&amp;rsquo;s a chance to review.&lt;/p&gt;
 
-&lt;p&gt;This format helps get your team focused on the right things. And gives you the space to define what decision you&amp;rsquo;re going to tackle. As well as the steps you&amp;rsquo;re going to take to make that decision.&lt;/p&gt;
+&lt;p&gt;As you document you can ask yourself questions like:&lt;/p&gt;
 
-&lt;p&gt;If you don’t have a shared understanding of what decision you’re helping make. Or of what you need to do to support that decision, it’s nearly impossible to do any project justice.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why this way?&lt;/li&gt;
+&lt;li&gt;What things are we confident about? And what are we not?&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;No discovery should start without understanding what issue you&amp;rsquo;re exploring. Nor should they continue without you understanding what decision you are helping make.&lt;/p&gt;
+&lt;p&gt;Even better. Get the whole team together and do it together.&lt;/p&gt;
 
-&lt;p&gt;After defining the policy intent or issue to a decision you should discuss as a team what you need to know.&lt;/p&gt;
+&lt;p&gt;Documenting your work means it can be visible. It&amp;rsquo;s not the end of the story. You&amp;rsquo;ll have to work to make it sharable. Findable and digestible. But it&amp;rsquo;ll make your work better. And you better able to answer questions when things get made.&lt;/p&gt;
 
-&lt;p&gt;Understanding what a team needs to know is the most important part. This can range from &amp;ldquo;who are our users&amp;rdquo; to more specific technical issues.&lt;/p&gt;
-
-&lt;p&gt;Even if you only have an hour together, you should spend half your time talking through what you know. And what you need to find out. As well as prioritising what to find out.&lt;/p&gt;
-
-&lt;p&gt;Once you&amp;rsquo;ve defined as a group what you want to find out, you can define some activities you&amp;rsquo;ll likely do.&lt;/p&gt;
-
-&lt;p&gt;This part might be flexible. But it helps push forward your team from things to find out, to what we can do about it.&lt;/p&gt;
-
-&lt;h2&gt;Continuous inception&lt;/h2&gt;
-
-&lt;p&gt;There&amp;rsquo;s no reason to only do this sort of activity at the start of project either.&lt;/p&gt;
-
-&lt;p&gt;During the last summer I joined a discovery project several weeks in and struggled a little with the scope. By resetting it with the whole team I caught up but the team could also pivot on what they’d already found.&lt;/p&gt;
-
-&lt;p&gt;That meeting shaped the next few weeks and helped us come to a different, better decision.&lt;/p&gt;
-
-&lt;p&gt;Get your discovery going by setting the direction. By starting, or restarting, it right.&lt;/p&gt;
+&lt;p&gt;Work to make your work visible. Make it part of your process.&lt;/p&gt;
 </content>
   </entry>
 </feed>
