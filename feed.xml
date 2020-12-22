@@ -5,10 +5,59 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2020-07-02T08:30:00+01:00</updated>
+  <updated>2020-12-22T07:30:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>A common mistake teams make is designing for a context their users don't have</title>
+    <link rel="alternate" href="https://grillopress.github.io/2020/12/22/designing-for-context-users-dont-have.html"/>
+    <id>https://grillopress.github.io/2020/12/22/designing-for-context-users-dont-have.html</id>
+    <published>2020-12-22T07:30:00+00:00</published>
+    <updated>2020-12-22T20:01:00+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Under time pressure it’s easy to design a service that works for those that understand a problem. But not those that do not.&lt;/p&gt;
+
+&lt;p&gt;In the last week or so a team released a question in a service that made sense to people who were doing something daily. But, how the question was written meant that people who did it once a week thought it applied to them. It did not.&lt;/p&gt;
+
+&lt;p&gt;The team were working under intense pressure. And getting a true outside perspective was hard. They lost sight of the fact that the large majority of the service’s users wouldn’t know the context of their work. Their policy and their question.&lt;/p&gt;
+
+&lt;p&gt;People answered wrong.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to make this mistake. We&amp;rsquo;ve all made it.&lt;/p&gt;
+
+&lt;p&gt;There can be many ways a team develops this blindspot:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overconfidence&lt;/li&gt;
+&lt;li&gt;Lack of time&lt;/li&gt;
+&lt;li&gt;Last minute changes to scope&lt;/li&gt;
+&lt;li&gt;Restrictions who you can talk to&lt;/li&gt;
+&lt;li&gt;User research only with users with knowledge of a policy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a few questions you can ask yourself or your team to try and guard against making this mistake. Such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is this service used by people who don’t need to see this question/feature? &lt;/li&gt;
+&lt;li&gt;What number of people will understand this question? &lt;/li&gt;
+&lt;li&gt;Does this question or flow cater to the majority or a minority of journeys?&lt;/li&gt;
+&lt;li&gt;Is how we are wording a question presume a certain knowledge? And is that knowledge going to be common amongst our users? &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When tasked with rapidly adding an important new journey or new feature it can be easy to give the new thing massive prominence. But new does not mean it’s something that the majority will use. Nor understand.&lt;/p&gt;
+
+&lt;p&gt;If you can, explore your new feature or question with those that understand. And those that don’t. Your biggest issues will always come from those that don’t understand. From those who don’t match the context you expect.&lt;/p&gt;
+
+&lt;p&gt;At the very least ask yourself, is a feature or question something that the majority will know about.&lt;/p&gt;
+
+&lt;p&gt;If it is not, try to restrict who sees it. Or guard the question by optimising for the 80% journey. Not the minority.&lt;/p&gt;
+
+&lt;p&gt;Understand if your design works for those without context.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Let your headings do the hard work</title>
     <link rel="alternate" href="https://grillopress.github.io/2020/07/02/let-your-headings-do-the-hard-work.html"/>
@@ -194,38 +243,6 @@
 &lt;p&gt;If the answer to these questions makes you feel like retros aren&amp;rsquo;t working. Time to change how your team holds each other accountable.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s time to be honest and clear about how working like you do right now isn&amp;rsquo;t working.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Still waiting for perfect</title>
-    <link rel="alternate" href="https://grillopress.github.io/2020/02/16/still-waiting-for-perfect.html"/>
-    <id>https://grillopress.github.io/2020/02/16/still-waiting-for-perfect.html</id>
-    <published>2020-02-16T07:30:00+00:00</published>
-    <updated>2020-02-18T08:36:44+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;You have a great idea. A research technique or plan. Or an idea for a prototype.&lt;/p&gt;
-
-&lt;p&gt;With just a few more things in place you&amp;rsquo;d be able to do it. With just more discussion you&amp;rsquo;d be able to get it just right. And then you can do that thing.&lt;/p&gt;
-
-&lt;p&gt;But it won&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ll be waiting for perfect forever.&lt;/p&gt;
-
-&lt;p&gt;Not only will it not happen but it starts blocking other similar things from delivering value. From getting stuff done.&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s nothing more toxic than perfect. It blocks getting small stuff done. It means nothing similar can be completed. And nothing else learned. Because &amp;ldquo;why are we doing this first, when we could do this [perfect] thing?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;And because perfect is always waiting for that last thing to finish it off, it&amp;rsquo;s always out of date. So when things do align you&amp;rsquo;re getting back to almost done. And never done.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re struggling with waiting for perfect ask yourselves and colleagues what&amp;rsquo;s stopping you from doing it right now.&lt;/p&gt;
-
-&lt;p&gt;Ask yourself if there&amp;rsquo;s a way to do it even imperfectly in the next two weeks.&lt;/p&gt;
-
-&lt;p&gt;Get it done in an imperfect way and learn something. Once you test something you&amp;rsquo;ll find perfect wasn&amp;rsquo;t real anyway.&lt;/p&gt;
-
-&lt;p&gt;Learn something. Stop waiting for perfect.&lt;/p&gt;
 </content>
   </entry>
 </feed>
