@@ -5,16 +5,65 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2020-12-22T07:30:00+00:00</updated>
+  <updated>2021-03-19T07:30:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Win the space to design services </title>
+    <link rel="alternate" href="https://grillopress.github.io/2021/03/19/win-space-to-design.html"/>
+    <id>https://grillopress.github.io/2021/03/19/win-space-to-design.html</id>
+    <published>2021-03-19T07:30:00+00:00</published>
+    <updated>2021-03-19T22:46:39+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;I’ve watched a lot of service designers working in programmes and projects where they’re fighting against the tide.&lt;/p&gt;
+
+&lt;p&gt;If you’re doing that every single day, it&amp;rsquo;s terrible.&lt;/p&gt;
+
+&lt;p&gt;I’ve been very lucky to enjoy the space to do design. And though it’s tempting to think I’m super awesome, something that’s important is winning the space to design.&lt;/p&gt;
+
+&lt;p&gt;Different things can win you the space to do design. From senior buy-in, making the impossible seem possible, to getting stuff made.&lt;/p&gt;
+
+&lt;p&gt;Leaving aside the reality of senior buy-in, I find that making immediate and visible impact on the frontend of a service is a key building block.&lt;/p&gt;
+
+&lt;p&gt;By that I mean:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Redesigning a form. Paper or otherwise&lt;/li&gt;
+&lt;li&gt;Creating prototypes that become working code&lt;/li&gt;
+&lt;li&gt;Solutions/tweaks to problems identified in live&lt;/li&gt;
+&lt;li&gt;Helping explain issues the business or user encounters in live &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A service designer doesn&amp;rsquo;t have to be the one to do this work. Though it helps to build trust in a designer. It’s okay to benefit from other people doing this.&lt;/p&gt;
+
+&lt;p&gt;But there’s nothing that sells the value of designers in a room than things like making a transaction less rubbish. Giving a better shape to a product than when no designer was involved.&lt;/p&gt;
+
+&lt;p&gt;Something I’m a big fan of is the &lt;a href="https://danskdesigncenter.dk/en/design-ladder-four-steps-design-use"&gt;“Danish Design Centre’s design ladder”&lt;/a&gt;. It’s a model for explaining how companies use design.&lt;/p&gt;
+
+&lt;p&gt;From not doing it, to it being a form giving act to it shaping strategy.&lt;/p&gt;
+
+&lt;p&gt;The key thing is to remember that where an organisation, programme or project is, isn’t fixed. And every success can be exploited to get design involved earlier. And more thoughtfully and completely.&lt;/p&gt;
+
+&lt;p&gt;So if you find yourself swimming against the tide. Try a smaller scope. A more focused place to make changes. Not every team will be sold on doing things differently. And sometimes that means taking a longer path by starting with the forms. Even if you want to start with strategy.&lt;/p&gt;
+
+&lt;p&gt;But you know, your users will thank you. It’s a great place to start. And it’ll help you guide the project to doing other things too.&lt;/p&gt;
+
+&lt;p&gt;If you’re a product/interaction designer. Don’t be afraid to keep pushing to be involved in more. Going beyond just form giving. If you’re a service designer. Don’t be afraid to start in the product and take a team on a journey.&lt;/p&gt;
+
+&lt;p&gt;I’ve lost count of the projects where I joined to help with a website or form and ended changing how a service was delivered or organisation was structured.&lt;/p&gt;
+
+&lt;p&gt;Win the space to design services.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>A common mistake teams make is designing for a context their users don't have</title>
     <link rel="alternate" href="https://grillopress.github.io/2020/12/22/designing-for-context-users-dont-have.html"/>
     <id>https://grillopress.github.io/2020/12/22/designing-for-context-users-dont-have.html</id>
     <published>2020-12-22T07:30:00+00:00</published>
-    <updated>2020-12-22T20:01:00+00:00</updated>
+    <updated>2021-01-03T14:26:54+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -51,7 +100,7 @@
 
 &lt;p&gt;If you can, explore your new feature or question with those that understand. And those that don’t. Your biggest issues will always come from those that don’t understand. From those who don’t match the context you expect.&lt;/p&gt;
 
-&lt;p&gt;At the very least ask yourself, is a feature or question something that the majority will know about.&lt;/p&gt;
+&lt;p&gt;At the very least ask yourself, is this a feature or question something that the majority will know about.&lt;/p&gt;
 
 &lt;p&gt;If it is not, try to restrict who sees it. Or guard the question by optimising for the 80% journey. Not the minority.&lt;/p&gt;
 
@@ -208,41 +257,6 @@
 &lt;p&gt;By reducing scope you can also finish work. The teams I see struggling are the ones who get 80% of their work done but can&amp;rsquo;t finish off before the next chunk of work comes along.&lt;/p&gt;
 
 &lt;p&gt;Do less. Get things live. And learn. Then you can evaluate what value there is in doing more or something else.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>A retrospective on your retros</title>
-    <link rel="alternate" href="https://grillopress.github.io/2020/02/17/a-retro-for-your-retros.html"/>
-    <id>https://grillopress.github.io/2020/02/17/a-retro-for-your-retros.html</id>
-    <published>2020-02-17T07:30:00+00:00</published>
-    <updated>2020-02-18T22:21:20+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;If you&amp;rsquo;ve worked with a software development team you may have done retros. Regular events where teams reflect on what&amp;rsquo;s gone well or not recently.&lt;/p&gt;
-
-&lt;p&gt;Their goal is to play part in creating an accountable team. One that talks honestly to each other. That checks what&amp;rsquo;s happening matches the outcomes they want to achieve.&lt;/p&gt;
-
-&lt;p&gt;Regular team meetings where you can talk to each other about what&amp;rsquo;s working. What isn&amp;rsquo;t are a good part of holding yourself and others accountable.&lt;/p&gt;
-
-&lt;p&gt;But doing retros only gets you and your team so far. They need to help you hold each other to account.&lt;/p&gt;
-
-&lt;p&gt;You can test how useful retros (and similar things) are by asking a few questions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Do you feel heard or talked at?&lt;/li&gt;
-&lt;li&gt;Is everything someone else&amp;rsquo;s fault or failing? [The developers, the designers, policy etc.]&lt;/li&gt;
-&lt;li&gt;Are solutions thrown around before the problem is completely voiced?&lt;/li&gt;
-&lt;li&gt;Does the team come out with any actions?&lt;/li&gt;
-&lt;li&gt;Do those actions actually happen?&lt;/li&gt;
-&lt;li&gt;Does anything change afterwards?&lt;/li&gt;
-&lt;li&gt;Do the same topics or issues keep coming up?&lt;/li&gt;
-&lt;li&gt;Do people&amp;rsquo;s real complaints or issues get aired in the retro, or in private conversations?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If the answer to these questions makes you feel like retros aren&amp;rsquo;t working. Time to change how your team holds each other accountable.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s time to be honest and clear about how working like you do right now isn&amp;rsquo;t working.&lt;/p&gt;
 </content>
   </entry>
 </feed>
