@@ -5,10 +5,60 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2021-03-19T07:30:00+00:00</updated>
+  <updated>2021-03-26T07:30:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Don't let your design system seem complete</title>
+    <link rel="alternate" href="https://grillopress.github.io/2021/03/26/dont-let-your-design-system-seem-complete.html"/>
+    <id>https://grillopress.github.io/2021/03/26/dont-let-your-design-system-seem-complete.html</id>
+    <published>2021-03-26T07:30:00+00:00</published>
+    <updated>2021-03-26T11:25:20+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Tosin and Henry from the &lt;a href="https://service-manual.nhs.uk/"&gt;NHS service manual team&lt;/a&gt; shared their recent at last Thursday’s design huddle &lt;a href="#link-1" id=link-1-ref&gt;&lt;span hidden&gt;Link to explanation of design huddles &lt;/span&gt;[1]&lt;/a&gt;. They covered their work on understanding and improving contributions to the service manual.&lt;/p&gt;
+
+&lt;p&gt;They shared some of their research. Talking about reasons people don’t contribute.&lt;/p&gt;
+
+&lt;p&gt;Some of the reasons were time, not knowing what &lt;em&gt;contributing&lt;/em&gt; meant and how to do it.&lt;/p&gt;
+
+&lt;p&gt;Another reason revealed after was a feeling that the service manual was “put together by experts”. People feel intimidated from contributing and that components/patterns were untouchable.&lt;/p&gt;
+
+&lt;p&gt;This matched something I had been thinking about recently. That the level of authority and professionalism in a design system helps sell it so teams use it. But increase the perception things are fixed. Done. And not open to change.&lt;/p&gt;
+
+&lt;p&gt;This shouldn’t be a surprise.&lt;/p&gt;
+
+&lt;p&gt;The more professional and finished something is, the less likely people are to openly criticise or add to it. Maybe a typo here and there. This happens with prototypes all the time. The more polished something is, you reduce the type of feedback you get.&lt;/p&gt;
+
+&lt;p&gt;If you do get more fundamental feedback. It’s often a total rejection. Rather than an iteration.&lt;/p&gt;
+
+&lt;p&gt;But when you present something less polished, you get more radical feedback. Feedback that feeds on an idea.&lt;/p&gt;
+
+&lt;p&gt;This is a fundamental tension for any service manual and design system.&lt;/p&gt;
+
+&lt;p&gt;The issue with the service manual is, to get people using it. You need to express the same sort of authority and completeness.&lt;/p&gt;
+
+&lt;p&gt;You don’t sell a design system with a sense of things not being thought of.&lt;/p&gt;
+
+&lt;p&gt;But doing so you also create a barrier for contribution. Because things look complete. Done. And done by “experts”.&lt;/p&gt;
+
+&lt;p&gt;It’s almost an impossible task. But every design system has to balance polish that sells implementation with openness to new ideas. And a sense that components or patterns aren’t final. They’re open to iteration.&lt;/p&gt;
+
+&lt;p&gt;I’m looking forward to seeing how the NHS service manual team tackle that balance.&lt;/p&gt;
+
+&lt;p&gt;If you own or feed into a design system. Make sure there’s a sense of openness to change. Be okay to give openness to feedback higher prominence. And show how things are in a state of development.&lt;/p&gt;
+
+&lt;p&gt;And make sure you do the hard work to dispel that a design system is only created by design system experts. It&amp;rsquo;s created and improved by any and every team that uses it.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t let your design system seem complete&lt;/p&gt;
+
+&lt;p&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#link-1-ref" id=link-1&gt;&lt;span hidden&gt;Link back to body of text &lt;/span&gt;[1]&lt;/a&gt; The design huddle is an hour where all designers from NHS Digital get together and share their work or ask for help&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Win the space to design services </title>
     <link rel="alternate" href="https://grillopress.github.io/2021/03/19/win-space-to-design.html"/>
@@ -219,44 +269,6 @@
 &lt;p&gt;What a good question or clear content can do is highlight how odd a policy or unintuitive a process is. And that can help you make an argument to rethink a policy or process.&lt;/p&gt;
 
 &lt;p&gt;A good question isn’t going to magic away a terrible policy or an unintuitive process. But it helps shine a light on it.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Do less</title>
-    <link rel="alternate" href="https://grillopress.github.io/2020/02/18/do-less.html"/>
-    <id>https://grillopress.github.io/2020/02/18/do-less.html</id>
-    <published>2020-02-18T07:30:00+00:00</published>
-    <updated>2020-02-18T09:08:28+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;The single most powerful thing to getting great performance from a team is doing less.&lt;/p&gt;
-
-&lt;p&gt;Restricting scope. Adding a constraint.&lt;/p&gt;
-
-&lt;p&gt;Last week I talked a team through some of my discovery work. They&amp;rsquo;re picking up the work for alpha.&lt;/p&gt;
-
-&lt;p&gt;My strongest bit of advice from what they had started with was to do less.&lt;/p&gt;
-
-&lt;p&gt;The discovery made several recommendations. And I could see the team was chomping at the bit to get lots done.&lt;/p&gt;
-
-&lt;p&gt;But in trying to get to the bigger goals they&amp;rsquo;d tried to tackle three or four problems at once.&lt;/p&gt;
-
-&lt;p&gt;With the size of the health and social care sector, even a small problem has immense scale.&lt;/p&gt;
-
-&lt;p&gt;By allowing patients to do simple things like check and update their contact details online we solve multiple needs. Improve the quality of data. And give services better quality data. And confidence in that data.&lt;/p&gt;
-
-&lt;p&gt;We also extract value from processing people are already having to go through.&lt;/p&gt;
-
-&lt;p&gt;The idea is a small service. But doable. And something that can impact 60 million records. And give patients more control.&lt;/p&gt;
-
-&lt;p&gt;By doing less they&amp;rsquo;ve got more chance of having a big impact. Of navigating policy and law. Of getting something live and learning.&lt;/p&gt;
-
-&lt;p&gt;It makes things much clearer. And it also lets you get deeper into things. And you spot opportunities and issues earlier.&lt;/p&gt;
-
-&lt;p&gt;By reducing scope you can also finish work. The teams I see struggling are the ones who get 80% of their work done but can&amp;rsquo;t finish off before the next chunk of work comes along.&lt;/p&gt;
-
-&lt;p&gt;Do less. Get things live. And learn. Then you can evaluate what value there is in doing more or something else.&lt;/p&gt;
 </content>
   </entry>
 </feed>
