@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge;chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<title>
+GrilloPress - Kanban for interaction design
+</title>
+<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+<link href="../../../stylesheets/main.css" rel="stylesheet" />
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@AndrewDuck_" name="twitter:site"/>
+  <meta content="@AndrewDuck_" name="twitter:creator"/>
+  <meta content="https://grillopress.github.io/2018/01/08/kanban-for-interaction-design.html" property="og:url"/>
+  <meta content="Kanban for interaction design" property="og:title"/>
+  <meta content="Recently at work I have been using a Kanban board with a colleague to manage our design work. This is how I created the board" property="og:description"/>
+  <meta content="https://grillopress.github.io/images/background.png" property="og:image"/>
+
+  <link href="../../../stylesheets/kanban.css" rel="stylesheet" />
+
+<script src="../../../javascripts/main.js"></script>
+<link href="../../../images/me.jpg" rel="icon" type="image/jpg" />
+<script>
+  (function() {
+    var script = document.createElement('script');
+    window.counter = 'https://grillopress.goatcounter.com/count'
+    script.async = 1;
+    script.src = '//gc.zgo.at/count.js';
+    var ins = document.getElementsByTagName('script')[0];
+    ins.parentNode.insertBefore(script, ins)
+  })();
+</script>
+</head>
+<body class='x2018 x2018_01 x2018_01_08 x2018_01_08_kanban-for-interaction-design'>
+<main role='main'>
+<nav class='navbar'>
+<div class='navbar-container'>
+<div>
+<a href="/">Andrew Duckworth</a>
+</div>
+</div>
+</nav>
+<article id='kanban_for_interaction_design'>
+<section class='hero'>
+<div class='container'>
+<div>
+<h1>
+Kanban for interaction design
+</h1>
+  <p>デザイナーのためにかんばんをする方法</p>
+
+</div>
+</div>
+</section>
+<div class='container'>
+<section class='blog-post'>
+
+
+<p>
+  Recently at work I have been using a Kanban board with a colleague to manage our design work.
+</p>
+<p>
+  Although early days, we have found it to be a real help and it has garnered some interest beyond the project we are on.
+</p>
+<p>We started the board with the following goals:</p>
+<ul>
+  <li>Track what each other is working on</li>
+  <li>Record our design reviews and comments</li>
+  <li>Better develop our design process (using hypotheses)</li>
+  <li>Record design decisions and evidence for them</li>
+  <li>Show our process to the rest of the project</li>
+  <li>Be able to (visually) organise and  priortise design work</li>
+  <li>Involve our Product Owner in priortising what design work was being focused on</li>
+</ul>
+<p>Even if you are the sole designer/UX person, it is valuable to be able to communicate with other people on a project what you are working on and your current priorities.</p>
+<p>The board has helped us structure our work and track it better, as well as expose that workflow to other members of the team.</p>
+<p>It has also shown us where our design bottlenecks are, and what things we need to swarm on together to speed up and get done.</p>
+<p>It takes discipline to maintain but provides real value if you do.</p>
+<h2 id="so_what_is_kanban">So, what is Kanban?</h2>
+<p>
+  If you've worked on a software project before, you may have encountered
+  <a href="https://www.atlassian.com/agile/kanban">Kanban boards.</a>
+</p>
+<p>On a Kanban board, items (jobs, tasks or anything) are written on cards which sit on a board in a set of columns. Each column has a label indicating the cards status or activity. The cards move across the board as they change status.</p>
+<p>The simplest Kanban boards are structured in three columns of "todo", "doing", "done". Often this board structure then evolves with a "backlog" or "ideas" column preceeding the todo column for ideas to be stored.</p>
+<div class="todo-board">
+  <div>
+    <h3 class="h4 title">
+      Ideas
+    </h3>
+  </div>
+  <div>
+    <h3 class="h4 title">
+      Todo
+    </h3>
+  </div>
+  <div>
+    <h3 class="h4 title">
+      Doing
+    </h3>
+  </div>
+  <div>
+    <h3 class="h4 title">
+      Done
+    </h3>
+  </div>
+</div>
+<p>Like many workflows ours didn't feel like it fit with this simplisitic structure. But we did feel like this technique could help us structure our work.</p>
+<h2 id="how_we_implemented_kanban">How we implemented Kanban</h2>
+<p>The first step we took was to sketch out the phases a bit of design work would go through.</p>
+<p>To test if it would work we realised we needed to get this on a whiteboard.</p>
+<p>We found some whiteboard space (a precious commodity) and started to draw our board up.</p>
+<p>
+  We both knew this was going to be a long journey. There was also a risk of exposing our work too early and receiving too much input too soon. It's better to get something up and public. The risk was worth the reward.
+</p>
+<h3>First implementation</h3>
+<p>After going backwards and forwards over the column names, we sketched out our board and added some cards.</p>
+<img alt="A Kanban board drawn on a whiteboard" src="../../../images/boards/first_iteration.jpg"/>
+<p>The idea behind the columns were:</p>
+<ol id="first-implementation">
+  <li>
+    <h4>Backlog</h4>
+    <p>The is where our ideas live. Design hypotheses. Components to look into and explore. Things to optimise. Bugs or "That's not great is its".</p>
+  </li>
+  <li>
+    <h4>Elaborate</h4>
+    <p>The phase where we are actively working on a problem, but exploring the shape and size of it. Looking at current solutions and the reasons they exist, as well as other people's.</p>
+  </li>
+  <li>
+    <h4>Refine</h4>
+    <p>Here we are refining our ideas into testable chunks of work. Sketching paper prototypes. Thinking how a problem might be solved but an iterative area of work.</p>
+  </li>
+  <li>
+    <h4>Build</h4>
+    <p>The stage where we formally think an idea is worth pursuing. We have a hypothesis, we have refined it and now want to build something formally to test and review</p>
+  </li>
+  <li>
+    <h4>Review</h4>
+    <p>Formal review time. Either with a fellow designer or a member of the product team (or programme or beyond).</p>
+  </li>
+  <li>
+    <h4>Test/Evaluate</h4>
+    <p>Time to get it in front of people and work out if it has the desired outcomes.</p>
+  </li>
+  <li>
+    <h4>Done</h4>
+    <p>All work finished. Idea explored, built, reviewed, tested with users.</p>
+  </li>
+</ol>
+<p>We got something up. And the second we did we saw what we felt was right, but also what we felt was missing.</p>
+<p>We didn't know where and by whom something was reviewed. Nor did we get a good sense of what was bouncing around after review.</p>
+<p>We also wanted to ensure our process was repeatable. Repeating high value things like documenting design decisions. We wanted to have that explicit, rather than implicit.</p>
+<p>As designers we're part of the board and ceremonies for the development team. Our work feeds into the Scrum/Kanban flow of the development board, but we help with frontend tickets too.</p>
+<p>It was clear immediately that the development board of the project we were on had informed us.</p>
+<p>We had copied some of the naming conventions and flow. It felt like it captured some of what we wanted to do, but not enough.</p>
+<h3>Exposing the workflow</h3>
+<p>We had started using the board. As we used it and explained it, it felt like there needed to be an iterative pattern or process in the middle.</p>
+<p>In hindsight, this is where we got a little too complicated early on. We knew we would see real value in exposing the iterative nature of our work. We struggled to find that balance.</p>
+<p>
+  Having looked for other examples of designers using Kanban, I stumbled across<a href="https://grillopress.github.io/">this blog post about Kanban</a>.It explained how Conceptboard had used it.
+</p>
+<p>I thought the Z-shaped pattern quite interesting.  It showed the iterative pattern of a design artefact going through rounds of review and refinement.</p>
+<p>Inspired by this, we created a less-conventional Kanban design that looked like the below:</p>
+<div class="z-board">
+  <div class="backlog">
+    <h3 class="h4 title">
+      Backlog
+    </h3>
+  </div>
+  <div class="research">
+    <h3 class="h4 title">
+      Research
+    </h3>
+  </div>
+  <div class="design">
+    <h3 class="h4 title">
+      Design
+    </h3>
+    <div class="inner-row">
+      <h4>
+        Prototype
+      </h4>
+    </div>
+    <div class="inner-row">
+      <h4>
+        Refine
+      </h4>
+    </div>
+  </div>
+  <div class="review">
+    <h3 class="h4 title">
+      Review
+    </h3>
+    <div class="inner-row">
+      <h4>
+        Design
+      </h4>
+    </div>
+    <div class="inner-row">
+      <h4>
+        Project
+      </h4>
+    </div>
+    <div class="inner-row">
+      <h4>
+        External
+      </h4>
+    </div>
+  </div>
+  <div class="done">
+    <h3 class="h4 title">
+      Done
+    </h3>
+    <div class="inner-row">
+      <h4>
+        Documented
+      </h4>
+    </div>
+    <div class="inner-row">
+      <h4>
+        Shared
+      </h4>
+    </div>
+    <div class="inner-row">
+      <h4>
+        Deployed
+      </h4>
+    </div>
+  </div>
+</div>
+<p>The idea behind this structure is that important sub-phases of design are exposed. The flow of a card on this board is still left to right but if a card merited it, it could fall through additional phases.</p>
+<p>
+  A card that goes through review would jump from
+  <strong>Design - Prototype</strong>
+  to
+  <strong>Review - Design</strong>
+  moving after that again into the
+  <strong>Design</strong>
+  column but this time in the
+  <strong>Refine</strong>
+  cell.
+</p>
+<p>Cards would now move through a Z-shape or in a circular fashion. Their iterative journey surfaced.</p>
+<p>Our second feature was the drawing out of what wanted to make sure we did with each bit of design work. The process of documenting and sharing our work and then getting it in a product (prototype or production).</p>
+<p>Looking at this now it is easy for us to see the faults.  At the time we were so close to it, it took us time to step back and see what was working and what wasn't.</p>
+<p>
+  We sacrificed the simplicity of our board to expose the iterative flow. We had completely messed up any notion of done by filling things in that column rather.
+</p>
+<h3>Wider feedback</h3>
+<p>I now felt ready to ask for some feedback.</p>
+<p>I grabbed an experienced service designer I knew and walked him through the board.</p>
+<p>It was great to hear he loved what we were doing. He also poked and prodded the thinking behind everything.</p>
+<p>
+  Taking the time to explain your concept is often the quickest way to expose the holes in your thinking. This is because you have to explain your idea without your hidden assumptions and background knowledge.
+</p>
+<p>
+  The complicated nature of the flow was clear.  Not in the fact that the designer couldn't understand and appreciate the flow, but that he was completely unsure of how it would work by looking at it.
+</p>
+<p>Another interesting point the service designer made was about our prioritisation of cards.</p>
+<p>
+  I mentioned that we wanted to have a sense of what was more important. Our idea was to rank cards and show that on the board with high priority cards being at the top of the
+    <strong>Backlog</strong>
+</p>
+<blockquote>
+  As I was talking through the board the head of the user research profession walked by. She asked a couple of questions too. A real reminder of the amazing place that I get to work where I can casually talk to two amazing, talented and experienced individuals about a sub-project I am passionate about.
+</blockquote>
+<h3>Designing the card</h3>
+<p>As we had been iterating our board we had been taking real design tasks through them. The design of our cards hadn't received much love or attention at this stage.</p>
+<p>At first our cards consisted of their title.</p>
+<p>Then we added a short description.</p>
+<p>We started to toy with the idea of colour indicating the type of design work. This was something that the developer board of our project did well.</p>
+<p>I grabbed our Product Owner to walk them through the board.</p>
+<p>
+  They appreciated the clarity into our process and what we were working on. The ability to influence and ensure things he saw down the line would be accommodated.
+</p>
+<p>They added that it would be valuable for them to be able to see where design issues or tasks came from.</p>
+<p>This felt like that a great idea. On each card we added a "referral" tag. This one-line tag, indicated where the problem or task came from.</p>
+<div class="kanban-card">
+  <div class="title">
+    <h4>
+      Title of the Kanban card
+    </h4>
+  </div>
+  <div class="stickers"></div>
+  <div class="desc">
+    <p>
+      Description of the hypothesis, thing to explore or issue raised
+    </p>
+  </div>
+  <div class="referrer">
+    <p>
+      Originator of idea/issue (Project, Lab etc.)
+    </p>
+  </div>
+</div>
+<p>We now had a stronger structure for our cards.</p>
+<p>At this stage, it felt like an optimisation too far to use coloured cards. We knew there was value to that system of categorisation. But it felt like a premature optimisation.</p>
+<p>We also had plenty of space left on the card to add things like tags, avatars and Jira numbers. And plenty of time to have finer grained categories too, further down the line.</p>
+<h3>Simplifying it</h3>
+<p>The board now felt like it was adding value. The cards were now easier to understand and the board was explicit at which stage our work was.</p>
+<p>The development team we sit in has a very experienced Scrum Master. I felt the board and my ability to explain it was now at a point where I could expose it further and to more rigorous examination.</p>
+<p>We grabbed some time and took them through the board.</p>
+<p>The board received more love. But the Scrum Master also noted two things they would change:</p>
+<ul>
+  <li>The board column structure was too hard to understand at first glance</li>
+  <li>We didn't really have a real done column</li>
+</ul>
+<p>It would have been easy to argue with the Scrum Master and say that an iterative process cannot be displayed in a linear fashion.</p>
+<p>However, this was the third or fourth time we had heard something similar about the visual structure. Every time we explained it, people understood it. But we wanted this board to expose something about how we worked to our project and the wider organisation.</p>
+<p>Asking the Scrum Master about other ways of displaying iterations he mentioned the use of sticky dots.</p>
+<p>This idea seemed like a very neat way of indicating what had been reviewed and by whom.</p>
+<p>Taking this opportunity we went back to basics. We explained our work flow and design process to the Scrum Master who scribbled on the board as we did.</p>
+<img src="../../../images/boards/analysing_the_flow.jpg"/>
+<p>We had another iteration</p>
+<h3>Another iteration</h3>
+<p>The outcome of the session with the Scrum Master meant we had an alternative way of displaying our iterative process as well as some tweaks to our columns.</p>
+<p>We drew up our board and made a few tweaks again.</p>
+<img src="../../../images/boards/another_iteration.jpg"/>
+<p>Our new column structure was:</p>
+<ol id="another-iteration">
+  <li>
+    <h4>Backlog</h4>
+    <p>The is where our ideas live. Design hypotheses. Components to look into and explore. Things to optimise. Bugs or "That's not great is its".</p>
+    <p>With the product team, we routinely rank and evaluate items here. Ensuring everything has been designed and tested before being put into the product.</p>
+    <p>To illustrate something is more important, it sits higher up the board.</p>
+  </li>
+  <li>
+    <h4>Research</h4>
+    <p>The phase where we are actively working on a problem, but exploring the shape and size of it. Looking at current solutions and the reasons they exist, as well as other people's.</p>
+  </li>
+  <li>
+    <h4>Design</h4>
+    <p>Here we are exploring and then refining our ideas into testable chunks of work. From sketching paper prototypes to screens or HTML.</p>
+    <p>If an item has a sticky note, it has been reviewed and an indicator of an item going through some further refinement or exploration.</p>
+  </li>
+  <li>
+    <h4>Design Review</h4>
+    <p>Formal review time. With another designer. The idea here being that we stage a time for each and every piece of design work.</p>
+    <p>Comments and suggestions are made and then saved. A sticky dot with the reviewer's initials are added.</p>
+    <p>If the item is deemed to need some further work, it can go back to the design column. If it is ready for wider review or would benefit from it, it moves forward.</p>
+  </li>
+  <li>
+    <h4>Wider Review</h4>
+    <p>Review with the wider team/s. This ranges from informal to formal reviews with the product team to more formal processes including the wider programme, other organisations and entities.</p>
+    <p>After this stage, as with the design review column, a sticky dot is added. The name or initials of the reviewers are added.</p>
+    <p>The card then can return to design or move forward.</p>
+  </li>
+  <li>
+    <h4>Document</h4>
+    <p>A staging area where we either create or collect our design artefacts together in one place.</p>
+    <p>We also add a design hypothesis (or two) to each ticket to surface our assumptions.</p>
+  </li>
+  <li>
+    <h4>User test</h4>
+    <p>Time to get it in front of people and work out if it has the desired outcomes.</p>
+  </li>
+  <li>
+    <h4>Done</h4>
+    <p>All work finished. Idea explored, built, reviewed, tested with users.</p>
+  </li>
+</ol>
+<h3>Bottlenecks</h3>
+<p>We found two bottlenecks very quickly with this process. Design review and document.</p>
+<p>The bottlenecks were faults of our own.</p>
+<p>Taking time to formally review, rather than quick glances, slowed things down.</p>
+<p>It is easy to review design work and not question enough with a colleague. To give a quick glance and a supportive remark.</p>
+<p>As well as make the time to thoroughly review things, it was clear that we needed to pass through things to review quicker as well. There is always the temptation to hold onto things until they are perfect.</p>
+<p>This makes reviewing harder. It also takes a lot longer and can stall other work you or colleagues have.</p>
+<p>The board highlighted that we needed to review early and often.</p>
+<p>Documenting things well can be a tough task. The board revealed to us we weren't documenting as we went enough and this added another bottleneck.</p>
+<p>The answer is of course "be better at documenting" but also make it easier to do.</p>
+<p>
+  Using a
+  <a href="/2017/12/10/hypothesis-driven-design.html" target="_blank">hypotheses driven design method</a>
+  we adopted a lean way of articulating our design decisions and what we were aiming to test with each change.
+</p>
+<p>We also used the comments section of a corresponding Jira card to document our review as well as attach any screenshots, PDFs, sketch files or links.</p>
+<p>Because we made it easier to document our design decisions, we got better at documenting as we went.</p>
+<h2>Benefits of using Kanban</h2>
+<p>Our journey using the Kanban board has only just begun but we've seen some real value already.</p>
+<p>With it we're able to:</p>
+<ul>
+  <li>Track what each other is working on</li>
+  <li>Easily record our design reviews and comments</li>
+  <li>Involve our team in our process</li>
+  <li>Continuously inspect our process and decisions</li>
+  <li>Make better stuff</li>
+</ul>
+<p>It has played a core part of integrating our design process into the wider product and team. It has improved us as designers. It has organised and evolved our process. It has made it easier to work together.</p>
+<p>If you're considering using one, do it!</p>
+<nav class='pagination'>
+<div class='prev'>
+Previous:
+<a href='/2017/12/10/hypothesis-driven-design.html' rel='prev'>Hypothesis driven design</a>
+</div>
+<div class='next'>
+Next:
+<a href='/2018/01/20/weekly-links.html' rel='next'>This week's links</a>
+</div>
+</nav>
+<!-- Begin MailChimp Signup Form -->
+<div id='mc_embed_signup'>
+<form action='https://github.us17.list-manage.com/subscribe/post?u=854caf2991c76fd7adae546f1&amp;id=b4e21ad2ba' class='validate' id='mc-embedded-subscribe-form' method='post' name='mc-embedded-subscribe-form' novalidate='' target='_blank'>
+<div id='mc_embed_signup_scroll'>
+<h2>Don't miss an article</h2>
+<div class='mc-field-group'>
+<label for='mce-EMAIL'>Email Address</label>
+<input class='required email' id='mce-EMAIL' name='EMAIL' type='email' value=''>
+</div>
+<div class='clear' id='mce-responses'>
+<div class='response' id='mce-error-response' style='display:none'></div>
+<div class='response' id='mce-success-response' style='display:none'></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
+<div aria-hidden='true' style='position: absolute; left: -5000px;'>
+<input name='b_854caf2991c76fd7adae546f1_b4e21ad2ba' tabindex='-1' type='text' value=''>
+</div>
+<div class='clear'>
+<input class='button' id='mc-embedded-subscribe' name='subscribe' type='submit' value='Subscribe'>
+</div>
+</div>
+</form>
+</div>
+<!-- End mc_embed_signup -->
+</section>
+<aside class='sidebar'>
+<h2>Recent Articles</h2>
+<ol>
+<li>
+<a href="/2023/09/29/user-stories-arent-the-tale-for-discovery.html">User stories arent the tale for discovery</a>
+<span>Sep 29</span>
+</li>
+<li>
+<a href="/2022/05/24/crowding-the-pan.html">Overcrowding the pan</a>
+<span>May 24</span>
+</li>
+<li>
+<a href="/2022/05/13/choosing-what-discovery.html">Choosing what discovery to go forward with</a>
+<span>May 13</span>
+</li>
+<li>
+<a href="/2022/03/31/conditions-for-problems.html">Conditions for tackling problems</a>
+<span>Mar 31</span>
+</li>
+<li>
+<a href="/2021/05/12/shaping-work-with-star.html">Shaping design work (with STAR)</a>
+<span>May 12</span>
+</li>
+<li>
+<a href="/2021/04/20/1-to-1s.html">1 to 1s</a>
+<span>Apr 20</span>
+</li>
+<li>
+<a href="/2021/03/26/dont-let-your-design-system-seem-complete.html">Don't let your design system seem complete</a>
+<span>Mar 26</span>
+</li>
+<li>
+<a href="/2021/03/19/win-space-to-design.html">Win the space to design services</a>
+<span>Mar 19</span>
+</li>
+<li>
+<a href="/2020/12/22/designing-for-context-users-dont-have.html">A common mistake teams make is designing for a context their users don't have</a>
+<span>Dec 22</span>
+</li>
+<li>
+<a href="/2020/07/02/let-your-headings-do-the-hard-work.html">Let your headings do the hard work</a>
+<span>Jul  2</span>
+</li>
+</ol>
+<h2>Tags</h2>
+<ol>
+<li><a href="/tags/design.html">Design (49)</a></li>
+<li><a href="/tags/discovery.html">Discovery (8)</a></li>
+<li><a href="/tags/weeknotes.html">Weeknotes (15)</a></li>
+<li><a href="/tags/interaction-design.html">interaction design (1)</a></li>
+<li><a href="/tags/design-research.html">design-research (1)</a></li>
+<li><a href="/tags/article.html">Article (1)</a></li>
+<li><a href="/tags/links.html">links (2)</a></li>
+</ol>
+<h2>By Year</h2>
+<ol>
+<li><a href="/2023.html">2023 (1)</a></li>
+<li><a href="/2022.html">2022 (3)</a></li>
+<li><a href="/2021.html">2021 (4)</a></li>
+<li><a href="/2020.html">2020 (12)</a></li>
+<li><a href="/2019.html">2019 (25)</a></li>
+<li><a href="/2018.html">2018 (27)</a></li>
+<li><a href="/2017.html">2017 (2)</a></li>
+</ol>
+</aside>
+</div>
+</article>
+</main>
+<footer class='container'>
+<p>
+Copyright 2017-2023 Andrew Duckworth
+|
+<a href="https://twitter.com/AndrewDuck_">@AndrewDuck_</a>
+</p>
+</footer>
+</body>
+</html>

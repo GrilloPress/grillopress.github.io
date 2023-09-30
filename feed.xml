@@ -5,16 +5,54 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2022-05-24T08:30:00+01:00</updated>
+  <updated>2023-09-29T18:59:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>User stories arent the tale for discovery</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/09/29/user-stories-arent-the-tale-for-discovery.html"/>
+    <id>https://grillopress.github.io/2023/09/29/user-stories-arent-the-tale-for-discovery.html</id>
+    <published>2023-09-29T18:59:00+01:00</published>
+    <updated>2023-09-29T19:40:02+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;From the volume of blog posts. Show and tell decks and confluence pages you’d think that writing user needs in user story formats would be the road to success. And though it’s a method that some teams find useful it’s not something I ever advocate. And particularly not when a team is exploring what problems to solve (problem discovery).&lt;/p&gt;
+
+&lt;p&gt;User needs in user story format, with their &amp;ldquo;As a [user], I want [action] so that [benefit]&amp;rdquo; structure, tend to cram needs into a narrow solutionised scope.&lt;/p&gt;
+
+&lt;p&gt;This is their point. But to do so they fudge complex things into bite-sized chunks. In discovery or as a vehicle to document the messy reality of a user&amp;rsquo;s needs, it means missing the broader picture. &lt;/p&gt;
+
+&lt;p&gt;A user story might encapsulate a single user&amp;rsquo;s immediate desire, but it often fails to reflect the collective needs and aspirations of the entire user base. Or the context and why behind the how.&lt;/p&gt;
+
+&lt;p&gt;User needs aren’t really a single thing. &lt;a href="https://www.myddelton.co.uk/blog/research-heresies"&gt;They’re a complex patchwork&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;User needs in user story formats tend to emphasize &amp;ldquo;how&amp;rdquo; over &amp;ldquo;why.&amp;rdquo; They fixate on the solution before understanding the problem. This can lead to a rush toward building features without a deep comprehension of the underlying issues.&lt;/p&gt;
+
+&lt;p&gt;I like building things. I like solving problems. So I need to make sure I&amp;rsquo;m solving the right problem.&lt;/p&gt;
+
+&lt;p&gt;To address user needs effectively, it’s best to spend some time to uncover the root causes of pain points. And give yourself and the team a pause before getting into solving a problem. This way you avoid just recreating whatever burning platform or missed opportunity you’re trying to patch up.&lt;/p&gt;
+
+&lt;p&gt;Problem statements can offer a more thoughtful approach by succinctly articulating the core issues and context. Other techniques like journey maps or storyboards that provide a visual narrative of the user&amp;rsquo;s entire experience can also be useful. Helping the team and related teams or stakeholders to share in the uncovering of hidden pain points and opportunities for improvement.&lt;/p&gt;
+
+&lt;p&gt;These tools help teams to shed light on the emotional, and contextual aspects of user interactions, which can be as critical as the functional ones when in discovery.&lt;/p&gt;
+
+&lt;p&gt;To truly understand and address your user’s actual needs, it is essential to deliver a comprehensive vision, acknowledge the intricate problems users face. A format of user needs in a story format funnels your thinking and articulation into solutions and simple actions. &lt;/p&gt;
+
+&lt;p&gt;The truth isn’t like this. And when you’re exploring and prioritizing the problems to solve. This isn’t what you need. Teams that do this build the wrong thing. They build solutions that miss the why.&lt;/p&gt;
+
+&lt;p&gt;A simple method to knowing whether you should write user needs like this is … can you and every member of your team explain in detail how your user thinks and how they act in a given circumstance? &lt;/p&gt;
+
+&lt;p&gt;If not. Leave the user story format behind. Leave that format for development of the solution. Not the storytelling of what your user needs and how they act. And get better at writing and sharing richer tales of your users and what they need from you and your product or service.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Overcrowding the pan</title>
     <link rel="alternate" href="https://grillopress.github.io/2022/05/24/crowding-the-pan.html"/>
     <id>https://grillopress.github.io/2022/05/24/crowding-the-pan.html</id>
     <published>2022-05-24T08:30:00+01:00</published>
-    <updated>2022-07-07T18:31:55+01:00</updated>
+    <updated>2023-09-29T19:40:02+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -62,7 +100,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2022/05/13/choosing-what-discovery.html"/>
     <id>https://grillopress.github.io/2022/05/13/choosing-what-discovery.html</id>
     <published>2022-05-13T08:30:00+01:00</published>
-    <updated>2022-05-20T09:30:14+01:00</updated>
+    <updated>2023-09-29T19:40:02+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -108,7 +146,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2022/03/31/conditions-for-problems.html"/>
     <id>https://grillopress.github.io/2022/03/31/conditions-for-problems.html</id>
     <published>2022-03-31T08:30:00+01:00</published>
-    <updated>2022-04-01T19:12:31+01:00</updated>
+    <updated>2023-09-29T19:40:02+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -156,7 +194,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2021/05/12/shaping-work-with-star.html"/>
     <id>https://grillopress.github.io/2021/05/12/shaping-work-with-star.html</id>
     <published>2021-05-12T08:30:00+01:00</published>
-    <updated>2022-03-30T21:18:28+01:00</updated>
+    <updated>2023-09-29T19:40:02+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -290,7 +328,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2021/04/20/1-to-1s.html"/>
     <id>https://grillopress.github.io/2021/04/20/1-to-1s.html</id>
     <published>2021-04-20T08:30:00+01:00</published>
-    <updated>2022-03-30T21:23:08+01:00</updated>
+    <updated>2023-09-29T19:40:02+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -351,56 +389,6 @@ Some things I read that were useful:&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://medium.com/servant-leadership/be-a-manager-3b0e39d87179"&gt;Be a manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.designbetter.co/design-leadership-handbook/managing-design-team"&gt;Managing design teams&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Don't let your design system seem complete</title>
-    <link rel="alternate" href="https://grillopress.github.io/2021/03/26/dont-let-your-design-system-seem-complete.html"/>
-    <id>https://grillopress.github.io/2021/03/26/dont-let-your-design-system-seem-complete.html</id>
-    <published>2021-03-26T07:30:00+00:00</published>
-    <updated>2022-03-30T21:42:45+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Tosin and Henry from the &lt;a href="https://service-manual.nhs.uk/"&gt;NHS service manual team&lt;/a&gt; shared their recent work at last Thursday’s design huddle &lt;a href="#link-1" id="link-1-ref"&gt;&lt;span hidden=""&gt;Link to explanation of design huddles &lt;/span&gt;[1]&lt;/a&gt;. They covered their work on understanding and improving contributions to the service manual.&lt;/p&gt;
-
-&lt;p&gt;They shared some of their research. Talking about reasons people don’t contribute.&lt;/p&gt;
-
-&lt;p&gt;Some of the reasons were time, not knowing what contributing meant and how to do it.&lt;/p&gt;
-
-&lt;p&gt;Another reason revealed after was a feeling that the service manual was “put together by experts”. People feel intimidated. By the manual and from contributing. And that components/patterns were untouchable.&lt;/p&gt;
-
-&lt;p&gt;This matched something I had been thinking about recently. That the level of authority and professionalism in a design system helps sell it so teams use it. But increases the perception things are fixed. Done. And not open to change.&lt;/p&gt;
-
-&lt;p&gt;This shouldn’t be a surprise.&lt;/p&gt;
-
-&lt;p&gt;The more professional and finished something is, the less likely people are to add to it. Maybe a typo here and there. This happens with prototypes all the time. The more polished something is, you reduce the type of feedback you get.&lt;/p&gt;
-
-&lt;p&gt;If you do get more fundamental feedback. It’s often a total rejection. Rather than an iteration.&lt;/p&gt;
-
-&lt;p&gt;But when you present something less polished, you get more radical feedback. Feedback that feeds on an idea.&lt;/p&gt;
-
-&lt;p&gt;This is a fundamental tension for any service manual and design system.&lt;/p&gt;
-
-&lt;p&gt;The issue with the service manual is, to get people using it. You need to express the same sort of authority and completeness.&lt;/p&gt;
-
-&lt;p&gt;You don’t sell a design system with a sense of things not being thought of.&lt;/p&gt;
-
-&lt;p&gt;But doing so you also create a barrier for contribution. Because things look complete. Done. And done by “experts”.&lt;/p&gt;
-
-&lt;p&gt;It’s almost an impossible task. But every design system has to balance polish that sells implementation with openness to new ideas. And a sense that components or patterns aren’t final. They’re open to iteration.&lt;/p&gt;
-
-&lt;p&gt;I’m looking forward to seeing how the NHS service manual team tackle that balance.&lt;/p&gt;
-
-&lt;p&gt;If you own or feed into a design system. Make sure there’s a sense of openness to change. Be okay to give openness to feedback higher prominence. And show how things are in a state of development.&lt;/p&gt;
-
-&lt;p&gt;And make sure you do the hard work to dispel that a design system is only created by design system experts. It’s created and improved by any and every team that uses it.&lt;/p&gt;
-
-&lt;p&gt;Don’t let your design system seem complete&lt;/p&gt;
-
-&lt;p&gt;&lt;hr&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="#link-1-ref" id="link-1"&gt;&lt;span hidden=""&gt;Link back to body of text &lt;/span&gt;[1]&lt;/a&gt; The design huddle is an hour where all designers from NHS Digital get together and share their work or ask for help&lt;/p&gt;
 </content>
   </entry>
 </feed>
