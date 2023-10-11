@@ -5,10 +5,77 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-09-29T18:59:00+01:00</updated>
+  <updated>2023-10-11T19:14:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Codesign and the carnivalesque</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/10/11/codesign-and-the-carnivalesque.html"/>
+    <id>https://grillopress.github.io/2023/10/11/codesign-and-the-carnivalesque.html</id>
+    <published>2023-10-11T19:14:00+01:00</published>
+    <updated>2023-10-11T19:45:33+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Codesign is popular thing right now. I’ve heard it from lots of different corners of programme, project and delivery management. Nevermind research and design worlds.&lt;/p&gt;
+
+&lt;p&gt;I like codesign. It’s about involving the people who are impacted by your design in the design process. Of opening up and evening out power to create. But it’s something that gets said a lot.&lt;/p&gt;
+
+&lt;p&gt;The promise of codesign is great. But the reality of how it’s done is often not so.&lt;/p&gt;
+
+&lt;p&gt;Much of codesign reminds me of the “carnivalesque”.&lt;/p&gt;
+
+&lt;h2&gt;The carnivalesque&lt;/h2&gt;
+
+&lt;p&gt;The carnivalesque is a literary and cultural concept. It refers to a temporary mode of subversion and rebellion against social norms and conventions. It originated from the medieval carnival.&lt;/p&gt;
+
+&lt;figure class="noir"&gt;
+    &lt;img src="/images/pieter-bruegel.jpeg" alt="Carnival and debauchery on show in a painting from Pieter Bruegel the Elder, painted during the 16th century."/&gt;
+    &lt;figcaption&gt;Some sort of carnivalesque prototype of a knight going on in a Pieter Bruegel the Elder painting&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;p&gt;The carnival was a time when people would gather and engage in fun. Including role reversals, plays, masks, and other forms of transgression. The carnivalesque was a moment in time where roles are reversed. Activities that allowed people to challenge and undermine established hierarchies and power structures. Often by inverting or parodying them. And I&amp;rsquo;m sure often with lots of food and drink.&lt;/p&gt;
+
+&lt;p&gt;In the carnivalesque, the boundaries between sacred and profane, and normal and abnormal are blurred or even reversed. This leads to a sense of liberation and freedom. People are encouraged to express themselves and act outside of their usual roles.&lt;/p&gt;
+
+&lt;p&gt;Jokes are had. Fun things take place. You get away from your normal roles and position in things.&lt;/p&gt;
+
+&lt;h2&gt;What codesign and the carnivalesque share&lt;/h2&gt;
+
+&lt;p&gt;The process of codesign and cocreation can be like the carnivalesque in several ways. Both involve a sense of playfulness and experimentation. People are encouraged to explore different ideas and possibilities in a non-conventional way. Like the carnivalesque, codesign and cocreation allow for the breaking down of barriers. And the crossing of boundaries between different disciplines, perspectives, and ways of thinking.&lt;/p&gt;
+
+&lt;p&gt;Both codesign and cocreation are collaborative processes. They involve a collective effort to create something new and innovative. This collaboration often leads to a disruption of traditional power structures. Participants are given an equal voice and agency in the design process. This is like carnivalesque’s inversion of power hierarchies and its emphasis on collective participation and democratic decision-making.&lt;/p&gt;
+
+&lt;p&gt;True carnivalesque is about unmanaged, unrefined sense of upheaval and fun bubbling under the surface that at any moment can strike hard at false certainties. Getting rid of “that’s how it works”. The carnivalesque is about upending roles. The lords become the peasants and those without power become the lords.&lt;/p&gt;
+
+&lt;p&gt;Lots of design tools and techniques attempt to use this. None more so than codesign.&lt;/p&gt;
+
+&lt;p&gt;And this is where codesign is the most powerful. Where it recreates this feeling. Where people who are typically excluded from decision making are in the room. The excluded are now making and producing with equal power.&lt;/p&gt;
+
+&lt;h2&gt;The shared flaws and limits&lt;/h2&gt;
+
+&lt;p&gt;However. As with anything where there’s a transfer of power from those that have it to those that don&amp;rsquo;t. It’s scary. People will ask for “unrealistic things”. A strength. But also a threat. And with any threatening things, a risk to minimise.&lt;/p&gt;
+
+&lt;p&gt;In organisations that are risk adverse. This happens all the time.&lt;/p&gt;
+
+&lt;p&gt;So, codesign doesn’t happen.&lt;/p&gt;
+
+&lt;p&gt;Or if it does. It doesn’t actually influence or change anything beyond the moment of fun. Relegated to an hour of hope, exchanged in the long term for pessimism and sense that was a bloody waste of time.&lt;/p&gt;
+
+&lt;p&gt;And if that feels dramatic. I’ve seen it plenty. With people faithfully wanting to create the conditions to use what comes out of the chaos of codesign. But those in power having no acceptance or readiness to share power. Or take the fruits of codesign forward. &lt;/p&gt;
+
+&lt;p&gt;Teams, communities and organisations then learn (rightfully) to distrust those with power. To roll their eyes. To say “we’ve heard this before”. And then they shun the next chance. Turning down any tickets to the show.&lt;/p&gt;
+
+&lt;p&gt;And who’d blame them?&lt;/p&gt;
+
+&lt;p&gt;This is also the main criticism of carnivaleseque. It isn’t something that creates lasting change. When the carnival closes everything goes back to the way it was. It’s not changing things in a lasting way.&lt;/p&gt;
+
+&lt;p&gt;Codesign offers so much. But be careful that you can live up to the offer you make people.&lt;/p&gt;
+
+&lt;p&gt;Next time you’re encouraging your users and communities to get involved. And take a codesign approach. Ask yourself: does your codesign project promise the carnival but leave your participants feeling like clowns?&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>User stories arent the tale for discovery</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/09/29/user-stories-arent-the-tale-for-discovery.html"/>
@@ -321,74 +388,6 @@
 &lt;p&gt;I’ve found it helpful to shape work for others. To make things clear. And make context obvious. Particularly compared to projects that I’ve not used this format.&lt;/p&gt;
 
 &lt;p&gt;If you find yourself needing to shape your own work or work for others. Use a format to structure your shaping. Try a format like STAR.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>1 to 1s</title>
-    <link rel="alternate" href="https://grillopress.github.io/2021/04/20/1-to-1s.html"/>
-    <id>https://grillopress.github.io/2021/04/20/1-to-1s.html</id>
-    <published>2021-04-20T08:30:00+01:00</published>
-    <updated>2023-09-29T19:40:02+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;I haven’t had a career full of great experiences of being managed and coached.&lt;/p&gt;
-
-&lt;p&gt;I’ve worked with lots of brilliant people. But a good manager is not something I’ve commonly experienced. And when I have had good managers they weren’t in similar professions or did similar work.&lt;/p&gt;
-
-&lt;p&gt;I’m currently leading and managing a team of 13. So when it’s come to trying to be a good manager there wasn’t a limitless well to go to of examples.&lt;/p&gt;
-
-&lt;p&gt;Of what good management or coaching I’ve experienced, I have felt like people had time for me. And had my back. And this is something I want everyone to feel.&lt;/p&gt;
-
-&lt;p&gt;We have things like &lt;a href="https://grillopress.github.io/2018/01/08/kanban_for_interaction_design.html"&gt;Kanban boards&lt;/a&gt;, slack channels and weekly huddles. But the 1 to 1 has been the most useful tool.&lt;/p&gt;
-
-&lt;p&gt;Thinking about my experience of “being managed” in other teams, 1 to 1s often felt like boxes to tick. Or a scrambled meeting to be fit in very busy diaries. Or they are done so infrequently that there’s too much to say, so nothing valuable is said at all.&lt;/p&gt;
-
-&lt;p&gt;Talking to and reading other people’s experiences of managing/being managed, something that was vital was the feeling that the time was important to the manager. That it was dedicated time. More important than the latest part of a service that was on fire.&lt;/p&gt;
-
-&lt;p&gt;This is the experience I wanted for my team. Reflecting on how I wanted my team to feel about 1 to 1s with me, I wanted the team to feel:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I was engaged&lt;/li&gt;
-&lt;li&gt;That this time was more important than any other thing&lt;/li&gt;
-&lt;li&gt;That I would be honest, realistic and open&lt;/li&gt;
-&lt;li&gt;That they could raise anything to me. Even about me&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;But you can’t just ask the question and expect the answers to flow. To get a process right, I made sure to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Talk to others and look at people’s blogs about 1 to 1s&lt;/li&gt;
-&lt;li&gt;Starting with a few people then growing each week&lt;/li&gt;
-&lt;li&gt;Build in the process a way for the team to shape the agenda not me&lt;/li&gt;
-&lt;li&gt;Have some saved questions. So when something was asked or raised I had ways of coaching. And when nothing was directly raised I could check in on their work and happiness&lt;/li&gt;
-&lt;li&gt;Write a log of my meetings to see what worked and what did not&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The 1 to 1s have been really rewarding. And important to unblocking issues and getting things done.&lt;/p&gt;
-
-&lt;p&gt;I have found out lots of new things about my team. And issues have been raised that wouldn’t have.&lt;/p&gt;
-
-&lt;p&gt;People who I would have said weren’t ambitious or wanted to do more. Had raised hunger. Juniors who I thought wanted more experience in a particular role, wanted experience in another area.&lt;/p&gt;
-
-&lt;p&gt;I look forward to my 1 to 1s with the team. And from the feedback I’ve got, they do too.&lt;/p&gt;
-
-&lt;p&gt;If you’re managing or leading a team. Approach your 1 to 1 process like you would any design.&lt;/p&gt;
-
-&lt;p&gt;If you don’t directly manage someone but have a position of seniority or leadership. Bring them in as part of your routine project work.&lt;/p&gt;
-
-&lt;p&gt;If you’re new to management. Start with 1 to 1s.&lt;/p&gt;
-
-&lt;p&gt;1 to 1s work if you do the work. Give them the focus they and your team deserve. And don’t be afraid to get things wrong and the change them.&lt;/p&gt;
-
-&lt;p&gt;Related stuff
-Some things I read that were useful:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/"&gt;101 questions to ask in 1 to 1s&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://medium.com/servant-leadership/be-a-manager-3b0e39d87179"&gt;Be a manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.designbetter.co/design-leadership-handbook/managing-design-team"&gt;Managing design teams&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
