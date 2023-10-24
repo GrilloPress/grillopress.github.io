@@ -5,10 +5,60 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-10-20T18:59:00+01:00</updated>
+  <updated>2023-10-21T19:20:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Don't underestimate being at the heart of things</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/10/21/dont-underestimate-being-at-the-heart-of-things.html"/>
+    <id>https://grillopress.github.io/2023/10/21/dont-underestimate-being-at-the-heart-of-things.html</id>
+    <published>2023-10-21T19:20:00+01:00</published>
+    <updated>2023-10-24T19:00:13+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;A service I worked on from March is starting to roll out. When I landed in that team, needing some service design help and leadership, it felt they were the furthest away from every making something real. And now it’s going to get very real.&lt;/p&gt;
+
+&lt;p&gt;Like all projects there’s lots to reflect on.&lt;/p&gt;
+
+&lt;p&gt;Things you learnt. Could do better next time. Friendships and challenges.&lt;/p&gt;
+
+&lt;p&gt;One of the things that went well was the speed of getting up to speed and making an impact.&lt;/p&gt;
+
+&lt;p&gt;I joined the team when they had gotten a massive scope shift. With the team reeling a little. But a week after I joined we had an end to end service design and broad hypothesis for what we wanted the service to look like.&lt;/p&gt;
+
+&lt;p&gt;There was lots more to do than that. But it felt great making an impact. And the feedback from the team and others was great too.&lt;/p&gt;
+
+&lt;p&gt;After a retro where some people were very nice about me and that impact it made me think about what helped me move things on. To make a useful impact.&lt;/p&gt;
+
+&lt;p&gt;Having quite a lot of experience in health and the health and care sector helped. As did working in places learning how to do user centred design.&lt;/p&gt;
+
+&lt;p&gt;And the same was also true to how data services work. Even if when I joined the project I wasn’t aware it was going to involve yet another data pipeline and dashboards project.&lt;/p&gt;
+
+&lt;p&gt;But even if those things weren’t true. And there have been plenty of projects were they haven’t. A thing that seems to work is being happy to, being active, in putting myself at the heart of facilitating and running meetings.&lt;/p&gt;
+
+&lt;p&gt;As a designer in a senior or leading role, your job is to help teams make better decisions. To design the right thing or the thing right. A way to help the team to achieve that is through your craft. But there’s another way. And one particularly important for a service designer. Which is to facilitate and help people run their processes in a user-centred way.&lt;/p&gt;
+
+&lt;p&gt;You can do that easier when you put yourself in the heart of the process. By offering to host, hold or run a meeting. From a retro to a planning session and everything in-between.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/images/at the heart.jpeg" alt="Roy Lichtenstein style panel woman bluring into newspaper, hearts with empty speech bubble"/&gt;&lt;/p&gt;
+
+&lt;p&gt;For the project going live, I found myself running meetings from assumption mapping sessions to story mapping and sprint planning sessions. It ensured I was where decisions were made. And that when a decision was made. There was someone reflecting what users’ needed. And that we balanced lots of different perspectives and layers from the service. From policy, tech, users and service teams.&lt;/p&gt;
+
+&lt;p&gt;So if you’re feeling a little lost or out of the loop. Or want to make a bigger impact. Make a point of facilitating a meeting. Even a regular one or where there exists a person who sit in that role. It’ll help you be at the heart of things and facilitate the discussions and decisions you’ll need to do service design.&lt;/p&gt;
+
+&lt;p&gt;Take your delivery, product or project manager aside and say you want to run something. Either as personal experience or to help mix something up. Whatever it takes. Put the effort in and design the meeting to make it a success.&lt;/p&gt;
+
+&lt;p&gt;Naturally there’s a limit to what’s your role and be careful you’re not taking on work that’s not yours. Be clear you’re being helpful. And that this isn’t about taking notes or making coffee. It’s about making sure you and the team actually designs the service. So if the additional role doesn’t get you there be watchful.&lt;/p&gt;
+
+&lt;p&gt;Some teams or projects you may also find that the team is reluctant. Maybe that&amp;rsquo;s because you&amp;rsquo;re still needing to buy the space to lead things. Sometimes that&amp;rsquo;s just because the team isn&amp;rsquo;t ready. Sometimes that means you need others to take that leading role.&lt;/p&gt;
+
+&lt;p&gt;But. Remember that most of service design is orchestration and facilitation of multiple viewpoints consciously designing and making the service. And that happens outside the craft of design.&lt;/p&gt;
+
+&lt;p&gt;In fact the majority of service design happens outside the traditional craft of design. So don’t underestimate being at the heart of things. It’ll get you and your team further faster. Whatever way you can do it.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Accessibility and inclusion isn't always going to be cost neutral</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/10/20/accessibility-and-inclusion-isnt-always-going-to-be-cost-neutral.html"/>
@@ -113,11 +163,11 @@
 </content>
   </entry>
   <entry>
-    <title>User stories arent the tale for discovery</title>
+    <title>User stories aren't the tale for discovery</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/09/29/user-stories-arent-the-tale-for-discovery.html"/>
     <id>https://grillopress.github.io/2023/09/29/user-stories-arent-the-tale-for-discovery.html</id>
     <published>2023-09-29T18:59:00+01:00</published>
-    <updated>2023-09-29T19:40:02+01:00</updated>
+    <updated>2023-10-21T19:20:37+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -242,54 +292,6 @@
 &lt;p&gt;How likely is it the things we&amp;rsquo;re looking into are things we can solve? The NHS has wasted millions on discoveries and alphas into things that&amp;rsquo;ll take billions to solve etc.&lt;/p&gt;
 
 &lt;p&gt;Are we trying to boil the ocean when it might make sense to start somewhere smaller?&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Conditions for tackling problems</title>
-    <link rel="alternate" href="https://grillopress.github.io/2022/03/31/conditions-for-problems.html"/>
-    <id>https://grillopress.github.io/2022/03/31/conditions-for-problems.html</id>
-    <published>2022-03-31T08:30:00+01:00</published>
-    <updated>2023-09-29T19:40:02+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Been thinking a lot about team dynamics and process. Because there are a few things that aren&amp;rsquo;t quite working.&lt;/p&gt;
-
-&lt;p&gt;I’ve always been a believer that you empower your teams by asking them to find opportunities and go do something about them. As opposed to telling people the solution, or the problem to work on.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve done this in my career. Sometimes wrestling this freedom after being handed a solution. Sometimes after buying some credit through delivering something. And a few times with that brief itself.&lt;/p&gt;
-
-&lt;p&gt;But the freedom to go find opportunities or problems to solve can be really difficult sometimes.&lt;/p&gt;
-
-&lt;p&gt;Recently an agile consultant, who had been reviewing different team&amp;rsquo;s maturity in agile, explained why her recommendations weren&amp;rsquo;t about adopting the pinnacle of agile best practice.&lt;/p&gt;
-
-&lt;p&gt;Her recommendation was that because there was little existing culture. And rapidly shifting policy. That it wasn&amp;rsquo;t sensible to get to best practice quickly.&lt;/p&gt;
-
-&lt;p&gt;Her recommendation was to do small things. They were to start very small.&lt;/p&gt;
-
-&lt;p&gt;From there, what worked could be shared and grow. And bit by bit a culture could emerge.&lt;/p&gt;
-
-&lt;p&gt;The conditions, context or capabilities weren&amp;rsquo;t there to go do the pinnacle of agile best practice.&lt;/p&gt;
-
-&lt;p&gt;Talking the recommendations through got me thinking about conditions and context. Not just for agile. But also what is needed to handle the freedom to go find opportunities and problems to solve.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re working in a space where problems have so many causes and interconnected systems, the freedom can be suffocating. Especially without deep domain knowledge. And you often find it&amp;rsquo;s better to start the journey with a small but well-shaped opportunity. Or a vision of what you want the solution to be.&lt;/p&gt;
-
-&lt;p&gt;Similarly, if you have a team that&amp;rsquo;s not quite experienced in navigating uncertainty the freedom can stifle any progress. And often results in endless and fruitless discoveries.&lt;/p&gt;
-
-&lt;p&gt;You need to take smaller steps if:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;policy or strategy is always shifting&lt;/li&gt;
-&lt;li&gt;context changes all the time (think COVID-19)&lt;/li&gt;
-&lt;li&gt;teams or organisations are beginning their journey in certain ways of working&lt;/li&gt;
-&lt;li&gt;there’s a lack of delivery or history to call on&lt;/li&gt;
-&lt;li&gt;the team hasn&amp;rsquo;t had the time to build the domain knowledge&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Empowering teams is a process. Sometimes full freedom to go find opportunities or problems is not the first step.&lt;/p&gt;
-
-&lt;p&gt;And allowing a team to prove a hunch is wrong can be an effective way to build the conditions and context for finding what would work. (Though this only works if you&amp;rsquo;re willing to listen and it&amp;rsquo;s safe for them to say not that, but this)&lt;/p&gt;
 </content>
   </entry>
 </feed>
