@@ -5,10 +5,116 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-10-21T19:20:00+01:00</updated>
+  <updated>2023-10-27T13:52:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Why designers design forms</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/10/27/why-we-design-forms.html"/>
+    <id>https://grillopress.github.io/2023/10/27/why-we-design-forms.html</id>
+    <published>2023-10-27T13:52:00+01:00</published>
+    <updated>2023-10-28T17:58:22+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Cathy Dutton asked if people have &lt;a href="https://twitter.com/cathy_dutton/status/1717540981526937636"&gt;any goto presentations on why we need to design forms&lt;/a&gt;. Not the process of how you do it. More the justification for it (other than it’s fun and gives me a job!).&lt;/p&gt;
+
+&lt;p&gt;This made me think of how I approach this. Or the battle that I can sense underneath. Which is justifying the cost of research and design and their impact. And in places where subject matter experts are &amp;ldquo;good enough&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I try to spend as little time justifying my or other people’s existence as specialists. Taking a show/watch me approach or using local examples of improvement or failure. But sometimes you’ve got to have those chats.&lt;/p&gt;
+
+&lt;p&gt;My first thought was the &lt;a href="https://articles.centercentre.com/three_hund_million_button/"&gt;300 million button&lt;/a&gt; example. Though it took me a while to find it as I swore it was about airlines.&lt;/p&gt;
+
+&lt;p&gt;I tried looking on gov.uk and though I found a few. The gov.uk blogs are missing designers talking about making measurable impacts.&lt;/p&gt;
+
+&lt;p&gt;But why do we design forms? And use specialists to do it?&lt;/p&gt;
+
+&lt;h2 class="h3"&gt;Designers make sure policies, products and people are as successful as they can be&lt;/h2&gt;
+
+&lt;p&gt;If it&amp;rsquo;s hard to complete a form then policies and products fail. Or make much less money or cost lots more. &lt;/p&gt;
+
+&lt;p&gt;Good designers make &lt;a href="https://dl.acm.org/doi/epdf/10.1145/2556288.2557265"&gt;forms better and quicker and easier to complete&lt;/a&gt;. And find ways of making improvements to processes. Like the &lt;a href="https://designnotes.blog.gov.uk/2015/09/15/make-sure-this-is-right-a-new-email-confirmation-pattern/"&gt;register to vote team&lt;/a&gt; which improved how they captured emails helping 50,000 more people use the service each month.&lt;/p&gt;
+
+&lt;p&gt;Similarly designers make things more profitable by looking at the small details. &lt;a href="https://scholar.google.com/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=ux+form&amp;amp;btnG=#d=gs_qabs&amp;amp;t=1698349420840&amp;amp;u=%23p%3DBjPQ7SL3NoIJ"&gt;Ebay made an additional $500 a year just from redesigning a button&lt;/a&gt; on their mobile website.&lt;/p&gt;
+
+&lt;h2 class="h3"&gt;Bad data undermines systems and businesses. Good form design reverses this&lt;/h2&gt;
+
+&lt;p&gt;Forms are a key way that organisations get data and information. Be they credit card details to complete a transaction. Or an email or a newsletter sign up form.&lt;/p&gt;
+
+&lt;p&gt;But poor data stymies and undermines systems and products. The implications of poor quality data means:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;you have less user/customer satisfaction&lt;/li&gt;
+&lt;li&gt;increased running costs&lt;/li&gt;
+&lt;li&gt;inefficient decision-making processes&lt;/li&gt;
+&lt;li&gt;lower performance&lt;/li&gt;
+&lt;li&gt;lowered employee job satisfaction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="https://www.econstor.eu/bitstream/10419/188448/1/v04-i02-p168_232-1425-1-PB.pdf"&gt;This interesting paper shows the evidence for this&lt;/a&gt;. The paper also highlights that bad data can have a revenue cost of 8-12% for many companies.&lt;/p&gt;
+
+&lt;p&gt;Designers work closely with data, policy and technical teams to improve the quality of data. They do this by making the processes clearer for the people filling in forms. Making it clear what is being asked of or shown to users in a form based journey. This skill means users enter in better data.&lt;/p&gt;
+
+&lt;h2 class="h3"&gt;Good form design can reduce support costs&lt;/h2&gt;
+
+&lt;p&gt;Expedia found out that the number one reason customers called them was to get their travel itineraries.  Their contact centre cost them over 100 million a year. Redesigning this reduced the need for support for this issue. Calls about this dropped from 58% to 15% (according to Medallia’s “Contact Center and Digital, Better Together”). &lt;/p&gt;
+
+&lt;p&gt;Improving the information at the end of a process for the &lt;a href="https://designnotes.blog.gov.uk/2016/10/21/improving-the-check-your-state-pension-service-in-public-beta/"&gt;State Pension team reduced enquiries by 51%&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The government spends millions every year in this support. A form stands in the way of them telling us things. Or getting access to something.&lt;/p&gt;
+
+&lt;p&gt;A good design team makes it easier to input data. And makes the information and data forms return easier to understand and action. This leads to a reduction in calls, support and complaints.&lt;/p&gt;
+
+&lt;p&gt;I was part of a team that redesigned some paper forms that reduced the number and complexity of calls our contact centre got. The forms were built by subject matter experts but not design/form experts. Once we worked together we made it easier for our users to use our service. And reduced the cost to support the service.&lt;/p&gt;
+
+&lt;h2 class="h3"&gt;Bad forms request information we should already have or don&amp;rsquo;t need. Design looks to find ways to stop this&lt;/h2&gt;
+
+&lt;p&gt;Designers make sure we don’t ask things we already know. At times for gov a statutory duty and if not, an efficiency and a way of ensuring validated data. Designers work with teams to understand why we are asking what we’re asking. And find other &lt;a href="https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"&gt;options with lower risks or barriers for our users&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Reducing what you ask, because you already know if don&amp;rsquo;t need it, also helps people to complete forms. Formstack found that they could &lt;a href="https://www.quicksprout.com/contact-form-conversion-rate/"&gt;improve conversation rates by up to 160%&lt;/a&gt; by reducing how many things they asked for. If you ask for less because you use what you already have, you improve completion rates too.&lt;/p&gt;
+
+&lt;h2 class="h3"&gt;Designers make sure our services and products meet their legal requirements&lt;/h2&gt;
+
+&lt;p&gt;Designers help ensure that &lt;a href="https://blog.navapbc.com/structuring-a-complex-eligibility-form-for-healthcare-gov-37d79a5ad6?gi=12da7bf5ecf3"&gt;all people can use a service&lt;/a&gt;. Meeting people&amp;rsquo;s needs and making policies work first time and for all our communities. And by doing so meeting &lt;a href="https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#:~:text=The%20accessibility%20regulations%20came%20into,accessibility%20statement%20on%20your%20website"&gt;legal and ethical standards&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Many of these technical requirements are open to interpretation. And need domain-knowledge to navigate and implement. Designers develop deep knowledge doing this and supporting teams in implementation.&lt;/p&gt;
+
+&lt;h2 class="h3"&gt;Designers are experts at explaining and getting the right information in a form&lt;/h2&gt;
+
+&lt;div class="right"&gt;
+    &lt;img src="/images/wireframes - andrew duckworth.jpeg" alt="Roy Litchenstien inspired artwork of UX wireframes"/&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Your product or service has a form. It needs information. And it may also use that form to display data in a process or flow. Designers are experts at designing the form and how it sits within a journey.&lt;/p&gt;
+
+&lt;p&gt;They do this so often they learn the rules and best practices and can ensure you follow them. So they can be quick and efficient by using best practice to improve things before you&amp;rsquo;ve invested in a solution and found out the hard way.&lt;/p&gt;
+
+&lt;h2 class="h3"&gt;But what about low volume forms and transactions?&lt;/h2&gt;
+
+&lt;p&gt;Just because something is low volume doesn&amp;rsquo;t mean the data or actions that sit off it are unimportant. I&amp;rsquo;ve worked on forms where there are at best 100 submitted a year. But when they are completed the work to process and manage the request is really high.&lt;/p&gt;
+
+&lt;p&gt;Because designers come with lots of experience, they&amp;rsquo;re also well equipped to quickly help you pull together more generic forms. &lt;/p&gt;
+
+&lt;p&gt;The reasons you should still work with a designer are they:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;improve data accuracy and quality through form submissions&lt;/li&gt;
+&lt;li&gt;reduce support requests or the use of other channels to do the thing&lt;/li&gt;
+&lt;li&gt;ensure legal compliance&lt;/li&gt;
+&lt;li&gt;use patterns to ensure people trust you&lt;/li&gt;
+&lt;li&gt;make things consistent with branding and your values&lt;/li&gt;
+&lt;li&gt;identify or make sure of quick wins for usability&lt;/li&gt;
+&lt;li&gt;avoid costly revisions because things don&amp;rsquo;t work or increase workload&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A form builder or design system will not give you these things. A team without someone a designer will find it harder to get this right.&lt;/p&gt;
+
+&lt;p&gt;A good chunk of contact centre improvements I&amp;rsquo;ve made have started with poor data collection or bad processes that needed changing. And when teams look to design forms they also identify back office processes that need improving across the whole service. So you might start with the form but end up improving and optimising many processes and things.&lt;/p&gt;
+
+&lt;p&gt;This is why you design a form. For all these reasons. To make things easier for your user, get better data and meet your goals as an organisation.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Don't underestimate being at the heart of things</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/10/21/dont-underestimate-being-at-the-heart-of-things.html"/>
@@ -246,52 +352,6 @@
 &lt;p&gt;Be careful to balance your teams so they have just the right amount of people in them. Don&amp;rsquo;t overcrowd the pan.&lt;/p&gt;
 
 &lt;p&gt;*assuming we&amp;rsquo;re talking about just frying the egg and rice that is!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Choosing what discovery to go forward with</title>
-    <link rel="alternate" href="https://grillopress.github.io/2022/05/13/choosing-what-discovery.html"/>
-    <id>https://grillopress.github.io/2022/05/13/choosing-what-discovery.html</id>
-    <published>2022-05-13T08:30:00+01:00</published>
-    <updated>2023-09-29T19:40:02+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;A researcher in another gov department recently messaged about tips for choosing what discovery to go with next.&lt;/p&gt;
-
-&lt;p&gt;I thought this was an interesting question. There&amp;rsquo;s many ways to go forward. And context can change this a lot.&lt;/p&gt;
-
-&lt;p&gt;When I find myself in a similar situation I like to create frameworks within the team. Myself, product, programme whoever on what factors we&amp;rsquo;d use to decide as a team that something&amp;rsquo;s worth looking into more.&lt;/p&gt;
-
-&lt;p&gt;Not just what we could do. But what will help make a decision. And the organisation a better decision about what to do next. Even if that&amp;rsquo;s just ourselves about the direction of the service we&amp;rsquo;re providing.&lt;/p&gt;
-
-&lt;p&gt;Some factors I use in a that framework are:&lt;/p&gt;
-
-&lt;h2&gt;User impact&lt;/h2&gt;
-
-&lt;p&gt;How much is this area gonna improve things? And how likely is the change going to be welcomed and embraced?&lt;/p&gt;
-
-&lt;h2&gt;Business impact&lt;/h2&gt;
-
-&lt;p&gt;How much is this gonna chime with a benefit or impact to the organisation? [grasp an opportunity, save money, reduce cost, improved specific outcomes]&lt;/p&gt;
-
-&lt;h2&gt;Strategic alignment&lt;/h2&gt;
-
-&lt;p&gt;Does this thing have strategic buy-in or alignment? If not, doesn&amp;rsquo;t mean don&amp;rsquo;t do it. Just that&amp;rsquo;s a factor in how much effort it&amp;rsquo;ll be to get people to buy into this work.&lt;/p&gt;
-
-&lt;h2&gt;Ease to do&lt;/h2&gt;
-
-&lt;p&gt;Is this something we can do? And find out about? Or does it include working across teams and organisations. Again. Doesn&amp;rsquo;t mean don&amp;rsquo;t do it. Just be brutally honest that the more of a system you have to understand the harder it&amp;rsquo;ll be&lt;/p&gt;
-
-&lt;h2&gt;Can we name the decision it&amp;rsquo;ll help make?&lt;/h2&gt;
-
-&lt;p&gt;If we know what decision we need to make. Then a discovery is really focused, well scoped and easy to shape. If it isn&amp;rsquo;t we may need to think about it again. Or try explaining it again.&lt;/p&gt;
-
-&lt;h2&gt;Feasibility&lt;/h2&gt;
-
-&lt;p&gt;How likely is it the things we&amp;rsquo;re looking into are things we can solve? The NHS has wasted millions on discoveries and alphas into things that&amp;rsquo;ll take billions to solve etc.&lt;/p&gt;
-
-&lt;p&gt;Are we trying to boil the ocean when it might make sense to start somewhere smaller?&lt;/p&gt;
 </content>
   </entry>
 </feed>
