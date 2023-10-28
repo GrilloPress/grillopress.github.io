@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2023/10/27/why-we-design-forms.html"/>
     <id>https://grillopress.github.io/2023/10/27/why-we-design-forms.html</id>
     <published>2023-10-27T13:52:00+01:00</published>
-    <updated>2023-10-28T17:58:22+01:00</updated>
+    <updated>2023-10-28T18:36:11+01:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -108,7 +108,7 @@
 &lt;li&gt;avoid costly revisions because things don&amp;rsquo;t work or increase workload&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;A form builder or design system will not give you these things. A team without someone a designer will find it harder to get this right.&lt;/p&gt;
+&lt;p&gt;A form builder or design system will not give you these things. A team without a designer will find it harder to get this right.&lt;/p&gt;
 
 &lt;p&gt;A good chunk of contact centre improvements I&amp;rsquo;ve made have started with poor data collection or bad processes that needed changing. And when teams look to design forms they also identify back office processes that need improving across the whole service. So you might start with the form but end up improving and optimising many processes and things.&lt;/p&gt;
 
