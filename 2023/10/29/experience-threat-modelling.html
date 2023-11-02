@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible"/>
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <title>
+      GrilloPress - Experience-threat modelling
+    </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+    <meta content="summary" name="twitter:card"/>
+    <meta content="@AndrewDuck_" name="twitter:site"/>
+    <meta content="@AndrewDuck_" name="twitter:creator"/>
+    <meta content="/2023/10/29/experience-threat-modelling.html" property="og:url"/>
+    <meta content="Experience-threat modelling" property="og:title"/>
+    <meta content="" property="og:description"/>
+    <meta content="" property="og:description"/>
+    <meta content="#eff0ea" name="theme-color"/>
+    <!-- <meta content="https://grillopress.github.io/images/background.png" property="og:image"/> -->
+    <meta content='https://grillopress.github.io/images/lots of people.jpeg' property="og:image"/>
+    <link href="../../../stylesheets/main.css" rel="stylesheet" />
+    <link href="../../../stylesheets/weeknotes.css" rel="stylesheet" />
+    
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@400;800&display=swap" rel="stylesheet">
+    <script src="../../../javascripts/main.js"></script>
+    <link href="../../../images/me.jpg" rel="icon" type="image/jpg" />
+      <script>
+        (function() {
+          var script = document.createElement('script');
+          window.counter = 'https://grillopress.goatcounter.com/count'
+          script.async = 1;
+          script.src = '//gc.zgo.at/count.js';
+          var ins = document.getElementsByTagName('script')[0];
+          ins.parentNode.insertBefore(script, ins)
+        })();
+      </script>
+
+  </head>
+  <body class="x2023 x2023_10 x2023_10_29 x2023_10_29_experience-threat-modelling weeknotes">
+    <main role="main">
+      <nav class="navbar">
+        <div class="navbar-container">
+          <div>
+            <a href="/">Andrew Duckworth</a>
+          </div>
+        </div>
+      </nav>
+      <article id="experience-threat_modelling">
+        <section class="hero">
+          <div class="container">
+            <div>
+                <h1>
+                  Experience-threat modelling
+                </h1>
+            </div>
+          </div>
+        </section>
+        <div class="container">
+          <section class="blog-post">
+            <p>A few years ago I was deep in the midst of working on covid-19 services. Of the major changing waves and pressures on the team I remember a period with an extreme focus on security.</p>
+
+<p>The pace of delivery had dropped. It was still very high but there was a sudden change in atmosphere and shift from some new security people.</p>
+
+<p>One of the tasks the new security people wanted to do was a &ldquo;threat modelling exercise&rdquo;.</p>
+
+<p>It seemed interesting. Threat modelling is:</p>
+
+<blockquote>
+<p>&ldquo;A structured approach of identifying and prioritizing potential threats to a system, and determining the value that potential mitigations would have in reducing or neutralizing those threats&rdquo;
+- <a href="https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html">OWASP Threat modelling Cheat Sheet</a></p>
+</blockquote>
+
+<p>A team looks at the system/service they’re creating and thinks about all the ways it could be exploited or abused.</p>
+
+<p>It’s part “heuristic review”. Which is sort of an expert review by common rules or experience of the reviewers.</p>
+
+<figure class="right noir fig-right">
+    <img src="/images/lots of people.jpeg" alt="Lots of small sticky notes and people in boxes artwork by Andrew Duckworth"/>
+    <figcaption>&ldquo;Done right, it’s also a way of creating a narrative about highlighting the potential risks in poor experience. And the areas where mitigation and change is needed.&rdquo;</figcaption>
+</figure>
+
+<p>From a user experience view, this interested me. There are lots of potential abuses of a service. As well as threats to a service. Security is one of those. But poor experience can do as much damage. Especially in clinical systems. </p>
+
+<p>And if that seems a stretch, I know of a hospital where the way date of birth was shown was directly responsible for a chain of events that led to a death of a mother in birth.</p>
+
+<p>There are lots of potential threats to your service. From malicious actors to accidents and mistakes.</p>
+
+<p>The scenario based workshop got me thinking of all the things that could impact a user’s experience. And importantly, how sustainable and useful the service would be to run.</p>
+
+<p>Done right, it’s also a way of creating a narrative about highlighting the potential risks in poor experience. And the areas where mitigation and change is needed.</p>
+
+<p>It can also help pinpoint things to get further user research and insight into.</p>
+
+<h2>Running an experience modelling exercise</h2>
+
+<p>I’m still playing with the right process. But here is what I’ve done so far.</p>
+
+<h3>Prep</h3>
+
+<ol>
+<li>Get/Create a journey map or service map [journey + actors and systems underneath the journey to the user]</li>
+<li>Define the people providing the service</li>
+<li>Define the people using the service</li>
+<li>Define the people who impact/influence those using the service [partners, kids, colleagues etc.]</li>
+<li>Create a list of people to involve in the review</li>
+</ol>
+
+<figure class="noir">
+    <img src="/images/service blueprint.png" alt="A service blueprint with lots of comments and notes on it"/>
+    <figcaption>Any size or shape of a service blueprint or similar can do. Make it something people can follow along</figcaption>
+</figure>
+
+<h3>Workshop</h3>
+
+<p>Get members of the team together to run through steps and scenarios in a workshop.</p>
+
+<p>Include:</p>
+
+<ul>
+<li>“subject matter experts”</li>
+<li>people involved in running the service</li>
+<li>people who have designed similar services</li>
+<li>people with tech skills. </li>
+<li>people without them</li>
+<li>people from policy or governance teams</li>
+</ul>
+
+<p>For health services you will want clinicians too. You can also get people who use your services. In the NHS there are many ways of reaching patient representatives.</p>
+
+<p>Decide the scope of the service you want to include. If it&rsquo;s a change, you may want to focus on that journey more. But be careful to make sure it sits within a realistic context.</p>
+
+<p>If your service is live. Do some groundwork to get data. Insights and visualise them alongside your journey.</p>
+
+<p>In the workshop:</p>
+
+<ol>
+<li>Brief them about the goal. Unearthing the potential or known issues and outcomes of things going bad at each step.</li>
+<li>Walk them through a section of the service. If a large team, split into smaller groups</li>
+<li>Get individuals to create notes on the potential ways a user could misunderstand, misuse or get each step wrong. If split into small groups, get the smaller groups to discuss and create more risks as a group.</li>
+<li>Return to the room and walk through the steps articulating the risks.</li>
+<li>Rank the risks by likelihood and potential impact as a group. Voting if needed.</li>
+<li>Move to the next section of the service. Rinse repeat</li>
+</ol>
+
+<p>After you’ve done either the part you want to cover, or the full service. You’ll now have a list of potential issues per step and the guessed likelihood and impact of those risks.</p>
+
+<p>If you have time you can then work out what to do next.</p>
+
+<h3>Deciding what to do next</h3>
+
+<p>If you and the team struggled to represent your users. Do more research. Or involve them in it.</p>
+
+<p>If you got lots of risks. And you feel the process was realistic. The next thing to do is to choose what to do with the risks.</p>
+
+<p>That is, whether to resolve, reduce, mitigate or accept a risk.</p>
+
+<p>By this I mean:</p>
+
+<ul>
+<li><strong>Resolve risk</strong> - Resolve a risk by removing the possibility entirely</li>
+<li><strong>Reduce risk</strong> - Take steps to reduce the likelihood of something bad happening</li>
+<li><strong>Mitigate damage</strong> - Take steps to reduce the potential damage in a step</li>
+<li><strong>Accept risk</strong> - Accept it’s unlikely or impossible to stop</li>
+</ul>
+
+<p>An example could be:</p>
+
+<ul>
+<li><strong>Resolve risk:</strong>  don’t ask or save sensitive data so it can be leaked</li>
+<li><strong>Reduce risk:</strong>  ask for two factor verification, or check against a database so it’s less likely that someone can access information they shouldn’t </li>
+<li><strong>Mitigate damage:</strong>  only display partial information. Like half a postcode. This way if it leaks the damage is limited </li>
+<li><strong>Accept risk:</strong>  Data is already public knowledge so don’t protect it. Or maybe a product replicates what’s happening in another product so accept this service would act in the same way</li>
+</ul>
+
+<p>Doing this step helps make clear what you can do. And ranking the likelihood and impact helps frame whether to invest in solutions that resolve risks. Or when to accept or reduce risk too.</p>
+
+<p>And if you do it with teams like security or clinical you can save yourself weeks and week of back and forth. And lots of misconceptions of each other&rsquo;s perspectives.</p>
+
+<p>If you’re able to get teams like security involved in wider experience issues, you also get a good balance. Because risks are in context of journeys and likelihood.</p>
+
+<p>I did this process with some clinicians and data folk for an elective care service. They wanted specific data items that would have been impossible for the users to know. Using the scenario approach, we could show them the burden it would create. And that they would stop any hospital staff from wanting to use the service. Which would be a bigger risk than the nice to have data items.</p>
+
+
+            <div class="ticket-box">
+              <div class="ticket-box__inner">
+                <h2>Want to develop your storytelling and influencing skills as a researcher or designer?</h2>
+                <p>Make your research and user insights more impactful and compelling. Let me teach you how to visualise, plan and communicate your findings</p>
+                <p>1 day course on 1st December 2023. From £200</p>
+              </div>
+              <!-- Noscript content for added SEO -->
+              <noscript><a href="https://www.eventbrite.co.uk/e/influencing-and-communicating-research-registration-750744837017" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+              <!-- You can customise this button any way you like -->
+              <button id="eventbrite-widget-modal-trigger-750744837017" type="button">Buy a ticket</button>
+
+              <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+              <script type="text/javascript">
+                  var exampleCallback = function() {
+                      console.log('Order complete!');
+                  };
+
+                  window.EBWidgets.createWidget({
+                      widgetType: 'checkout',
+                      eventId: '750744837017',
+                      modal: true,
+                      modalTriggerElementId: 'eventbrite-widget-modal-trigger-750744837017',
+                      onOrderComplete: exampleCallback
+                  });
+              </script>
+            </div>
+
+            <nav class="pagination">
+              <div class="prev">
+                  Previous:
+                  <a href="/2023/10/27/why-we-design-forms.html" rel="prev">
+                    Why designers design forms
+                  </a>
+              </div>
+              <div class="next">
+              </div>
+            </nav>
+            <!-- Begin MailChimp Signup Form
+            -->
+            <div id="mc_embed_signup">
+              <form action="https://github.us17.list-manage.com/subscribe/post?u=854caf2991c76fd7adae546f1&id=b4e21ad2ba" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_blank">
+                <div id="mc_embed_signup_scroll">
+                  <h2>Don't miss an article</h2>
+                  <div class="mc-field-group">
+                    <label for="mce-EMAIL">Email Address</label>
+                    <input class="required email" id="mce-EMAIL" name="EMAIL" type="email"></input>
+                  </div>
+                  <div class="clear" id="mce-responses">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                  </div>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups
+                  -->
+                  <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                    <input name="b_854caf2991c76fd7adae546f1_b4e21ad2ba" tabindex="-1" type="text"></input>
+                  </div>
+                  <div class="clear">
+                    <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"></input>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <!-- End mc_embed_signup
+            -->
+          </section>
+        </div>
+      </article>
+    </main>
+    <footer class="container">
+      <p>
+        Copyright 2017-2023 Andrew Duckworth
+        |
+        <a href="https://twitter.com/AndrewDuck_">@AndrewDuck_</a>
+      </p>
+    </footer>
+  </body>
+</html>

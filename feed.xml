@@ -5,16 +5,149 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-10-27T13:52:00+01:00</updated>
+  <updated>2023-10-29T13:36:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Experience-threat modelling</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/10/29/experience-threat-modelling.html"/>
+    <id>https://grillopress.github.io/2023/10/29/experience-threat-modelling.html</id>
+    <published>2023-10-29T13:36:00+00:00</published>
+    <updated>2023-11-02T17:30:08+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;A few years ago I was deep in the midst of working on covid-19 services. Of the major changing waves and pressures on the team I remember a period with an extreme focus on security.&lt;/p&gt;
+
+&lt;p&gt;The pace of delivery had dropped. It was still very high but there was a sudden change in atmosphere and shift from some new security people.&lt;/p&gt;
+
+&lt;p&gt;One of the tasks the new security people wanted to do was a &amp;ldquo;threat modelling exercise&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;It seemed interesting. Threat modelling is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;A structured approach of identifying and prioritizing potential threats to a system, and determining the value that potential mitigations would have in reducing or neutralizing those threats&amp;rdquo;
+- &lt;a href="https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html"&gt;OWASP Threat modelling Cheat Sheet&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A team looks at the system/service they’re creating and thinks about all the ways it could be exploited or abused.&lt;/p&gt;
+
+&lt;p&gt;It’s part “heuristic review”. Which is sort of an expert review by common rules or experience of the reviewers.&lt;/p&gt;
+
+&lt;figure class="right noir fig-right"&gt;
+    &lt;img src="/images/lots of people.jpeg" alt="Lots of small sticky notes and people in boxes artwork by Andrew Duckworth"/&gt;
+    &lt;figcaption&gt;&amp;ldquo;Done right, it’s also a way of creating a narrative about highlighting the potential risks in poor experience. And the areas where mitigation and change is needed.&amp;rdquo;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;From a user experience view, this interested me. There are lots of potential abuses of a service. As well as threats to a service. Security is one of those. But poor experience can do as much damage. Especially in clinical systems. &lt;/p&gt;
+
+&lt;p&gt;And if that seems a stretch, I know of a hospital where the way date of birth was shown was directly responsible for a chain of events that led to a death of a mother in birth.&lt;/p&gt;
+
+&lt;p&gt;There are lots of potential threats to your service. From malicious actors to accidents and mistakes.&lt;/p&gt;
+
+&lt;p&gt;The scenario based workshop got me thinking of all the things that could impact a user’s experience. And importantly, how sustainable and useful the service would be to run.&lt;/p&gt;
+
+&lt;p&gt;Done right, it’s also a way of creating a narrative about highlighting the potential risks in poor experience. And the areas where mitigation and change is needed.&lt;/p&gt;
+
+&lt;p&gt;It can also help pinpoint things to get further user research and insight into.&lt;/p&gt;
+
+&lt;h2&gt;Running an experience modelling exercise&lt;/h2&gt;
+
+&lt;p&gt;I’m still playing with the right process. But here is what I’ve done so far.&lt;/p&gt;
+
+&lt;h3&gt;Prep&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Get/Create a journey map or service map [journey + actors and systems underneath the journey to the user]&lt;/li&gt;
+&lt;li&gt;Define the people providing the service&lt;/li&gt;
+&lt;li&gt;Define the people using the service&lt;/li&gt;
+&lt;li&gt;Define the people who impact/influence those using the service [partners, kids, colleagues etc.]&lt;/li&gt;
+&lt;li&gt;Create a list of people to involve in the review&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class="noir"&gt;
+    &lt;img src="/images/service blueprint.png" alt="A service blueprint with lots of comments and notes on it"/&gt;
+    &lt;figcaption&gt;Any size or shape of a service blueprint or similar can do. Make it something people can follow along&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3&gt;Workshop&lt;/h3&gt;
+
+&lt;p&gt;Get members of the team together to run through steps and scenarios in a workshop.&lt;/p&gt;
+
+&lt;p&gt;Include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;“subject matter experts”&lt;/li&gt;
+&lt;li&gt;people involved in running the service&lt;/li&gt;
+&lt;li&gt;people who have designed similar services&lt;/li&gt;
+&lt;li&gt;people with tech skills. &lt;/li&gt;
+&lt;li&gt;people without them&lt;/li&gt;
+&lt;li&gt;people from policy or governance teams&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For health services you will want clinicians too. You can also get people who use your services. In the NHS there are many ways of reaching patient representatives.&lt;/p&gt;
+
+&lt;p&gt;Decide the scope of the service you want to include. If it&amp;rsquo;s a change, you may want to focus on that journey more. But be careful to make sure it sits within a realistic context.&lt;/p&gt;
+
+&lt;p&gt;If your service is live. Do some groundwork to get data. Insights and visualise them alongside your journey.&lt;/p&gt;
+
+&lt;p&gt;In the workshop:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Brief them about the goal. Unearthing the potential or known issues and outcomes of things going bad at each step.&lt;/li&gt;
+&lt;li&gt;Walk them through a section of the service. If a large team, split into smaller groups&lt;/li&gt;
+&lt;li&gt;Get individuals to create notes on the potential ways a user could misunderstand, misuse or get each step wrong. If split into small groups, get the smaller groups to discuss and create more risks as a group.&lt;/li&gt;
+&lt;li&gt;Return to the room and walk through the steps articulating the risks.&lt;/li&gt;
+&lt;li&gt;Rank the risks by likelihood and potential impact as a group. Voting if needed.&lt;/li&gt;
+&lt;li&gt;Move to the next section of the service. Rinse repeat&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;After you’ve done either the part you want to cover, or the full service. You’ll now have a list of potential issues per step and the guessed likelihood and impact of those risks.&lt;/p&gt;
+
+&lt;p&gt;If you have time you can then work out what to do next.&lt;/p&gt;
+
+&lt;h3&gt;Deciding what to do next&lt;/h3&gt;
+
+&lt;p&gt;If you and the team struggled to represent your users. Do more research. Or involve them in it.&lt;/p&gt;
+
+&lt;p&gt;If you got lots of risks. And you feel the process was realistic. The next thing to do is to choose what to do with the risks.&lt;/p&gt;
+
+&lt;p&gt;That is, whether to resolve, reduce, mitigate or accept a risk.&lt;/p&gt;
+
+&lt;p&gt;By this I mean:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resolve risk&lt;/strong&gt; - Resolve a risk by removing the possibility entirely&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduce risk&lt;/strong&gt; - Take steps to reduce the likelihood of something bad happening&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mitigate damage&lt;/strong&gt; - Take steps to reduce the potential damage in a step&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accept risk&lt;/strong&gt; - Accept it’s unlikely or impossible to stop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An example could be:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resolve risk:&lt;/strong&gt;  don’t ask or save sensitive data so it can be leaked&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduce risk:&lt;/strong&gt;  ask for two factor verification, or check against a database so it’s less likely that someone can access information they shouldn’t &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mitigate damage:&lt;/strong&gt;  only display partial information. Like half a postcode. This way if it leaks the damage is limited &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accept risk:&lt;/strong&gt;  Data is already public knowledge so don’t protect it. Or maybe a product replicates what’s happening in another product so accept this service would act in the same way&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Doing this step helps make clear what you can do. And ranking the likelihood and impact helps frame whether to invest in solutions that resolve risks. Or when to accept or reduce risk too.&lt;/p&gt;
+
+&lt;p&gt;And if you do it with teams like security or clinical you can save yourself weeks and week of back and forth. And lots of misconceptions of each other&amp;rsquo;s perspectives.&lt;/p&gt;
+
+&lt;p&gt;If you’re able to get teams like security involved in wider experience issues, you also get a good balance. Because risks are in context of journeys and likelihood.&lt;/p&gt;
+
+&lt;p&gt;I did this process with some clinicians and data folk for an elective care service. They wanted specific data items that would have been impossible for the users to know. Using the scenario approach, we could show them the burden it would create. And that they would stop any hospital staff from wanting to use the service. Which would be a bigger risk than the nice to have data items.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Why designers design forms</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/10/27/why-we-design-forms.html"/>
     <id>https://grillopress.github.io/2023/10/27/why-we-design-forms.html</id>
     <published>2023-10-27T13:52:00+01:00</published>
-    <updated>2023-10-30T11:53:20+00:00</updated>
+    <updated>2023-10-30T18:47:23+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -82,9 +215,9 @@
 
 &lt;h2 class="h3"&gt;Designers are experts at explaining and getting the right information in a form&lt;/h2&gt;
 
-&lt;div class="right"&gt;
-    &lt;img src="/images/wireframes - andrew duckworth.jpeg" alt="Roy Litchenstien inspired artwork of UX wireframes"/&gt;
-  &lt;/div&gt;
+&lt;div class="right fig-right"&gt;
+  &lt;img src="/images/wireframes - andrew duckworth.jpeg" alt="Roy Litchenstien inspired artwork of UX wireframes"/&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Your product or service has a form. It needs information. And it may also use that form to display data in a process or flow. Designers are experts at designing the form and how it sits within a journey.&lt;/p&gt;
 
@@ -304,54 +437,6 @@
 &lt;p&gt;A simple method to knowing whether you should write user needs like this is … can you and every member of your team explain in detail how your user thinks and how they act in a given circumstance? &lt;/p&gt;
 
 &lt;p&gt;If not. Leave the user story format behind. Leave that format for development of the solution. Not the storytelling of what your user needs and how they act. And get better at writing and sharing richer tales of your users and what they need from you and your product or service.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Overcrowding the pan</title>
-    <link rel="alternate" href="https://grillopress.github.io/2022/05/24/crowding-the-pan.html"/>
-    <id>https://grillopress.github.io/2022/05/24/crowding-the-pan.html</id>
-    <published>2022-05-24T08:30:00+01:00</published>
-    <updated>2023-09-29T19:40:02+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;I&amp;rsquo;ve been really getting into cooking dishes with a wok recently. Learning new recipes and the tool. It recently sprung about because a member of the family has been found to be allergic to latex heavy foods. Things like tomatoes. That meant all the curries and pasta dishes I had mastered were out the window.&lt;/p&gt;
-
-&lt;p&gt;Through lots of trial and error I&amp;rsquo;ve learnt plenty. And got lots of tips through YouTube too.&lt;/p&gt;
-
-&lt;p&gt;Cooking for the family is often a refuge for me. Unlike work, it&amp;rsquo;s a small time bound thing I can easily share with others. Digital transformation projects take years. Egg fried rice takes 5 minutes*.&lt;/p&gt;
-
-&lt;p&gt;Something that I found important was keeping the wok hot. And I mean REALLY hot. Both when frying rice or vegetables. But also when deep frying things.&lt;/p&gt;
-
-&lt;p&gt;Over time I&amp;rsquo;ve felt I&amp;rsquo;ve got a better handle on how to keep things sizzling. Techniques to cool things down. But also, most importantly for me, how not to crowd the pan.&lt;/p&gt;
-
-&lt;p&gt;It feels really counter-intuitive, but you can often cook faster by frying in 2 smaller batches than all at once.&lt;/p&gt;
-
-&lt;p&gt;If you try to fry lots at once the lack of room makes things steam and take longer to crisp up. It also makes things stickier.&lt;/p&gt;
-
-&lt;p&gt;What too much is&amp;hellip; is not a concrete thing. And as I learnt to use a wok correctly, often discovered too late. But over time I&amp;rsquo;ve worked out the balance by eye.&lt;/p&gt;
-
-&lt;p&gt;After a long day at work on a project not quite hitting the right tempo, it dawned on me we had crowded things out.&lt;/p&gt;
-
-&lt;p&gt;The subject was complex. But we had a large team. Multiples of each profession. Created from 2 projects merging. Instead of speeding things up. We had crowded things out so that taking the lead on things was harder.&lt;/p&gt;
-
-&lt;p&gt;It got so bad at 1 point, it felt that only a few of us was doing anything at all. There were so many silent people. So many experienced people seemingly reporting back no progress.&lt;/p&gt;
-
-&lt;p&gt;There were other factors. As an organisation we had made reaching our users difficult. That played a big part. Lots of stopping to fill each other in or to give context. Some clashing perspectives on the same ideas. But that would have been easier if there had been less of us to agree anything before we took an approach.&lt;/p&gt;
-
-&lt;p&gt;Real momentum only really happened when we were our smallest.&lt;/p&gt;
-
-&lt;p&gt;This isn&amp;rsquo;t new. Lots has been written about the &lt;a href="https://hbr.org/2019/02/research-when-small-teams-are-better-than-big-ones"&gt;benefits of small teams&lt;/a&gt;. But we had created the conditions to overcrowd ourselves as a team.&lt;/p&gt;
-
-&lt;p&gt;It had become too hard to hear each voice. To be clear about who was doing what and what to do next. There were just too many of us for us to be agile.&lt;/p&gt;
-
-&lt;p&gt;Overcrowding is not just a numbers thing. Sometimes it&amp;rsquo;s not just how many pizzas feeds a team. Problems vary too much for that to be true. I&amp;rsquo;ve been on teams of different sizes where the tipping point is different. Either on balance of roles or the type of work that needs to be done.&lt;/p&gt;
-
-&lt;p&gt;There are many reasons something slows down and doesn&amp;rsquo;t get going. One cause could be that you&amp;rsquo;ve overcrowded your pan. Either with too many people trying to do the same thing. Or stopping each other because there&amp;rsquo;s too many people to take responsibility. Either way, it&amp;rsquo;s something I have a better sense of for the next time.&lt;/p&gt;
-
-&lt;p&gt;Be careful to balance your teams so they have just the right amount of people in them. Don&amp;rsquo;t overcrowd the pan.&lt;/p&gt;
-
-&lt;p&gt;*assuming we&amp;rsquo;re talking about just frying the egg and rice that is!&lt;/p&gt;
 </content>
   </entry>
 </feed>
