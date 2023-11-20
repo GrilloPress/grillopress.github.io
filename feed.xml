@@ -5,16 +5,98 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-11-16T12:39:00+00:00</updated>
+  <updated>2023-11-18T13:22:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Why you made a bigger impact as a smaller design team</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/11/18/why-you-made-a-bigger-impact-as-a-smaller-design-team.html"/>
+    <id>https://grillopress.github.io/2023/11/18/why-you-made-a-bigger-impact-as-a-smaller-design-team.html</id>
+    <published>2023-11-18T13:22:00+00:00</published>
+    <updated>2023-11-18T18:45:31+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Recently read a blog post by Katherine Wastell about &lt;a href="https://www.katherinewastell.com/blog/2023/11/17/the-phases-of-establishing-design"&gt;the phases of establishing design&lt;/a&gt;. I like giving names to things. As it makes it possible to think and discuss about what to do.&lt;/p&gt;
+
+&lt;p&gt;In it there was a funnel visualisation of the impact teams have and it grew as you moved through the phases of design. &lt;/p&gt;
+
+&lt;p&gt;It got me thinking however, that as we scale up the size of design teams in organisations, the actual impact of design doesn’t always follow that idealistic path. That is, many times once we start to scale up design we actually become too inwardly focused and make less impact per person.&lt;/p&gt;
+
+&lt;p&gt;A small design team or community is often more impactful.&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;They’re less focused on internally and self-serving/healing patterns and processes and more about looking out and doing things and getting mucked in.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s less people to manage. Grow and check on.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s more lines of communication in big teams. And places to hide, disappear.&lt;/p&gt;
+
+&lt;p&gt;And there&amp;rsquo;s more people who may want to pull in different directions. From design components and patterns to whole ways of working.&lt;/p&gt;
+
+&lt;p&gt;So, as you grow you’ve got new pains and problems to deal with. Job descriptions. Specialisms. Communications challenges. You have to shift people around to where the money is and maybe not to where the impact is.&lt;/p&gt;
+
+&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/through the looking glass glassing through the look.jpeg" alt="Artwork. Man looking at glass which distorts himself - By Andrew Duckworth"/&gt;
+    &lt;figcaption&gt;&amp;ldquo;Be conscious of it. That cycle of inward and outward focus.&amp;rdquo;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What happens over time is the team also embodies this. It becomes inwardly facing and focused and stops looking out and partnering with the rest of the teams to get things done.&lt;/p&gt;
+
+&lt;p&gt;I’ve been in countless leadership and lead design meetings where the only thing happening is some navel gazing and frustration. Where the question of “how do we make a positive impact?” has ceased to be asked in one shape or form. And it&amp;rsquo;s mostly about recruitment or retention but not action on either.&lt;/p&gt;
+
+&lt;p&gt;The thing is. It’s quite clear why you fall into this trap. As you deliver you optimise for impact and don’t put the things in place to keep the community or team healthy. Things start to break. People will leave or get frustrated at a lack of promotion or clarity or the weight of bureaucracy or similar.&lt;/p&gt;
+
+&lt;p&gt;So a switch is made to focus inwardly. But you start losing the focus to really make an impact beyond design.&lt;/p&gt;
+
+&lt;p&gt;This can be quite damaging to design as a function within a company. You hear “there’s more of you but you make less of an impact”. And however much you hate to agree we’ve probably all seen that.&lt;/p&gt;
+
+&lt;p&gt;So what to do?&lt;/p&gt;
+
+&lt;p&gt;Be conscious of it. That cycle of inward and outward focus. Making sure we hold ourselves and our teams to account to making an impact. Of looking out there and to making an impact and improving things.&lt;/p&gt;
+
+&lt;p&gt;Have solid “business partnering” process. That is, have a process where you have people support other people meet their goals. This can be through small things like &lt;a href="https://grillopress.github.io/2023/11/13/design-critiques-and-feedback-as-a-service.html"&gt;letting teams experience design&lt;/a&gt;. Or it can be specific people who ensure your designers and teams are adding value to the most impactful areas of the business. Typically this is the product or engineering department or an impactful programme of work. So have designers who collaborate with the leaders of those teams to see how and where design can help. With the ability to quickly help solve some of the other departments major problems or issues.&lt;/p&gt;
+
+&lt;p&gt;Treat internal issues and &lt;a href="https://grillopress.github.io/2018/09/29/treat-your-design-process-like-a-design-process.html"&gt;processes like design problems&lt;/a&gt;. Keep them small, iterate and use small prototypes to find the right thing to do.&lt;/p&gt;
+
+&lt;p&gt;Make sure you’re focused and clear that adding value to your users and other teams is what’s important. And that your most talented and skilled people continue to do that.&lt;/p&gt;
+
+&lt;div class="stretch-container"&gt;
+    &lt;figure class="noir" style="border: 1px solid black;"&gt;
+        &lt;a href="/images/Impact framework.jpg" target="_blank"&gt;
+            &lt;img src="/images/Impact framework.jpg" alt="Change framework for making an impact. Asks several questions to navigate a user to understanding how they might make an impact. Starts with who are the key partners. Who within those teams you can reach. How you'll reach them. What benefits short and long term we and they can get by working together. And then what we could do. Underneath the last 3 section is space for assumptions and who will do the work - By Andrew Duckworth"/&gt;
+        &lt;/a&gt;
+        &lt;figcaption&gt;
+            Use things like this &lt;a href="/images/Impact framework.jpg" target="_blank"&gt;change framework&lt;/a&gt; to show how you could work with others
+        &lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Make sure you claim your part and your team’s part in successes. Do not be shy to build the story of your impact. Even if it is shared.&lt;/p&gt;
+
+&lt;p&gt;Don’t just burden your most experienced doers to run the community. Or to create the internal processes. Spread that out and even hire people to do those things.&lt;/p&gt;
+
+&lt;p&gt;But whatever you choose to do. Think about the strengths of those smaller teams making an impact. They:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hunt for opportunities to add value&lt;/li&gt;
+&lt;li&gt;Get on with designing things&lt;/li&gt;
+&lt;li&gt;Look to collaborate and grow influence beyond their own profession or skillset&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And ensure your teams and functions keep doing those things and those things are still cherished and rewarded. &lt;/p&gt;
+
+&lt;p&gt;I’ve lost count of the number of places that promote their best designers and then burden them with internal facing problems. Regardless of whether they’re suited to them. Or if the organisation cares about that stuff. And then lose momentum in showing the impact design can make.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Being clear about the shifts you need to make to get people to buy or use your service</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/11/16/clear-about-the-shifts.html"/>
     <id>https://grillopress.github.io/2023/11/16/clear-about-the-shifts.html</id>
     <published>2023-11-16T12:39:00+00:00</published>
-    <updated>2023-11-16T14:31:41+00:00</updated>
+    <updated>2023-11-18T14:51:45+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -69,7 +151,7 @@
 
 &lt;p&gt;For proactive disinterest. That can sound like a terrible place. But you’ve got people’s notice. Maybe your service isn’t for them. But it’s a chance to do something. It’s harder to shift their perceptions because they come with some. But understanding those people means you can tailor your service to respond to what they currently think your service lacks.&lt;/p&gt;
 
-&lt;figure class="noir right fig-right" style="border: 1px solid black;"&gt;
+&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
     &lt;img src="/images/all the people all the places.jpeg" alt="Artwork. Many people in blue. Searching looking for things. Looking for all the people and places amongst mountains of sticky notes - By Andrew Duckworth"/&gt;
     &lt;figcaption&gt;&amp;ldquo;Ask yourself. Do we need to reach people or convert those we&amp;rsquo;ve reached?&amp;rdquo;&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -90,7 +172,9 @@
 
 &lt;p&gt;Using a 2by2 grid can be useful. Use it to write in the tactics or solutions you have for shifting people. Do this as a team. &lt;/p&gt;
 
-&lt;p&gt;&lt;img style="border: 1px solid black;" src="/images/interest activity 2by2 grid.jpg" alt="2 by 2 grid with one side having interest, the other activity with arrows between to highlight where the shifts to be made are"/&gt;&lt;/p&gt;
+&lt;div class="stretch-container"&gt;
+    &lt;img style="border: 1px solid black;" src="/images/interest activity 2by2 grid.jpg" alt="2 by 2 grid with one side having interest, the other activity with arrows between to highlight where the shifts to be made are"/&gt;
+&lt;/div&gt;
 
 &lt;p&gt;A format like this will make it easier to talk about but also show you where you might be lacking. It can be easy to over optimise for people to buy. But your problem might be that you’re not getting people interested first.&lt;/p&gt;
 
@@ -112,7 +196,7 @@
     <link rel="alternate" href="https://grillopress.github.io/2023/11/13/design-critiques-and-feedback-as-a-service.html"/>
     <id>https://grillopress.github.io/2023/11/13/design-critiques-and-feedback-as-a-service.html</id>
     <published>2023-11-13T08:47:00+00:00</published>
-    <updated>2023-11-16T14:02:01+00:00</updated>
+    <updated>2023-11-18T14:26:27+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -173,7 +257,7 @@
 
 &lt;p&gt;In UKHSA we helped a team designing things for data from labs to improve. To see the value of interaction and content design. And we helped them align their product more closely with GOV.UK standards. We did this through 2 or 3 sessions where the product and delivery team talked us through their product and needs.&lt;/p&gt;
 
-&lt;figure class="noir right fig-right" style="border: 1px solid black;"&gt;
+&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
     &lt;img src="/images/kandinsky-notes.jpg" alt="People walking around and sharing their ideas artwork by Andrew Duckworth"/&gt;
     &lt;figcaption&gt;&amp;ldquo;But doing it as a conscious way of adding value really does help grow design within your organisation. Just by letting teams experience it.&amp;rdquo;&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -474,56 +558,6 @@
 &lt;p&gt;A good chunk of contact centre improvements I&amp;rsquo;ve made have started with poor data collection or bad processes that needed changing. And when teams look to design forms they also identify back office processes that need improving across the whole service. So you might start with the form but end up improving and optimising many processes and things.&lt;/p&gt;
 
 &lt;p&gt;This is why you design a form. For all these reasons. To make things easier for your user, get better data and meet your goals as an organisation.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Don't underestimate being at the heart of things</title>
-    <link rel="alternate" href="https://grillopress.github.io/2023/10/21/dont-underestimate-being-at-the-heart-of-things.html"/>
-    <id>https://grillopress.github.io/2023/10/21/dont-underestimate-being-at-the-heart-of-things.html</id>
-    <published>2023-10-21T19:20:00+01:00</published>
-    <updated>2023-10-26T10:39:00+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;A service I worked on from March is starting to roll out. When I landed in that team, needing some service design help and leadership, it felt they were the furthest away from making something real. And now it’s going to get very real.&lt;/p&gt;
-
-&lt;p&gt;Like all projects there’s lots to reflect on.&lt;/p&gt;
-
-&lt;p&gt;Things you learnt. Could do better next time. Friendships and challenges.&lt;/p&gt;
-
-&lt;p&gt;One of the things that went well was the speed of getting up to speed and making an impact.&lt;/p&gt;
-
-&lt;p&gt;I joined the team when they had gotten a massive scope shift. With the team reeling a little. But a week after I joined we had an end to end service design and broad hypothesis for what we wanted the service to look like.&lt;/p&gt;
-
-&lt;p&gt;There was lots more to do than that. But it felt great making an impact. And the feedback from the team and others was great too.&lt;/p&gt;
-
-&lt;p&gt;After a retro where some people were very nice about me and that impact it made me think about what helped me move things on. To make a useful impact.&lt;/p&gt;
-
-&lt;p&gt;Having quite a lot of experience in health and the health and care sector helped. As did working in places learning how to do user centred design.&lt;/p&gt;
-
-&lt;p&gt;And the same was also true to how data services work. Even if when I joined the project I wasn’t aware it was going to involve yet another data pipeline and dashboards project.&lt;/p&gt;
-
-&lt;p&gt;But even if those things weren’t true. And there have been plenty of projects were they haven’t. A thing that seems to work is being happy to, being active, in putting myself at the heart of facilitating and running meetings.&lt;/p&gt;
-
-&lt;p&gt;As a designer in a senior or leading role, your job is to help teams make better decisions. To design the right thing or the thing right. A way to help the team to achieve that is through your craft. But there’s another way. And one particularly important for a service designer. Which is to facilitate and help people run their processes in a user-centred way.&lt;/p&gt;
-
-&lt;p&gt;You can do that easier when you put yourself in the heart of the process. By offering to host, hold or run a meeting. From a retro to a planning session and everything in-between.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/images/at the heart.jpeg" alt="Roy Lichtenstein style panel woman bluring into newspaper, hearts with empty speech bubble"/&gt;&lt;/p&gt;
-
-&lt;p&gt;For the project going live, I found myself running meetings from assumption mapping sessions to story mapping and sprint planning sessions. It ensured I was where decisions were made. And that when a decision was made. There was someone reflecting what users’ needed. And that we balanced lots of different perspectives and layers from the service. From policy, tech, users and service teams.&lt;/p&gt;
-
-&lt;p&gt;So if you’re feeling a little lost or out of the loop. Or want to make a bigger impact. Make a point of facilitating a meeting. Even a regular one or where there exists a person who sit in that role. It’ll help you be at the heart of things and facilitate the discussions and decisions you’ll need to do service design.&lt;/p&gt;
-
-&lt;p&gt;Take your delivery, product or project manager aside and say you want to run something. Either as personal experience or to help mix something up. Whatever it takes. Put the effort in and design the meeting to make it a success.&lt;/p&gt;
-
-&lt;p&gt;Naturally there’s a limit to what’s your role and be careful you’re not taking on work that’s not yours. Be clear you’re being helpful. And that this isn’t about taking notes or making coffee. It’s about making sure you and the team actually designs the service. So if the additional role doesn’t get you there be watchful.&lt;/p&gt;
-
-&lt;p&gt;Some teams or projects you may also find that the team is reluctant. Maybe that&amp;rsquo;s because you&amp;rsquo;re still needing to buy the space to lead things. Sometimes that&amp;rsquo;s just because the team isn&amp;rsquo;t ready. Sometimes that means you need others to take that leading role.&lt;/p&gt;
-
-&lt;p&gt;But. Remember that most of service design is orchestration and facilitation of multiple viewpoints consciously designing and making the service. And that happens outside the craft of design.&lt;/p&gt;
-
-&lt;p&gt;In fact the majority of service design happens outside the traditional craft of design. So don’t underestimate being at the heart of things. It’ll get you and your team further faster. Whatever way you can do it.&lt;/p&gt;
 </content>
   </entry>
 </feed>
