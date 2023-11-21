@@ -5,10 +5,72 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-11-18T13:22:00+00:00</updated>
+  <updated>2023-11-19T15:05:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Reduce the time it takes to test to keep your designs simple</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/11/19/reduce-the-time-it-takes-to-test.html"/>
+    <id>https://grillopress.github.io/2023/11/19/reduce-the-time-it-takes-to-test.html</id>
+    <published>2023-11-19T15:05:00+00:00</published>
+    <updated>2023-11-21T15:28:02+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;I was talking to an ex-colleague and friend about some work. Talking through some issues we’d both seen in different places and times. One that stood out was how the length of time a designer has before they can test something works makes their work more complicated.&lt;/p&gt;
+
+&lt;p&gt;At the heart of any good design process is making sure things work with users. Not to confirm but to prove things work. And if they don’t get the evidence to do more.&lt;/p&gt;
+
+&lt;p&gt;Rather than use the most complicated  thing first. The key is to try the simplest thing to build and get going. That way if you don’t need to build on more things, you don’t.&lt;/p&gt;
+
+&lt;p&gt;The key of course is actually doing this with users.&lt;/p&gt;
+
+&lt;p&gt;But you don’t always get the luxury of regular access to users. Or usability sessions.&lt;/p&gt;
+
+&lt;figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/next research is too late.jpeg" alt="Artwork. 3 people looking at calendars looking bored or confused - By Andrew Duckworth"/&gt;
+    &lt;figcaption&gt;&amp;ldquo;If your next research session isn’t for months. You’re carrying a lot of risk.&amp;rdquo;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This was the situation my colleague found themselves in. They saw that teams members were overthinking their designs because they had so much time between usability sessions.&lt;/p&gt;
+
+&lt;p&gt;And it’s sort of no surprise. The more time you have, and the fewer opportunities to find things out with users, the more you need your design to win first time. To hit all the right notes. But what this does is mean you overcomplicate a design.&lt;/p&gt;
+
+&lt;p&gt;You add all the bells and whistles. You make everything flash red. To get your design past the usability session. But even in the best case scenario things work. You’ll not know if something simpler worked.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve gone through with something complex. It’s hard to scale back.&lt;/p&gt;
+
+&lt;p&gt;This is one of the issues of not testing with users regularly as a design team. You give yourself too much time to overthink things. To worry through each issue.&lt;/p&gt;
+
+&lt;p&gt;But if you’ve ever done any extensive user research. You’ll know that often the thing you worry about is not the thing that makes people stumble.&lt;/p&gt;
+
+&lt;p&gt;So you’ll jam in things that were never needed. And you might even design the usability session is such a way that the real question is never asked. And you don’t learn about the thing that means the whole service will fail.&lt;/p&gt;
+
+&lt;div class="stretch-container"&gt;
+    &lt;figure class="noir" style="border: 1px solid black;"&gt;
+            &lt;img src="/images/click the button.jpg" alt="Picture of a mobile with lots of arrows on a screen pointint to a button with a speech bubble next to it of the researcher saying 'Where would you click?'"/&gt;
+        &lt;figcaption&gt;
+            &amp;ldquo;But it worked in testing!&amp;rdquo;
+        &lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The answer is to do usability more often. Particularly if you’re a product team. If you’re updating things and you have hundreds of thousands of users you have no excuse for several months between usability sessions.&lt;/p&gt;
+
+&lt;p&gt;Put this in place. &lt;/p&gt;
+
+&lt;p&gt;Whilst putting that regular cycle of user research in place, run “critiques” and sessions with people who know little to nothing about your product. Be they other designers, staff, friends and family. Just to get some signals. Just to get fresh eyes seeing things. &lt;/p&gt;
+
+&lt;p&gt;Do this to keep your design simple. Keep it crude. And learn as fast as possible if simple works. Simple often works. And only needs some small tweaks to work. &lt;/p&gt;
+
+&lt;p&gt;Of course there’s probably a “Goldilocks zone”. Where you’re testing too often to reflect and think things through. But it’s better to be in that situation and calm things down than being months and months apart from reality. Never mind factoring in that a prototype isn’t the real thing. And there’s always more to learn from making things live.&lt;/p&gt;
+
+&lt;p&gt;If your next research session isn’t for months. You’re carrying a lot of risk. And making it worse for your designers and product teams as they’ll overthink. Overthinking leads to more complex designs that might work but at a higher cost to build, maintain and change.&lt;/p&gt;
+
+&lt;p&gt;It’s always easier to add than take away.  Reduce the time you test your designs to keep your designs simple.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Why you made a bigger impact as a smaller design team</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/11/18/why-you-made-a-bigger-impact-as-a-smaller-design-team.html"/>
@@ -452,112 +514,6 @@
 &lt;p&gt;If you’re able to get teams like security involved in wider experience issues, you also get a good balance. Because risks are in context of journeys and likelihood.&lt;/p&gt;
 
 &lt;p&gt;I did this process with some clinicians and data folk for an elective care service. They wanted specific data items that would have been impossible for the users to know. Using the scenario approach, we could show them the burden it would create. And that they would stop any hospital staff from wanting to use the service. Which would be a bigger risk than the nice to have data items.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Why designers design forms</title>
-    <link rel="alternate" href="https://grillopress.github.io/2023/10/27/why-we-design-forms.html"/>
-    <id>https://grillopress.github.io/2023/10/27/why-we-design-forms.html</id>
-    <published>2023-10-27T13:52:00+01:00</published>
-    <updated>2023-10-30T18:47:23+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;Cathy Dutton asked if people have &lt;a href="https://twitter.com/cathy_dutton/status/1717540981526937636"&gt;any goto presentations on why we need to design forms&lt;/a&gt;. Not the process of how you do it. More the justification for it (other than it’s fun and gives me a job!).&lt;/p&gt;
-
-&lt;p&gt;This made me think of how I approach this. Or the battle that I can sense underneath. Which is justifying the cost of research and design and their impact. And in places where subject matter experts are &amp;ldquo;good enough&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;I try to spend as little time justifying my or other people’s existence as specialists. Taking a show/watch me approach or using local examples of improvement or failure. But sometimes you’ve got to have those chats.&lt;/p&gt;
-
-&lt;p&gt;My first thought was the &lt;a href="https://articles.centercentre.com/three_hund_million_button/"&gt;300 million button&lt;/a&gt; example. Though it took me a while to find it as I swore it was about airlines.&lt;/p&gt;
-
-&lt;p&gt;I tried looking on gov.uk and though I found a few. The gov.uk blogs are missing designers talking about making measurable impacts.&lt;/p&gt;
-
-&lt;p&gt;But why do we design forms? And use specialists to do it?&lt;/p&gt;
-
-&lt;h2 class="h3"&gt;Designers make sure policies, products and people are as successful as they can be&lt;/h2&gt;
-
-&lt;p&gt;If it&amp;rsquo;s hard to complete a form then policies and products fail. Or make much less money or cost lots more. &lt;/p&gt;
-
-&lt;p&gt;Good designers make &lt;a href="https://dl.acm.org/doi/epdf/10.1145/2556288.2557265"&gt;forms better and quicker and easier to complete&lt;/a&gt;. And find ways of making improvements to processes. Like the &lt;a href="https://designnotes.blog.gov.uk/2015/09/15/make-sure-this-is-right-a-new-email-confirmation-pattern/"&gt;register to vote team&lt;/a&gt; which improved how they captured emails helping 50,000 more people use the service each month.&lt;/p&gt;
-
-&lt;p&gt;Similarly designers make things more profitable by looking at the small details. &lt;a href="https://scholar.google.com/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=ux+form&amp;amp;btnG=#d=gs_qabs&amp;amp;t=1698349420840&amp;amp;u=%23p%3DBjPQ7SL3NoIJ"&gt;Ebay made an additional $500 million a year just from redesigning a button&lt;/a&gt; on their mobile website.&lt;/p&gt;
-
-&lt;h2 class="h3"&gt;Bad data undermines systems and businesses. Good form design reverses this&lt;/h2&gt;
-
-&lt;p&gt;Forms are a key way that organisations get data and information. Be they credit card details to complete a transaction. Or an email or a newsletter sign up form.&lt;/p&gt;
-
-&lt;p&gt;But poor data stymies and undermines systems and products. The implications of poor quality data means:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;you have less user/customer satisfaction&lt;/li&gt;
-&lt;li&gt;increased running costs&lt;/li&gt;
-&lt;li&gt;inefficient decision-making processes&lt;/li&gt;
-&lt;li&gt;lower performance&lt;/li&gt;
-&lt;li&gt;lowered employee job satisfaction&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href="https://www.econstor.eu/bitstream/10419/188448/1/v04-i02-p168_232-1425-1-PB.pdf"&gt;This interesting paper shows the evidence for this&lt;/a&gt;. The paper also highlights that bad data can have a revenue cost of 8-12% for many companies.&lt;/p&gt;
-
-&lt;p&gt;Designers work closely with data, policy and technical teams to improve the quality of data. They do this by making the processes clearer for the people filling in forms. Making it clear what is being asked of or shown to users in a form based journey. This skill means users enter in better data.&lt;/p&gt;
-
-&lt;h2 class="h3"&gt;Good form design can reduce support costs&lt;/h2&gt;
-
-&lt;p&gt;Expedia found out that the number one reason customers called them was to get their travel itineraries.  Their contact centre cost them over 100 million a year. Redesigning this reduced the need for support for this issue. Calls about this dropped from 58% to 15% (according to Medallia’s “Contact Center and Digital, Better Together”). &lt;/p&gt;
-
-&lt;p&gt;Improving the information at the end of a process for the &lt;a href="https://designnotes.blog.gov.uk/2016/10/21/improving-the-check-your-state-pension-service-in-public-beta/"&gt;State Pension team reduced enquiries by 51%&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The government spends millions every year in this support. A form stands in the way of them telling us things. Or getting access to something.&lt;/p&gt;
-
-&lt;p&gt;A good design team makes it easier to input data. And makes the information and data forms return easier to understand and action. This leads to a reduction in calls, support and complaints.&lt;/p&gt;
-
-&lt;p&gt;I was part of a team that redesigned some paper forms that reduced the number and complexity of calls our contact centre got. The forms were built by subject matter experts but not design/form experts. Once we worked together we made it easier for our users to use our service. And reduced the cost to support the service.&lt;/p&gt;
-
-&lt;h2 class="h3"&gt;Bad forms request information we should already have or don&amp;rsquo;t need. Design looks to find ways to stop this&lt;/h2&gt;
-
-&lt;p&gt;Designers make sure we don’t ask things we already know. At times for gov a statutory duty and if not, an efficiency and a way of ensuring validated data. Designers work with teams to understand why we are asking what we’re asking. And find other &lt;a href="https://grillopress.github.io/2019/03/18/do-the-hard-work-to-make-it-inclusive.html"&gt;options with lower risks or barriers for our users&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Reducing what you ask, because you already know if don&amp;rsquo;t need it, also helps people to complete forms. Formstack found that they could &lt;a href="https://www.quicksprout.com/contact-form-conversion-rate/"&gt;improve conversation rates by up to 160%&lt;/a&gt; by reducing how many things they asked for. If you ask for less because you use what you already have, you improve completion rates too.&lt;/p&gt;
-
-&lt;h2 class="h3"&gt;Designers make sure our services and products meet their legal requirements&lt;/h2&gt;
-
-&lt;p&gt;Designers help ensure that &lt;a href="https://blog.navapbc.com/structuring-a-complex-eligibility-form-for-healthcare-gov-37d79a5ad6?gi=12da7bf5ecf3"&gt;all people can use a service&lt;/a&gt;. Meeting people&amp;rsquo;s needs and making policies work first time and for all our communities. And by doing so meeting &lt;a href="https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#:~:text=The%20accessibility%20regulations%20came%20into,accessibility%20statement%20on%20your%20website"&gt;legal and ethical standards&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;Many of these technical requirements are open to interpretation. And need domain-knowledge to navigate and implement. Designers develop deep knowledge doing this and supporting teams in implementation.&lt;/p&gt;
-
-&lt;h2 class="h3"&gt;Designers are experts at explaining and getting the right information in a form&lt;/h2&gt;
-
-&lt;div class="right fig-right"&gt;
-  &lt;img src="/images/wireframes - andrew duckworth.jpeg" alt="Roy Litchenstien inspired artwork of UX wireframes"/&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Your product or service has a form. It needs information. And it may also use that form to display data in a process or flow. Designers are experts at designing the form and how it sits within a journey.&lt;/p&gt;
-
-&lt;p&gt;They do this so often they learn the rules and best practices and can ensure you follow them. So they can be quick and efficient by using best practice to improve things before you&amp;rsquo;ve invested in a solution and found out the hard way.&lt;/p&gt;
-
-&lt;h2 class="h3"&gt;But what about low volume forms and transactions?&lt;/h2&gt;
-
-&lt;p&gt;Just because something is low volume doesn&amp;rsquo;t mean the data or actions that sit off it are unimportant. I&amp;rsquo;ve worked on forms where there are at best 100 submitted a year. But when they are completed the work to process and manage the request is really high.&lt;/p&gt;
-
-&lt;p&gt;Because designers come with lots of experience, they&amp;rsquo;re also well equipped to quickly help you pull together more generic forms. &lt;/p&gt;
-
-&lt;p&gt;The reasons you should still work with a designer are they:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;improve data accuracy and quality through form submissions&lt;/li&gt;
-&lt;li&gt;reduce support requests or the use of other channels to do the thing&lt;/li&gt;
-&lt;li&gt;ensure legal compliance&lt;/li&gt;
-&lt;li&gt;use patterns to ensure people trust you&lt;/li&gt;
-&lt;li&gt;make things consistent with branding and your values&lt;/li&gt;
-&lt;li&gt;identify or make sure of quick wins for usability&lt;/li&gt;
-&lt;li&gt;avoid costly revisions because things don&amp;rsquo;t work or increase workload&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A form builder or design system will not give you these things. A team without a designer will find it harder to get this right.&lt;/p&gt;
-
-&lt;p&gt;A good chunk of contact centre improvements I&amp;rsquo;ve made have started with poor data collection or bad processes that needed changing. And when teams look to design forms they also identify back office processes that need improving across the whole service. So you might start with the form but end up improving and optimising many processes and things.&lt;/p&gt;
-
-&lt;p&gt;This is why you design a form. For all these reasons. To make things easier for your user, get better data and meet your goals as an organisation.&lt;/p&gt;
 </content>
   </entry>
 </feed>
