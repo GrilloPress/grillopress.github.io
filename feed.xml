@@ -5,10 +5,83 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-11-19T15:05:00+00:00</updated>
+  <updated>2023-11-26T15:28:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Get more out of design reviews</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/11/26/get-more-out-of-design-reviews.html"/>
+    <id>https://grillopress.github.io/2023/11/26/get-more-out-of-design-reviews.html</id>
+    <published>2023-11-26T15:28:00+00:00</published>
+    <updated>2023-11-26T19:20:10+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;I’ve reviewed a lot of designs. It’s a sign of healthy team that they share work to be reviewed. When I ran NHS Digital’s weekly design meet-ups I made sure to encourage this as much as possible.&lt;/p&gt;
+
+&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/sticky board.jpeg" alt="Green black and yellow sticky notes arranged with different patterns - By Andrew Duckworth"/&gt;
+    &lt;figcaption&gt;&amp;ldquo;If a designer can’t explain the problem they’re solving it’s a sign they need to think it through some more&amp;rdquo;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Sometimes it can be hard to know where to start with some feedback. Particularly beyond some gut feels or likes or dislikes.&lt;/p&gt;
+
+&lt;p&gt;But once you get rolling it gets easier. And you find you start really helping. Particularly if the feedback is constructive or open to allow the designer to talk through their ideas.&lt;/p&gt;
+
+&lt;p&gt;I’ve also experienced a lot of designers who were very reluctant to change designs or scared of feedback. And you find that they’ll put your feedback into the “backpocket” to never be thought about again. Which is frustrating if you’ve made a mistake before and are watching someone else make the same one. But you do find that making the change or improvement their idea can work. And the way to do that is to use questions to guide them, you and everyone in the review.&lt;/p&gt;
+
+&lt;h2&gt;The structure I use&lt;/h2&gt;
+
+&lt;p&gt;Here’s what I do. Let me know if you do anything differently. If the designer has made a few of these clear already. Skip a section. These are the more generic chunks I use:&lt;/p&gt;
+
+&lt;h3&gt;What feedback is useful right now?&lt;/h3&gt;
+
+&lt;p&gt;A lot of designers getting used to having their work reviewed share their work too late. So sometimes you find there’s not much that can be changed before research or build. But ask about what sort of feedback they’re after. It might not be what you give them. But expectations are good at the very least.&lt;/p&gt;
+
+&lt;h3&gt;The context of the design?&lt;/h3&gt;
+
+&lt;p&gt;A good storyteller very quickly sets the context of where a design sits within a product or journey. If that wasn’t clear confirm the scenario and context something will be used. There’s a massive context difference between most sales sign up forms and something you use because you’re sick. Is this something pays for? Or has to do?&lt;/p&gt;
+
+&lt;h3&gt;What problem are they trying to solve?&lt;/h3&gt;
+
+&lt;p&gt;What thing are they trying to make clearer? What issue needs solving? Is there data to prove that. Is that something they can control or improve here? Is this the best place to do it? Or the only place we can control for now? At the heart of a good review is being honest about whether we’re going to make the impact we expect. And the cost or effort to do that.&lt;/p&gt;
+
+&lt;p&gt;Sometimes the problem doesn’t feel very important. And it’s great to talk about. And if a designer can’t explain the problem they’re solving it’s a sign they need to think it through some more with whoever set the issue or opportunity.&lt;/p&gt;
+
+&lt;h3&gt;What else have they tried or explored?&lt;/h3&gt;
+
+&lt;p&gt;Good design is iterative and goes through loops of change and creation. Sometimes in a review we can also suggest ideas people have discarded. Ask them what else they considered and why they didn’t go with them. It’s often a very revealing part of discussion.&lt;/p&gt;
+
+&lt;p&gt;It’s also worth considering who they’ve worked with to explore a design. Have they talked to any engineers? If not, they might need to explore some other things if technical constraints exist.&lt;/p&gt;
+
+&lt;h3&gt;What do they think is the weakness?&lt;/h3&gt;
+
+&lt;p&gt;Instead of telling them what you think works and doesn’t. Get the designer to talk through where they think things are weak. I know personally when I have a worry about a thing being weak it often is. And talking it through can help me design something better. Or be at peace with that issue.&lt;/p&gt;
+
+&lt;h3&gt;How and with who are they going to prove their thoughts are right?&lt;/h3&gt;
+
+&lt;p&gt;A good process works out if something works. How will they do that? Who will be included in that. Who isn’t involved? And will that cause issues. If they’re going to build it without testing it first, how will they mitigate any issues or rapidly change?&lt;/p&gt;
+
+&lt;h3&gt;What could go wrong, and how people could recover?&lt;/h3&gt;
+
+&lt;p&gt;Things are always going wrong. What happens if someone inputs something unexpected? How recoverable are things? Will the user be guided to success or is it a painful process? Get the designer to walk through what thought they’ve put into this.&lt;/p&gt;
+
+&lt;p&gt;It’s quite common for teams to spend a lot of time on the happy path. But we all know from daily use of services and products that’s not always true.&lt;/p&gt;
+
+&lt;h3&gt;Does it align to style guides, product journey and typical use of the component?&lt;/h3&gt;
+
+&lt;p&gt;If you know these rules this is easier. But ask how it reuses existing styles and whether anything changes or uses things differently. A good designer is cautious about changing or reinventing patterns that work. And knows when to use them and when something new is needed. If it is different they should be able to justify it. And be believable.&lt;/p&gt;
+
+&lt;h3&gt;What thoughts have they put into accessibility and inclusion?&lt;/h3&gt;
+
+&lt;p&gt;Have they thought about how people on different devices and using assistive tech will experience the thing? What about people with disabilities? How have they thought about the impact of the service will be on people? Will it make it easier for people to use the service or product? Who have they not included and will they be able to take the steps to do resolve that?&lt;/p&gt;
+
+&lt;h3&gt;What happens next?&lt;/h3&gt;
+
+&lt;p&gt;I like to end a session finding out what they’re doing next with the feedback and the design. It’s a good chance to open up the choice of coming back with some changes or the feedback from going live. A good design process keeps evolving. When something is &amp;ldquo;design and done&amp;rdquo; it’s a bad sign and carries a lot of risks if things don’t work.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Test often to keep your designs simple</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/11/19/reduce-the-time-it-takes-to-test.html"/>
@@ -383,139 +456,6 @@
 &lt;p&gt;But most of all. Do the design digging before you repeat the broken designs of the past.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src="/images/in the hot sun.jpeg" alt="People digging in the ruins and under the hot sun to find out what has happened artwork by Andrew Duckworth"/&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Experience-threat modelling</title>
-    <link rel="alternate" href="https://grillopress.github.io/2023/10/29/experience-threat-modelling.html"/>
-    <id>https://grillopress.github.io/2023/10/29/experience-threat-modelling.html</id>
-    <published>2023-10-29T13:36:00+00:00</published>
-    <updated>2023-11-02T18:24:24+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;A few years ago I was deep in the midst of working on covid-19 services. Of the major changing waves and pressures on the team I remember a period with an extreme focus on security.&lt;/p&gt;
-
-&lt;p&gt;The pace of delivery had dropped. It was still very high but there was a sudden change in atmosphere and shift from some new security people.&lt;/p&gt;
-
-&lt;p&gt;One of the tasks the new security people wanted to do was a &amp;ldquo;threat modelling exercise&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;It seemed interesting. Threat modelling is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;A structured approach of identifying and prioritizing potential threats to a system, and determining the value that potential mitigations would have in reducing or neutralizing those threats&amp;rdquo;
-- &lt;a href="https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html"&gt;OWASP Threat modelling Cheat Sheet&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A team looks at the system/service they’re creating and thinks about all the ways it could be exploited or abused.&lt;/p&gt;
-
-&lt;p&gt;It’s part “heuristic review”. Which is sort of an expert review by common rules or experience of the reviewers.&lt;/p&gt;
-
-&lt;figure class="right noir fig-right"&gt;
-    &lt;img src="/images/lots of people.jpeg" alt="Lots of small sticky notes and people in boxes artwork by Andrew Duckworth"/&gt;
-    &lt;figcaption&gt;&amp;ldquo;Done right, it’s also a way of creating a narrative about highlighting the potential risks in poor experience. And the areas where mitigation and change is needed.&amp;rdquo;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;From a user experience view, this interested me. There are lots of potential abuses of a service. As well as threats to a service. Security is one of those. But poor experience can do as much damage. Especially in clinical systems. &lt;/p&gt;
-
-&lt;p&gt;And if that seems a stretch, I know of a hospital where the way date of birth was shown was directly responsible for a chain of events that led to a death of a mother in birth.&lt;/p&gt;
-
-&lt;p&gt;There are lots of potential threats to your service. From malicious actors to accidents and mistakes.&lt;/p&gt;
-
-&lt;p&gt;The scenario based workshop got me thinking of all the things that could impact a user’s experience. And importantly, how sustainable and useful the service would be to run.&lt;/p&gt;
-
-&lt;p&gt;Done right, it’s also a way of creating a narrative about highlighting the potential risks in poor experience. And the areas where mitigation and change is needed.&lt;/p&gt;
-
-&lt;p&gt;It can also help pinpoint things to get further user research and insight into.&lt;/p&gt;
-
-&lt;h2&gt;Running an experience modelling exercise&lt;/h2&gt;
-
-&lt;p&gt;I’m still playing with the right process. But here is what I’ve done so far.&lt;/p&gt;
-
-&lt;h3&gt;Prep&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Get/Create a journey map or service map [journey + actors and systems underneath the journey to the user]&lt;/li&gt;
-&lt;li&gt;Define the people providing the service&lt;/li&gt;
-&lt;li&gt;Define the people using the service&lt;/li&gt;
-&lt;li&gt;Define the people who impact/influence those using the service [partners, kids, colleagues etc.]&lt;/li&gt;
-&lt;li&gt;Create a list of people to involve in the review&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure class="noir"&gt;
-    &lt;img src="/images/service blueprint.png" alt="A service blueprint with lots of comments and notes on it"/&gt;
-    &lt;figcaption&gt;Any size or shape of a service blueprint or similar can do. Make it something people can follow along&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3&gt;Workshop&lt;/h3&gt;
-
-&lt;p&gt;Get members of the team together to run through steps and scenarios in a workshop.&lt;/p&gt;
-
-&lt;p&gt;Include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;“subject matter experts”&lt;/li&gt;
-&lt;li&gt;people involved in running the service&lt;/li&gt;
-&lt;li&gt;people who have designed similar services&lt;/li&gt;
-&lt;li&gt;people with tech skills. &lt;/li&gt;
-&lt;li&gt;people without them&lt;/li&gt;
-&lt;li&gt;people from policy or governance teams&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For health services you will want clinicians too. You can also get people who use your services. In the NHS there are many ways of reaching patient representatives.&lt;/p&gt;
-
-&lt;p&gt;Decide the scope of the service you want to include. If it&amp;rsquo;s a change, you may want to focus on that journey more. But be careful to make sure it sits within a realistic context.&lt;/p&gt;
-
-&lt;p&gt;If your service is live. Do some groundwork to get data. Insights and visualise them alongside your journey.&lt;/p&gt;
-
-&lt;p&gt;In the workshop:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Brief them about the goal. Unearthing the potential or known issues and outcomes of things going bad at each step.&lt;/li&gt;
-&lt;li&gt;Walk them through a section of the service. If a large team, split into smaller groups&lt;/li&gt;
-&lt;li&gt;Get individuals to create notes on the potential ways a user could misunderstand, misuse or get each step wrong. If split into small groups, get the smaller groups to discuss and create more risks as a group.&lt;/li&gt;
-&lt;li&gt;Return to the room and walk through the steps articulating the risks.&lt;/li&gt;
-&lt;li&gt;Rank the risks by likelihood and potential impact as a group. Voting if needed.&lt;/li&gt;
-&lt;li&gt;Move to the next section of the service. Rinse repeat&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;After you’ve done either the part you want to cover, or the full service. You’ll now have a list of potential issues per step and the guessed likelihood and impact of those risks.&lt;/p&gt;
-
-&lt;p&gt;If you have time you can then work out what to do next.&lt;/p&gt;
-
-&lt;h3&gt;Deciding what to do next&lt;/h3&gt;
-
-&lt;p&gt;If you and the team struggled to represent your users. Do more research. Or involve them in it.&lt;/p&gt;
-
-&lt;p&gt;If you got lots of risks. And you feel the process was realistic. The next thing to do is to choose what to do with the risks.&lt;/p&gt;
-
-&lt;p&gt;That is, whether to resolve, reduce, mitigate or accept a risk.&lt;/p&gt;
-
-&lt;p&gt;By this I mean:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Resolve risk&lt;/strong&gt; - Resolve a risk by removing the possibility entirely&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reduce risk&lt;/strong&gt; - Take steps to reduce the likelihood of something bad happening&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mitigate damage&lt;/strong&gt; - Take steps to reduce the potential damage in a step&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accept risk&lt;/strong&gt; - Accept it’s unlikely or impossible to stop&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;An example could be:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Resolve risk:&lt;/strong&gt;  don’t ask or save sensitive data so it can be leaked&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reduce risk:&lt;/strong&gt;  ask for two factor verification, or check against a database so it’s less likely that someone can access information they shouldn’t &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mitigate damage:&lt;/strong&gt;  only display partial information. Like half a postcode. This way if it leaks the damage is limited &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accept risk:&lt;/strong&gt;  Data is already public knowledge so don’t protect it. Or maybe a product replicates what’s happening in another product so accept this service would act in the same way&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Doing this step helps make clear what you can do. And ranking the likelihood and impact helps frame whether to invest in solutions that resolve risks. Or when to accept or reduce risk too.&lt;/p&gt;
-
-&lt;p&gt;And if you do it with teams like security or clinical you can save yourself weeks and week of back and forth. And lots of misconceptions of each other&amp;rsquo;s perspectives.&lt;/p&gt;
-
-&lt;p&gt;If you’re able to get teams like security involved in wider experience issues, you also get a good balance. Because risks are in context of journeys and likelihood.&lt;/p&gt;
-
-&lt;p&gt;I did this process with some clinicians and data folk for an elective care service. They wanted specific data items that would have been impossible for the users to know. Using the scenario approach, we could show them the burden it would create. And that they would stop any hospital staff from wanting to use the service. Which would be a bigger risk than the nice to have data items.&lt;/p&gt;
 </content>
   </entry>
 </feed>
