@@ -5,10 +5,85 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2023-11-26T15:28:00+00:00</updated>
+  <updated>2023-11-28T19:31:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>The role user-centred design (UCD) should play in AI development</title>
+    <link rel="alternate" href="https://grillopress.github.io/2023/11/28/the-role-ucd-should-play-in-ai-development.html"/>
+    <id>https://grillopress.github.io/2023/11/28/the-role-ucd-should-play-in-ai-development.html</id>
+    <published>2023-11-28T19:31:00+00:00</published>
+    <updated>2023-11-28T19:44:00+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;It&amp;rsquo;s been interesting watching and playing with AI tools as they emerge. Some feel really impactful. Others less so. And watching and experiencing the balancing act that teams are navigating. Between things potentially dangerous but generative and or transformational. And those that are more restrictive but less impactful.&lt;/p&gt;
+
+&lt;p&gt;Misleading content. Purposeful or not has a massive potential impact on the world. We&amp;rsquo;ve all seen the speed a lie gets around the world. What better than a lie that looks and feels like the truth.&lt;/p&gt;
+
+&lt;figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/typewritter green.jpeg" alt="A robot at a typewrter sweating a deadline with sticky notes everywhere - By Andrew Duckworth"/&gt;
+    &lt;figcaption&gt;&amp;ldquo;We’ve already seen the rapid reaction of people to changes in models and how things are less popular as they become safer&amp;rdquo;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Recently a conference organiser has faked some profiles of conference speakers using AI.  To avoid criticism about gender disparity in their speaker lineup.&lt;/p&gt;
+
+&lt;p&gt;Although one day the threats and potential harm posed by AI might be new. The reality is most of them are here today. But we&amp;rsquo;re just not ready for the scale and speed that people can spread them.&lt;/p&gt;
+
+&lt;p&gt;You can also see how people have caught on to the hype of AI recently and it&amp;rsquo;s jammed everywhere. &lt;/p&gt;
+
+&lt;p&gt;Every feature is an AI powered thing. Chatbots have come back with a vengeance. AI has made little to no impact to the sheer number of terrible products and journeys being churned out. Though I suspect AI will soon be responsible for scaling up the number of terrible products out there.&lt;/p&gt;
+
+&lt;p&gt;But it has immense potential to make things great.&lt;/p&gt;
+
+&lt;p&gt;These 2 things. The potential risks and harms opened up by AI to us, users, customers and communities. And the ability to meet a need for users through AI. The solution to these 2 things aren&amp;rsquo;t new processes either. In fact, they&amp;rsquo;re ripe for high quality, agile user-centred design.&lt;/p&gt;
+
+&lt;p&gt;And I am talking both about the design of the underlying models and platforms. As well as the tools built on top of AI and those models and platforms.&lt;/p&gt;
+
+&lt;h2&gt;Designing the underlying model, tools and platforms&lt;/h2&gt;
+
+&lt;p&gt;Great models start with a clear vision and clarity over what you want it to do. Or make possible. UCD help prototype and create these things with product and data teams. Exploring quickly whether a vision is worth bothering with. And before spending too much time trying to make it real. Researchers also help teams know their users and customers. And what opportunities there are to meet unmet needs.&lt;/p&gt;
+
+&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/At the model.jpeg" alt="A green face staring. looking through the code - By Andrew Duckworth"/&gt;
+    &lt;figcaption&gt;&amp;ldquo;AI has made little to no impact to the sheer number of terrible products and journeys being churned out in the world&amp;rdquo;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For example, on a project I worked on last year. There was a data scientist who was jumping deep into an idea and how it could work in a different way. The clinical product owner wasn’t able to answer a question about process directly. The data scientist had a vision how it could work. But I was able to bring in some research and visualise how our users managed clinical cases. The vision from the engineer was smart. But it wouldn’t have worked for the way people managed cases. And it wasn’t a behaviour change that would have been easy to embed. The engineer had a good vision but didn’t work for there. Rather than waste some time finding out things after building a model we did something else. We used AI to get better data into our systems and reduce the time it took people to manage cases.&lt;/p&gt;
+
+&lt;p&gt;The quality, accuracy of data and facts in AI models is also critical. Teams building models and underlying tools will need to ensure they collect better data. That in part will include incentivising and making it easier to do that. Which are all better with user researchers and designers playing a part.&lt;/p&gt;
+
+&lt;p&gt;Teams developing the underlying models will also need richer and more in-depth data. And insights about people, how they work and act. This comes from data sure. But lots of it will need to come from observations of people. If you’ve ever done a study with lots of data you’ll also know that it often fails to tell you why. You might have a clear signal that no one is doing a thing. But why they’re not is often a case of contextual understanding that data doesn’t give you.&lt;/p&gt;
+
+&lt;p&gt;As new models emerge teams will need to understand their biases and implications. This means models will need to be coproduced and designed with communities. This will only be believable if it’s done with users and communities in an open and honest way.&lt;/p&gt;
+
+&lt;p&gt;The teams using these AI tools will also have their needs. We’ve already seen the rapid reaction of people to changes in models. And how things are less popular as they become safer. Or when certain counter measures create new unintended consequences that ruin the model. Teams and platforms that’ll succeed over the long term will ensure they design their tools with their users. And they’ll do so in quick, iterative loops. Avoiding making changes that don’t meet the model’s original vision or intent.&lt;/p&gt;
+
+&lt;p&gt;The key then is to bring together people who understand users with those who understand the tech. And using both skillsets to complement and bounce off each other in unique and novel ways. To make the models and tools useful. But also safe. And where things can’t be completely safe, a level of clarity and understanding of the biases and harms it could create.&lt;/p&gt;
+
+&lt;h2&gt;Designing the products and features that sit on top of AI&lt;/h2&gt;
+
+&lt;p&gt;This will be more comfortable clothes for many researchers and designers. The building of products and services to meet user needs. As with more traditional apps and websites, the best ones meet user needs. And do so supporting business goals and sustainability. The products that don’t make things better. That don’t meet the raised expectations of users who now know what AI could do, will be left long behind.&lt;/p&gt;
+
+&lt;figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/zombie.jpeg" alt="A robot at a typewrter sweating a deadline with sticky notes everywhere - By Andrew Duckworth"/&gt;
+    &lt;figcaption&gt;&amp;ldquo;Great models start with a clear vision and clarity over what you want it to do&amp;rdquo;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;But as teams explore how AI will work to make services better, they’ll need to understand their users and customers more. Not less. It’ll be only thing that stands 1 apart from another. All powered by AIs of the same or similar flavours.&lt;/p&gt;
+
+&lt;p&gt;People with user centered design skills are uniquely placed to help teams do this. This is their skillset. Understanding people and how to shape and mould products to meet their needs. And as AI generates more tools to build the software and products themselves, everyone will need to cultivate these skills to succeed. The barrier to build will be lower. But the expectations will be higher.&lt;/p&gt;
+
+&lt;p&gt;Good research and design will also have a part to play to keep communities safe. The size and scale of impact that AI has. It gives us all super powers. But those super powers provide opportunities to those with good and bad intentions.  So we’ll need nuanced designs and services that balance safety with usefulness. Designs that incentivise doing the right thing. And put barriers in the way of doing the wrong thing.&lt;/p&gt;
+
+&lt;h2&gt;Things we as designers and researchers can do to be helpful&lt;/h2&gt;
+
+&lt;p&gt;So UCD can make a massive impact on AI design and development. From model design and development, to building products on top of those models and platforms. To enable less bias and ensure communities are involved in the creation of AI models. But also to create safer products that really solve user needs and meet business goals.&lt;/p&gt;
+
+&lt;p&gt;To do this we need to be confident in the role we can play. And the value we can add. But we also need to use, understand and learn about AI more. Both as users and makers with it. Else we’re going to leave so much value behind because we won’t be able to help in practical and pragmatic ways.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Get more out of design reviews</title>
     <link rel="alternate" href="https://grillopress.github.io/2023/11/26/get-more-out-of-design-reviews.html"/>
@@ -410,52 +485,6 @@
 &lt;p&gt;Design community support is a great way to move people through their journey to trusting and learning how to use design. It&amp;rsquo;ll help you get people past awareness. And in places that design doesn&amp;rsquo;t always get to work.&lt;/p&gt;
 
 &lt;p&gt;But it won&amp;rsquo;t just happen. You&amp;rsquo;ll have to get out there and offer the opportunity. And create the space to it. But doing it as a conscious way of adding value really does help grow design within your organisation. Just by letting teams experience it.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Do the design digging</title>
-    <link rel="alternate" href="https://grillopress.github.io/2023/11/08/do-the-design-digging.html"/>
-    <id>https://grillopress.github.io/2023/11/08/do-the-design-digging.html</id>
-    <published>2023-11-08T14:53:00+00:00</published>
-    <updated>2023-11-08T17:33:10+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;I’ve recently been chatting with a former colleague and friend who is now working on a product I used to.&lt;/p&gt;
-
-&lt;p&gt;They shared some of the challenges the team was working through.&lt;/p&gt;
-
-&lt;p&gt;What was interesting was that some of challenges were things we’d worked through way back in 2019. Classic sort of “know your API and data” type issues every good interaction or UX designer learns.&lt;/p&gt;
-
-&lt;p&gt;Things that meant you have to make sure your designs are &lt;a href="https://grillopress.github.io/2019/12/05/design-for-real-data.html"&gt;based on real data&lt;/a&gt;. The screaming capitals style of real data.&lt;/p&gt;
-
-&lt;p&gt;What was interesting was that there wasn’t an active part of the team telling and teaching what we’d found out in 2019.&lt;/p&gt;
-
-&lt;p&gt;Those lessons were no longer being carried across. And where we’d documented things, those lessons have been archived and no longer being used.&lt;/p&gt;
-
-&lt;p&gt;There are times when an outside perspective is useful. To ask questions like “why does this api work like that?”. But a good team should be carrying forward that information and stories. Even between and after suppliers or other teams come and go.&lt;/p&gt;
-
-&lt;p&gt;Because something didn’t work before, or there were limitations, doesn’t mean things can’t change. When looking at data and past decisions, you get to rethink or challenge things for the future. To tell the next chapter of how things work.&lt;/p&gt;
-
-&lt;p&gt;But when the stories are no longer told, we waste money and time learning what we could have already known. Our research and design doesn’t get past the “so what?”. Or it does a lot later than it could have done.&lt;/p&gt;
-
-&lt;p&gt;There’s no replacement for learning by doing. But it&amp;rsquo;s much more fun and valuable to learn new things. Rather than repeating the battles and lessons of the past.&lt;/p&gt;
-
-&lt;p&gt;A research and design team that forgets or fails to dig around what’s been learnt before is doomed to repeat the learnings.&lt;/p&gt;
-
-&lt;p&gt;How do we avoid this? A good design process starts by digging around and learning what’s been learnt before. And what’s been done. In the enthusiasm for change or design it can be easily forgotten. Every designer has done this. And will do it again no doubt.&lt;/p&gt;
-
-&lt;p&gt;But reach out to those before. Or those who’ve done similar. Particularly on a product or service with many dependencies and history.&lt;/p&gt;
-
-&lt;p&gt;Make it easy to record and share your thinking. Make it easy to find your thinking. &lt;/p&gt;
-
-&lt;p&gt;Make those that decide things aware that when they archive or remove the lessons and learning of the past they’ll be paying to repeat many of them in the future.&lt;/p&gt;
-
-&lt;p&gt;If you can influence how teams are put together. Make sure your team blends those that stick around and those that leave. Be they contractors, suppliers etc. Make sure you keep a thread.&lt;/p&gt;
-
-&lt;p&gt;But most of all. Do the design digging before you repeat the broken designs of the past.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/images/in the hot sun.jpeg" alt="People digging in the ruins and under the hot sun to find out what has happened artwork by Andrew Duckworth"/&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
