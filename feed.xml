@@ -5,10 +5,52 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2024-09-25T19:41:00+01:00</updated>
+  <updated>2024-11-29T14:05:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Service design is not mostly convincing other people to do service design</title>
+    <link rel="alternate" href="https://grillopress.github.io/2024/11/29/service-design-is-not-mostly-convincing-other-people-to-do-service-design.html"/>
+    <id>https://grillopress.github.io/2024/11/29/service-design-is-not-mostly-convincing-other-people-to-do-service-design.html</id>
+    <published>2024-11-29T14:05:00+00:00</published>
+    <updated>2024-11-29T14:06:37+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;It’s catchy. And many people feel that’s what they do. And you’ll be doing it a bit I don’t doubt.&lt;/p&gt;
+
+&lt;p&gt;If you’ve talked to a service designer over the last few years (or been one) you’ve probably heard some variation on that theme. That the job is mostly convincing other people to let them do their job.&lt;/p&gt;
+
+&lt;p&gt;It’s a good ear worm but it’s a bad brain worm.&lt;/p&gt;
+
+&lt;p&gt;Telling people that’s what the thing is is setting them up to fail. No one wants a methodological pedant who mostly preaches and rarely practices on a team.&lt;/p&gt;
+
+&lt;p&gt;No one wants to hear how they’re doing it all wrong by someone who appears to only say that.&lt;/p&gt;
+
+&lt;p&gt;And if there’s anything I’ve seen a lot of the last few years is lots of pedantry about what is or is not service design. Or how &amp;ldquo;these aren&amp;rsquo;t the true conditions&amp;rdquo; or this or that. And a lot of people trying to do good work spending too much time arguing about what it is rather than getting on with it. &lt;/p&gt;
+
+&lt;p&gt;People following a preaching and throwing rocks process rather than getting their hands dirty and showing a better way alongside those with operational pressures and dirty reality of services.&lt;/p&gt;
+
+&lt;p&gt;Spending time “evangelising” rather than just doing and showing the value consciously designing services can have is rarely effective.&lt;/p&gt;
+
+&lt;p&gt;If showing is powerful and telling less so, then it’s about showing how it works. Through doing it rather than talking about doing it. By helping combine various views and helping make better decisions based on that.&lt;/p&gt;
+
+&lt;p&gt;It’s done by helping teams visualise and talk about complex things. And be able to add their skill set and viewpoints into it.&lt;/p&gt;
+
+&lt;p&gt;It’s done by ensuring teams are held to account by the users actual expectations and experiences. And weaving those viewpoints into business and technical discussions.&lt;/p&gt;
+
+&lt;p&gt;Now people might say, yeah that’s what they meant. But is it what’s happening? If 90% of the work is advocating for service design it must be done by doing. And not preaching and explaining the theory.&lt;/p&gt;
+
+&lt;p&gt;If it really is just convincing other people of the approach then it’s a pyramid scheme not a path to better products and services. So it’s got to be mostly about facilitating and designing how services are offered.&lt;/p&gt;
+
+&lt;p&gt;Better products and services are made by getting stuck in. Not by disappearing and working on futures that’ll never happen. Or by preaching a set of conditions to do work that’ll never materialise.&lt;/p&gt;
+
+&lt;p&gt;Service design starts in the stony rubbish. That’s where things take root. Not in a perfect world where things are cultivated and manicured.&lt;/p&gt;
+
+&lt;p&gt;No service design is not mostly convincing other people to do service design. It’s by using tools and techniques to make services and products better. Designing services together. Not preaching about the conditions or what jobs are called.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Justifying design's impact</title>
     <link rel="alternate" href="https://grillopress.github.io/2024/09/25/justifying-ucd-s-impact.html"/>
@@ -447,81 +489,6 @@
 &lt;p&gt;Also reflect on who you need in the room. Who needs to hear this message? And whether there are different stories for different teams.&lt;/p&gt;
 
 &lt;p&gt;But whatever you do. Get beyond the so what. And better yet, do it as a team.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>The role user-centred design (UCD) should play in AI development</title>
-    <link rel="alternate" href="https://grillopress.github.io/2023/11/28/the-role-ucd-should-play-in-ai-development.html"/>
-    <id>https://grillopress.github.io/2023/11/28/the-role-ucd-should-play-in-ai-development.html</id>
-    <published>2023-11-28T19:31:00+00:00</published>
-    <updated>2023-12-05T10:24:25+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;It&amp;rsquo;s been interesting watching and playing with AI tools as they emerge. Some feel really impactful. Others less so. And watching and experiencing the balancing act that teams are navigating. Between things potentially dangerous but generative and or transformational. And those that are more restrictive but less impactful.&lt;/p&gt;
-
-&lt;p&gt;Misleading content. Purposeful or not has a massive potential impact on the world. We&amp;rsquo;ve all seen the speed a lie gets around the world. What better than a lie that looks and feels like the truth.&lt;/p&gt;
-
-&lt;figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;"&gt;
-    &lt;img src="/images/typewritter green.jpeg" alt="A robot at a typewrter sweating a deadline with sticky notes everywhere - By Andrew Duckworth"/&gt;
-    &lt;figcaption&gt;&amp;ldquo;We’ve already seen the rapid reaction of people to changes in models and how things are less popular as they become safer&amp;rdquo;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Recently a conference organiser has faked some profiles of conference speakers using AI.  To avoid criticism about gender disparity in their speaker lineup.&lt;/p&gt;
-
-&lt;p&gt;Although one day the threats and potential harm posed by AI might be new. The reality is most of them are here today. But we&amp;rsquo;re just not ready for the scale and speed that people can spread them.&lt;/p&gt;
-
-&lt;p&gt;You can also see how people have caught on to the hype of AI recently and it&amp;rsquo;s jammed everywhere. &lt;/p&gt;
-
-&lt;p&gt;Every feature is an AI powered thing. Chatbots have come back with a vengeance. AI has made little to no impact to the sheer number of terrible products and journeys being churned out. Though I suspect AI will soon be responsible for scaling up the number of terrible products out there.&lt;/p&gt;
-
-&lt;p&gt;But it has immense potential to make things great.&lt;/p&gt;
-
-&lt;p&gt;These 2 things. The potential risks and harms opened up by AI to us, users, customers and communities. And the ability to meet a need for users through AI. The solution to these 2 things aren&amp;rsquo;t new processes either. In fact, they&amp;rsquo;re ripe for high quality, agile user-centred design.&lt;/p&gt;
-
-&lt;p&gt;And I am talking both about the design of the underlying models and platforms. As well as the tools built on top of AI and those models and platforms.&lt;/p&gt;
-
-&lt;h2&gt;Designing the underlying model, tools and platforms&lt;/h2&gt;
-
-&lt;p&gt;Great models start with a clear vision and clarity over what you want it to do. Or make possible. UCD helps prototype and create these things with product and data teams. Exploring quickly whether a vision is worth bothering with. And before spending too much time trying to make it real. Researchers also help teams know their users and customers. And what opportunities there are to meet unmet needs.&lt;/p&gt;
-
-&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
-    &lt;img src="/images/At the model.jpeg" alt="A figure amongst colourful lines that looks a little like computer chipboards and websites - By Andrew Duckworth"/&gt;
-    &lt;figcaption&gt;&amp;ldquo;AI has made little to no impact to the sheer number of terrible products and journeys being churned out in the world&amp;rdquo;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For example, on a project I worked on last year. There was a data scientist who was jumping deep into an idea and how it could work in a different way. The clinical product owner wasn’t able to answer a question about process directly. The data scientist had a vision how it could work. But I was able to bring in some research and visualise how our users managed clinical cases. The vision from the engineer was smart. But it wouldn’t have worked for the way people managed cases. And it wasn’t a behaviour change that would have been easy to embed. The engineer had a good vision but didn’t work for there. Rather than waste some time finding out things after building a model we did something else. We used AI to get better data into our systems and reduce the time it took people to manage cases.&lt;/p&gt;
-
-&lt;p&gt;The quality, accuracy of data and facts in AI models is also critical. Teams building models and underlying tools will need to ensure they collect better data. That in part will include incentivising and making it easier to do that. Which are all better with user researchers and designers playing a part.&lt;/p&gt;
-
-&lt;p&gt;Teams developing the underlying models will also need richer and more in-depth data. And insights about people, how they work and act. This comes from data sure. But lots of it will need to come from observations of people. If you’ve ever done a study with lots of data you’ll also know that it often fails to tell you why. You might have a clear signal that no one is doing a thing. But why they’re not is often a case of contextual understanding that data doesn’t give you.&lt;/p&gt;
-
-&lt;p&gt;As new models emerge teams will need to understand their biases and implications. This means models will need to be coproduced and designed with communities. This will only be believable if it’s done with users and communities in an open and honest way.&lt;/p&gt;
-
-&lt;p&gt;The teams using these AI tools will also have their needs. We’ve already seen the rapid reaction of people to changes in models. And how things are less popular as they become safer. Or when certain counter measures create new unintended consequences that ruin the model. Teams and platforms that’ll succeed over the long term will ensure they design their tools with their users. And they’ll do so in quick, iterative loops. Avoiding making changes that don’t meet the model’s original vision or intent.&lt;/p&gt;
-
-&lt;p&gt;The key then is to bring together people who understand users with those who understand the tech. And using both skillsets to complement and bounce off each other in unique and novel ways. To make the models and tools useful. But also safe. And where things can’t be completely safe, a level of clarity and understanding of the biases and harms it could create.&lt;/p&gt;
-
-&lt;h2&gt;Designing the products and features that sit on top of AI&lt;/h2&gt;
-
-&lt;p&gt;This will be more comfortable clothes for many researchers and designers. The building of products and services to meet user needs. As with more traditional apps and websites, the best ones meet user needs. And do so supporting business goals and sustainability. The products that don’t make things better. That don’t meet the raised expectations of users who now know what AI could do, will be left long behind.&lt;/p&gt;
-
-&lt;figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;"&gt;
-    &lt;img src="/images/zombie.jpeg" alt="A green face staring. looking through the code - By Andrew Duckworth"/&gt;
-    &lt;figcaption&gt;&amp;ldquo;Great models start with a clear vision and clarity over what you want it to do&amp;rdquo;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;But as teams explore how AI will work to make services better, they’ll need to understand their users and customers more. Not less. It’ll be only thing that stands 1 apart from another. All powered by AIs of the same or similar flavours.&lt;/p&gt;
-
-&lt;p&gt;People with user centered design skills are uniquely placed to help teams do this. This is their skillset. Understanding people and how to shape and mould products to meet their needs. And as AI generates more tools to build the software and products themselves, everyone will need to cultivate these skills to succeed. The barrier to build will be lower. But the expectations will be higher.&lt;/p&gt;
-
-&lt;p&gt;Good research and design will also have a part to play to keep communities safe. The size and scale of impact that AI has. It gives us all super powers. But those super powers provide opportunities to those with good and bad intentions.  So we’ll need nuanced designs and services that balance safety with usefulness. Designs that incentivise doing the right thing. And put barriers in the way of doing the wrong thing.&lt;/p&gt;
-
-&lt;h2&gt;Things we as designers and researchers can do to be helpful&lt;/h2&gt;
-
-&lt;p&gt;So UCD can make a massive impact on AI design and development. From model design and development, to building products on top of those models and platforms. To enable less bias and ensure communities are involved in the creation of AI models. But also to create safer products that really solve user needs and meet business goals.&lt;/p&gt;
-
-&lt;p&gt;To do this we need to be confident in the role we can play. And the value we can add. But we also need to use, understand and learn about AI more. Both as users and makers with it. Else we’re going to leave so much value behind because we won’t be able to help in practical and pragmatic ways.&lt;/p&gt;
 </content>
   </entry>
 </feed>
