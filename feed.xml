@@ -5,16 +5,70 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2024-11-29T14:05:00+00:00</updated>
+  <updated>2025-03-01T18:07:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Between shifted and removed costs</title>
+    <link rel="alternate" href="https://grillopress.github.io/2025/03/01/between-shifted-and-removed-costs.html"/>
+    <id>https://grillopress.github.io/2025/03/01/between-shifted-and-removed-costs.html</id>
+    <published>2025-03-01T18:07:00+00:00</published>
+    <updated>2025-03-02T19:35:15+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Many organisations invest in service transformation with the ultimate aim to reduce costs or improve efficiency. Be it automating manual tasks, streamlining processes, or cutting out steps that seem unnecessary. &lt;/p&gt;
+
+&lt;p&gt;However these changes can just move costs or effort to another part of the organisation or onto users, creating new challenges instead of true efficiencies. While removing costs can add value, a simplistic approach actually means you only ever shift the cost. And this leads to unintended consequences, and much worse outcomes.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to see a task that takes time and assume removing it will create value. Sometimes, that’s true. Like automating how we test whether a change in code has broken a journey. But in other cases, the cost is not removed—it’s just moved elsewhere. Often, this burden falls on users or other teams.&lt;/p&gt;
+
+&lt;p&gt;An example of this I&amp;rsquo;ve experirenced is a change in packaging. Over Christmas I was in my local shop to look for some nice beer. I found something interesting. But instead of the usual plastic rings or cardboard packaging, the cans were held together with glue.&lt;/p&gt;
+
+&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/dripping.jpeg" alt="An artwork of a family made out of fluff and sticky notes, dripping"/&gt;
+    &lt;figcaption&gt;A well-designed service should aim to genuinely remove costs rather than just shift them&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This likely reduced packaging costs, may have had environmental benefits, and let the product have a clean look. But it also made it more prone to falling apart, and shifted the risk to me as the customer.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure the team is celebrating cost savings and sustainability improvements. But they achieved this by pushing inconvenience and risk onto me. Recycled cardboard would have worked just fine. Glue, not so much.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not a happy customer when it means your savings cost me more when things go wrong.&lt;/p&gt;
+
+&lt;p&gt;Beyond beer, nowhere is cost-shifting more apparent than in healthcare. While there are some tasks that are better done with active patients, many health services now place an excessive burden on patients and their families.&lt;/p&gt;
+
+&lt;p&gt;Patients are expected to remember their prescriptions, manage drug interactions, and carry information between appointments and teams. Partial digitisation and service cuts mean that clinicians often don’t have the time or access to the right information, shifting that responsibility to patients instead.&lt;/p&gt;
+
+&lt;p&gt;This means that the most unwell often burden the highest cost of gluing together a good health service. And anyone with a chronic illness facing doing that for the rest of their life. Ultimately at the cost of jobs, money and health of those very patients.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ve saved a bit in efficiency. But at the cost of the ultimate outcome: the patient&amp;rsquo;s health and ability to live a good life.&lt;/p&gt;
+
+&lt;p&gt;When we design and build products, if we care about our users and the impact of the &amp;ldquo;improvements&amp;rdquo; we make, we need to counteract this.&lt;/p&gt;
+
+&lt;h2&gt;How might we do that&lt;/h2&gt;
+
+&lt;p&gt;To avoid simply shifting costs rather than removing them, we need to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Understand and amplify the voices of those affected and talk with users and teams to identify where burdens are being created.&lt;/li&gt;
+&lt;li&gt;Define the problem properly. Doing root cause analysis can reveal alternative ways to remove, rather than shift, burden.&lt;/li&gt;
+&lt;li&gt;Model the true end-cost. If removing a task leads to more customer service calls or increased churn, factor that into the cost-benefit analysis.&lt;/li&gt;
+&lt;li&gt;Set clear red lines. Principles like “no new burden on the user” or “no added complexity” ensure efficiencies don’t come at the cost of user experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Successful product, projects and programmes make informed decisions about what they will and won’t do. A well-designed service should aim to genuinely remove costs rather than just shift them. Without this , efficiency gains can come at the cost of worse experiences for users—and, in some cases, higher costs elsewhere in the system.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t just shift a cost. Remove it.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Service design is not mostly convincing other people to do service design</title>
     <link rel="alternate" href="https://grillopress.github.io/2024/11/29/service-design-is-not-mostly-convincing-other-people-to-do-service-design.html"/>
     <id>https://grillopress.github.io/2024/11/29/service-design-is-not-mostly-convincing-other-people-to-do-service-design.html</id>
     <published>2024-11-29T14:05:00+00:00</published>
-    <updated>2024-12-12T09:08:05+00:00</updated>
+    <updated>2025-03-02T19:33:56+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -30,7 +84,7 @@
 
 &lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
     &lt;img src="/images/pink-mess.jpeg" alt="An artwork of pink sticky notes and fluff"/&gt;
-    &lt;figcaption&gt;Service design starts in the stony rubbish. That’s where things take root. Not in a perfect world where things are cultivated and manicured..&lt;/figcaption&gt;
+    &lt;figcaption&gt;Service design starts in the stony rubbish. That’s where things take root. Not in a perfect world where things are cultivated and manicured&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;If there’s something I’ve seen a lot of the last few years in the service design world, then it&amp;rsquo;s a lot of pedantry about what is or is not service design. Or how &amp;ldquo;these aren&amp;rsquo;t the true conditions&amp;rdquo; or this or that. And a lot of people trying to do good work spending too much time arguing about what it is rather than getting on with it. &lt;/p&gt;
@@ -392,108 +446,6 @@
 &lt;p&gt;If you start with a form you’ll have evidence of making people’s lives easier. Data more complete or accurate. And processes more efficient that you’ll have the credit to be able to work on other things that no doubt need to change too.&lt;/p&gt;
 
 &lt;p&gt;Start with a form. Start with something tangible and well used. &lt;a href="https://grillopress.github.io/2023/10/27/why-we-design-forms.html"&gt;Good form design improves so much&lt;/a&gt;. And start your transformation there. And &lt;a href="https://grillopress.github.io/2021/03/19/win-space-to-design.html"&gt;win the space to design whole services&lt;/a&gt; and transform the system.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Get beyond the 'so what?'</title>
-    <link rel="alternate" href="https://grillopress.github.io/2023/12/04/get-beyond-the-so-what.html"/>
-    <id>https://grillopress.github.io/2023/12/04/get-beyond-the-so-what.html</id>
-    <published>2023-12-04T12:47:00+00:00</published>
-    <updated>2023-12-05T10:42:58+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;In a rush to get headlines and report back I often see research and design teams reporting things that don’t add any insight. Or develop any understanding of a problem.&lt;/p&gt;
-
-&lt;p&gt;At best you’ll get a shrug. At worst people will mark it down mentally that user research will only find out stuff they already know or could have guessed.&lt;/p&gt;
-
-&lt;figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;"&gt;
-    &lt;img src="/images/splash.jpeg" alt="A figure in matisse style dancing - By Andrew Duckworth"/&gt;
-    &lt;figcaption&gt;&amp;ldquo;You also need to ask yourself a question. Is it clear what the team needs to do next?&amp;rdquo;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This seems to be worse when there isn’t a product or concrete service to understand. When what we want to find out is broader. Or when there’s a strong sense of service. When teams have been running things for a while. (Regardless whether they REALLY do know their users)&lt;/p&gt;
-
-&lt;p&gt;You don’t have to find out something novel every time you do research. But you do have to get past “so what?”&lt;/p&gt;
-
-&lt;p&gt;So what is that shrug. Either it’s an unemotional response because you’ve not made the research feel real or believable. Or it’s because you’re telling people things too late. Or maybe it’s because it’s not clear how that solves an issue for them.&lt;/p&gt;
-
-&lt;p&gt;Many causes of so what:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Not going deeper. Not going beyond surface answers or the first cause. Not finding out the why behind things.&lt;/li&gt;
-&lt;li&gt;Teams not being confident in what’s currently known or running assumptions. So that when a thing is confirmed to be true that confirmation cannot be celebrated or the team doesn’t use the confirmation to tackle the next thing&lt;/li&gt;
-&lt;li&gt;Teams getting used to being powerless. So solving suffering is out of scope. This can happen to really high performing teams too. Ones that are very good at knowing what they can’t do.&lt;/li&gt;
-&lt;li&gt;Research teams being kept out of the loop and at a distance so they don’t build on what’s known. Getting stale or out of date commissions that’ll always deliver yesterday’s news or last week’s decision. And when no one is able to do anything about it&lt;/li&gt;
-&lt;li&gt;Teams with poorly defined scope. So what they need to know is hard to define so they just find out whatever happens to turn up.&lt;/li&gt;
-&lt;li&gt;Teams who leave synthesis and reflection to one person rather than a conversation. So there’s actually no team reflection at all&lt;/li&gt;
-&lt;li&gt;A lack of clarity in what research or insights should tell people. Often because not enough research is done or the analysis is only half-complete or completed without policy/tech teams&lt;/li&gt;
-&lt;li&gt;Teams trying to dress up insights to being deeper than they are. Rather than having honest conversations about what will need to be in place to go deeper&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So how do you can tackle “so what”?&lt;/p&gt;
-
-&lt;h2&gt;Tackling the so what problem&lt;/h2&gt;
-
-&lt;h3&gt;1. Get a better scope for research&lt;/h3&gt;
-
-&lt;p&gt;Good research starts with timing and relationships with those that need the insights. Build those. Though often you have to show the benefit before you really win people round.&lt;/p&gt;
-
-&lt;p&gt;But work hard on shaping what it is the research is going to do. What decision are you supporting? And will the decision be made in time? Or when you can influence it?&lt;/p&gt;
-
-&lt;p&gt;You should also understand what is important for the organisation so you can align insights that will really motivate and get change to happen.&lt;/p&gt;
-
-&lt;p&gt;Do not underestimate the value of getting close to product (or whoever is setting vision) so you learn what you need to reflect back. Even in advance of an ask.&lt;/p&gt;
-
-&lt;h3&gt;2. Build understanding of the process&lt;/h3&gt;
-
-&lt;p&gt;Make sure you build understanding of your process by sharing it and involving people along the way. Don’t just preach. Show the way. Take people with you. Do the hard work to make what and why you do things clear and obvious.&lt;/p&gt;
-
-&lt;p&gt;I’ve lost count of the amount of times I’ve had to explain and guide development teams why researchers are doing what they are doing. At times this is because they’re not entirely paying attention. Bu also people haven’t explained in terms they got either.&lt;/p&gt;
-
-&lt;p&gt;If you build understanding of the process you can also talk through how much time is needed for certain things. And impress upon people when to get you involved. Lose the mystery, ensure people can work with you.&lt;/p&gt;
-
-&lt;h3&gt;3. Make it a partnership&lt;/h3&gt;
-
-&lt;p&gt;The researchers I’ve worked with who do the best don’t make it feel like they’re different or outside the team. They feel part of the team and do things with you.&lt;/p&gt;
-
-&lt;p&gt;This isn’t easy. And some teams make it hard. But you need to create the trust and culture where team members share insights and learnings to you. So you know what they know. And you know what they need.&lt;/p&gt;
-
-&lt;p&gt;Do this through regular team reflections to discuss research findings and their implications. Encourage diverse perspectives and input during reflection sessions. Get people who do customer support involved. &lt;/p&gt;
-
-&lt;p&gt;Get a deep understanding of the product or problem space. Get close to people who decide and learn what influences them. And be part of the general feel and presence of the team.&lt;/p&gt;
-
-&lt;p&gt;Build the relationships you need to reach the users who’ll challenge you. Or will be a challenge to reach.&lt;/p&gt;
-
-&lt;p&gt;Do not underestimate being active in things like stand ups to help build that presence and awareness.&lt;/p&gt;
-
-&lt;p&gt;And make sure to involve the team who will be impacted by the research to take part. To collect notes, insights and do the analysis together.&lt;/p&gt;
-
-&lt;h3&gt;4. Go deeper&lt;/h3&gt;
-
-&lt;p&gt;What insights will help and help much research to do will be much easier when you’ve defined the scope with the team. And they’re involved.&lt;/p&gt;
-
-&lt;p&gt;Be sure to give research the time it needs to work. But also be clear about the impact of this and have different tools for different speeds.&lt;/p&gt;
-
-&lt;p&gt;Often the time to stop is when you’ve started to hear the same things from people. But ensure you reflect upon whether you’re hearing similar things because you’ve found a truth. Or because you’re not asking the right things or the right people something.&lt;/p&gt;
-
-&lt;p&gt;It’s also worth working with your designers and tech team to change things if it’s obvious a thing doesn’t. Build in some agility to switch and pivot your plan to get deeper.&lt;/p&gt;
-
-&lt;p&gt;Just because teams have heard something before doesn’t mean they might know why or when. Or how important it is. Work to get deeper insight into those things. Even for things teams know. That can be the depth that stands research apart.&lt;/p&gt;
-
-&lt;h3&gt;5. Make your insights clearer and more impactful&lt;/h3&gt;
-
-&lt;p&gt;The way you do this is by doing a lot of the other steps well. But also working out how to summarise and make your insights actionable. A way to do this is to focus on your storytelling skills and techniques. So as you reveal your research you bring people along. &lt;/p&gt;
-
-&lt;p&gt;You also need to ask yourself a question. Is it clear what the team needs to do next? But don’t mistake actionable insights into having to design the solution or being directive over exactly what to do. That’s the space for your designers and team to shine.&lt;/p&gt;
-
-&lt;p&gt;Making insights more impactful also involves being able to visualise and illustrate your ideas in different ways. From simpler words to diagrams and images to explain complex concepts. To help teams digest and see things differently.&lt;/p&gt;
-
-&lt;p&gt;It also means going beyond words and presentations. You can run exercises and workshops to make insights real. And next steps clear and understandable because the team’s cocreated them.&lt;/p&gt;
-
-&lt;p&gt;Also reflect on who you need in the room. Who needs to hear this message? And whether there are different stories for different teams.&lt;/p&gt;
-
-&lt;p&gt;But whatever you do. Get beyond the so what. And better yet, do it as a team.&lt;/p&gt;
 </content>
   </entry>
 </feed>
