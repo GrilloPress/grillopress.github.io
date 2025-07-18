@@ -5,10 +5,52 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2025-03-01T18:07:00+00:00</updated>
+  <updated>2025-07-18T17:32:00+01:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>You're a user but not your user</title>
+    <link rel="alternate" href="https://grillopress.github.io/2025/07/18/you-re-a-user-but-not-your-user.html"/>
+    <id>https://grillopress.github.io/2025/07/18/you-re-a-user-but-not-your-user.html</id>
+    <published>2025-07-18T17:32:00+01:00</published>
+    <updated>2025-07-18T17:39:24+01:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;There are many times when you’re building things for people that are clearly very outside your own experience.&lt;/p&gt;
+
+&lt;p&gt;I’ve recently worked on a product for probation officers and people on probation. Something I had 0 experience of beforehand (Though as with anything, I love to get into the details and have a greater appreciation and understanding of it). But there are also times when the things we work on we a deep have an understanding of. &lt;/p&gt;
+
+&lt;p&gt;Buying things. I buy things. Driving. I drive. Things related to health. I have a mixed level understanding of the parts of health as a user (and having worked in and around health for 10 years lots of other understanding beyond being a user too).&lt;/p&gt;
+
+&lt;p&gt;These are more common or commodity things. Things like getting online, shopping, health.&lt;/p&gt;
+
+&lt;p&gt;With those there’s a chance, a good chance you’re a user too.&lt;/p&gt;
+
+&lt;p&gt;Personal first and second-hand experience and knowledge can be a powerful factor in helping creating better products and services. It’s why understanding context works. Why people who really know a thing can be so successful in creating new products.&lt;/p&gt;
+
+&lt;p&gt;But it doesn’t mean you’re your user. &lt;/p&gt;
+
+&lt;p&gt;If you work in tech or IT you’re probably already a different sort of user than another who doesn’t live or breathe digital services. What’s obvious to you may not be obvious elsewhere.&lt;/p&gt;
+
+&lt;p&gt;If you know what bandwidth or channel your WiFi router is on, you’re probably poorly placed to assume how people who don’t will understand and act.&lt;/p&gt;
+
+&lt;p&gt;This isn’t just a tech thing of course. Some of the greatest experts are often the poorest judges of the other needs and experiences of people. Knowing how stuff is made or the details can be very blinding to how other people understand or experience things. Or learn things.&lt;/p&gt;
+
+&lt;p&gt;I’ve lost count of the workshops I’ve been in where a technically accomplished person works on an assumption of their users having or easily getting the basics of a complex subject intuitively.&lt;/p&gt;
+
+&lt;p&gt;The answer is of course to develop a deep understanding of other users and note those common patterns. And to share and centre those stories strongly.&lt;/p&gt;
+
+&lt;p&gt;Not your own stories or preferences. You may be an outlier.&lt;/p&gt;
+
+&lt;p&gt;Who hasn’t spent time building a feature to resolve a marketing, sales or senior persons pet peeve or vision that had no relevance or impact on most user’s lives?&lt;/p&gt;
+
+&lt;p&gt;Even for passion projects. Unless you are literally the only person ever going to use it, your user is someone &lt;em&gt;like&lt;/em&gt; you but not you.&lt;/p&gt;
+
+&lt;p&gt;So your experience matters. It can be useful. But it can hold you back or deflect a more important need. You’re a user, just not the user you should design for.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Between shifted and removed costs</title>
     <link rel="alternate" href="https://grillopress.github.io/2025/03/01/between-shifted-and-removed-costs.html"/>
@@ -404,51 +446,6 @@
 &lt;p&gt;You&amp;rsquo;ll get more space and autonomy to explore the right solution the faster and quicker you gain the confidence and trust of your stakeholders and partners. You&amp;rsquo;ll also gain the space to critique and spot the risks that motivate them.&lt;/p&gt;
 
 &lt;p&gt;Lean into working with stakeholder ideas, solutions and visions. This is where most of the work is in complex organisations and systems. Where many people have their own visions and goals. And only by treating each other as equal partners will we be able to define the right vision and goals. And design user centred services and products.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Start with the forms</title>
-    <link rel="alternate" href="https://grillopress.github.io/2023/12/11/start-with-the-forms.html"/>
-    <id>https://grillopress.github.io/2023/12/11/start-with-the-forms.html</id>
-    <published>2023-12-11T19:28:00+00:00</published>
-    <updated>2023-12-12T10:18:18+00:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;I’ve recently finished a couple of discoveries. Based down in London and within the NHS.&lt;/p&gt;
-
-&lt;p&gt;One of the things I was looking into is the pain points between primary and secondary care. That is, between GPs (doctors) and services that GPs refer you to like hospital clinics.&lt;/p&gt;
-
-&lt;p&gt;One part of the project was to collect, map and assess the size and shape of the problems. Which if you’re interested in I’m happy to chat through. And point to the strategic and tactical approaches to making this better.&lt;/p&gt;
-
-&lt;figure class="noir left fig-left fig-left-gutter" style="border: 1px solid black;"&gt;
-    &lt;img src="/images/torus torus.jpeg" alt="Layers and layers of people running and running through sticky notes and forms - By Andrew Duckworth"/&gt;
-    &lt;figcaption&gt;&amp;ldquo;You’ll have the credit to be able to work on other things that no doubt need to change too.&amp;rdquo;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;We mapped many painpoints, projects and attempts to resolve issues. But a real incubator for continued innovation and improvement was forms.&lt;/p&gt;
-
-&lt;p&gt;That is. Starting with the forms. And using that as the first step in collaboration. In making daily issues better. And building trust between different teams or people not used to working together.&lt;/p&gt;
-
-&lt;p&gt;Be it making them easier to find, enter the right details or using them to route a person to the right care. Improving forms was a first step in challenging how things work. And how to work better in challenging times.&lt;/p&gt;
-
-&lt;p&gt;Looking through some choice quotes when pulling together some research I came across this one:&lt;/p&gt;
-
-&lt;p&gt;“Pathway design has been positively impacted through collaboration around form design”&lt;/p&gt;
-
-&lt;p&gt;I’ve found this myself. Countless times I’ve come in to help design a form flow but what’s been needed. And happened. Is real transformation. But transformation that starts with a few clearer questions. Or smarter use of data.&lt;/p&gt;
-
-&lt;p&gt;If I was to tell anyone where to start. Particularly in a complex system like the NHS, it would be to start with the forms.&lt;/p&gt;
-
-&lt;p&gt;Make it easier to pass across data. To ask for help. To give help. To get the information people need.&lt;/p&gt;
-
-&lt;p&gt;They’re a great place to kickstart real conscious design of service. With the added benefit of showing rapid improvements. And all the blockers you might encounter making things better. Be they cultural, organisational or technological.&lt;/p&gt;
-
-&lt;p&gt;Hosting a workshop between doctors in the community and in hospitals we started with a form process. And ended by removing blockers that had taken a year to sort. Just by getting in room together to make a form better.&lt;/p&gt;
-
-&lt;p&gt;If you start with a form you’ll have evidence of making people’s lives easier. Data more complete or accurate. And processes more efficient that you’ll have the credit to be able to work on other things that no doubt need to change too.&lt;/p&gt;
-
-&lt;p&gt;Start with a form. Start with something tangible and well used. &lt;a href="https://grillopress.github.io/2023/10/27/why-we-design-forms.html"&gt;Good form design improves so much&lt;/a&gt;. And start your transformation there. And &lt;a href="https://grillopress.github.io/2021/03/19/win-space-to-design.html"&gt;win the space to design whole services&lt;/a&gt; and transform the system.&lt;/p&gt;
 </content>
   </entry>
 </feed>
