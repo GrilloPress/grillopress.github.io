@@ -10,11 +10,11 @@
     <name>Andrew Duckworth</name>
   </author>
   <entry>
-    <title>Prototypes that aren't limited by your skills</title>
+    <title>Creating prototypes constrained by the medium not our skills or understanding</title>
     <link rel="alternate" href="https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html"/>
     <id>https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html</id>
     <published>2025-10-27T17:48:00+00:00</published>
-    <updated>2025-10-28T07:49:03+00:00</updated>
+    <updated>2025-10-28T08:26:12+00:00</updated>
     <author>
       <name>Andrew Duckworth</name>
     </author>
@@ -26,26 +26,30 @@
 
 &lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
     &lt;img src="/images/cardboard.jpeg" alt="Cardboard artwork of figures"/&gt;
-    &lt;figcaption&gt;Figma has its own material limits that a designer needs to learn. It’s not free of that at all and shifts all the time. Faster than html and the web does.&lt;/figcaption&gt;
+    &lt;figcaption&gt;Figma has its own material limits that a designer needs to learn. It’s not free of that and it shifts all the time&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Let’s imagine a scenario where you’re rushed against a deadline. Need to create something forward looking that’s more imaginative. But you also need to have something tangible. How things work will often be subtly limited by the designers skill and that time limitation.&lt;/p&gt;
 
-&lt;p&gt;Often in a prototype this is easily faked and forgivable. So something doesn’t save to database… who cares … it’s just a prototype. &lt;/p&gt;
+&lt;p&gt;So something doesn’t save to database? Who cares … it’s just a prototype. That can be faked.&lt;/p&gt;
 
-&lt;p&gt;But what if the limitations in the mind of a designer are their own and not the mediums? What if they don’t get how it works so they can’t make it work?&lt;/p&gt;
+&lt;p&gt;But what if the limitations in the mind of a designer are their own and not the mediums? What if they don’t get how it works? What if they do but can’t make it work?&lt;/p&gt;
 
-&lt;p&gt;I’ve helped so many designers make prototypes work in ways they couldn’t do. I’ve lost count of that but I loved helping everyone every time.&lt;/p&gt;
+&lt;p&gt;I’ve helped so many designers make prototypes work in ways they couldn’t do. Either explaining how things work on the web or in apps. Or by stitching things together to make a vision work that they had paused because it wouldn&amp;rsquo;t work. I loved helping each designer every time. &lt;/p&gt;
 
-&lt;p&gt;But it is a problem to be aware of.&lt;/p&gt;
+&lt;p&gt;But it&amp;rsquo;s a problem to be aware of. Designing and prototyping in code can mean:&lt;/p&gt;
 
-&lt;p&gt;Now if you think this is a case for using figma or other “clicky picture” tools it’s not quite. They introduce a different constraint. Which isn’t grounded in some material realism. But really “how well do you grok this tool specifically” which is divorced from real html. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;people design unrealistic or limited things because they don&amp;rsquo;t understand how the web or apps work&lt;/li&gt;
+&lt;li&gt;people put better designs to the side because they cannot realise them in a tangible way&lt;/li&gt;
+&lt;li&gt;people miss opportunities or take more time to do so because they don&amp;rsquo;t understand the medium well enough to do it quickly&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;And figma has its own material limits that a designer needs to learn. It’s not free of that at all and shifts all the time. Faster than html and the web does. And there’s a high tax on recreating the platform you’re faking that you often get cheaper with html and CSS (particularly in places with design systems or frontends).&lt;/p&gt;
+&lt;p&gt;Now if you think this is a case for using figma or other “clicky picture” tools it’s not quite. They introduce a different constraint. Which isn’t grounded in some material realism. But really “how well do you understand this tool&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;Figma has its own material limits that a designer needs to learn. It’s not free of that and it shifts all the time. Faster than html and the web does. There is also a tax on recreating the platform you’re faking that you often get cheaper with html and CSS (particularly in places with design systems or frontends).&lt;/p&gt;
 
 &lt;p&gt;This experience of the medium develops with time and experience. Of making real things with engineering teams or engineers. I’d always advocate to (slowly if needed) get to a place that you can do it in html rather than figma (or other tool).&lt;/p&gt;
-
-&lt;p&gt;The goal is to sit between what the medium allows and what you could recreate or fake.&lt;/p&gt;
 
 &lt;p&gt;Happily with AI tools there’s a chance, which again a solid understanding of how the web works, of making and faking things in a realistic manner. Of stretching the “I know this could be real but can’t make it” to “I could reasonably fake it”.&lt;/p&gt;
 
@@ -56,6 +60,8 @@
 &lt;p&gt;I still needed to understand the web to ask it the right questions. It was my idea of the flow. I needed to know what magic words to use to get it to give me what I wanted. I needed to know how to glue it into my prototype kit. But what it did do was speed up making my prototype more credible and more provocative.&lt;/p&gt;
 
 &lt;p&gt;This took out the time pressure. But it did still rely on me knowing the medium to ask and then implement the code is spat out.&lt;/p&gt;
+
+&lt;p&gt;But this doesn&amp;rsquo;t directly resolve the deep understanding of a medium a designer needs to develop.&lt;/p&gt;
 
 &lt;p&gt;So, for those designers who want their teams working in the medium and html. The question for me is “how do designers ensure they’re constrained by the medium and not just their own capabilities understanding or using it?”&lt;/p&gt;
 </content>
