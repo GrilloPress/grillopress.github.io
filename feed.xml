@@ -5,10 +5,61 @@
   <id>https://grillopress.github.io/</id>
   <link href="https://grillopress.github.io/"/>
   <link href="https://grillopress.github.io/feed.xml" rel="self"/>
-  <updated>2025-10-04T16:46:00+01:00</updated>
+  <updated>2025-10-27T17:48:00+00:00</updated>
   <author>
     <name>Andrew Duckworth</name>
   </author>
+  <entry>
+    <title>Prototypes that aren't limited by your skills</title>
+    <link rel="alternate" href="https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html"/>
+    <id>https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html</id>
+    <published>2025-10-27T17:48:00+00:00</published>
+    <updated>2025-10-28T07:49:03+00:00</updated>
+    <author>
+      <name>Andrew Duckworth</name>
+    </author>
+    <content type="html">&lt;p&gt;Recently it’s been good to see posts advocate working with code as designers to understand the medium, &lt;a href="https://mikegallagher.org/posts/designing-in-code/"&gt;such as this one by Mike Gallagher about designing in code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But there’s a time and place where this is problematic.&lt;/p&gt;
+
+&lt;p&gt;When the innovation, the imagination is limited by the designers control and understanding of the medium.&lt;/p&gt;
+
+&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
+    &lt;img src="/images/cardboard.jpeg" alt="Cardboard artwork of figures"/&gt;
+    &lt;figcaption&gt;Figma has its own material limits that a designer needs to learn. It’s not free of that at all and shifts all the time. Faster than html and the web does.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Let’s imagine a scenario where you’re rushed against a deadline. Need to create something forward looking that’s more imaginative. But you also need to have something tangible. How things work will often be subtly limited by the designers skill and that time limitation.&lt;/p&gt;
+
+&lt;p&gt;Often in a prototype this is easily faked and forgivable. So something doesn’t save to database… who cares … it’s just a prototype. &lt;/p&gt;
+
+&lt;p&gt;But what if the limitations in the mind of a designer are their own and not the mediums? What if they don’t get how it works so they can’t make it work?&lt;/p&gt;
+
+&lt;p&gt;I’ve helped so many designers make prototypes work in ways they couldn’t do. I’ve lost count of that but I loved helping everyone every time.&lt;/p&gt;
+
+&lt;p&gt;But it is a problem to be aware of.&lt;/p&gt;
+
+&lt;p&gt;Now if you think this is a case for using figma or other “clicky picture” tools it’s not quite. They introduce a different constraint. Which isn’t grounded in some material realism. But really “how well do you grok this tool specifically” which is divorced from real html. &lt;/p&gt;
+
+&lt;p&gt;And figma has its own material limits that a designer needs to learn. It’s not free of that at all and shifts all the time. Faster than html and the web does. And there’s a high tax on recreating the platform you’re faking that you often get cheaper with html and CSS (particularly in places with design systems or frontends).&lt;/p&gt;
+
+&lt;p&gt;This experience of the medium develops with time and experience. Of making real things with engineering teams or engineers. I’d always advocate to (slowly if needed) get to a place that you can do it in html rather than figma (or other tool).&lt;/p&gt;
+
+&lt;p&gt;The goal is to sit between what the medium allows and what you could recreate or fake.&lt;/p&gt;
+
+&lt;p&gt;Happily with AI tools there’s a chance, which again a solid understanding of how the web works, of making and faking things in a realistic manner. Of stretching the “I know this could be real but can’t make it” to “I could reasonably fake it”.&lt;/p&gt;
+
+&lt;p&gt;Recently  I was able to fake a conversational interaction UI with AI that looked and felt real (but wasn’t because if it was the scenario might not have gone the way I wanted it in the prototype). &lt;/p&gt;
+
+&lt;p&gt;Without AI it would have taken me a few hours to set this up. Maybe even a day or so. But it was minutes with an AI before I got close enough I could fly from there.&lt;/p&gt;
+
+&lt;p&gt;I still needed to understand the web to ask it the right questions. It was my idea of the flow. I needed to know what magic words to use to get it to give me what I wanted. I needed to know how to glue it into my prototype kit. But what it did do was speed up making my prototype more credible and more provocative.&lt;/p&gt;
+
+&lt;p&gt;This took out the time pressure. But it did still rely on me knowing the medium to ask and then implement the code is spat out.&lt;/p&gt;
+
+&lt;p&gt;So, for those designers who want their teams working in the medium and html. The question for me is “how do designers ensure they’re constrained by the medium and not just their own capabilities understanding or using it?”&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Provoking through prototypes</title>
     <link rel="alternate" href="https://grillopress.github.io/2025/10/04/provoking-through-prototypes.html"/>
@@ -261,164 +312,6 @@ But the problem is that most places who want this are too large and too hostile 
 &lt;p&gt;Service design starts in the stony rubbish. That’s where things take root. Not in a perfect world where things are cultivated and manicured.&lt;/p&gt;
 
 &lt;p&gt;No service design is not mostly convincing other people to do service design. It’s by using tools and techniques to make services and products better. Designing services together. Not preaching about the conditions or what jobs are called.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Justifying design's impact</title>
-    <link rel="alternate" href="https://grillopress.github.io/2024/09/25/justifying-ucd-s-impact.html"/>
-    <id>https://grillopress.github.io/2024/09/25/justifying-ucd-s-impact.html</id>
-    <published>2024-09-25T19:41:00+01:00</published>
-    <updated>2024-09-25T20:16:11+01:00</updated>
-    <author>
-      <name>Andrew Duckworth</name>
-    </author>
-    <content type="html">&lt;p&gt;I’ve been in a few places where there’s been talk about justifying the cost of UCD and similar roles. At first glance it’s a fair point. What impact do we have? How are we helping? How do we ensure we’re doing the best we can?&lt;/p&gt;
-
-&lt;p&gt;But the question rarely gets asked in &lt;em&gt;that&lt;/em&gt; spirit.&lt;/p&gt;
-
-&lt;p&gt;It’s one of the ways I note the health of an organisation or profession. If the organisation is complex or complicated, but the measures and patience for a profession to make an impact don’t reflect that, it’s a bad sign.&lt;/p&gt;
-
-&lt;p&gt;If it takes years to build anything. And years more to know if you’ve made things better. It’s unlikely you’ll see the impact you expect due to other bigger cultural problems.&lt;/p&gt;
-
-&lt;p&gt;I recall working at an organisation and hearing a director ask teams to capture examples and case studies to illustrate the impact teams have made. But making an impact on things like child poverty, whether people can get a GP appointment or the rate of reoffending isn’t something 1 person is going to easily impact in a team.&lt;/p&gt;
-
-&lt;figure class="noir right fig-right fig-right-gutter" style="border: 1px solid black;"&gt;
-    &lt;img src="/images/having a chat at the workshop.jpeg" alt="A rough pastel drawing of figures with one pressing a phone on a persons ear"/&gt;
-    &lt;figcaption&gt;You’re not claiming that you’ve solved child poverty. But you can say you’ve make it clearer to get help. That satisfaction has increased or that people are more likely to find the information they need first time.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Hell, a whole service will struggle to do that.&lt;/p&gt;
-
-&lt;p&gt;When that particular ask was put out, everyone was on the backfoot. It was not about building a culture of caring about impact, showing and telling how people’s work helps. It was to justify, backfill and escape a cull immediately.&lt;/p&gt;
-
-&lt;p&gt;And if we’re honest most designers and UCD staff are rarely powerful or influential enough to own the outcomes that get measured. Nor do they have the freedom to accelerate when their designs get made.&lt;/p&gt;
-
-&lt;p&gt;This may be less so in some problem spaces and in individual products or smaller teams. Where there is a closer relationship to doing some work and seeing it out there in the world making changes.&lt;/p&gt;
-
-&lt;p&gt;But in complex and complicated organisations it’s impossible.&lt;/p&gt;
-
-&lt;p&gt;Part of the issue lies in that complexity. But it’s also because we can never directly claim updating a website or a flow is really going to be the single thing that changed some numbers for a complex problem.&lt;/p&gt;
-
-&lt;p&gt;Child poverty is just too big. And drawing an honest line between 1 strand of work to that is going to be impossible or a lie.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately when the question is being asked about impact it’s often a budget thing. Justify the cost. And actual evidence for those big outcomes are going to be problematic at best.&lt;/p&gt;
-
-&lt;p&gt;So, what to do?&lt;/p&gt;
-
-&lt;h2&gt;1. Don’t&lt;/h2&gt;
-
-&lt;p&gt;I’m a big believer that you’re wasted in proving your impact in these situations. Don’t tell, show. Do it by doing the work to make things better.&lt;/p&gt;
-
-&lt;p&gt;Don’t get drawn into trying to claim a slice of a complex outcome and then the mental gymnastics required to pretend you really did all that yourself and it wasn’t a system wide thing.&lt;/p&gt;
-
-&lt;p&gt;But what if you can’t not?&lt;/p&gt;
-
-&lt;h2&gt;2. Try and reverse the ask&lt;/h2&gt;
-
-&lt;p&gt;If you’re getting someone asking to justify how a profession makes an impact there’s a chance a decision has already been made. Maybe someone needs to sleep well with it and are throwing a fake bone.&lt;/p&gt;
-
-&lt;p&gt;But maybe it’s a legit ask. If so, ask them what they think. What’s their expectations? Sometimes money was given with expectations and that hasn’t aligned to what happened.&lt;/p&gt;
-
-&lt;p&gt;I’ve been in and seen enough teams try and make an impact but getting chance to bed in is so tough because so many other things have to change to allow it. And maybe those things aren’t well understood higher up?&lt;/p&gt;
-
-&lt;p&gt;It might also be because people inherit decisions and teams. And may not know what they’re meant to get back. Or it could be that they don’t know what impact looks like.&lt;/p&gt;
-
-&lt;p&gt;A mechanic will know what sounds and things happen when an engine runs smooth. And when it doesn’t. Sometimes people don’t know if they’re getting the right signals.&lt;/p&gt;
-
-&lt;h2&gt;3. Do the groundwork and know how your outputs contribute to the outcomes&lt;/h2&gt;
-
-&lt;p&gt;To help show impact do the work to show how a role or roles contributes to outcomes.&lt;/p&gt;
-
-&lt;p&gt;I wrote about why &lt;a href="/2023/10/27/why-we-design-forms.html"&gt;designers design forms&lt;/a&gt;. Have a model like this for your business and what elements you contribute to.&lt;/p&gt;
-
-&lt;p&gt;Be it quality, innovation, experience, efficiency, risk, profit etc&lt;/p&gt;
-
-&lt;p&gt;Help yourself and your teams out by creating a basic model of those big, broad outcomes at the top and the common outputs and things you do and visualise how the small things you do impact the big things.&lt;/p&gt;
-
-&lt;table border="1" cellpadding="10" cellspacing="0" style="margin-bottom:1rem;overflow-x:auto;"&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Broad Outcome&lt;/th&gt;
-      &lt;th&gt;Smaller Outcome&lt;/th&gt;
-      &lt;th&gt;Design Output/Action&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td rowspan="4"&gt;Reduce number of calls to support team&lt;/td&gt;
-      &lt;td&gt;Reduce onboarding-related support queries by 15%&lt;/td&gt;
-      &lt;td&gt;Improve in-app onboarding flow with clearer step-by-step guidance&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Increase usage of self-help resources by 30%&lt;/td&gt;
-      &lt;td&gt;Design a more prominent and useful help section&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Reduce form drop-offs by 20%&lt;/td&gt;
-      &lt;td&gt;Redesign long forms reducing duplication, redundancy and improving usability&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Reduce error-related support calls by 25%&lt;/td&gt;
-      &lt;td&gt;Provide more user-friendly, actionable error messages and recovery steps&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;This way you can tell the story of smaller impacts and wins but create the thread between that and the bigger outcomes.&lt;/p&gt;
-
-&lt;h2&gt;4. Get good at finding smoke signals&lt;/h2&gt;
-
-&lt;p&gt;With a model being crafted ensure you and your teams get good at identifying smaller, quicker signals that something’s making an impact or potentially contributing.&lt;/p&gt;
-
-&lt;p&gt;Not only focus on smaller impacts than those massive outcomes. But also quicker signals.&lt;/p&gt;
-
-&lt;p&gt;Something I’ve worked on recently is working with the an organisation to define what it means by increasing quality. By doing this I could give a name to several different components. It’ll take a longer time to measure and understand if the product we’re going to release has done this. But we can cheaply check elements of it as a quick smoke signal that things look like they’re getting better. That we’ve made an impact in a much smaller way.&lt;/p&gt;
-
-&lt;p&gt;If quality has 12 ingredients, can we see we’ve made 2-3 happen? Or made it stronger?&lt;/p&gt;
-
-&lt;h2&gt;5. Talk about it all the time&lt;/h2&gt;
-
-&lt;p&gt;Know how you do stuff and what outcomes they support you need to  talk about it all the time.&lt;/p&gt;
-
-&lt;p&gt;Ensure all activity has clear threads to why we’re doing work.&lt;/p&gt;
-
-&lt;p&gt;This round of research? It’s about derisking a policy landing wrong. Or maybe it’s about ensuring we reduce calls to contact centres. Or maybe it’s about exploring new ways of working that will lead to xyz.&lt;/p&gt;
-
-&lt;p&gt;Maybe it’s even smaller scale. It’s about derisking a policy by just getting everyone aware and on the same page.&lt;/p&gt;
-
-&lt;p&gt;The key is to talk. And to sow the seeds of contribution all the time. Even when it’s collaborative. To own your fair share.&lt;/p&gt;
-
-&lt;p&gt;Because you can bet your ass other professions and teams are taking credit. As they should. But so should you.&lt;/p&gt;
-
-&lt;p&gt;You’re not claiming that you’ve solved child poverty. But you can say you’ve make it clearer to get help. That satisfaction has increased or that people are more likely to find the information they need first time.&lt;/p&gt;
-
-&lt;p&gt;A few summers ago when MPOX (previously called monkeypox) broke out I did this in very cheap way. It was an emergency ask and I helped a bunch of clinicians, call centre teams and tech people come together and make the heath protection teams response more sustainable and effective.&lt;/p&gt;
-
-&lt;p&gt;As I did the work I reported up and out at all times. Starting with daily notes and then weeknotes to directors.&lt;/p&gt;
-
-&lt;p&gt;I ensured that directors and teams knew it was the work I was doing that contributed to other things they heard about. &lt;/p&gt;
-
-&lt;p&gt;It was my work to get people together, map out the existing service and insights and help plot 3 or 4 changes we could make. Another team put the solution in place. But without the design and facilitation that didn’t happen. So I could (justifiably) claim that credit and my part to play.&lt;/p&gt;
-
-&lt;p&gt;We got early estimates of the time saved and I shared those too.&lt;/p&gt;
-
-&lt;p&gt;This built up the links between other work and my work. Between what I do and better outcomes.&lt;/p&gt;
-
-&lt;p&gt;A few weeks later a very UCD sceptical director calls myself and my director in for a chat. They had more they want to do together.&lt;/p&gt;
-
-&lt;p&gt;It was easier to then build a relationship and “justify” the sorts of roles and how they work as they’d seen it work.&lt;/p&gt;
-
-&lt;h2&gt;6. Make sure everyone in the profession knows the impact we have and how to explain it&lt;/h2&gt;
-
-&lt;p&gt;When a design team is small it’s easier to do this. To tell stories and keep the story going. As a team grows or you’re in a big organisation where ways of working can be so different everywhere do the work to make sure people are mapping how they contribute through small contributions to bigger outcomes.&lt;/p&gt;
-
-&lt;p&gt;Teach, train and hold people accountable. Talk about it a lot. Give people the tools to talk about it. And do so before you need to justify your impact as a profession.&lt;/p&gt;
-
-&lt;h2&gt;7. Find friends and the right places to make an impact&lt;/h2&gt;
-
-&lt;p&gt;Find the sweet spot between what your organisation really cares about and where your skills and those of your teams can really contribute.&lt;/p&gt;
-
-&lt;p&gt;Find friends and allies. Be okay with less ideal situations that let you demonstrate value. And exploit those to build the relationships and trust you in need to make an impact. And it be easier to demonstrate that value next time&lt;/p&gt;
 </content>
   </entry>
 </feed>
